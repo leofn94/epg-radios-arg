@@ -1,0 +1,33 @@
+name: Generar EPG semanal
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # Todos los lunes a las 06:00 UTC (03:00 Argentina)
+  workflow_dispatch:        # También se puede lanzar a mano desde GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar dependencias
+        run: pip install pytz
+
+      - name: Generar EPG
+        run: python generate_epg.py
+
+      - name: Subir epg.xml al repositorio
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add epg.xml
+          git diff --cached --quiet || git commit -m "EPG actualizado $(date +'%Y-%m-%d')"
+          git push

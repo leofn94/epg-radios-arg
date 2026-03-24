@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv generator-info-name="radio10-epg">
+<tv generator-info-name="radios-epg">
   <channel id="radio10.ar">
     <display-name>Radio 10 AM 710</display-name>
+  </channel>
+  <channel id="rivadavia.ar">
+    <display-name>Radio Rivadavia AM 630</display-name>
   </channel>
   <programme start="20260323000000 -0300" stop="20260323040000 -0300" channel="radio10.ar">
     <title lang="es">Mejor ahora (Jorge Pizarro)</title>
@@ -244,5 +247,253 @@
   </programme>
   <programme start="20260329220000 -0300" stop="20260330000000 -0300" channel="radio10.ar">
     <title lang="es">Un domingo de aquellos (Nora Acosta y Marcelo Etcheverry)</title>
+  </programme>
+  <programme start="20260323000000 -0300" stop="20260323010000 -0300" channel="rivadavia.ar">
+    <title lang="es">Te Escucho (Luisa Delfino)</title>
+    <desc lang="es">Un espacio de contención, escucha y acompañamiento para el oyente.</desc>
+  </programme>
+  <programme start="20260323010000 -0300" stop="20260323040000 -0300" channel="rivadavia.ar">
+    <title lang="es">Mejor Ahora (Hernán Garciarena)</title>
+    <desc lang="es">Compañía y actualidad para las madrugadas de la semana.</desc>
+  </programme>
+  <programme start="20260323040000 -0300" stop="20260323060000 -0300" channel="rivadavia.ar">
+    <title lang="es">Panorama (Mario Portugal)</title>
+    <desc lang="es">El panorama informativo del rotativo del aire de Radio Rivadavia.</desc>
+  </programme>
+  <programme start="20260323060000 -0300" stop="20260323090000 -0300" channel="rivadavia.ar">
+    <title lang="es">Esta Mañana (Ignacio Ortelli)</title>
+    <desc lang="es">Información, análisis y entrevistas para arrancar el día.</desc>
+  </programme>
+  <programme start="20260323090000 -0300" stop="20260323120000 -0300" channel="rivadavia.ar">
+    <title lang="es">Vamos Rivadavia (Nelson Castro)</title>
+    <desc lang="es">Periodismo de fondo con Nelson Castro, uno de los referentes de la radio argentina.</desc>
+  </programme>
+  <programme start="20260323120000 -0300" stop="20260323150000 -0300" channel="rivadavia.ar">
+    <title lang="es">Cristina Sin Vueltas (Cristina Pérez)</title>
+    <desc lang="es">Actualidad política y social con la mirada directa y sin vueltas de Cristina Pérez.</desc>
+  </programme>
+  <programme start="20260323150000 -0300" stop="20260323170000 -0300" channel="rivadavia.ar">
+    <title lang="es">Pan y Circo (Jonatan Viale)</title>
+    <desc lang="es">Análisis político y social con el estilo provocador de Jonatan Viale.</desc>
+  </programme>
+  <programme start="20260323170000 -0300" stop="20260323200000 -0300" channel="rivadavia.ar">
+    <title lang="es">Basta Baby (Baby Etchecopar)</title>
+    <desc lang="es">La visión irreverente y polémica de Baby Etchecopar sobre la realidad del país.</desc>
+  </programme>
+  <programme start="20260323200000 -0300" stop="20260323220000 -0300" channel="rivadavia.ar">
+    <title lang="es">Desde el Alma (Oscar Gómez Castañón)</title>
+    <desc lang="es">Un espacio de reflexión, cultura y emoción conducido por Oscar Gómez Castañón.</desc>
+  </programme>
+  <programme start="20260323220000 -0300" stop="20260324000000 -0300" channel="rivadavia.ar">
+    <title lang="es">La Oral Deportiva (Daniel Avellaneda)</title>
+    <desc lang="es">El resumen deportivo del día con toda la actualidad del deporte argentino.</desc>
+  </programme>
+  <programme start="20260324000000 -0300" stop="20260324040000 -0300" channel="rivadavia.ar">
+    <title lang="es">Mejor Ahora (Hernán Garciarena)</title>
+    <desc lang="es">Compañía y actualidad para las madrugadas de la semana.</desc>
+  </programme>
+  <programme start="20260324040000 -0300" stop="20260324060000 -0300" channel="rivadavia.ar">
+    <title lang="es">Panorama (Mario Portugal)</title>
+    <desc lang="es">El panorama informativo del rotativo del aire de Radio Rivadavia.</desc>
+  </programme>
+  <programme start="20260324060000 -0300" stop="20260324090000 -0300" channel="rivadavia.ar">
+    <title lang="es">Esta Mañana (Ignacio Ortelli)</title>
+    <desc lang="es">Información, análisis y entrevistas para arrancar el día.</desc>
+  </programme>
+  <programme start="20260324090000 -0300" stop="20260324120000 -0300" channel="rivadavia.ar">
+    <title lang="es">Vamos Rivadavia (Nelson Castro)</title>
+    <desc lang="es">Periodismo de fondo con Nelson Castro, uno de los referentes de la radio argentina.</desc>
+  </programme>
+  <programme start="20260324120000 -0300" stop="20260324150000 -0300" channel="rivadavia.ar">
+    <title lang="es">Cristina Sin Vueltas (Cristina Pérez)</title>
+    <desc lang="es">Actualidad política y social con la mirada directa y sin vueltas de Cristina Pérez.</desc>
+  </programme>
+  <programme start="20260324150000 -0300" stop="20260324170000 -0300" channel="rivadavia.ar">
+    <title lang="es">Pan y Circo (Jonatan Viale)</title>
+    <desc lang="es">Análisis político y social con el estilo provocador de Jonatan Viale.</desc>
+  </programme>
+  <programme start="20260324170000 -0300" stop="20260324200000 -0300" channel="rivadavia.ar">
+    <title lang="es">Basta Baby (Baby Etchecopar)</title>
+    <desc lang="es">La visión irreverente y polémica de Baby Etchecopar sobre la realidad del país.</desc>
+  </programme>
+  <programme start="20260324200000 -0300" stop="20260324220000 -0300" channel="rivadavia.ar">
+    <title lang="es">Desde el Alma (Oscar Gómez Castañón)</title>
+    <desc lang="es">Un espacio de reflexión, cultura y emoción conducido por Oscar Gómez Castañón.</desc>
+  </programme>
+  <programme start="20260324220000 -0300" stop="20260325000000 -0300" channel="rivadavia.ar">
+    <title lang="es">La Oral Deportiva (Daniel Avellaneda)</title>
+    <desc lang="es">El resumen deportivo del día con toda la actualidad del deporte argentino.</desc>
+  </programme>
+  <programme start="20260325000000 -0300" stop="20260325040000 -0300" channel="rivadavia.ar">
+    <title lang="es">Mejor Ahora (Hernán Garciarena)</title>
+    <desc lang="es">Compañía y actualidad para las madrugadas de la semana.</desc>
+  </programme>
+  <programme start="20260325040000 -0300" stop="20260325060000 -0300" channel="rivadavia.ar">
+    <title lang="es">Panorama (Mario Portugal)</title>
+    <desc lang="es">El panorama informativo del rotativo del aire de Radio Rivadavia.</desc>
+  </programme>
+  <programme start="20260325060000 -0300" stop="20260325090000 -0300" channel="rivadavia.ar">
+    <title lang="es">Esta Mañana (Ignacio Ortelli)</title>
+    <desc lang="es">Información, análisis y entrevistas para arrancar el día.</desc>
+  </programme>
+  <programme start="20260325090000 -0300" stop="20260325120000 -0300" channel="rivadavia.ar">
+    <title lang="es">Vamos Rivadavia (Nelson Castro)</title>
+    <desc lang="es">Periodismo de fondo con Nelson Castro, uno de los referentes de la radio argentina.</desc>
+  </programme>
+  <programme start="20260325120000 -0300" stop="20260325150000 -0300" channel="rivadavia.ar">
+    <title lang="es">Cristina Sin Vueltas (Cristina Pérez)</title>
+    <desc lang="es">Actualidad política y social con la mirada directa y sin vueltas de Cristina Pérez.</desc>
+  </programme>
+  <programme start="20260325150000 -0300" stop="20260325170000 -0300" channel="rivadavia.ar">
+    <title lang="es">Pan y Circo (Jonatan Viale)</title>
+    <desc lang="es">Análisis político y social con el estilo provocador de Jonatan Viale.</desc>
+  </programme>
+  <programme start="20260325170000 -0300" stop="20260325200000 -0300" channel="rivadavia.ar">
+    <title lang="es">Basta Baby (Baby Etchecopar)</title>
+    <desc lang="es">La visión irreverente y polémica de Baby Etchecopar sobre la realidad del país.</desc>
+  </programme>
+  <programme start="20260325200000 -0300" stop="20260325220000 -0300" channel="rivadavia.ar">
+    <title lang="es">Desde el Alma (Oscar Gómez Castañón)</title>
+    <desc lang="es">Un espacio de reflexión, cultura y emoción conducido por Oscar Gómez Castañón.</desc>
+  </programme>
+  <programme start="20260325220000 -0300" stop="20260326000000 -0300" channel="rivadavia.ar">
+    <title lang="es">La Oral Deportiva (Daniel Avellaneda)</title>
+    <desc lang="es">El resumen deportivo del día con toda la actualidad del deporte argentino.</desc>
+  </programme>
+  <programme start="20260326000000 -0300" stop="20260326040000 -0300" channel="rivadavia.ar">
+    <title lang="es">Mejor Ahora (Hernán Garciarena)</title>
+    <desc lang="es">Compañía y actualidad para las madrugadas de la semana.</desc>
+  </programme>
+  <programme start="20260326040000 -0300" stop="20260326060000 -0300" channel="rivadavia.ar">
+    <title lang="es">Panorama (Mario Portugal)</title>
+    <desc lang="es">El panorama informativo del rotativo del aire de Radio Rivadavia.</desc>
+  </programme>
+  <programme start="20260326060000 -0300" stop="20260326090000 -0300" channel="rivadavia.ar">
+    <title lang="es">Esta Mañana (Ignacio Ortelli)</title>
+    <desc lang="es">Información, análisis y entrevistas para arrancar el día.</desc>
+  </programme>
+  <programme start="20260326090000 -0300" stop="20260326120000 -0300" channel="rivadavia.ar">
+    <title lang="es">Vamos Rivadavia (Nelson Castro)</title>
+    <desc lang="es">Periodismo de fondo con Nelson Castro, uno de los referentes de la radio argentina.</desc>
+  </programme>
+  <programme start="20260326120000 -0300" stop="20260326150000 -0300" channel="rivadavia.ar">
+    <title lang="es">Cristina Sin Vueltas (Cristina Pérez)</title>
+    <desc lang="es">Actualidad política y social con la mirada directa y sin vueltas de Cristina Pérez.</desc>
+  </programme>
+  <programme start="20260326150000 -0300" stop="20260326170000 -0300" channel="rivadavia.ar">
+    <title lang="es">Pan y Circo (Jonatan Viale)</title>
+    <desc lang="es">Análisis político y social con el estilo provocador de Jonatan Viale.</desc>
+  </programme>
+  <programme start="20260326170000 -0300" stop="20260326200000 -0300" channel="rivadavia.ar">
+    <title lang="es">Basta Baby (Baby Etchecopar)</title>
+    <desc lang="es">La visión irreverente y polémica de Baby Etchecopar sobre la realidad del país.</desc>
+  </programme>
+  <programme start="20260326200000 -0300" stop="20260326220000 -0300" channel="rivadavia.ar">
+    <title lang="es">Desde el Alma (Oscar Gómez Castañón)</title>
+    <desc lang="es">Un espacio de reflexión, cultura y emoción conducido por Oscar Gómez Castañón.</desc>
+  </programme>
+  <programme start="20260326220000 -0300" stop="20260327000000 -0300" channel="rivadavia.ar">
+    <title lang="es">La Oral Deportiva (Daniel Avellaneda)</title>
+    <desc lang="es">El resumen deportivo del día con toda la actualidad del deporte argentino.</desc>
+  </programme>
+  <programme start="20260327000000 -0300" stop="20260327040000 -0300" channel="rivadavia.ar">
+    <title lang="es">Mejor Ahora (Hernán Garciarena)</title>
+    <desc lang="es">Compañía y actualidad para las madrugadas de la semana.</desc>
+  </programme>
+  <programme start="20260327040000 -0300" stop="20260327060000 -0300" channel="rivadavia.ar">
+    <title lang="es">Panorama (Mario Portugal)</title>
+    <desc lang="es">El panorama informativo del rotativo del aire de Radio Rivadavia.</desc>
+  </programme>
+  <programme start="20260327060000 -0300" stop="20260327090000 -0300" channel="rivadavia.ar">
+    <title lang="es">Esta Mañana (Ignacio Ortelli)</title>
+    <desc lang="es">Información, análisis y entrevistas para arrancar el día.</desc>
+  </programme>
+  <programme start="20260327090000 -0300" stop="20260327120000 -0300" channel="rivadavia.ar">
+    <title lang="es">Vamos Rivadavia (Nelson Castro)</title>
+    <desc lang="es">Periodismo de fondo con Nelson Castro, uno de los referentes de la radio argentina.</desc>
+  </programme>
+  <programme start="20260327120000 -0300" stop="20260327150000 -0300" channel="rivadavia.ar">
+    <title lang="es">Cristina Sin Vueltas (Cristina Pérez)</title>
+    <desc lang="es">Actualidad política y social con la mirada directa y sin vueltas de Cristina Pérez.</desc>
+  </programme>
+  <programme start="20260327150000 -0300" stop="20260327170000 -0300" channel="rivadavia.ar">
+    <title lang="es">Pan y Circo (Jonatan Viale)</title>
+    <desc lang="es">Análisis político y social con el estilo provocador de Jonatan Viale.</desc>
+  </programme>
+  <programme start="20260327170000 -0300" stop="20260327200000 -0300" channel="rivadavia.ar">
+    <title lang="es">Basta Baby (Baby Etchecopar)</title>
+    <desc lang="es">La visión irreverente y polémica de Baby Etchecopar sobre la realidad del país.</desc>
+  </programme>
+  <programme start="20260327200000 -0300" stop="20260327220000 -0300" channel="rivadavia.ar">
+    <title lang="es">Desde el Alma (Oscar Gómez Castañón)</title>
+    <desc lang="es">Un espacio de reflexión, cultura y emoción conducido por Oscar Gómez Castañón.</desc>
+  </programme>
+  <programme start="20260327220000 -0300" stop="20260328000000 -0300" channel="rivadavia.ar">
+    <title lang="es">La Oral Deportiva (Daniel Avellaneda)</title>
+    <desc lang="es">El resumen deportivo del día con toda la actualidad del deporte argentino.</desc>
+  </programme>
+  <programme start="20260328000000 -0300" stop="20260328010000 -0300" channel="rivadavia.ar">
+    <title lang="es">La Ronda (Juan José Moro)</title>
+    <desc lang="es">Un espacio de charla y entretenimiento para la medianoche del sábado.</desc>
+  </programme>
+  <programme start="20260328010000 -0300" stop="20260328070000 -0300" channel="rivadavia.ar">
+    <title lang="es">Reporte Rivadavia (Oscar Choy)</title>
+    <desc lang="es">Información y noticias durante la madrugada del fin de semana.</desc>
+  </programme>
+  <programme start="20260328070000 -0300" stop="20260328100000 -0300" channel="rivadavia.ar">
+    <title lang="es">Código Dolabjian (Camila Dolabjian)</title>
+    <desc lang="es">Un programa fresco y dinámico para la mañana del sábado.</desc>
+  </programme>
+  <programme start="20260328100000 -0300" stop="20260328130000 -0300" channel="rivadavia.ar">
+    <title lang="es">Guada Recargada (Guadalupe Vázquez)</title>
+    <desc lang="es">Entretenimiento, actualidad y mucha energía con Guadalupe Vázquez.</desc>
+  </programme>
+  <programme start="20260328130000 -0300" stop="20260328170000 -0300" channel="rivadavia.ar">
+    <title lang="es">El Sillón de Rivadavia (Ricardo Guazzardi)</title>
+    <desc lang="es">Entrevistas, historias y la mejor compañía para la tarde del sábado.</desc>
+  </programme>
+  <programme start="20260328170000 -0300" stop="20260328220000 -0300" channel="rivadavia.ar">
+    <title lang="es">La Radio Sos Vos (Julio Lagos)</title>
+    <desc lang="es">Un clásico de Rivadavia, con Julio Lagos y la participación de los oyentes.</desc>
+  </programme>
+  <programme start="20260328220000 -0300" stop="20260329000000 -0300" channel="rivadavia.ar">
+    <title lang="es">Te Escucho (Luisa Delfino)</title>
+    <desc lang="es">Un espacio de contención, escucha y acompañamiento para el oyente.</desc>
+  </programme>
+  <programme start="20260329000000 -0300" stop="20260329010000 -0300" channel="rivadavia.ar">
+    <title lang="es">Te Escucho (Luisa Delfino)</title>
+    <desc lang="es">Un espacio de contención, escucha y acompañamiento para el oyente.</desc>
+  </programme>
+  <programme start="20260329010000 -0300" stop="20260329070000 -0300" channel="rivadavia.ar">
+    <title lang="es">Reporte Rivadavia (Oscar Choy)</title>
+    <desc lang="es">Información y noticias durante la madrugada del fin de semana.</desc>
+  </programme>
+  <programme start="20260329070000 -0300" stop="20260329100000 -0300" channel="rivadavia.ar">
+    <title lang="es">Rivadavia Agro (Carola Urdangarin y Tomás Rivas)</title>
+    <desc lang="es">Todo el panorama del campo y la agroindustria argentina.</desc>
+  </programme>
+  <programme start="20260329100000 -0300" stop="20260329120000 -0300" channel="rivadavia.ar">
+    <title lang="es">Dicen Que Dicen (Alberto Lotuf)</title>
+    <desc lang="es">Análisis y comentarios sobre la actualidad con Alberto Lotuf.</desc>
+  </programme>
+  <programme start="20260329120000 -0300" stop="20260329130000 -0300" channel="rivadavia.ar">
+    <title lang="es">El Ojo del Arte (Gisela Asmundo)</title>
+    <desc lang="es">Un recorrido por el mundo del arte y la cultura con Gisela Asmundo.</desc>
+  </programme>
+  <programme start="20260329130000 -0300" stop="20260329180000 -0300" channel="rivadavia.ar">
+    <title lang="es">Domingo 630</title>
+    <desc lang="es">La programación dominical de Rivadavia con lo mejor del día.</desc>
+  </programme>
+  <programme start="20260329180000 -0300" stop="20260329210000 -0300" channel="rivadavia.ar">
+    <title lang="es">Somos Nosotros (Willy Kohan)</title>
+    <desc lang="es">Actualidad, política y sociedad con la mirada de Willy Kohan.</desc>
+  </programme>
+  <programme start="20260329210000 -0300" stop="20260329220000 -0300" channel="rivadavia.ar">
+    <title lang="es">Salud 630 (Claudio Zin y Nancy Jelaber)</title>
+    <desc lang="es">Información y consejos sobre salud con especialistas.</desc>
+  </programme>
+  <programme start="20260329220000 -0300" stop="20260330000000 -0300" channel="rivadavia.ar">
+    <title lang="es">Te Escucho (Luisa Delfino)</title>
+    <desc lang="es">Un espacio de contención, escucha y acompañamiento para el oyente.</desc>
   </programme>
 </tv>

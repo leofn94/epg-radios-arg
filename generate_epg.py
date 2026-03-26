@@ -116,11 +116,7 @@ def build_epg(rows, channel_id):
     return programmes
 
 def write_xmltv(channels_data):
-    
-    import html
 
-title = html.escape(title)
-desc = html.escape(desc)
 
     lines = []
     lines.append('<?xml version="1.0" encoding="UTF-8"?>')
@@ -144,6 +140,12 @@ desc = html.escape(desc)
 
     lines.append('</tv>')
     return "\n".join(lines)
+
+    import html
+
+title = html.escape(title)
+desc = html.escape(desc)
+
 
 def main():
     channels_data = []

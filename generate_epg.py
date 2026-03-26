@@ -54,7 +54,7 @@ CHANNELS = [
     {
         "id":   "telered.ar",
         "name": "Telered",
-        "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=763195247&single=true&output=csv",
+        "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=763195247&single=true&output=csv",
     },
     {
         "id":   "dreiko.ar",
@@ -72,8 +72,12 @@ DAYS_MAP = {
 }
 
 def fetch_sheet(url):
-    with urllib.request.urlopen(url) as r:
-        return r.read().decode("utf-8").splitlines()
+    try:
+        with urllib.request.urlopen(url) as r:
+            return r.read().decode("utf-8").splitlines()
+    except Exception as e:
+        print(f"❌ Error descargando {url} → {e}")
+        return []
 
 #  NUEVO PARSER
 def parse_time(t):
@@ -179,3 +183,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+raw = fetch_sheet(ch["url"])
+if not raw:
+    print(f"⚠️ Saltando canal {ch['name']} por error de descarga")
+    continue
+    

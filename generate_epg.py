@@ -75,7 +75,16 @@ def build_epg(rows, channel_id):
 
             offset = DAYS_MAP[day_key]
             date = monday + timedelta(days=offset)
+            from datetime import date as dt_date
 
+today = datetime.now(tz).date()
+limit = today + timedelta(days=2)
+
+# filtrar solo hoy + 2 días
+if not (today <= date <= limit):
+    continue
+
+            
             try:
                 start_t = parse_time(start_raw)
                 end_t   = parse_time(end_raw)

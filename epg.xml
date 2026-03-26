@@ -4,6 +4,9 @@
   <channel id="animestation.ar">
     <display-name>Animestation</display-name>
   </channel>
+  <channel id="telered.ar">
+    <display-name>Telered</display-name>
+  </channel>
   <programme start="20260326000000 -0300" stop="20260326003000 -0300" channel="animestation.ar">
     <title lang="es">South Park</title>
     <desc lang="es">Serie animada satírica sobre la sociedad y política.</desc>
@@ -387,5 +390,240 @@
   <programme start="20260327233000 -0300" stop="20260328000000 -0300" channel="animestation.ar">
     <title lang="es">Hellsing</title>
     <desc lang="es">Acción sobrenatural con vampiros y una organización secreta.</desc>
+  </programme>
+  <programme start="20260326000000 -0300" stop="20260326010000 -0300" channel="telered.ar">
+    <title lang="es">Serie Retro</title>
+    <desc lang="es">Series clásicas de distintas épocas.</desc>
+  </programme>
+  <programme start="20260326010000 -0300" stop="20260326020000 -0300" channel="telered.ar">
+    <title lang="es">X-Files</title>
+    <desc lang="es">Misterios paranormales investigados por el FBI.</desc>
+  </programme>
+  <programme start="20260326010000 -0300" stop="20260326030000 -0300" channel="telered.ar">
+    <title lang="es">Programación nocturna</title>
+    <desc lang="es">Contenido variado nocturno.</desc>
+  </programme>
+  <programme start="20260326020000 -0300" stop="20260326030000 -0300" channel="telered.ar">
+    <title lang="es">Serie Retro</title>
+    <desc lang="es">Series clásicas de distintas épocas.</desc>
+  </programme>
+  <programme start="20260326030000 -0300" stop="20260326040000 -0300" channel="telered.ar">
+    <title lang="es">Programacion nocturna</title>
+  </programme>
+  <programme start="20260326040000 -0300" stop="20260326090000 -0300" channel="telered.ar">
+    <title lang="es">Fuera de aire</title>
+    <desc lang="es">Fuera de aire</desc>
+  </programme>
+  <programme start="20260326090000 -0300" stop="20260326100000 -0300" channel="telered.ar">
+    <title lang="es">Salud en casa</title>
+    <desc lang="es">Programa de bienestar y consejos de salud para el hogar.</desc>
+  </programme>
+  <programme start="20260326090000 -0300" stop="20260326110000 -0300" channel="telered.ar">
+    <title lang="es">Salud en casa</title>
+    <desc lang="es">Programa de bienestar y consejos de salud para el hogar.</desc>
+  </programme>
+  <programme start="20260326100000 -0300" stop="20260326120000 -0300" channel="telered.ar">
+    <title lang="es">Clásicos Telered</title>
+    <desc lang="es">Series clásicas destacadas del canal.</desc>
+  </programme>
+  <programme start="20260326110000 -0300" stop="20260326130000 -0300" channel="telered.ar">
+    <title lang="es">Clásicos Telered</title>
+    <desc lang="es">Series clásicas destacadas del canal.</desc>
+  </programme>
+  <programme start="20260326120000 -0300" stop="20260326130000 -0300" channel="telered.ar">
+    <title lang="es">Viaje al fondo del mar</title>
+  </programme>
+  <programme start="20260326130000 -0300" stop="20260326140000 -0300" channel="telered.ar">
+    <title lang="es">Clásicos Telered</title>
+    <desc lang="es">Series clásicas destacadas del canal.</desc>
+  </programme>
+  <programme start="20260326130000 -0300" stop="20260326140000 -0300" channel="telered.ar">
+    <title lang="es">Viaje al fondo del mar</title>
+    <desc lang="es">Aventura submarina de ciencia ficción.</desc>
+  </programme>
+  <programme start="20260326140000 -0300" stop="20260326150000 -0300" channel="telered.ar">
+    <title lang="es">Telemercado</title>
+  </programme>
+  <programme start="20260326140000 -0300" stop="20260326160000 -0300" channel="telered.ar">
+    <title lang="es">Clásicos Telered</title>
+    <desc lang="es">Series clásicas destacadas del canal.</desc>
+  </programme>
+  <programme start="20260326150000 -0300" stop="20260326160000 -0300" channel="telered.ar">
+    <title lang="es">La casa de la pradera</title>
+    <desc lang="es">Drama familiar ambientado en el viejo oeste.</desc>
+  </programme>
+  <programme start="20260326160000 -0300" stop="20260326170000 -0300" channel="telered.ar">
+    <title lang="es">Perdidos en el espacio</title>
+    <desc lang="es">Aventura de ciencia ficción en el espacio.</desc>
+  </programme>
+  <programme start="20260326160000 -0300" stop="20260326170000 -0300" channel="telered.ar">
+    <title lang="es">La casa de la pradera</title>
+    <desc lang="es">Drama familiar ambientado en el viejo oeste.</desc>
+  </programme>
+  <programme start="20260326170000 -0300" stop="20260326180000 -0300" channel="telered.ar">
+    <title lang="es">Brigada A</title>
+    <desc lang="es">En 1972, un comando compuesto por cuatro de los mejores hombres del Ejército Americano fueron encarcelados por un delito «que no habían cometido»: No tardaron en fugarse de la prisión en que se encontraban recluidos. Hoy, buscados todavía por el gobierno, sobreviven como soldados de fortuna. Si tiene usted algún problema y si los encuentra quizá pueda contratarlos.</desc>
+  </programme>
+  <programme start="20260326170000 -0300" stop="20260326180000 -0300" channel="telered.ar">
+    <title lang="es">Perdidos en el espacio</title>
+    <desc lang="es">Aventura de ciencia ficción en el espacio.</desc>
+  </programme>
+  <programme start="20260326180000 -0300" stop="20260326193000 -0300" channel="telered.ar">
+    <title lang="es">Tardes Animados</title>
+  </programme>
+  <programme start="20260326180000 -0300" stop="20260326200000 -0300" channel="telered.ar">
+    <title lang="es">Tardes animadas</title>
+    <desc lang="es">Bloque de dibujos animados para toda la familia.</desc>
+  </programme>
+  <programme start="20260326193000 -0300" stop="20260326200000 -0300" channel="telered.ar">
+    <title lang="es">Heidi</title>
+    <desc lang="es">Heidi, la niña de trenzas doradas, vive felices días con su abuelo en la montaña, juega con el cabrito Alm y su amigo Pedro, y aprende lecciones de amistad y naturaleza en este clásico animado lleno de calidez y paisajes mágicos.</desc>
+  </programme>
+  <programme start="20260326200000 -0300" stop="20260326203000 -0300" channel="telered.ar">
+    <title lang="es">Mi bella Genio</title>
+    <desc lang="es">Jeannie sale de su botella para conceder deseos locos a su amo astronauta con un guiño travieso y un ¡pop!, desatando enredos hilarantes en esta comedia animada llena de encanto y diversión familiar.</desc>
+  </programme>
+  <programme start="20260326200000 -0300" stop="20260326210000 -0300" channel="telered.ar">
+    <title lang="es">Salud en casa</title>
+    <desc lang="es">Programa de bienestar y consejos de salud para el hogar.</desc>
+  </programme>
+  <programme start="20260326203000 -0300" stop="20260326210000 -0300" channel="telered.ar">
+    <title lang="es">Telered Noticias</title>
+  </programme>
+  <programme start="20260326210000 -0300" stop="20260326220000 -0300" channel="telered.ar">
+    <title lang="es">Salud en casa</title>
+    <desc lang="es">Programa de bienestar y consejos de salud para el hogar.</desc>
+  </programme>
+  <programme start="20260326210000 -0300" stop="20260326220000 -0300" channel="telered.ar">
+    <title lang="es">Que hay CR</title>
+    <desc lang="es">Programa de actualidad.</desc>
+  </programme>
+  <programme start="20260326220000 -0300" stop="20260326230000 -0300" channel="telered.ar">
+    <title lang="es">Que hay CR</title>
+  </programme>
+  <programme start="20260326220000 -0300" stop="20260326230000 -0300" channel="telered.ar">
+    <title lang="es">Código R</title>
+    <desc lang="es">Programa de investigación y actualidad.</desc>
+  </programme>
+  <programme start="20260326230000 -0300" stop="20260327000000 -0300" channel="telered.ar">
+    <title lang="es">Codigo R</title>
+  </programme>
+  <programme start="20260326230000 -0300" stop="20260327010000 -0300" channel="telered.ar">
+    <title lang="es">Serie Retro</title>
+    <desc lang="es">Series clásicas de distintas épocas.</desc>
+  </programme>
+  <programme start="20260327000000 -0300" stop="20260327010000 -0300" channel="telered.ar">
+    <title lang="es">Serie Retro</title>
+    <desc lang="es">Series clásicas de distintas épocas.</desc>
+  </programme>
+  <programme start="20260327000000 -0300" stop="20260327020000 -0300" channel="telered.ar">
+    <title lang="es">Cine de media noche</title>
+    <desc lang="es">Películas nocturnas.</desc>
+  </programme>
+  <programme start="20260327010000 -0300" stop="20260327020000 -0300" channel="telered.ar">
+    <title lang="es">X-Files</title>
+    <desc lang="es">Misterios paranormales investigados por el FBI.</desc>
+  </programme>
+  <programme start="20260327020000 -0300" stop="20260327030000 -0300" channel="telered.ar">
+    <title lang="es">Serie Retro</title>
+    <desc lang="es">Series clásicas de distintas épocas.</desc>
+  </programme>
+  <programme start="20260327020000 -0300" stop="20260327030000 -0300" channel="telered.ar">
+    <title lang="es">Programación nocturna</title>
+    <desc lang="es">Contenido variado nocturno.</desc>
+  </programme>
+  <programme start="20260327030000 -0300" stop="20260327040000 -0300" channel="telered.ar">
+    <title lang="es">Programacion nocturna</title>
+  </programme>
+  <programme start="20260327040000 -0300" stop="20260327090000 -0300" channel="telered.ar">
+    <title lang="es">Fuera de aire</title>
+    <desc lang="es">Fuera de aire</desc>
+  </programme>
+  <programme start="20260327090000 -0300" stop="20260327100000 -0300" channel="telered.ar">
+    <title lang="es">Salud en casa</title>
+    <desc lang="es">Programa de bienestar y consejos de salud para el hogar.</desc>
+  </programme>
+  <programme start="20260327090000 -0300" stop="20260327110000 -0300" channel="telered.ar">
+    <title lang="es">Salud en casa</title>
+    <desc lang="es">Programa de bienestar y consejos de salud para el hogar.</desc>
+  </programme>
+  <programme start="20260327100000 -0300" stop="20260327120000 -0300" channel="telered.ar">
+    <title lang="es">Clásicos Telered</title>
+    <desc lang="es">Series clásicas destacadas del canal.</desc>
+  </programme>
+  <programme start="20260327110000 -0300" stop="20260327130000 -0300" channel="telered.ar">
+    <title lang="es">Clásicos Telered</title>
+    <desc lang="es">Series clásicas destacadas del canal.</desc>
+  </programme>
+  <programme start="20260327120000 -0300" stop="20260327130000 -0300" channel="telered.ar">
+    <title lang="es">A doble nudo</title>
+  </programme>
+  <programme start="20260327130000 -0300" stop="20260327140000 -0300" channel="telered.ar">
+    <title lang="es">Clásicos Telered</title>
+    <desc lang="es">Series clásicas destacadas del canal.</desc>
+  </programme>
+  <programme start="20260327130000 -0300" stop="20260327140000 -0300" channel="telered.ar">
+    <title lang="es">A doble nudo</title>
+    <desc lang="es">Serie dramática.</desc>
+  </programme>
+  <programme start="20260327140000 -0300" stop="20260327150000 -0300" channel="telered.ar">
+    <title lang="es">Telemercado</title>
+  </programme>
+  <programme start="20260327140000 -0300" stop="20260327160000 -0300" channel="telered.ar">
+    <title lang="es">Clásicos Telered</title>
+    <desc lang="es">Series clásicas destacadas del canal.</desc>
+  </programme>
+  <programme start="20260327150000 -0300" stop="20260327160000 -0300" channel="telered.ar">
+    <title lang="es">La casa de la pradera</title>
+    <desc lang="es">Drama familiar ambientado en el viejo oeste.</desc>
+  </programme>
+  <programme start="20260327160000 -0300" stop="20260327170000 -0300" channel="telered.ar">
+    <title lang="es">Perdidos en el espacio</title>
+    <desc lang="es">Aventura de ciencia ficción en el espacio.</desc>
+  </programme>
+  <programme start="20260327160000 -0300" stop="20260327170000 -0300" channel="telered.ar">
+    <title lang="es">La casa de la pradera</title>
+    <desc lang="es">Drama familiar ambientado en el viejo oeste.</desc>
+  </programme>
+  <programme start="20260327170000 -0300" stop="20260327180000 -0300" channel="telered.ar">
+    <title lang="es">Brigada A</title>
+    <desc lang="es">En 1972, un comando compuesto por cuatro de los mejores hombres del Ejército Americano fueron encarcelados por un delito «que no habían cometido»: No tardaron en fugarse de la prisión en que se encontraban recluidos. Hoy, buscados todavía por el gobierno, sobreviven como soldados de fortuna. Si tiene usted algún problema y si los encuentra quizá pueda contratarlos.</desc>
+  </programme>
+  <programme start="20260327170000 -0300" stop="20260327180000 -0300" channel="telered.ar">
+    <title lang="es">Perdidos en el espacio</title>
+    <desc lang="es">Aventura de ciencia ficción en el espacio.</desc>
+  </programme>
+  <programme start="20260327180000 -0300" stop="20260327193000 -0300" channel="telered.ar">
+    <title lang="es">Tardes Animados</title>
+  </programme>
+  <programme start="20260327180000 -0300" stop="20260327200000 -0300" channel="telered.ar">
+    <title lang="es">Tardes animadas</title>
+    <desc lang="es">Bloque de dibujos animados para toda la familia.</desc>
+  </programme>
+  <programme start="20260327193000 -0300" stop="20260327200000 -0300" channel="telered.ar">
+    <title lang="es">Heidi</title>
+    <desc lang="es">Heidi, la niña de trenzas doradas, vive felices días con su abuelo en la montaña, juega con el cabrito Alm y su amigo Pedro, y aprende lecciones de amistad y naturaleza en este clásico animado lleno de calidez y paisajes mágicos.</desc>
+  </programme>
+  <programme start="20260327200000 -0300" stop="20260327210000 -0300" channel="telered.ar">
+    <title lang="es">Contacto comunal</title>
+  </programme>
+  <programme start="20260327200000 -0300" stop="20260327210000 -0300" channel="telered.ar">
+    <title lang="es">Contacto comunal</title>
+    <desc lang="es">Programa comunitario.</desc>
+  </programme>
+  <programme start="20260327210000 -0300" stop="20260327220000 -0300" channel="telered.ar">
+    <title lang="es">Salud en casa</title>
+    <desc lang="es">Programa de bienestar y consejos de salud para el hogar.</desc>
+  </programme>
+  <programme start="20260327210000 -0300" stop="20260327220000 -0300" channel="telered.ar">
+    <title lang="es">Gran Gala</title>
+    <desc lang="es">Programa de espectáculos.</desc>
+  </programme>
+  <programme start="20260327220000 -0300" stop="20260328000000 -0300" channel="telered.ar">
+    <title lang="es">Gran Gala</title>
+  </programme>
+  <programme start="20260327220000 -0300" stop="20260328000000 -0300" channel="telered.ar">
+    <title lang="es">Galáctica</title>
+    <desc lang="es">Serie de ciencia ficción espacial.</desc>
   </programme>
 </tv>

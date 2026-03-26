@@ -162,7 +162,13 @@ def main():
 
     for ch in CHANNELS:
         print(f"Descargando grilla de {ch['name']}...")
-        raw  = fetch_sheet(ch["url"])
+
+        raw = fetch_sheet(ch["url"])
+
+        if not raw:
+            print(f"⚠️ Saltando canal {ch['name']} por error de descarga")
+            continue
+
         rows = list(csv.reader(raw))[1:]
         print(f"  {len(rows)} filas encontradas")
 
@@ -183,9 +189,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-raw = fetch_sheet(ch["url"])
-if not raw:
-    print(f"⚠️ Saltando canal {ch['name']} por error de descarga")
-    continue,
     

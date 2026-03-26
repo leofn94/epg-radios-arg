@@ -174,7 +174,6 @@ def main():
         print(f"Descargando grilla de {ch['name']}...")
 
         raw = fetch_sheet(ch["url"])
-
         if not raw:
             print(f"⚠️ Saltando canal {ch['name']} por error de descarga")
             continue
@@ -191,13 +190,13 @@ def main():
             "programmes": programmes,
         })
 
-xml = write_xmltv(channels_data)
+    xml = write_xmltv(channels_data)
 
-# eliminar BOM y basura invisible
-xml = xml.encode("utf-8").decode("utf-8-sig").lstrip()
+    # 🔥 limpieza BOM / basura
+    xml = xml.encode("utf-8").decode("utf-8-sig").lstrip()
 
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    f.write(xml)
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write(xml)
 
     print(f"\nEPG guardado en {OUTPUT_FILE}")
 

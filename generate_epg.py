@@ -63,7 +63,7 @@ def build_epg(rows, channel_id):
 
     # 🔥 calcular una sola vez
     today = datetime.now(tz).date()
-    limit = today + timedelta(days=2)
+    limit = today + timedelta(days=1)
 
     for row in rows:
         if len(row) < 4:
@@ -116,6 +116,12 @@ def build_epg(rows, channel_id):
     return programmes
 
 def write_xmltv(channels_data):
+    
+    import html
+
+title = html.escape(title)
+desc = html.escape(desc)
+
     lines = []
     lines.append('<?xml version="1.0" encoding="UTF-8"?>')
     lines.append('<!DOCTYPE tv SYSTEM "xmltv.dtd">')
@@ -167,8 +173,8 @@ def main():
     # 🔥 limpieza BOM / basura
     xml = xml.encode("utf-8").decode("utf-8-sig").lstrip()
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(xml)
+    with open(OUTPUT_FILE, "w", encoding="utf-8-sig") as f:
+    f.write(xml.lstrip())
 
     print(f"\nEPG guardado en {OUTPUT_FILE}")
 

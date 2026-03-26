@@ -176,7 +176,7 @@ def main():
     xml = xml.encode("utf-8").decode("utf-8-sig").lstrip()
 
     with open(OUTPUT_FILE, "w", encoding="utf-8-sig") as f:
-    f.write(xml.lstrip())
+        f.write(xml.lstrip())
 
     print(f"\nEPG guardado en {OUTPUT_FILE}")
 

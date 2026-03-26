@@ -46,6 +46,21 @@ CHANNELS = [
         "name": "Magic Kids",
         "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=1797674806&single=true&output=csv",
     },
+        {
+        "id":   "dreiko.ar",
+        "name": "Dreiko",
+        "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=1314641220&single=true&output=csv",
+    },
+        {
+        "id":   "locomotion1.ar",
+        "name": "Locomotion 1",
+        "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=309534154&single=true&output=csv",
+    },
+            {
+        "id":   "mitv.ar",
+        "name": "MiTV 1",
+        "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=1227571137&single=true&output=csv",
+    },
 ]
 
 TIMEZONE    = "America/Argentina/Buenos_Aires"

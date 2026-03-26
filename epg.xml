@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="radios-epg">
   <channel id="animestation.ar">
@@ -387,73 +387,5 @@
   <programme start="20260327233000 -0300" stop="20260328000000 -0300" channel="animestation.ar">
     <title lang="es">Hellsing</title>
     <desc lang="es">Acción sobrenatural con vampiros y una organización secreta.</desc>
-  </programme>
-  <programme start="20260328000000 -0300" stop="20260328003000 -0300" channel="animestation.ar">
-    <title lang="es">Rick & Morty</title>
-    <desc lang="es">Comedia sci-fi sobre aventuras interdimensionales de un científico y su nieto.</desc>
-  </programme>
-  <programme start="20260328003000 -0300" stop="20260328010000 -0300" channel="animestation.ar">
-    <title lang="es">Rick & Morty</title>
-    <desc lang="es">Comedia sci-fi sobre aventuras interdimensionales de un científico y su nieto.</desc>
-  </programme>
-  <programme start="20260328010000 -0300" stop="20260328170000 -0300" channel="animestation.ar">
-    <title lang="es">Animestation</title>
-    <desc lang="es">Programación variada de Animestation</desc>
-  </programme>
-  <programme start="20260328170000 -0300" stop="20260328173000 -0300" channel="animestation.ar">
-    <title lang="es">Bob & Margaret</title>
-    <desc lang="es">Sigue la vida cotidiana de una pareja británica, Bob y Margaret Fish, mientras navegan por las situaciones cómicas y a menudo absurdas de su matrimonio. Con humor inteligente y una perspectiva honesta, la serie ofrece una mirada divertida a las relaciones y la vida moderna.</desc>
-  </programme>
-  <programme start="20260328173000 -0300" stop="20260328180000 -0300" channel="animestation.ar">
-    <title lang="es">Bob & Margaret</title>
-    <desc lang="es">Sigue la vida cotidiana de una pareja británica, Bob y Margaret Fish, mientras navegan por las situaciones cómicas y a menudo absurdas de su matrimonio. Con humor inteligente y una perspectiva honesta, la serie ofrece una mirada divertida a las relaciones y la vida moderna.</desc>
-  </programme>
-  <programme start="20260328180000 -0300" stop="20260328183000 -0300" channel="animestation.ar">
-    <title lang="es">La vida moderna de Rocko</title>
-    <desc lang="es">Los queridos años 90's no regalaron está joya de la animación, sátira a la sociedad gringa reflejada en una sociedad antropomórfica que vive bombardeada de estímulos, eso nos cuentan a través de sus descabelladas historias tres amigos Rocko, Heffer y Filburt</desc>
-  </programme>
-  <programme start="20260328183000 -0300" stop="20260328190000 -0300" channel="animestation.ar">
-    <title lang="es">La vida moderna de Rocko</title>
-    <desc lang="es">Los queridos años 90's no regalaron está joya de la animación, sátira a la sociedad gringa reflejada en una sociedad antropomórfica que vive bombardeada de estímulos, eso nos cuentan a través de sus descabelladas historias tres amigos Rocko, Heffer y Filburt</desc>
-  </programme>
-  <programme start="20260328190000 -0300" stop="20260328193000 -0300" channel="animestation.ar">
-    <title lang="es">Daria</title>
-    <desc lang="es">Serie animada sobre una adolescente sarcástica y observadora de la sociedad.</desc>
-  </programme>
-  <programme start="20260328193000 -0300" stop="20260328200000 -0300" channel="animestation.ar">
-    <title lang="es">Daria</title>
-    <desc lang="es">Serie animada sobre una adolescente sarcástica y observadora de la sociedad.</desc>
-  </programme>
-  <programme start="20260328200000 -0300" stop="20260328203000 -0300" channel="animestation.ar">
-    <title lang="es">Aniplus Replay</title>
-    <desc lang="es">Bloque de repetición con episodios destacados de la semana.</desc>
-  </programme>
-  <programme start="20260328203000 -0300" stop="20260328210000 -0300" channel="animestation.ar">
-    <title lang="es">Aniplus Replay</title>
-    <desc lang="es">Bloque de repetición con episodios destacados de la semana.</desc>
-  </programme>
-  <programme start="20260328210000 -0300" stop="20260328213000 -0300" channel="animestation.ar">
-    <title lang="es">Aniplus Replay</title>
-    <desc lang="es">Bloque de repetición con episodios destacados de la semana.</desc>
-  </programme>
-  <programme start="20260328213000 -0300" stop="20260328220000 -0300" channel="animestation.ar">
-    <title lang="es">Aniplus Replay</title>
-    <desc lang="es">Bloque de repetición con episodios destacados de la semana.</desc>
-  </programme>
-  <programme start="20260328220000 -0300" stop="20260328223000 -0300" channel="animestation.ar">
-    <title lang="es">Los Simpsons</title>
-    <desc lang="es">Comedia animada sobre la familia Simpson y la vida en Springfield.</desc>
-  </programme>
-  <programme start="20260328223000 -0300" stop="20260328230000 -0300" channel="animestation.ar">
-    <title lang="es">Los Simpsons</title>
-    <desc lang="es">Comedia animada sobre la familia Simpson y la vida en Springfield.</desc>
-  </programme>
-  <programme start="20260328230000 -0300" stop="20260328233000 -0300" channel="animestation.ar">
-    <title lang="es">Futurama</title>
-    <desc lang="es">Serie de ciencia ficción y comedia ambientada en el año 3000.</desc>
-  </programme>
-  <programme start="20260328233000 -0300" stop="20260329000000 -0300" channel="animestation.ar">
-    <title lang="es">Futurama</title>
-    <desc lang="es">Serie de ciencia ficción y comedia ambientada en el año 3000.</desc>
   </programme>
 </tv>

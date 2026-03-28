@@ -40,6 +40,9 @@
   <channel id="telered.ar">
     <display-name>Telered</display-name>
   </channel>
+  <channel id="telesistema.ar">
+    <display-name>telesistema</display-name>
+  </channel>
   <programme start="20260328000000 -0300" stop="20260328020000 -0300" channel="radio10.ar">
     <title lang="es">La medianoche (Carlos Polimeni)</title>
     <desc lang="es">Cultura, música, reflexiones y una mirada crítica de la realidad.</desc>
@@ -1653,5 +1656,88 @@
   <programme start="20260329230000 -0300" stop="20260330000000 -0300" channel="telered.ar">
     <title lang="es">Cine Colosal</title>
     <desc lang="es">Películas destacadas.</desc>
+  </programme>
+  <programme start="20260328000000 -0300" stop="20260328020000 -0300" channel="telesistema.ar">
+    <title lang="es">Series del ayer</title>
+    <desc lang="es">Clásicas series de televisión de décadas pasadas.</desc>
+  </programme>
+  <programme start="20260328020000 -0300" stop="20260328040000 -0300" channel="telesistema.ar">
+    <title lang="es">Cine de media noche</title>
+    <desc lang="es">Ciclo de películas para la trasnoche.</desc>
+  </programme>
+  <programme start="20260328040000 -0300" stop="20260328080000 -0300" channel="telesistema.ar">
+    <title lang="es">Programación nocturna</title>
+    <desc lang="es">Programación de madrugada.</desc>
+  </programme>
+  <programme start="20260328080000 -0300" stop="20260328100000 -0300" channel="telesistema.ar">
+    <title lang="es">Series del ayer</title>
+    <desc lang="es">Clásicas series de televisión de décadas pasadas.</desc>
+  </programme>
+  <programme start="20260328100000 -0300" stop="20260328150000 -0300" channel="telesistema.ar">
+    <title lang="es">Caravana infantil</title>
+    <desc lang="es">Programación animada y entretenimiento para los más chicos.</desc>
+  </programme>
+  <programme start="20260328150000 -0300" stop="20260328190000 -0300" channel="telesistema.ar">
+    <title lang="es">Series del ayer</title>
+    <desc lang="es">Clásicas series de televisión de décadas pasadas.</desc>
+  </programme>
+  <programme start="20260328190000 -0300" stop="20260328210000 -0300" channel="telesistema.ar">
+    <title lang="es">Cine clásico</title>
+    <desc lang="es">Grandes clásicos del cine mundial de todos los tiempos.</desc>
+  </programme>
+  <programme start="20260328210000 -0300" stop="20260328220000 -0300" channel="telesistema.ar">
+    <title lang="es">Somos 65</title>
+  </programme>
+  <programme start="20260328220000 -0300" stop="20260328230000 -0300" channel="telesistema.ar">
+    <title lang="es">Código-R</title>
+    <desc lang="es">Programa de investigación y reportajes sobre temas de actualidad.</desc>
+  </programme>
+  <programme start="20260328230000 -0300" stop="20260329000000 -0300" channel="telesistema.ar">
+    <title lang="es">El hombre nuclear</title>
+    <desc lang="es">Serie clásica de ciencia ficción sobre un hombre con poderes biónicos.</desc>
+  </programme>
+  <programme start="20260329000000 -0300" stop="20260329020000 -0300" channel="telesistema.ar">
+    <title lang="es">Cine de cines</title>
+    <desc lang="es">Ciclo de películas destacadas</desc>
+  </programme>
+  <programme start="20260329020000 -0300" stop="20260329040000 -0300" channel="telesistema.ar">
+    <title lang="es">Cine de media noche</title>
+    <desc lang="es">Ciclo de películas para la trasnoche.</desc>
+  </programme>
+  <programme start="20260329040000 -0300" stop="20260329100000 -0300" channel="telesistema.ar">
+    <title lang="es">Programación nocturna</title>
+    <desc lang="es">Programación de madrugada.</desc>
+  </programme>
+  <programme start="20260329100000 -0300" stop="20260329150000 -0300" channel="telesistema.ar">
+    <title lang="es">Caravana infantil</title>
+    <desc lang="es">Programación animada y entretenimiento para los más chicos.</desc>
+  </programme>
+  <programme start="20260329150000 -0300" stop="20260329170000 -0300" channel="telesistema.ar">
+    <title lang="es">Cine familiar</title>
+    <desc lang="es">Películas aptas para toda la familia.</desc>
+  </programme>
+  <programme start="20260329170000 -0300" stop="20260329190000 -0300" channel="telesistema.ar">
+    <title lang="es">Cine clásico</title>
+    <desc lang="es">Grandes clásicos del cine mundial de todos los tiempos.</desc>
+  </programme>
+  <programme start="20260329190000 -0300" stop="20260329200000 -0300" channel="telesistema.ar">
+    <title lang="es">Series del ayer</title>
+    <desc lang="es">Clásicas series de televisión de décadas pasadas.</desc>
+  </programme>
+  <programme start="20260329200000 -0300" stop="20260329210000 -0300" channel="telesistema.ar">
+    <title lang="es">Sin escalas</title>
+    <desc lang="es">Programa de viajes y turismo por destinos del mundo.</desc>
+  </programme>
+  <programme start="20260329210000 -0300" stop="20260329220000 -0300" channel="telesistema.ar">
+    <title lang="es">Que hay CR</title>
+    <desc lang="es">Programa sobre la actualidad y cultura de Costa Rica.</desc>
+  </programme>
+  <programme start="20260329220000 -0300" stop="20260329230000 -0300" channel="telesistema.ar">
+    <title lang="es">Series del ayer</title>
+    <desc lang="es">Clásicas series de televisión de décadas pasadas.</desc>
+  </programme>
+  <programme start="20260329230000 -0300" stop="20260330000000 -0300" channel="telesistema.ar">
+    <title lang="es">Cine de cines</title>
+    <desc lang="es">Ciclo de películas destacadas</desc>
   </programme>
 </tv>

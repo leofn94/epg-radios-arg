@@ -118,7 +118,7 @@ def xmltv_ts(dt):
 def get_monday():
     tz = pytz.timezone(TIMEZONE)
     today = datetime.now(tz).date()
-    return today - timedelta(days=today.weekday())
+    return today - timedelta(=today.weekday())
 
 # ─── CONSTRUCCIÓN EPG ────────────────────────────────────────────────────────
 def build_epg(rows, channel_id):
@@ -127,7 +127,7 @@ def build_epg(rows, channel_id):
     programmes = []
 
     today = datetime.now(tz).date()
-    limit = today + timedelta(days=1)  # 🔥 solo hoy + mañana
+    limit = today + timedelta(days=2)  # 🔥 solo hoy + mañana
 
     for row in rows:
         if len(row) < 4:

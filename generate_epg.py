@@ -56,6 +56,11 @@ CHANNELS = [
         "name": "Locomotion 1",
         "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=309534154&single=true&output=csv",
     },
+                {
+        "id":   "aztv.ar",
+        "name": "AZTV",
+        "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=955136670&single=true&output=csv",
+    },
             {
         "id":   "mitv.ar",
         "name": "MiTV 1",
@@ -66,6 +71,12 @@ CHANNELS = [
         "name": "Animestation",
         "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=446220036&single=true&output=csv",
     },
+    {
+        "id":   "retroblast",
+        "name": "retroblast",
+        "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=441139638&single=true&output=csv",
+    },
+
         {
         "id":   "telered.ar",
         "name": "Telered",
@@ -75,6 +86,11 @@ CHANNELS = [
         "id":   "telesistema.ar",
         "name": "telesistema",
         "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=503971923&single=true&output=csv",
+    },
+         {
+        "id":   "GTVI",
+        "name": "GTVI",
+        "url":  "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=67933382&single=true&output=csv",
     },
 ]
 

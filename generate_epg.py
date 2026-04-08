@@ -143,7 +143,7 @@ def build_epg(rows, channel_id):
     programmes = []
 
     today = datetime.now(tz).date()
-    limit = today + timedelta(days=2)  # 🔥 solo hoy + mañana
+    limit = today + timedelta(days=2)
 
     for row in rows:
         if len(row) < 4:
@@ -155,31 +155,28 @@ def build_epg(rows, channel_id):
         desc = row[4] if len(row) > 4 else ""
 
         day_key = day_raw.lower()
+
+        # DEBUG DÍA
         if day_key not in DAYS_MAP:
+            print(f"❌ Día inválido: {day_raw}")
             continue
 
         date = monday + timedelta(days=DAYS_MAP[day_key])
 
+        # FILTRO DE DÍAS
         if not (today <= date <= limit):
             continue
 
+        # PARSEO DE HORAS
         try:
             start_t = parse_time(start_raw)
             end_t   = parse_time(end_raw)
-        except:
-            print(f"⚠️ Error en fila {row}")
+        except Exception as e:
+            print(f"⚠️ Error en fila {row} → {e}")
             continue
 
         start_dt = tz.localize(datetime.combine(date, start_t))
         end_dt   = tz.localize(datetime.combine(date, end_t))
-
-            if day_key not in DAYS_MAP:
-    print(f"❌ Día inválido: {day_raw}")
-    continue
-
-        except Exception as e:
-    print(f"⚠️ Error en fila {row} → {e}")
-    continue
 
         if end_dt <= start_dt:
             end_dt += timedelta(days=1)
@@ -194,7 +191,7 @@ def build_epg(rows, channel_id):
 
     programmes.sort(key=lambda x: x[0])
     return programmes
-
+        
 # ─── GENERADOR XML ───────────────────────────────────────────────────────────
 def write_xmltv(channels_data):
     lines = []

@@ -28,6 +28,9 @@
   <channel id="locomotion1.ar">
     <display-name>Locomotion 1</display-name>
   </channel>
+  <channel id="aztv.ar">
+    <display-name>AZTV</display-name>
+  </channel>
   <channel id="mitv.ar">
     <display-name>MiTV 1</display-name>
   </channel>
@@ -2487,6 +2490,582 @@
   <programme start="20260410233000 -0300" stop="20260411000000 -0300" channel="locomotion1.ar">
     <title lang="es">South Park</title>
     <desc lang="es">Cuatro niños de tercer grado, Stan, Kyle, Cartman y Kenny, viven en el pequeño pueblo de South Park, Colorado, donde lo más absurdo e impensable ocurre a diario. Con un humor irreverente y políticamente incorrecto, la serie satiriza la cultura pop, la política, la religión y la sociedad norteamericana sin ningún tipo de censura.</desc>
+  </programme>
+  <programme start="20260408000000 -0300" stop="20260408003000 -0300" channel="aztv.ar">
+    <title lang="es">Tenchi Universe</title>
+    <desc lang="es">El joven Tenchi Masaki atrae accidentalmente a su casa a princesas alienígenas, diosas y guerreras rivales tras un choque espacial, desatando situaciones hilarantes de competencia romántica, explosiones y convivencia forzada en la Tierra, todo en un tono desenfadado de harén cósmico y amistad improbable.</desc>
+  </programme>
+  <programme start="20260408003000 -0300" stop="20260408010000 -0300" channel="aztv.ar">
+    <title lang="es">Rave Master</title>
+    <desc lang="es">Sigue las aventuras de Haru Glory, un joven espadachín que hereda la legendaria espada Ten Powers de su padre y emprende un viaje épico para encontrar las Rave Stones, fragmentos mágicos capaces de destruir la misteriosa Dark Bring, fuente de todo mal y oscuridad en el mundo.</desc>
+  </programme>
+  <programme start="20260408010000 -0300" stop="20260408013000 -0300" channel="aztv.ar">
+    <title lang="es">Samurai 7</title>
+    <desc lang="es">Se reimagina la clásica película Los Siete Samuráis de Akira Kurosawa en un futuro postapocalíptico steampunk: aldeanos oprimidos por bandidos robóticos reclutan a siete samuráis renegados con habilidades únicas y mechas para defender su pueblo, desatando épicas batallas, lealtades probadas y sacrificios heroicos en un mundo devastado donde la tradición samurai choca con la tecnología destructiva.</desc>
+  </programme>
+  <programme start="20260408013000 -0300" stop="20260408020000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260408020000 -0300" stop="20260408023000 -0300" channel="aztv.ar">
+    <title lang="es">Bandidos del Tiempo</title>
+    <desc lang="es">Serie animada sobre un grupo de viajeros temporales que recorren distintas epocas historicas enfrentando situaciones absurdas y aventuras comicas.</desc>
+  </programme>
+  <programme start="20260408023000 -0300" stop="20260408030000 -0300" channel="aztv.ar">
+    <title lang="es">Koni Chan</title>
+    <desc lang="es">Comedia anime protagonizada por una chica hiperactiva y caotica que vive situaciones absurdas junto a sus amigos en una ciudad llena de humor exagerado.</desc>
+  </programme>
+  <programme start="20260408030000 -0300" stop="20260408033000 -0300" channel="aztv.ar">
+    <title lang="es">Hamtaro</title>
+    <desc lang="es">Aventuras tiernas de un pequeño hamster y sus amigos que viven divertidas historias mientras exploran el mundo desde su diminuta perspectiva.</desc>
+  </programme>
+  <programme start="20260408033000 -0300" stop="20260408040000 -0300" channel="aztv.ar">
+    <title lang="es">Corrector Yui</title>
+    <desc lang="es">Anime de accion digital donde una joven es transportada a una red virtual y debe salvar el ciberespacio usando poderes especiales.</desc>
+  </programme>
+  <programme start="20260408040000 -0300" stop="20260408043000 -0300" channel="aztv.ar">
+    <title lang="es">Beyblade</title>
+    <desc lang="es">Serie de accion sobre batallas con trompos personalizados donde los protagonistas compiten en torneos y desarrollan habilidades especiales.</desc>
+  </programme>
+  <programme start="20260408043000 -0300" stop="20260408050000 -0300" channel="aztv.ar">
+    <title lang="es">Bakugan</title>
+    <desc lang="es">Historia de jovenes que combaten usando criaturas llamadas Bakugan en batallas estrategicas que determinan el destino de su mundo.</desc>
+  </programme>
+  <programme start="20260408050000 -0300" stop="20260408053000 -0300" channel="aztv.ar">
+    <title lang="es">Medabots</title>
+    <desc lang="es">Serie de robots personalizables llamados Medabots que compiten en combates mientras sus dueños viven aventuras y rivalidades.</desc>
+  </programme>
+  <programme start="20260408053000 -0300" stop="20260408060000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260408060000 -0300" stop="20260408063000 -0300" channel="aztv.ar">
+    <title lang="es">Trigun</title>
+    <desc lang="es">Western espacial sobre un pistolero pacifista con pasado misterioso que intenta evitar la violencia en un mundo lleno de cazarrecompensas.</desc>
+  </programme>
+  <programme start="20260408063000 -0300" stop="20260408070000 -0300" channel="aztv.ar">
+    <title lang="es">Gungrave</title>
+    <desc lang="es">Drama de accion que sigue la historia de amistad y traicion dentro del crimen organizado y el renacimiento de un guerrero sobrenatural.</desc>
+  </programme>
+  <programme start="20260408070000 -0300" stop="20260408073000 -0300" channel="aztv.ar">
+    <title lang="es">Steins Gate</title>
+    <desc lang="es">Thriller de ciencia ficcion sobre viajes en el tiempo donde un grupo de amigos descubre las consecuencias peligrosas de alterar el pasado.</desc>
+  </programme>
+  <programme start="20260408073000 -0300" stop="20260408080000 -0300" channel="aztv.ar">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">La humanidad sobrevive confinada tras tres enormes murallas para protegerse de los titanes, criaturas gigantes que devoran personas sin razón aparente. Eren Jaeger, un joven impulsado por la venganza tras perder a su madre en un ataque, se une al Cuerpo de Exploración para combatirlos y descubrir sus secretos</desc>
+  </programme>
+  <programme start="20260408080000 -0300" stop="20260408083000 -0300" channel="aztv.ar">
+    <title lang="es">Tenchi Universe</title>
+    <desc lang="es">El joven Tenchi Masaki atrae accidentalmente a su casa a princesas alienígenas, diosas y guerreras rivales tras un choque espacial, desatando situaciones hilarantes de competencia romántica, explosiones y convivencia forzada en la Tierra, todo en un tono desenfadado de harén cósmico y amistad improbable.</desc>
+  </programme>
+  <programme start="20260408083000 -0300" stop="20260408090000 -0300" channel="aztv.ar">
+    <title lang="es">Rave Master</title>
+    <desc lang="es">Sigue las aventuras de Haru Glory, un joven espadachín que hereda la legendaria espada Ten Powers de su padre y emprende un viaje épico para encontrar las Rave Stones, fragmentos mágicos capaces de destruir la misteriosa Dark Bring, fuente de todo mal y oscuridad en el mundo.</desc>
+  </programme>
+  <programme start="20260408090000 -0300" stop="20260408093000 -0300" channel="aztv.ar">
+    <title lang="es">Samurai 7</title>
+    <desc lang="es">Se reimagina la clásica película Los Siete Samuráis de Akira Kurosawa en un futuro postapocalíptico steampunk: aldeanos oprimidos por bandidos robóticos reclutan a siete samuráis renegados con habilidades únicas y mechas para defender su pueblo, desatando épicas batallas, lealtades probadas y sacrificios heroicos en un mundo devastado donde la tradición samurai choca con la tecnología destructiva.</desc>
+  </programme>
+  <programme start="20260408093000 -0300" stop="20260408100000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260408100000 -0300" stop="20260408103000 -0300" channel="aztv.ar">
+    <title lang="es">Bandidos del Tiempo</title>
+    <desc lang="es">Serie animada sobre un grupo de viajeros temporales que recorren distintas epocas historicas enfrentando situaciones absurdas y aventuras comicas.</desc>
+  </programme>
+  <programme start="20260408103000 -0300" stop="20260408110000 -0300" channel="aztv.ar">
+    <title lang="es">Koni Chan</title>
+    <desc lang="es">Comedia anime protagonizada por una chica hiperactiva y caotica que vive situaciones absurdas junto a sus amigos en una ciudad llena de humor exagerado.</desc>
+  </programme>
+  <programme start="20260408110000 -0300" stop="20260408113000 -0300" channel="aztv.ar">
+    <title lang="es">Hamtaro</title>
+    <desc lang="es">Aventuras tiernas de un pequeño hamster y sus amigos que viven divertidas historias mientras exploran el mundo desde su diminuta perspectiva.</desc>
+  </programme>
+  <programme start="20260408113000 -0300" stop="20260408120000 -0300" channel="aztv.ar">
+    <title lang="es">Corrector Yui</title>
+    <desc lang="es">Anime de accion digital donde una joven es transportada a una red virtual y debe salvar el ciberespacio usando poderes especiales.</desc>
+  </programme>
+  <programme start="20260408120000 -0300" stop="20260408123000 -0300" channel="aztv.ar">
+    <title lang="es">Beyblade</title>
+    <desc lang="es">Serie de accion sobre batallas con trompos personalizados donde los protagonistas compiten en torneos y desarrollan habilidades especiales.</desc>
+  </programme>
+  <programme start="20260408123000 -0300" stop="20260408130000 -0300" channel="aztv.ar">
+    <title lang="es">Bakugan</title>
+    <desc lang="es">Historia de jovenes que combaten usando criaturas llamadas Bakugan en batallas estrategicas que determinan el destino de su mundo.</desc>
+  </programme>
+  <programme start="20260408130000 -0300" stop="20260408133000 -0300" channel="aztv.ar">
+    <title lang="es">Medabots</title>
+    <desc lang="es">Serie de robots personalizables llamados Medabots que compiten en combates mientras sus dueños viven aventuras y rivalidades.</desc>
+  </programme>
+  <programme start="20260408133000 -0300" stop="20260408140000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260408140000 -0300" stop="20260408143000 -0300" channel="aztv.ar">
+    <title lang="es">Trigun</title>
+    <desc lang="es">Western espacial sobre un pistolero pacifista con pasado misterioso que intenta evitar la violencia en un mundo lleno de cazarrecompensas.</desc>
+  </programme>
+  <programme start="20260408143000 -0300" stop="20260408150000 -0300" channel="aztv.ar">
+    <title lang="es">Gungrave</title>
+    <desc lang="es">Drama de accion que sigue la historia de amistad y traicion dentro del crimen organizado y el renacimiento de un guerrero sobrenatural.</desc>
+  </programme>
+  <programme start="20260408150000 -0300" stop="20260408153000 -0300" channel="aztv.ar">
+    <title lang="es">Steins Gate</title>
+    <desc lang="es">Thriller de ciencia ficcion sobre viajes en el tiempo donde un grupo de amigos descubre las consecuencias peligrosas de alterar el pasado.</desc>
+  </programme>
+  <programme start="20260408153000 -0300" stop="20260408160000 -0300" channel="aztv.ar">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">La humanidad sobrevive confinada tras tres enormes murallas para protegerse de los titanes, criaturas gigantes que devoran personas sin razón aparente. Eren Jaeger, un joven impulsado por la venganza tras perder a su madre en un ataque, se une al Cuerpo de Exploración para combatirlos y descubrir sus secretos</desc>
+  </programme>
+  <programme start="20260408160000 -0300" stop="20260408163000 -0300" channel="aztv.ar">
+    <title lang="es">Tenchi Universe</title>
+    <desc lang="es">El joven Tenchi Masaki atrae accidentalmente a su casa a princesas alienígenas, diosas y guerreras rivales tras un choque espacial, desatando situaciones hilarantes de competencia romántica, explosiones y convivencia forzada en la Tierra, todo en un tono desenfadado de harén cósmico y amistad improbable.</desc>
+  </programme>
+  <programme start="20260408163000 -0300" stop="20260408170000 -0300" channel="aztv.ar">
+    <title lang="es">Rave Master</title>
+    <desc lang="es">Sigue las aventuras de Haru Glory, un joven espadachín que hereda la legendaria espada Ten Powers de su padre y emprende un viaje épico para encontrar las Rave Stones, fragmentos mágicos capaces de destruir la misteriosa Dark Bring, fuente de todo mal y oscuridad en el mundo.</desc>
+  </programme>
+  <programme start="20260408170000 -0300" stop="20260408173000 -0300" channel="aztv.ar">
+    <title lang="es">Samurai 7</title>
+    <desc lang="es">Se reimagina la clásica película Los Siete Samuráis de Akira Kurosawa en un futuro postapocalíptico steampunk: aldeanos oprimidos por bandidos robóticos reclutan a siete samuráis renegados con habilidades únicas y mechas para defender su pueblo, desatando épicas batallas, lealtades probadas y sacrificios heroicos en un mundo devastado donde la tradición samurai choca con la tecnología destructiva.</desc>
+  </programme>
+  <programme start="20260408173000 -0300" stop="20260408180000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260408180000 -0300" stop="20260408183000 -0300" channel="aztv.ar">
+    <title lang="es">Bandidos del Tiempo</title>
+    <desc lang="es">Serie animada sobre un grupo de viajeros temporales que recorren distintas epocas historicas enfrentando situaciones absurdas y aventuras comicas.</desc>
+  </programme>
+  <programme start="20260408183000 -0300" stop="20260408190000 -0300" channel="aztv.ar">
+    <title lang="es">Koni Chan</title>
+    <desc lang="es">Comedia anime protagonizada por una chica hiperactiva y caotica que vive situaciones absurdas junto a sus amigos en una ciudad llena de humor exagerado.</desc>
+  </programme>
+  <programme start="20260408190000 -0300" stop="20260408193000 -0300" channel="aztv.ar">
+    <title lang="es">Hamtaro</title>
+    <desc lang="es">Aventuras tiernas de un pequeño hamster y sus amigos que viven divertidas historias mientras exploran el mundo desde su diminuta perspectiva.</desc>
+  </programme>
+  <programme start="20260408193000 -0300" stop="20260408200000 -0300" channel="aztv.ar">
+    <title lang="es">Corrector Yui</title>
+    <desc lang="es">Anime de accion digital donde una joven es transportada a una red virtual y debe salvar el ciberespacio usando poderes especiales.</desc>
+  </programme>
+  <programme start="20260408200000 -0300" stop="20260408203000 -0300" channel="aztv.ar">
+    <title lang="es">Beyblade</title>
+    <desc lang="es">Serie de accion sobre batallas con trompos personalizados donde los protagonistas compiten en torneos y desarrollan habilidades especiales.</desc>
+  </programme>
+  <programme start="20260408203000 -0300" stop="20260408210000 -0300" channel="aztv.ar">
+    <title lang="es">Bakugan</title>
+    <desc lang="es">Historia de jovenes que combaten usando criaturas llamadas Bakugan en batallas estrategicas que determinan el destino de su mundo.</desc>
+  </programme>
+  <programme start="20260408210000 -0300" stop="20260408213000 -0300" channel="aztv.ar">
+    <title lang="es">Medabots</title>
+    <desc lang="es">Serie de robots personalizables llamados Medabots que compiten en combates mientras sus dueños viven aventuras y rivalidades.</desc>
+  </programme>
+  <programme start="20260408213000 -0300" stop="20260408220000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260408220000 -0300" stop="20260408223000 -0300" channel="aztv.ar">
+    <title lang="es">Trigun</title>
+    <desc lang="es">Western espacial sobre un pistolero pacifista con pasado misterioso que intenta evitar la violencia en un mundo lleno de cazarrecompensas.</desc>
+  </programme>
+  <programme start="20260408223000 -0300" stop="20260408230000 -0300" channel="aztv.ar">
+    <title lang="es">Gungrave</title>
+    <desc lang="es">Drama de accion que sigue la historia de amistad y traicion dentro del crimen organizado y el renacimiento de un guerrero sobrenatural.</desc>
+  </programme>
+  <programme start="20260408230000 -0300" stop="20260408233000 -0300" channel="aztv.ar">
+    <title lang="es">Steins Gate</title>
+    <desc lang="es">Thriller de ciencia ficcion sobre viajes en el tiempo donde un grupo de amigos descubre las consecuencias peligrosas de alterar el pasado.</desc>
+  </programme>
+  <programme start="20260408233000 -0300" stop="20260409000000 -0300" channel="aztv.ar">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">La humanidad sobrevive confinada tras tres enormes murallas para protegerse de los titanes, criaturas gigantes que devoran personas sin razón aparente. Eren Jaeger, un joven impulsado por la venganza tras perder a su madre en un ataque, se une al Cuerpo de Exploración para combatirlos y descubrir sus secretos</desc>
+  </programme>
+  <programme start="20260409000000 -0300" stop="20260409003000 -0300" channel="aztv.ar">
+    <title lang="es">Tenchi Universe</title>
+    <desc lang="es">El joven Tenchi Masaki atrae accidentalmente a su casa a princesas alienígenas, diosas y guerreras rivales tras un choque espacial, desatando situaciones hilarantes de competencia romántica, explosiones y convivencia forzada en la Tierra, todo en un tono desenfadado de harén cósmico y amistad improbable.</desc>
+  </programme>
+  <programme start="20260409003000 -0300" stop="20260409010000 -0300" channel="aztv.ar">
+    <title lang="es">Rave Master</title>
+    <desc lang="es">Sigue las aventuras de Haru Glory, un joven espadachín que hereda la legendaria espada Ten Powers de su padre y emprende un viaje épico para encontrar las Rave Stones, fragmentos mágicos capaces de destruir la misteriosa Dark Bring, fuente de todo mal y oscuridad en el mundo.</desc>
+  </programme>
+  <programme start="20260409010000 -0300" stop="20260409013000 -0300" channel="aztv.ar">
+    <title lang="es">Samurai 7</title>
+    <desc lang="es">Se reimagina la clásica película Los Siete Samuráis de Akira Kurosawa en un futuro postapocalíptico steampunk: aldeanos oprimidos por bandidos robóticos reclutan a siete samuráis renegados con habilidades únicas y mechas para defender su pueblo, desatando épicas batallas, lealtades probadas y sacrificios heroicos en un mundo devastado donde la tradición samurai choca con la tecnología destructiva.</desc>
+  </programme>
+  <programme start="20260409013000 -0300" stop="20260409020000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260409020000 -0300" stop="20260409023000 -0300" channel="aztv.ar">
+    <title lang="es">Bandidos del Tiempo</title>
+    <desc lang="es">Serie animada sobre un grupo de viajeros temporales que recorren distintas epocas historicas enfrentando situaciones absurdas y aventuras comicas.</desc>
+  </programme>
+  <programme start="20260409023000 -0300" stop="20260409030000 -0300" channel="aztv.ar">
+    <title lang="es">Koni Chan</title>
+    <desc lang="es">Comedia anime protagonizada por una chica hiperactiva y caotica que vive situaciones absurdas junto a sus amigos en una ciudad llena de humor exagerado.</desc>
+  </programme>
+  <programme start="20260409030000 -0300" stop="20260409033000 -0300" channel="aztv.ar">
+    <title lang="es">Hamtaro</title>
+    <desc lang="es">Aventuras tiernas de un pequeño hamster y sus amigos que viven divertidas historias mientras exploran el mundo desde su diminuta perspectiva.</desc>
+  </programme>
+  <programme start="20260409033000 -0300" stop="20260409040000 -0300" channel="aztv.ar">
+    <title lang="es">Corrector Yui</title>
+    <desc lang="es">Anime de accion digital donde una joven es transportada a una red virtual y debe salvar el ciberespacio usando poderes especiales.</desc>
+  </programme>
+  <programme start="20260409040000 -0300" stop="20260409043000 -0300" channel="aztv.ar">
+    <title lang="es">Beyblade</title>
+    <desc lang="es">Serie de accion sobre batallas con trompos personalizados donde los protagonistas compiten en torneos y desarrollan habilidades especiales.</desc>
+  </programme>
+  <programme start="20260409043000 -0300" stop="20260409050000 -0300" channel="aztv.ar">
+    <title lang="es">Bakugan</title>
+    <desc lang="es">Historia de jovenes que combaten usando criaturas llamadas Bakugan en batallas estrategicas que determinan el destino de su mundo.</desc>
+  </programme>
+  <programme start="20260409050000 -0300" stop="20260409053000 -0300" channel="aztv.ar">
+    <title lang="es">Medabots</title>
+    <desc lang="es">Serie de robots personalizables llamados Medabots que compiten en combates mientras sus dueños viven aventuras y rivalidades.</desc>
+  </programme>
+  <programme start="20260409053000 -0300" stop="20260409060000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260409060000 -0300" stop="20260409063000 -0300" channel="aztv.ar">
+    <title lang="es">Trigun</title>
+    <desc lang="es">Western espacial sobre un pistolero pacifista con pasado misterioso que intenta evitar la violencia en un mundo lleno de cazarrecompensas.</desc>
+  </programme>
+  <programme start="20260409063000 -0300" stop="20260409070000 -0300" channel="aztv.ar">
+    <title lang="es">Gungrave</title>
+    <desc lang="es">Drama de accion que sigue la historia de amistad y traicion dentro del crimen organizado y el renacimiento de un guerrero sobrenatural.</desc>
+  </programme>
+  <programme start="20260409070000 -0300" stop="20260409073000 -0300" channel="aztv.ar">
+    <title lang="es">Steins Gate</title>
+    <desc lang="es">Thriller de ciencia ficcion sobre viajes en el tiempo donde un grupo de amigos descubre las consecuencias peligrosas de alterar el pasado.</desc>
+  </programme>
+  <programme start="20260409073000 -0300" stop="20260409080000 -0300" channel="aztv.ar">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">La humanidad sobrevive confinada tras tres enormes murallas para protegerse de los titanes, criaturas gigantes que devoran personas sin razón aparente. Eren Jaeger, un joven impulsado por la venganza tras perder a su madre en un ataque, se une al Cuerpo de Exploración para combatirlos y descubrir sus secretos</desc>
+  </programme>
+  <programme start="20260409080000 -0300" stop="20260409083000 -0300" channel="aztv.ar">
+    <title lang="es">Tenchi Universe</title>
+    <desc lang="es">El joven Tenchi Masaki atrae accidentalmente a su casa a princesas alienígenas, diosas y guerreras rivales tras un choque espacial, desatando situaciones hilarantes de competencia romántica, explosiones y convivencia forzada en la Tierra, todo en un tono desenfadado de harén cósmico y amistad improbable.</desc>
+  </programme>
+  <programme start="20260409083000 -0300" stop="20260409090000 -0300" channel="aztv.ar">
+    <title lang="es">Rave Master</title>
+    <desc lang="es">Sigue las aventuras de Haru Glory, un joven espadachín que hereda la legendaria espada Ten Powers de su padre y emprende un viaje épico para encontrar las Rave Stones, fragmentos mágicos capaces de destruir la misteriosa Dark Bring, fuente de todo mal y oscuridad en el mundo.</desc>
+  </programme>
+  <programme start="20260409090000 -0300" stop="20260409093000 -0300" channel="aztv.ar">
+    <title lang="es">Samurai 7</title>
+    <desc lang="es">Se reimagina la clásica película Los Siete Samuráis de Akira Kurosawa en un futuro postapocalíptico steampunk: aldeanos oprimidos por bandidos robóticos reclutan a siete samuráis renegados con habilidades únicas y mechas para defender su pueblo, desatando épicas batallas, lealtades probadas y sacrificios heroicos en un mundo devastado donde la tradición samurai choca con la tecnología destructiva.</desc>
+  </programme>
+  <programme start="20260409093000 -0300" stop="20260409100000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260409100000 -0300" stop="20260409103000 -0300" channel="aztv.ar">
+    <title lang="es">Bandidos del Tiempo</title>
+    <desc lang="es">Serie animada sobre un grupo de viajeros temporales que recorren distintas epocas historicas enfrentando situaciones absurdas y aventuras comicas.</desc>
+  </programme>
+  <programme start="20260409103000 -0300" stop="20260409110000 -0300" channel="aztv.ar">
+    <title lang="es">Koni Chan</title>
+    <desc lang="es">Comedia anime protagonizada por una chica hiperactiva y caotica que vive situaciones absurdas junto a sus amigos en una ciudad llena de humor exagerado.</desc>
+  </programme>
+  <programme start="20260409110000 -0300" stop="20260409113000 -0300" channel="aztv.ar">
+    <title lang="es">Hamtaro</title>
+    <desc lang="es">Aventuras tiernas de un pequeño hamster y sus amigos que viven divertidas historias mientras exploran el mundo desde su diminuta perspectiva.</desc>
+  </programme>
+  <programme start="20260409113000 -0300" stop="20260409120000 -0300" channel="aztv.ar">
+    <title lang="es">Corrector Yui</title>
+    <desc lang="es">Anime de accion digital donde una joven es transportada a una red virtual y debe salvar el ciberespacio usando poderes especiales.</desc>
+  </programme>
+  <programme start="20260409120000 -0300" stop="20260409123000 -0300" channel="aztv.ar">
+    <title lang="es">Beyblade</title>
+    <desc lang="es">Serie de accion sobre batallas con trompos personalizados donde los protagonistas compiten en torneos y desarrollan habilidades especiales.</desc>
+  </programme>
+  <programme start="20260409123000 -0300" stop="20260409130000 -0300" channel="aztv.ar">
+    <title lang="es">Bakugan</title>
+    <desc lang="es">Historia de jovenes que combaten usando criaturas llamadas Bakugan en batallas estrategicas que determinan el destino de su mundo.</desc>
+  </programme>
+  <programme start="20260409130000 -0300" stop="20260409133000 -0300" channel="aztv.ar">
+    <title lang="es">Medabots</title>
+    <desc lang="es">Serie de robots personalizables llamados Medabots que compiten en combates mientras sus dueños viven aventuras y rivalidades.</desc>
+  </programme>
+  <programme start="20260409133000 -0300" stop="20260409140000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260409140000 -0300" stop="20260409143000 -0300" channel="aztv.ar">
+    <title lang="es">Trigun</title>
+    <desc lang="es">Western espacial sobre un pistolero pacifista con pasado misterioso que intenta evitar la violencia en un mundo lleno de cazarrecompensas.</desc>
+  </programme>
+  <programme start="20260409143000 -0300" stop="20260409150000 -0300" channel="aztv.ar">
+    <title lang="es">Gungrave</title>
+    <desc lang="es">Drama de accion que sigue la historia de amistad y traicion dentro del crimen organizado y el renacimiento de un guerrero sobrenatural.</desc>
+  </programme>
+  <programme start="20260409150000 -0300" stop="20260409153000 -0300" channel="aztv.ar">
+    <title lang="es">Steins Gate</title>
+    <desc lang="es">Thriller de ciencia ficcion sobre viajes en el tiempo donde un grupo de amigos descubre las consecuencias peligrosas de alterar el pasado.</desc>
+  </programme>
+  <programme start="20260409153000 -0300" stop="20260409160000 -0300" channel="aztv.ar">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">La humanidad sobrevive confinada tras tres enormes murallas para protegerse de los titanes, criaturas gigantes que devoran personas sin razón aparente. Eren Jaeger, un joven impulsado por la venganza tras perder a su madre en un ataque, se une al Cuerpo de Exploración para combatirlos y descubrir sus secretos</desc>
+  </programme>
+  <programme start="20260409160000 -0300" stop="20260409163000 -0300" channel="aztv.ar">
+    <title lang="es">Tenchi Universe</title>
+    <desc lang="es">El joven Tenchi Masaki atrae accidentalmente a su casa a princesas alienígenas, diosas y guerreras rivales tras un choque espacial, desatando situaciones hilarantes de competencia romántica, explosiones y convivencia forzada en la Tierra, todo en un tono desenfadado de harén cósmico y amistad improbable.</desc>
+  </programme>
+  <programme start="20260409163000 -0300" stop="20260409170000 -0300" channel="aztv.ar">
+    <title lang="es">Rave Master</title>
+    <desc lang="es">Sigue las aventuras de Haru Glory, un joven espadachín que hereda la legendaria espada Ten Powers de su padre y emprende un viaje épico para encontrar las Rave Stones, fragmentos mágicos capaces de destruir la misteriosa Dark Bring, fuente de todo mal y oscuridad en el mundo.</desc>
+  </programme>
+  <programme start="20260409170000 -0300" stop="20260409173000 -0300" channel="aztv.ar">
+    <title lang="es">Samurai 7</title>
+    <desc lang="es">Se reimagina la clásica película Los Siete Samuráis de Akira Kurosawa en un futuro postapocalíptico steampunk: aldeanos oprimidos por bandidos robóticos reclutan a siete samuráis renegados con habilidades únicas y mechas para defender su pueblo, desatando épicas batallas, lealtades probadas y sacrificios heroicos en un mundo devastado donde la tradición samurai choca con la tecnología destructiva.</desc>
+  </programme>
+  <programme start="20260409173000 -0300" stop="20260409180000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260409180000 -0300" stop="20260409183000 -0300" channel="aztv.ar">
+    <title lang="es">Bandidos del Tiempo</title>
+    <desc lang="es">Serie animada sobre un grupo de viajeros temporales que recorren distintas epocas historicas enfrentando situaciones absurdas y aventuras comicas.</desc>
+  </programme>
+  <programme start="20260409183000 -0300" stop="20260409190000 -0300" channel="aztv.ar">
+    <title lang="es">Koni Chan</title>
+    <desc lang="es">Comedia anime protagonizada por una chica hiperactiva y caotica que vive situaciones absurdas junto a sus amigos en una ciudad llena de humor exagerado.</desc>
+  </programme>
+  <programme start="20260409190000 -0300" stop="20260409193000 -0300" channel="aztv.ar">
+    <title lang="es">Hamtaro</title>
+    <desc lang="es">Aventuras tiernas de un pequeño hamster y sus amigos que viven divertidas historias mientras exploran el mundo desde su diminuta perspectiva.</desc>
+  </programme>
+  <programme start="20260409193000 -0300" stop="20260409200000 -0300" channel="aztv.ar">
+    <title lang="es">Corrector Yui</title>
+    <desc lang="es">Anime de accion digital donde una joven es transportada a una red virtual y debe salvar el ciberespacio usando poderes especiales.</desc>
+  </programme>
+  <programme start="20260409200000 -0300" stop="20260409203000 -0300" channel="aztv.ar">
+    <title lang="es">Beyblade</title>
+    <desc lang="es">Serie de accion sobre batallas con trompos personalizados donde los protagonistas compiten en torneos y desarrollan habilidades especiales.</desc>
+  </programme>
+  <programme start="20260409203000 -0300" stop="20260409210000 -0300" channel="aztv.ar">
+    <title lang="es">Bakugan</title>
+    <desc lang="es">Historia de jovenes que combaten usando criaturas llamadas Bakugan en batallas estrategicas que determinan el destino de su mundo.</desc>
+  </programme>
+  <programme start="20260409210000 -0300" stop="20260409213000 -0300" channel="aztv.ar">
+    <title lang="es">Medabots</title>
+    <desc lang="es">Serie de robots personalizables llamados Medabots que compiten en combates mientras sus dueños viven aventuras y rivalidades.</desc>
+  </programme>
+  <programme start="20260409213000 -0300" stop="20260409220000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260409220000 -0300" stop="20260409223000 -0300" channel="aztv.ar">
+    <title lang="es">Trigun</title>
+    <desc lang="es">Western espacial sobre un pistolero pacifista con pasado misterioso que intenta evitar la violencia en un mundo lleno de cazarrecompensas.</desc>
+  </programme>
+  <programme start="20260409223000 -0300" stop="20260409230000 -0300" channel="aztv.ar">
+    <title lang="es">Gungrave</title>
+    <desc lang="es">Drama de accion que sigue la historia de amistad y traicion dentro del crimen organizado y el renacimiento de un guerrero sobrenatural.</desc>
+  </programme>
+  <programme start="20260409230000 -0300" stop="20260409233000 -0300" channel="aztv.ar">
+    <title lang="es">Steins Gate</title>
+    <desc lang="es">Thriller de ciencia ficcion sobre viajes en el tiempo donde un grupo de amigos descubre las consecuencias peligrosas de alterar el pasado.</desc>
+  </programme>
+  <programme start="20260409233000 -0300" stop="20260410000000 -0300" channel="aztv.ar">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">La humanidad sobrevive confinada tras tres enormes murallas para protegerse de los titanes, criaturas gigantes que devoran personas sin razón aparente. Eren Jaeger, un joven impulsado por la venganza tras perder a su madre en un ataque, se une al Cuerpo de Exploración para combatirlos y descubrir sus secretos</desc>
+  </programme>
+  <programme start="20260410000000 -0300" stop="20260410003000 -0300" channel="aztv.ar">
+    <title lang="es">Tenchi Universe</title>
+    <desc lang="es">El joven Tenchi Masaki atrae accidentalmente a su casa a princesas alienígenas, diosas y guerreras rivales tras un choque espacial, desatando situaciones hilarantes de competencia romántica, explosiones y convivencia forzada en la Tierra, todo en un tono desenfadado de harén cósmico y amistad improbable.</desc>
+  </programme>
+  <programme start="20260410003000 -0300" stop="20260410010000 -0300" channel="aztv.ar">
+    <title lang="es">Rave Master</title>
+    <desc lang="es">Sigue las aventuras de Haru Glory, un joven espadachín que hereda la legendaria espada Ten Powers de su padre y emprende un viaje épico para encontrar las Rave Stones, fragmentos mágicos capaces de destruir la misteriosa Dark Bring, fuente de todo mal y oscuridad en el mundo.</desc>
+  </programme>
+  <programme start="20260410010000 -0300" stop="20260410013000 -0300" channel="aztv.ar">
+    <title lang="es">Samurai 7</title>
+    <desc lang="es">Se reimagina la clásica película Los Siete Samuráis de Akira Kurosawa en un futuro postapocalíptico steampunk: aldeanos oprimidos por bandidos robóticos reclutan a siete samuráis renegados con habilidades únicas y mechas para defender su pueblo, desatando épicas batallas, lealtades probadas y sacrificios heroicos en un mundo devastado donde la tradición samurai choca con la tecnología destructiva.</desc>
+  </programme>
+  <programme start="20260410013000 -0300" stop="20260410020000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260410020000 -0300" stop="20260410023000 -0300" channel="aztv.ar">
+    <title lang="es">Bandidos del Tiempo</title>
+    <desc lang="es">Serie animada sobre un grupo de viajeros temporales que recorren distintas epocas historicas enfrentando situaciones absurdas y aventuras comicas.</desc>
+  </programme>
+  <programme start="20260410023000 -0300" stop="20260410030000 -0300" channel="aztv.ar">
+    <title lang="es">Koni Chan</title>
+    <desc lang="es">Comedia anime protagonizada por una chica hiperactiva y caotica que vive situaciones absurdas junto a sus amigos en una ciudad llena de humor exagerado.</desc>
+  </programme>
+  <programme start="20260410030000 -0300" stop="20260410033000 -0300" channel="aztv.ar">
+    <title lang="es">Hamtaro</title>
+    <desc lang="es">Aventuras tiernas de un pequeño hamster y sus amigos que viven divertidas historias mientras exploran el mundo desde su diminuta perspectiva.</desc>
+  </programme>
+  <programme start="20260410033000 -0300" stop="20260410040000 -0300" channel="aztv.ar">
+    <title lang="es">Corrector Yui</title>
+    <desc lang="es">Anime de accion digital donde una joven es transportada a una red virtual y debe salvar el ciberespacio usando poderes especiales.</desc>
+  </programme>
+  <programme start="20260410040000 -0300" stop="20260410043000 -0300" channel="aztv.ar">
+    <title lang="es">Beyblade</title>
+    <desc lang="es">Serie de accion sobre batallas con trompos personalizados donde los protagonistas compiten en torneos y desarrollan habilidades especiales.</desc>
+  </programme>
+  <programme start="20260410043000 -0300" stop="20260410050000 -0300" channel="aztv.ar">
+    <title lang="es">Bakugan</title>
+    <desc lang="es">Historia de jovenes que combaten usando criaturas llamadas Bakugan en batallas estrategicas que determinan el destino de su mundo.</desc>
+  </programme>
+  <programme start="20260410050000 -0300" stop="20260410053000 -0300" channel="aztv.ar">
+    <title lang="es">Medabots</title>
+    <desc lang="es">Serie de robots personalizables llamados Medabots que compiten en combates mientras sus dueños viven aventuras y rivalidades.</desc>
+  </programme>
+  <programme start="20260410053000 -0300" stop="20260410060000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260410060000 -0300" stop="20260410063000 -0300" channel="aztv.ar">
+    <title lang="es">Trigun</title>
+    <desc lang="es">Western espacial sobre un pistolero pacifista con pasado misterioso que intenta evitar la violencia en un mundo lleno de cazarrecompensas.</desc>
+  </programme>
+  <programme start="20260410063000 -0300" stop="20260410070000 -0300" channel="aztv.ar">
+    <title lang="es">Gungrave</title>
+    <desc lang="es">Drama de accion que sigue la historia de amistad y traicion dentro del crimen organizado y el renacimiento de un guerrero sobrenatural.</desc>
+  </programme>
+  <programme start="20260410070000 -0300" stop="20260410073000 -0300" channel="aztv.ar">
+    <title lang="es">Steins Gate</title>
+    <desc lang="es">Thriller de ciencia ficcion sobre viajes en el tiempo donde un grupo de amigos descubre las consecuencias peligrosas de alterar el pasado.</desc>
+  </programme>
+  <programme start="20260410073000 -0300" stop="20260410080000 -0300" channel="aztv.ar">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">La humanidad sobrevive confinada tras tres enormes murallas para protegerse de los titanes, criaturas gigantes que devoran personas sin razón aparente. Eren Jaeger, un joven impulsado por la venganza tras perder a su madre en un ataque, se une al Cuerpo de Exploración para combatirlos y descubrir sus secretos</desc>
+  </programme>
+  <programme start="20260410080000 -0300" stop="20260410083000 -0300" channel="aztv.ar">
+    <title lang="es">Tenchi Universe</title>
+    <desc lang="es">El joven Tenchi Masaki atrae accidentalmente a su casa a princesas alienígenas, diosas y guerreras rivales tras un choque espacial, desatando situaciones hilarantes de competencia romántica, explosiones y convivencia forzada en la Tierra, todo en un tono desenfadado de harén cósmico y amistad improbable.</desc>
+  </programme>
+  <programme start="20260410083000 -0300" stop="20260410090000 -0300" channel="aztv.ar">
+    <title lang="es">Rave Master</title>
+    <desc lang="es">Sigue las aventuras de Haru Glory, un joven espadachín que hereda la legendaria espada Ten Powers de su padre y emprende un viaje épico para encontrar las Rave Stones, fragmentos mágicos capaces de destruir la misteriosa Dark Bring, fuente de todo mal y oscuridad en el mundo.</desc>
+  </programme>
+  <programme start="20260410090000 -0300" stop="20260410093000 -0300" channel="aztv.ar">
+    <title lang="es">Samurai 7</title>
+    <desc lang="es">Se reimagina la clásica película Los Siete Samuráis de Akira Kurosawa en un futuro postapocalíptico steampunk: aldeanos oprimidos por bandidos robóticos reclutan a siete samuráis renegados con habilidades únicas y mechas para defender su pueblo, desatando épicas batallas, lealtades probadas y sacrificios heroicos en un mundo devastado donde la tradición samurai choca con la tecnología destructiva.</desc>
+  </programme>
+  <programme start="20260410093000 -0300" stop="20260410100000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260410100000 -0300" stop="20260410103000 -0300" channel="aztv.ar">
+    <title lang="es">Bandidos del Tiempo</title>
+    <desc lang="es">Serie animada sobre un grupo de viajeros temporales que recorren distintas epocas historicas enfrentando situaciones absurdas y aventuras comicas.</desc>
+  </programme>
+  <programme start="20260410103000 -0300" stop="20260410110000 -0300" channel="aztv.ar">
+    <title lang="es">Koni Chan</title>
+    <desc lang="es">Comedia anime protagonizada por una chica hiperactiva y caotica que vive situaciones absurdas junto a sus amigos en una ciudad llena de humor exagerado.</desc>
+  </programme>
+  <programme start="20260410110000 -0300" stop="20260410113000 -0300" channel="aztv.ar">
+    <title lang="es">Hamtaro</title>
+    <desc lang="es">Aventuras tiernas de un pequeño hamster y sus amigos que viven divertidas historias mientras exploran el mundo desde su diminuta perspectiva.</desc>
+  </programme>
+  <programme start="20260410113000 -0300" stop="20260410120000 -0300" channel="aztv.ar">
+    <title lang="es">Corrector Yui</title>
+    <desc lang="es">Anime de accion digital donde una joven es transportada a una red virtual y debe salvar el ciberespacio usando poderes especiales.</desc>
+  </programme>
+  <programme start="20260410120000 -0300" stop="20260410123000 -0300" channel="aztv.ar">
+    <title lang="es">Beyblade</title>
+    <desc lang="es">Serie de accion sobre batallas con trompos personalizados donde los protagonistas compiten en torneos y desarrollan habilidades especiales.</desc>
+  </programme>
+  <programme start="20260410123000 -0300" stop="20260410130000 -0300" channel="aztv.ar">
+    <title lang="es">Bakugan</title>
+    <desc lang="es">Historia de jovenes que combaten usando criaturas llamadas Bakugan en batallas estrategicas que determinan el destino de su mundo.</desc>
+  </programme>
+  <programme start="20260410130000 -0300" stop="20260410133000 -0300" channel="aztv.ar">
+    <title lang="es">Medabots</title>
+    <desc lang="es">Serie de robots personalizables llamados Medabots que compiten en combates mientras sus dueños viven aventuras y rivalidades.</desc>
+  </programme>
+  <programme start="20260410133000 -0300" stop="20260410140000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260410140000 -0300" stop="20260410143000 -0300" channel="aztv.ar">
+    <title lang="es">Trigun</title>
+    <desc lang="es">Western espacial sobre un pistolero pacifista con pasado misterioso que intenta evitar la violencia en un mundo lleno de cazarrecompensas.</desc>
+  </programme>
+  <programme start="20260410143000 -0300" stop="20260410150000 -0300" channel="aztv.ar">
+    <title lang="es">Gungrave</title>
+    <desc lang="es">Drama de accion que sigue la historia de amistad y traicion dentro del crimen organizado y el renacimiento de un guerrero sobrenatural.</desc>
+  </programme>
+  <programme start="20260410150000 -0300" stop="20260410153000 -0300" channel="aztv.ar">
+    <title lang="es">Steins Gate</title>
+    <desc lang="es">Thriller de ciencia ficcion sobre viajes en el tiempo donde un grupo de amigos descubre las consecuencias peligrosas de alterar el pasado.</desc>
+  </programme>
+  <programme start="20260410153000 -0300" stop="20260410160000 -0300" channel="aztv.ar">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">La humanidad sobrevive confinada tras tres enormes murallas para protegerse de los titanes, criaturas gigantes que devoran personas sin razón aparente. Eren Jaeger, un joven impulsado por la venganza tras perder a su madre en un ataque, se une al Cuerpo de Exploración para combatirlos y descubrir sus secretos</desc>
+  </programme>
+  <programme start="20260410160000 -0300" stop="20260410163000 -0300" channel="aztv.ar">
+    <title lang="es">Tenchi Universe</title>
+    <desc lang="es">El joven Tenchi Masaki atrae accidentalmente a su casa a princesas alienígenas, diosas y guerreras rivales tras un choque espacial, desatando situaciones hilarantes de competencia romántica, explosiones y convivencia forzada en la Tierra, todo en un tono desenfadado de harén cósmico y amistad improbable.</desc>
+  </programme>
+  <programme start="20260410163000 -0300" stop="20260410170000 -0300" channel="aztv.ar">
+    <title lang="es">Rave Master</title>
+    <desc lang="es">Sigue las aventuras de Haru Glory, un joven espadachín que hereda la legendaria espada Ten Powers de su padre y emprende un viaje épico para encontrar las Rave Stones, fragmentos mágicos capaces de destruir la misteriosa Dark Bring, fuente de todo mal y oscuridad en el mundo.</desc>
+  </programme>
+  <programme start="20260410170000 -0300" stop="20260410173000 -0300" channel="aztv.ar">
+    <title lang="es">Samurai 7</title>
+    <desc lang="es">Se reimagina la clásica película Los Siete Samuráis de Akira Kurosawa en un futuro postapocalíptico steampunk: aldeanos oprimidos por bandidos robóticos reclutan a siete samuráis renegados con habilidades únicas y mechas para defender su pueblo, desatando épicas batallas, lealtades probadas y sacrificios heroicos en un mundo devastado donde la tradición samurai choca con la tecnología destructiva.</desc>
+  </programme>
+  <programme start="20260410173000 -0300" stop="20260410180000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260410180000 -0300" stop="20260410183000 -0300" channel="aztv.ar">
+    <title lang="es">Bandidos del Tiempo</title>
+    <desc lang="es">Serie animada sobre un grupo de viajeros temporales que recorren distintas epocas historicas enfrentando situaciones absurdas y aventuras comicas.</desc>
+  </programme>
+  <programme start="20260410183000 -0300" stop="20260410190000 -0300" channel="aztv.ar">
+    <title lang="es">Koni Chan</title>
+    <desc lang="es">Comedia anime protagonizada por una chica hiperactiva y caotica que vive situaciones absurdas junto a sus amigos en una ciudad llena de humor exagerado.</desc>
+  </programme>
+  <programme start="20260410190000 -0300" stop="20260410193000 -0300" channel="aztv.ar">
+    <title lang="es">Hamtaro</title>
+    <desc lang="es">Aventuras tiernas de un pequeño hamster y sus amigos que viven divertidas historias mientras exploran el mundo desde su diminuta perspectiva.</desc>
+  </programme>
+  <programme start="20260410193000 -0300" stop="20260410200000 -0300" channel="aztv.ar">
+    <title lang="es">Corrector Yui</title>
+    <desc lang="es">Anime de accion digital donde una joven es transportada a una red virtual y debe salvar el ciberespacio usando poderes especiales.</desc>
+  </programme>
+  <programme start="20260410200000 -0300" stop="20260410203000 -0300" channel="aztv.ar">
+    <title lang="es">Beyblade</title>
+    <desc lang="es">Serie de accion sobre batallas con trompos personalizados donde los protagonistas compiten en torneos y desarrollan habilidades especiales.</desc>
+  </programme>
+  <programme start="20260410203000 -0300" stop="20260410210000 -0300" channel="aztv.ar">
+    <title lang="es">Bakugan</title>
+    <desc lang="es">Historia de jovenes que combaten usando criaturas llamadas Bakugan en batallas estrategicas que determinan el destino de su mundo.</desc>
+  </programme>
+  <programme start="20260410210000 -0300" stop="20260410213000 -0300" channel="aztv.ar">
+    <title lang="es">Medabots</title>
+    <desc lang="es">Serie de robots personalizables llamados Medabots que compiten en combates mientras sus dueños viven aventuras y rivalidades.</desc>
+  </programme>
+  <programme start="20260410213000 -0300" stop="20260410220000 -0300" channel="aztv.ar">
+    <title lang="es">sin informacion</title>
+    <desc lang="es">sin informacion</desc>
+  </programme>
+  <programme start="20260410220000 -0300" stop="20260410223000 -0300" channel="aztv.ar">
+    <title lang="es">Trigun</title>
+    <desc lang="es">Western espacial sobre un pistolero pacifista con pasado misterioso que intenta evitar la violencia en un mundo lleno de cazarrecompensas.</desc>
+  </programme>
+  <programme start="20260410223000 -0300" stop="20260410230000 -0300" channel="aztv.ar">
+    <title lang="es">Gungrave</title>
+    <desc lang="es">Drama de accion que sigue la historia de amistad y traicion dentro del crimen organizado y el renacimiento de un guerrero sobrenatural.</desc>
+  </programme>
+  <programme start="20260410230000 -0300" stop="20260410233000 -0300" channel="aztv.ar">
+    <title lang="es">Steins Gate</title>
+    <desc lang="es">Thriller de ciencia ficcion sobre viajes en el tiempo donde un grupo de amigos descubre las consecuencias peligrosas de alterar el pasado.</desc>
+  </programme>
+  <programme start="20260410233000 -0300" stop="20260411000000 -0300" channel="aztv.ar">
+    <title lang="es">Attack on Titan</title>
+    <desc lang="es">La humanidad sobrevive confinada tras tres enormes murallas para protegerse de los titanes, criaturas gigantes que devoran personas sin razón aparente. Eren Jaeger, un joven impulsado por la venganza tras perder a su madre en un ataque, se une al Cuerpo de Exploración para combatirlos y descubrir sus secretos</desc>
   </programme>
   <programme start="20260408000000 -0300" stop="20260408002000 -0300" channel="mitv.ar">
     <title lang="es">Los Dukes de Hazzard</title>

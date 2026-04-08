@@ -37,11 +37,17 @@
   <channel id="animestation.ar">
     <display-name>Animestation</display-name>
   </channel>
+  <channel id="retroblast">
+    <display-name>retroblast</display-name>
+  </channel>
   <channel id="telered.ar">
     <display-name>Telered</display-name>
   </channel>
   <channel id="telesistema.ar">
     <display-name>telesistema</display-name>
+  </channel>
+  <channel id="GTVI">
+    <display-name>GTVI</display-name>
   </channel>
   <programme start="20260408000000 -0300" stop="20260408040000 -0300" channel="radio10.ar">
     <title lang="es">Mejor ahora (Jorge Pizarro)</title>
@@ -4111,6 +4117,678 @@
     <title lang="es">Hellsing</title>
     <desc lang="es">La organización secreta Hellsing, dirigida por Integra Hellsing, combate vampiros y monstruos sobrenaturales con la ayuda de Alucard, el vampiro más poderoso del mundo, en una Inglaterra sumida en el caos.</desc>
   </programme>
+  <programme start="20260408000000 -0300" stop="20260408002200 -0300" channel="retroblast">
+    <title lang="es">Futurama</title>
+    <desc lang="es">Serie animada de ciencia ficcion que sigue a un repartidor congelado accidentalmente que despierta mil años en el futuro.</desc>
+  </programme>
+  <programme start="20260408000000 -0300" stop="20260408002200 -0300" channel="retroblast">
+    <title lang="es">Futurama</title>
+    <desc lang="es">Serie animada de ciencia ficcion que sigue a un repartidor que despierta mil años en el futuro y trabaja en una empresa de entregas espaciales viviendo aventuras absurdas y peligrosas.</desc>
+  </programme>
+  <programme start="20260408002200 -0300" stop="20260408004700 -0300" channel="retroblast">
+    <title lang="es">Family Guy</title>
+    <desc lang="es">Comedia animada sobre una familia disfuncional que vive situaciones absurdas llenas de humor satirico.</desc>
+  </programme>
+  <programme start="20260408002200 -0300" stop="20260408004700 -0300" channel="retroblast">
+    <title lang="es">Family Guy</title>
+    <desc lang="es">Comedia animada que sigue a la familia Griffin cuyas vidas se desarrollan en situaciones exageradas llenas de humor irreverente referencias culturales y momentos absurdos.</desc>
+  </programme>
+  <programme start="20260408004700 -0300" stop="20260408010000 -0300" channel="retroblast">
+    <title lang="es">Harvey Birdman Attorney at Law</title>
+    <desc lang="es">Comedia animada sobre un ex superheroe convertido en abogado que defiende personajes clasicos en juicios absurdos.</desc>
+  </programme>
+  <programme start="20260408004700 -0300" stop="20260408010000 -0300" channel="retroblast">
+    <title lang="es">Harvey Birdman Attorney at Law</title>
+    <desc lang="es">Comedia animada que parodia el mundo legal siguiendo a un ex superheroe convertido en abogado que representa a personajes famosos en juicios absurdos y situaciones ridiculas.</desc>
+  </programme>
+  <programme start="20260408010000 -0300" stop="20260408011500 -0300" channel="retroblast">
+    <title lang="es">Metalocalypse</title>
+    <desc lang="es">Serie animada para adultos que sigue a la banda de metal extremo Dethklok considerada la mas popular del mundo cuyas decisiones absurdas generan caos global mientras viven excesos violencia y humor negro en el mundo del rock.</desc>
+  </programme>
+  <programme start="20260408011500 -0300" stop="20260408013000 -0300" channel="retroblast">
+    <title lang="es">Tim and Eric Awesome Show Check It Out</title>
+    <desc lang="es">Serie de comedia surrealista que parodia programas televisivos con sketches absurdos actuaciones incomodas y situaciones ridiculamente exageradas que rompen con la logica tradicional.</desc>
+  </programme>
+  <programme start="20260408013000 -0300" stop="20260408020000 -0300" channel="retroblast">
+    <title lang="es">Bleach</title>
+    <desc lang="es">Anime de accion que sigue a Ichigo Kurosaki un joven que obtiene poderes de segador de almas y debe proteger a los humanos de espiritus malignos mientras descubre secretos sobre el mundo espiritual y sus propias habilidades.</desc>
+  </programme>
+  <programme start="20260408020000 -0300" stop="20260408023000 -0300" channel="retroblast">
+    <title lang="es">Fullmetal Alchemist Brotherhood</title>
+    <desc lang="es">Anime que sigue a dos hermanos alquimistas que buscan la Piedra Filosofal para recuperar sus cuerpos despues de un experimento fallido enfrentando enemigos militares conspiraciones y dilemas morales sobre el uso del poder.</desc>
+  </programme>
+  <programme start="20260408023000 -0300" stop="20260408030000 -0300" channel="retroblast">
+    <title lang="es">Samurai Champloo</title>
+    <desc lang="es">Anime que mezcla accion samurai con cultura hip hop siguiendo a tres viajeros que recorren el Japon feudal en busca de un misterioso guerrero mientras enfrentan enemigos y conflictos inesperados.</desc>
+  </programme>
+  <programme start="20260408030000 -0300" stop="20260408031500 -0300" channel="retroblast">
+    <title lang="es">Futurama</title>
+    <desc lang="es">Serie animada de ciencia ficcion que sigue a Fry un repartidor congelado accidentalmente que despierta mil años en el futuro y vive aventuras espaciales junto a un grupo de personajes excentricos en misiones peligrosas y comicas.</desc>
+  </programme>
+  <programme start="20260408031500 -0300" stop="20260408033000 -0300" channel="retroblast">
+    <title lang="es">Futurama</title>
+    <desc lang="es">Serie animada de ciencia ficcion que sigue a Fry un repartidor congelado accidentalmente que despierta mil años en el futuro y vive aventuras espaciales junto a un grupo de personajes excentricos.</desc>
+  </programme>
+  <programme start="20260408033000 -0300" stop="20260408034500 -0300" channel="retroblast">
+    <title lang="es">Family Guy</title>
+    <desc lang="es">Comedia animada que sigue las desventuras de la familia Griffin combinando humor irreverente referencias culturales y situaciones absurdas que parodian la vida cotidiana estadounidense.</desc>
+  </programme>
+  <programme start="20260408034500 -0300" stop="20260408040000 -0300" channel="retroblast">
+    <title lang="es">Family Guy</title>
+    <desc lang="es">Comedia animada centrada en la familia Griffin cuya vida diaria se convierte en situaciones exageradas llenas de humor negro y referencias a la cultura popular.</desc>
+  </programme>
+  <programme start="20260408040000 -0300" stop="20260408041500 -0300" channel="retroblast">
+    <title lang="es">Aqua Teen Hunger Force</title>
+    <desc lang="es">Comedia animada surrealista que sigue las absurdas aventuras de Master Shake Frylock y Meatwad tres alimentos antropomorficos que viven en un suburbio enfrentando situaciones caoticas llenas de humor absurdo.</desc>
+  </programme>
+  <programme start="20260408041500 -0300" stop="20260408043000 -0300" channel="retroblast">
+    <title lang="es">Tim and Eric Awesome Show Check It Out</title>
+    <desc lang="es">Serie de sketches absurdos que parodia distintos formatos televisivos mediante humor incomodo situaciones ridiculas y personajes exagerados.</desc>
+  </programme>
+  <programme start="20260408043000 -0300" stop="20260408050000 -0300" channel="retroblast">
+    <title lang="es">Bleach</title>
+    <desc lang="es">Anime que sigue a Ichigo Kurosaki en su lucha contra espiritus malignos mientras aprende a dominar sus poderes y proteger tanto el mundo humano como el espiritual.</desc>
+  </programme>
+  <programme start="20260408050000 -0300" stop="20260408053000 -0300" channel="retroblast">
+    <title lang="es">JoJos Bizarre Adventure</title>
+    <desc lang="es">Anime de accion sobrenatural que sigue distintas generaciones de la familia Joestar enfrentando enemigos poderosos mediante habilidades especiales estrategias y combates intensos.</desc>
+  </programme>
+  <programme start="20260408053000 -0300" stop="20260408060000 -0300" channel="retroblast">
+    <title lang="es">Inuyasha</title>
+    <desc lang="es">Anime de aventuras que sigue a una joven que viaja al Japon feudal y se une a un medio demonio en la busqueda de fragmentos de una joya magica enfrentando criaturas sobrenaturales.</desc>
+  </programme>
+  <programme start="20260408060000 -0300" stop="20260408063000 -0300" channel="retroblast">
+    <title lang="es">Lupin the Third Part II</title>
+    <desc lang="es">Serie animada que sigue a un ladron maestro internacional experto en disfraces y tecnologia que realiza robos espectaculares mientras evade constantemente a la policia.</desc>
+  </programme>
+  <programme start="20260408063000 -0300" stop="20260408070000 -0300" channel="retroblast">
+    <title lang="es">Case Closed</title>
+    <desc lang="es">Anime de misterio que sigue a un joven detective atrapado en el cuerpo de un niño que resuelve complejos crimenes utilizando inteligencia logica y observacion detallada.</desc>
+  </programme>
+  <programme start="20260408070000 -0300" stop="20260408072200 -0300" channel="retroblast">
+    <title lang="es">Animaniacs</title>
+    <desc lang="es">Serie animada que sigue a los hermanos Warner causando caos comico dentro de los estudios Warner Bros combinando humor musical parodias y referencias culturales.</desc>
+  </programme>
+  <programme start="20260408072200 -0300" stop="20260408073000 -0300" channel="retroblast">
+    <title lang="es">Animaniacs</title>
+    <desc lang="es">Serie animada protagonizada por los hermanos Warner cuyas travesuras generan situaciones absurdas llenas de humor visual y musical.</desc>
+  </programme>
+  <programme start="20260408073000 -0300" stop="20260408080000 -0300" channel="retroblast">
+    <title lang="es">Power Rangers</title>
+    <desc lang="es">Serie de accion que sigue a un grupo de jovenes heroes que utilizan trajes especiales habilidades y robots gigantes para defender la Tierra de villanos y amenazas extraterrestres.</desc>
+  </programme>
+  <programme start="20260408080000 -0300" stop="20260408083000 -0300" channel="retroblast">
+    <title lang="es">Batman The Animated Series</title>
+    <desc lang="es">Serie animada que sigue a Bruce Wayne protegiendo Gotham City como Batman enfrentando criminales y villanos iconicos mediante inteligencia tecnologia y habilidades detectivescas.</desc>
+  </programme>
+  <programme start="20260408083000 -0300" stop="20260408090000 -0300" channel="retroblast">
+    <title lang="es">X Men The Animated Series</title>
+    <desc lang="es">Serie animada que sigue a un grupo de mutantes con poderes especiales que luchan por proteger a la humanidad mientras enfrentan discriminacion amenazas globales y villanos poderosos.</desc>
+  </programme>
+  <programme start="20260408090000 -0300" stop="20260408093000 -0300" channel="retroblast">
+    <title lang="es">Totally Spies</title>
+    <desc lang="es">Serie animada que sigue a tres adolescentes que trabajan como espias secretas realizando misiones peligrosas mientras equilibran su vida escolar y personal.</desc>
+  </programme>
+  <programme start="20260408093000 -0300" stop="20260408100000 -0300" channel="retroblast">
+    <title lang="es">Code Lyoko</title>
+    <desc lang="es">Serie animada donde un grupo de estudiantes combate una inteligencia artificial malvada en un mundo virtual utilizando tecnologia avanzada y trabajo en equipo.</desc>
+  </programme>
+  <programme start="20260408100000 -0300" stop="20260408103000 -0300" channel="retroblast">
+    <title lang="es">Pokemon</title>
+    <desc lang="es">Serie animada que sigue a entrenadores que viajan por distintas regiones capturando criaturas llamadas Pokemon entrenandolas y participando en batallas competitivas.</desc>
+  </programme>
+  <programme start="20260408103000 -0300" stop="20260408110000 -0300" channel="retroblast">
+    <title lang="es">Yu Gi Oh GX</title>
+    <desc lang="es">Serie animada ambientada en una academia donde estudiantes entrenan en duelos de cartas desarrollando estrategias y enfrentando rivales cada vez mas poderosos.</desc>
+  </programme>
+  <programme start="20260408110000 -0300" stop="20260408113000 -0300" channel="retroblast">
+    <title lang="es">Star Wars The Clone Wars</title>
+    <desc lang="es">Serie animada ambientada en el universo de Star Wars que sigue a Jedi y clones durante las Guerras Clon enfrentando ejercitos droides y conspiraciones galacticas.</desc>
+  </programme>
+  <programme start="20260408113000 -0300" stop="20260408120000 -0300" channel="retroblast">
+    <title lang="es">Dexters Laboratory</title>
+    <desc lang="es">Serie animada que sigue a un niño genio que construye inventos secretos en su laboratorio oculto mientras intenta evitar que su hermana arruine sus experimentos.</desc>
+  </programme>
+  <programme start="20260408120000 -0300" stop="20260408123000 -0300" channel="retroblast">
+    <title lang="es">The Life and Times of Juniper Lee</title>
+    <desc lang="es">Serie animada que sigue a una joven que protege el mundo humano de criaturas magicas mientras equilibra su vida escolar y familiar.</desc>
+  </programme>
+  <programme start="20260408123000 -0300" stop="20260408130000 -0300" channel="retroblast">
+    <title lang="es">Camp Lazlo</title>
+    <desc lang="es">Serie animada ambientada en un campamento de verano donde un optimista mono vive aventuras absurdas junto a sus amigos en situaciones ridiculas y divertidas.</desc>
+  </programme>
+  <programme start="20260408130000 -0300" stop="20260408133000 -0300" channel="retroblast">
+    <title lang="es">The Grim Adventures of Billy and Mandy</title>
+    <desc lang="es">Serie animada que mezcla humor negro con aventuras sobrenaturales protagonizadas por dos niños y la Muerte quienes enfrentan monstruos y situaciones paranormales.</desc>
+  </programme>
+  <programme start="20260408133000 -0300" stop="20260408140000 -0300" channel="retroblast">
+    <title lang="es">The Powerpuff Girls</title>
+    <desc lang="es">Serie animada sobre tres niñas con superpoderes que protegen su ciudad enfrentando villanos extravagantes mediante accion y humor.</desc>
+  </programme>
+  <programme start="20260408140000 -0300" stop="20260408143000 -0300" channel="retroblast">
+    <title lang="es">Courage the Cowardly Dog</title>
+    <desc lang="es">Serie animada sobre un perro miedoso que enfrenta criaturas sobrenaturales para proteger a sus dueños enfrentando peligros aterradores con valentia inesperada.</desc>
+  </programme>
+  <programme start="20260408143000 -0300" stop="20260408150000 -0300" channel="retroblast">
+    <title lang="es">Time Squad</title>
+    <desc lang="es">Serie animada que sigue a un grupo de viajeros temporales que corrigen errores historicos provocados por personajes que alteran el pasado.</desc>
+  </programme>
+  <programme start="20260408150000 -0300" stop="20260408153000 -0300" channel="retroblast">
+    <title lang="es">Johnny Bravo</title>
+    <desc lang="es">Serie animada que sigue a un joven egocentrico obsesionado con su apariencia que intenta conquistar mujeres pero termina metido en situaciones absurdas.</desc>
+  </programme>
+  <programme start="20260408153000 -0300" stop="20260408160000 -0300" channel="retroblast">
+    <title lang="es">Codename Kids Next Door</title>
+    <desc lang="es">Serie animada que sigue a un grupo secreto de niños que combate villanos adultos utilizando tecnologia casera y estrategias ingeniosas.</desc>
+  </programme>
+  <programme start="20260408160000 -0300" stop="20260408163000 -0300" channel="retroblast">
+    <title lang="es">Pokemon</title>
+    <desc lang="es">Serie animada que sigue a entrenadores que viajan por distintas regiones capturando criaturas llamadas Pokemon entrenandolas y participando en batallas competitivas mientras buscan convertirse en maestros Pokemon.</desc>
+  </programme>
+  <programme start="20260408163000 -0300" stop="20260408170000 -0300" channel="retroblast">
+    <title lang="es">Yu Gi Oh</title>
+    <desc lang="es">Serie animada que sigue a duelistas que utilizan cartas especiales para invocar criaturas y enfrentarse en intensos combates estrategicos donde la amistad y la confianza son clave para alcanzar la victoria.</desc>
+  </programme>
+  <programme start="20260408170000 -0300" stop="20260408172500 -0300" channel="retroblast">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Anime que sigue a una joven estudiante que descubre ser una guerrera magica destinada a proteger la Tierra de fuerzas oscuras junto a un grupo de aliadas con poderes elementales.</desc>
+  </programme>
+  <programme start="20260408172500 -0300" stop="20260408175000 -0300" channel="retroblast">
+    <title lang="es">YuYu Hakusho</title>
+    <desc lang="es">Anime de accion sobrenatural que sigue a un joven rebelde que se convierte en detective espiritual enfrentando demonios y participando en torneos de combate entre mundos.</desc>
+  </programme>
+  <programme start="20260408175000 -0300" stop="20260408181500 -0300" channel="retroblast">
+    <title lang="es">Gundam Wing</title>
+    <desc lang="es">Anime de ciencia ficcion que sigue a pilotos adolescentes que controlan robots gigantes llamados Gundam en medio de conflictos politicos y guerras espaciales entre colonias y gobiernos terrestres.</desc>
+  </programme>
+  <programme start="20260408181500 -0300" stop="20260408184000 -0300" channel="retroblast">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Anime de accion que sigue a Goku y sus aliados defendiendo la Tierra contra enemigos cada vez mas poderosos mediante intensos combates transformaciones y entrenamiento constante.</desc>
+  </programme>
+  <programme start="20260408184000 -0300" stop="20260408190500 -0300" channel="retroblast">
+    <title lang="es">Teen Titans</title>
+    <desc lang="es">Serie animada que sigue a un equipo de jovenes superheroes que combinan habilidades unicas para proteger su ciudad enfrentando villanos peligrosos mientras lidian con conflictos personales.</desc>
+  </programme>
+  <programme start="20260408190500 -0300" stop="20260408193000 -0300" channel="retroblast">
+    <title lang="es">One Piece</title>
+    <desc lang="es">Anime de aventuras que sigue a Monkey D Luffy y su tripulacion de piratas en busca del legendario tesoro One Piece enfrentando enemigos poderosos y explorando mares llenos de misterios.</desc>
+  </programme>
+  <programme start="20260408193000 -0300" stop="20260408200000 -0300" channel="retroblast">
+    <title lang="es">Naruto Shippuden</title>
+    <desc lang="es">Anime que sigue a Naruto Uzumaki ya como ninja adolescente enfrentando organizaciones criminales y amenazas globales mientras busca reconocimiento y proteger a sus amigos.</desc>
+  </programme>
+  <programme start="20260408200000 -0300" stop="20260408203000 -0300" channel="retroblast">
+    <title lang="es">Fosters Home for Imaginary Friends</title>
+    <desc lang="es">Serie animada ambientada en un hogar donde viven amigos imaginarios abandonados mostrando historias creativas sobre amistad aventuras y situaciones absurdas.</desc>
+  </programme>
+  <programme start="20260408203000 -0300" stop="20260408210000 -0300" channel="retroblast">
+    <title lang="es">Ed Edd n Eddy</title>
+    <desc lang="es">Serie animada que sigue a tres amigos que idean planes ridiculos para ganar dinero y popularidad aunque siempre terminan en caos y situaciones comicas.</desc>
+  </programme>
+  <programme start="20260408210000 -0300" stop="20260408213000 -0300" channel="retroblast">
+    <title lang="es">The Grim Adventures of Billy and Mandy</title>
+    <desc lang="es">Serie animada que mezcla humor oscuro con aventuras sobrenaturales protagonizadas por dos niños que obligan a la Muerte a ser su amigo enfrentando criaturas y peligros absurdos.</desc>
+  </programme>
+  <programme start="20260408213000 -0300" stop="20260408220000 -0300" channel="retroblast">
+    <title lang="es">Yu Gi Oh Duel Monsters</title>
+    <desc lang="es">Serie animada que sigue a Yugi y sus amigos enfrentando duelistas rivales mediante cartas magicas que invocan criaturas y poderes especiales en batallas estrategicas.</desc>
+  </programme>
+  <programme start="20260408220000 -0300" stop="20260408223000 -0300" channel="retroblast">
+    <title lang="es">Codename Kids Next Door</title>
+    <desc lang="es">Serie animada que sigue a un grupo secreto de niños agentes que luchan contra villanos adultos utilizando tecnologia casera y estrategias ingeniosas.</desc>
+  </programme>
+  <programme start="20260408223000 -0300" stop="20260408230000 -0300" channel="retroblast">
+    <title lang="es">Courage the Cowardly Dog</title>
+    <desc lang="es">Serie animada sobre un perro miedoso que enfrenta criaturas sobrenaturales y misterios aterradores para proteger a sus dueños en una aislada granja.</desc>
+  </programme>
+  <programme start="20260408230000 -0300" stop="20260408233000 -0300" channel="retroblast">
+    <title lang="es">One Piece</title>
+    <desc lang="es">Anime de aventuras que sigue a una tripulacion pirata que navega por mares peligrosos en busca del tesoro mas grande del mundo enfrentando enemigos y descubriendo secretos ocultos.</desc>
+  </programme>
+  <programme start="20260408233000 -0300" stop="20260409000000 -0300" channel="retroblast">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Anime de accion centrado en batallas intensas entre guerreros con habilidades extraordinarias que defienden la Tierra de amenazas cada vez mas poderosas.</desc>
+  </programme>
+  <programme start="20260409000000 -0300" stop="20260409002200 -0300" channel="retroblast">
+    <title lang="es">Futurama</title>
+    <desc lang="es">Serie animada de ciencia ficcion que sigue a un repartidor que despierta mil años en el futuro y trabaja en una empresa de entregas espaciales viviendo aventuras absurdas y peligrosas.</desc>
+  </programme>
+  <programme start="20260409002200 -0300" stop="20260409004700 -0300" channel="retroblast">
+    <title lang="es">Family Guy</title>
+    <desc lang="es">Comedia animada que sigue a la familia Griffin cuyas vidas se desarrollan en situaciones exageradas llenas de humor irreverente referencias culturales y momentos absurdos.</desc>
+  </programme>
+  <programme start="20260409004700 -0300" stop="20260409010000 -0300" channel="retroblast">
+    <title lang="es">Harvey Birdman Attorney at Law</title>
+    <desc lang="es">Comedia animada que parodia el mundo legal siguiendo a un ex superheroe convertido en abogado que representa a personajes famosos en juicios absurdos y situaciones ridiculas.</desc>
+  </programme>
+  <programme start="20260409010000 -0300" stop="20260409011500 -0300" channel="retroblast">
+    <title lang="es">Aqua Teen Hunger Force</title>
+    <desc lang="es">Comedia animada surrealista que sigue las absurdas aventuras de Master Shake Frylock y Meatwad tres alimentos antropomorficos que viven en un suburbio enfrentando situaciones caoticas llenas de humor absurdo y referencias extrañas.</desc>
+  </programme>
+  <programme start="20260409011500 -0300" stop="20260409013000 -0300" channel="retroblast">
+    <title lang="es">Tim and Eric Awesome Show Check It Out</title>
+    <desc lang="es">Serie de comedia surrealista que parodia programas televisivos con sketches absurdos actuaciones incomodas y situaciones ridiculamente exageradas que rompen con la logica tradicional.</desc>
+  </programme>
+  <programme start="20260409013000 -0300" stop="20260409020000 -0300" channel="retroblast">
+    <title lang="es">Bleach</title>
+    <desc lang="es">Anime de accion que sigue a Ichigo Kurosaki un joven que obtiene poderes de segador de almas y debe proteger a los humanos de espiritus malignos mientras descubre secretos sobre el mundo espiritual.</desc>
+  </programme>
+  <programme start="20260409020000 -0300" stop="20260409023000 -0300" channel="retroblast">
+    <title lang="es">Fullmetal Alchemist Brotherhood</title>
+    <desc lang="es">Anime que sigue a dos hermanos alquimistas que buscan la Piedra Filosofal para recuperar sus cuerpos despues de un experimento fallido enfrentando conspiraciones militares y enemigos poderosos.</desc>
+  </programme>
+  <programme start="20260409023000 -0300" stop="20260409030000 -0300" channel="retroblast">
+    <title lang="es">Samurai Champloo</title>
+    <desc lang="es">Anime que mezcla accion samurai con cultura hip hop siguiendo a tres viajeros que recorren el Japon feudal enfrentando enemigos y buscando a un misterioso guerrero.</desc>
+  </programme>
+  <programme start="20260409030000 -0300" stop="20260409031500 -0300" channel="retroblast">
+    <title lang="es">Futurama</title>
+    <desc lang="es">Serie animada de ciencia ficcion que sigue a Fry un repartidor que despierta mil años en el futuro y trabaja en una empresa de entregas espaciales viviendo aventuras absurdas.</desc>
+  </programme>
+  <programme start="20260409031500 -0300" stop="20260409033000 -0300" channel="retroblast">
+    <title lang="es">Futurama</title>
+    <desc lang="es">Serie animada que combina ciencia ficcion y comedia mostrando las desventuras de un grupo de trabajadores espaciales enfrentando situaciones peligrosas y ridiculas.</desc>
+  </programme>
+  <programme start="20260409033000 -0300" stop="20260409034500 -0300" channel="retroblast">
+    <title lang="es">Family Guy</title>
+    <desc lang="es">Comedia animada que sigue las desventuras de la familia Griffin combinando humor irreverente referencias culturales y situaciones absurdas.</desc>
+  </programme>
+  <programme start="20260409034500 -0300" stop="20260409040000 -0300" channel="retroblast">
+    <title lang="es">Family Guy</title>
+    <desc lang="es">Serie animada centrada en la vida cotidiana de la familia Griffin donde situaciones normales se convierten en caos lleno de humor exagerado.</desc>
+  </programme>
+  <programme start="20260409040000 -0300" stop="20260409041500 -0300" channel="retroblast">
+    <title lang="es">Aqua Teen Hunger Force</title>
+    <desc lang="es">Comedia animada surrealista que sigue a tres alimentos antropomorficos enfrentando situaciones absurdas llenas de humor extraño y caotico.</desc>
+  </programme>
+  <programme start="20260409041500 -0300" stop="20260409043000 -0300" channel="retroblast">
+    <title lang="es">Tim and Eric Awesome Show Check It Out</title>
+    <desc lang="es">Serie de sketches absurdos que parodia distintos formatos televisivos mediante humor incomodo y situaciones ridiculas.</desc>
+  </programme>
+  <programme start="20260409043000 -0300" stop="20260409050000 -0300" channel="retroblast">
+    <title lang="es">Bleach</title>
+    <desc lang="es">Anime que sigue a Ichigo y sus aliados enfrentando espiritus malignos mientras aprende a dominar sus poderes sobrenaturales.</desc>
+  </programme>
+  <programme start="20260409050000 -0300" stop="20260409053000 -0300" channel="retroblast">
+    <title lang="es">JoJos Bizarre Adventure</title>
+    <desc lang="es">Anime de accion sobrenatural que sigue distintas generaciones de la familia Joestar enfrentando enemigos mediante habilidades especiales y combates estrategicos.</desc>
+  </programme>
+  <programme start="20260409053000 -0300" stop="20260409060000 -0300" channel="retroblast">
+    <title lang="es">Inuyasha</title>
+    <desc lang="es">Anime de aventuras que sigue a una joven que viaja al Japon feudal y se une a un medio demonio en la busqueda de fragmentos magicos.</desc>
+  </programme>
+  <programme start="20260409060000 -0300" stop="20260409063000 -0300" channel="retroblast">
+    <title lang="es">Lupin the Third Part II</title>
+    <desc lang="es">Serie animada que sigue a un ladron maestro internacional realizando robos espectaculares mientras evade constantemente a la policia.</desc>
+  </programme>
+  <programme start="20260409063000 -0300" stop="20260409070000 -0300" channel="retroblast">
+    <title lang="es">Case Closed</title>
+    <desc lang="es">Anime de misterio que sigue a un joven detective atrapado en el cuerpo de un niño que resuelve complejos crimenes usando inteligencia y deduccion.</desc>
+  </programme>
+  <programme start="20260409070000 -0300" stop="20260409072200 -0300" channel="retroblast">
+    <title lang="es">Animaniacs</title>
+    <desc lang="es">Serie animada que sigue a los hermanos Warner causando caos comico dentro de los estudios Warner Bros con humor musical y parodias culturales.</desc>
+  </programme>
+  <programme start="20260409072200 -0300" stop="20260409073000 -0300" channel="retroblast">
+    <title lang="es">Animaniacs</title>
+    <desc lang="es">Serie animada protagonizada por los hermanos Warner cuyas travesuras generan situaciones absurdas llenas de humor visual.</desc>
+  </programme>
+  <programme start="20260409073000 -0300" stop="20260409080000 -0300" channel="retroblast">
+    <title lang="es">Power Rangers</title>
+    <desc lang="es">Serie de accion que sigue a jovenes heroes que utilizan trajes especiales y robots gigantes para defender la Tierra de amenazas alienigenas.</desc>
+  </programme>
+  <programme start="20260409080000 -0300" stop="20260409083000 -0300" channel="retroblast">
+    <title lang="es">Batman The Animated Series</title>
+    <desc lang="es">Serie animada que sigue a Bruce Wayne protegiendo Gotham City como Batman enfrentando villanos iconicos mediante inteligencia y tecnologia.</desc>
+  </programme>
+  <programme start="20260409083000 -0300" stop="20260409090000 -0300" channel="retroblast">
+    <title lang="es">X Men The Animated Series</title>
+    <desc lang="es">Serie animada que sigue a mutantes con poderes especiales luchando por proteger a la humanidad mientras enfrentan discriminacion y amenazas globales.</desc>
+  </programme>
+  <programme start="20260409090000 -0300" stop="20260409093000 -0300" channel="retroblast">
+    <title lang="es">Totally Spies</title>
+    <desc lang="es">Serie animada que sigue a tres adolescentes que trabajan como espias secretas realizando misiones peligrosas en todo el mundo.</desc>
+  </programme>
+  <programme start="20260409093000 -0300" stop="20260409100000 -0300" channel="retroblast">
+    <title lang="es">Code Lyoko</title>
+    <desc lang="es">Serie animada donde un grupo de estudiantes combate una inteligencia artificial malvada en un mundo virtual utilizando tecnologia avanzada.</desc>
+  </programme>
+  <programme start="20260409100000 -0300" stop="20260409103000 -0300" channel="retroblast">
+    <title lang="es">Pokemon</title>
+    <desc lang="es">Serie animada que sigue a entrenadores que viajan por distintas regiones capturando criaturas llamadas Pokemon y participando en batallas competitivas.</desc>
+  </programme>
+  <programme start="20260409103000 -0300" stop="20260409110000 -0300" channel="retroblast">
+    <title lang="es">Yu Gi Oh GX</title>
+    <desc lang="es">Serie animada ambientada en una academia donde estudiantes entrenan en duelos de cartas enfrentando rivales cada vez mas fuertes.</desc>
+  </programme>
+  <programme start="20260409110000 -0300" stop="20260409113000 -0300" channel="retroblast">
+    <title lang="es">The Cartoon Cartoon Show</title>
+    <desc lang="es">Programa recopilatorio que presenta episodios clasicos de distintas series animadas de Cartoon Network mostrando variedad de estilos y personajes.</desc>
+  </programme>
+  <programme start="20260409113000 -0300" stop="20260409120000 -0300" channel="retroblast">
+    <title lang="es">Scooby Doo</title>
+    <desc lang="es">Serie animada que sigue a un grupo de amigos que resuelven misterios aparentemente sobrenaturales utilizando ingenio trabajo en equipo y humor.</desc>
+  </programme>
+  <programme start="20260409120000 -0300" stop="20260409123000 -0300" channel="retroblast">
+    <title lang="es">Camp Lazlo</title>
+    <desc lang="es">Serie animada ambientada en un campamento de verano donde un optimista mono vive aventuras absurdas junto a sus amigos.</desc>
+  </programme>
+  <programme start="20260409123000 -0300" stop="20260409130000 -0300" channel="retroblast">
+    <title lang="es">Duck Dodgers</title>
+    <desc lang="es">Serie animada que parodia la ciencia ficcion siguiendo a un pato espacial torpe que vive aventuras galacticas ridiculas.</desc>
+  </programme>
+  <programme start="20260409130000 -0300" stop="20260409133000 -0300" channel="retroblast">
+    <title lang="es">Courage the Cowardly Dog</title>
+    <desc lang="es">Serie animada sobre un perro miedoso que enfrenta criaturas sobrenaturales para proteger a sus dueños.</desc>
+  </programme>
+  <programme start="20260409133000 -0300" stop="20260409140000 -0300" channel="retroblast">
+    <title lang="es">Ben 10</title>
+    <desc lang="es">Serie animada que sigue a un niño que obtiene un dispositivo alienigena que le permite transformarse en diferentes criaturas para combatir villanos.</desc>
+  </programme>
+  <programme start="20260409140000 -0300" stop="20260409143000 -0300" channel="retroblast">
+    <title lang="es">Justice League</title>
+    <desc lang="es">Serie animada que sigue a los mayores superheroes del mundo uniendo fuerzas para enfrentar amenazas globales que ningun heroe podria detener solo.</desc>
+  </programme>
+  <programme start="20260409143000 -0300" stop="20260409150000 -0300" channel="retroblast">
+    <title lang="es">Teen Titans</title>
+    <desc lang="es">Serie animada que sigue a un equipo de jovenes superheroes enfrentando villanos mientras aprenden a trabajar en equipo.</desc>
+  </programme>
+  <programme start="20260409150000 -0300" stop="20260409153000 -0300" channel="retroblast">
+    <title lang="es">Megas XLR</title>
+    <desc lang="es">Serie animada de accion y comedia que sigue a un joven que encuentra un robot gigante y lo utiliza para defender la Tierra de amenazas alienigenas.</desc>
+  </programme>
+  <programme start="20260409153000 -0300" stop="20260409160000 -0300" channel="retroblast">
+    <title lang="es">Tom and Jerry</title>
+    <desc lang="es">Serie animada clasica que muestra la rivalidad eterna entre un gato y un raton cuyas persecuciones generan situaciones comicas y destructivas.</desc>
+  </programme>
+  <programme start="20260409160000 -0300" stop="20260409163000 -0300" channel="retroblast">
+    <title lang="es">Pokemon</title>
+    <desc lang="es">Serie animada que sigue a entrenadores que viajan por distintas regiones capturando criaturas llamadas Pokemon entrenandolas y participando en batallas competitivas mientras buscan convertirse en maestros Pokemon.</desc>
+  </programme>
+  <programme start="20260409163000 -0300" stop="20260409170000 -0300" channel="retroblast">
+    <title lang="es">Yu Gi Oh</title>
+    <desc lang="es">Serie animada que sigue a duelistas que utilizan cartas especiales para invocar criaturas y enfrentarse en intensos combates estrategicos donde la amistad y la confianza son clave para alcanzar la victoria.</desc>
+  </programme>
+  <programme start="20260409170000 -0300" stop="20260409172500 -0300" channel="retroblast">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Anime que sigue a una joven estudiante que descubre ser una guerrera magica destinada a proteger la Tierra de fuerzas oscuras junto a un grupo de aliadas con poderes elementales.</desc>
+  </programme>
+  <programme start="20260409172500 -0300" stop="20260409175000 -0300" channel="retroblast">
+    <title lang="es">YuYu Hakusho</title>
+    <desc lang="es">Anime de accion sobrenatural que sigue a un joven rebelde que se convierte en detective espiritual enfrentando demonios y participando en torneos de combate entre mundos.</desc>
+  </programme>
+  <programme start="20260409175000 -0300" stop="20260409181500 -0300" channel="retroblast">
+    <title lang="es">Outlaw Star</title>
+    <desc lang="es">Anime de ciencia ficcion que sigue a un grupo de cazadores espaciales que viajan por la galaxia buscando tesoros legendarios mientras enfrentan piratas espaciales y organizaciones criminales.</desc>
+  </programme>
+  <programme start="20260409181500 -0300" stop="20260409184000 -0300" channel="retroblast">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Anime de accion que sigue a Goku y sus aliados defendiendo la Tierra contra enemigos cada vez mas poderosos mediante intensos combates transformaciones y entrenamiento constante.</desc>
+  </programme>
+  <programme start="20260409184000 -0300" stop="20260409190500 -0300" channel="retroblast">
+    <title lang="es">Bobobo bo Bo bobo</title>
+    <desc lang="es">Anime de comedia absurda que sigue a un heroe extravagante que utiliza ataques ridiculos y humor surrealista para luchar contra villanos en un mundo lleno de situaciones ilogicas.</desc>
+  </programme>
+  <programme start="20260409190500 -0300" stop="20260409193000 -0300" channel="retroblast">
+    <title lang="es">One Piece</title>
+    <desc lang="es">Anime de aventuras que sigue a Monkey D Luffy y su tripulacion de piratas en busca del legendario tesoro One Piece enfrentando enemigos poderosos y explorando mares llenos de misterios.</desc>
+  </programme>
+  <programme start="20260409193000 -0300" stop="20260409200000 -0300" channel="retroblast">
+    <title lang="es">Naruto Shippuden</title>
+    <desc lang="es">Anime que sigue a Naruto Uzumaki ya como ninja adolescente enfrentando organizaciones criminales y amenazas globales mientras busca reconocimiento y proteger a sus amigos.</desc>
+  </programme>
+  <programme start="20260409200000 -0300" stop="20260409203000 -0300" channel="retroblast">
+    <title lang="es">The Grim Adventures of Billy and Mandy</title>
+    <desc lang="es">Serie animada que mezcla humor oscuro con aventuras sobrenaturales protagonizadas por dos niños y la Muerte quienes enfrentan monstruos y situaciones paranormales.</desc>
+  </programme>
+  <programme start="20260409203000 -0300" stop="20260409210000 -0300" channel="retroblast">
+    <title lang="es">The Powerpuff Girls</title>
+    <desc lang="es">Serie animada sobre tres niñas con superpoderes que protegen su ciudad enfrentando villanos extravagantes mediante accion y humor.</desc>
+  </programme>
+  <programme start="20260409210000 -0300" stop="20260409213000 -0300" channel="retroblast">
+    <title lang="es">Camp Lazlo</title>
+    <desc lang="es">Serie animada ambientada en un campamento de verano donde un optimista mono vive aventuras absurdas junto a sus amigos en situaciones ridiculas y divertidas.</desc>
+  </programme>
+  <programme start="20260409213000 -0300" stop="20260409220000 -0300" channel="retroblast">
+    <title lang="es">Yu Gi Oh Duel Monsters</title>
+    <desc lang="es">Serie animada que sigue a Yugi y sus amigos enfrentando duelistas rivales mediante cartas magicas que invocan criaturas y poderes especiales en batallas estrategicas.</desc>
+  </programme>
+  <programme start="20260409220000 -0300" stop="20260409223000 -0300" channel="retroblast">
+    <title lang="es">Codename Kids Next Door</title>
+    <desc lang="es">Serie animada que sigue a un grupo secreto de niños agentes que luchan contra villanos adultos utilizando tecnologia casera y estrategias ingeniosas.</desc>
+  </programme>
+  <programme start="20260409223000 -0300" stop="20260409230000 -0300" channel="retroblast">
+    <title lang="es">Hi Hi Puffy AmiYumi</title>
+    <desc lang="es">Serie animada musical que sigue a versiones caricaturizadas del duo musical japones Puffy AmiYumi mientras viajan por el mundo enfrentando situaciones absurdas relacionadas con conciertos y fama.</desc>
+  </programme>
+  <programme start="20260409230000 -0300" stop="20260409233000 -0300" channel="retroblast">
+    <title lang="es">One Piece</title>
+    <desc lang="es">Anime de aventuras que sigue a una tripulacion pirata que navega por mares peligrosos en busca del tesoro mas grande del mundo enfrentando enemigos y descubriendo secretos ocultos.</desc>
+  </programme>
+  <programme start="20260409233000 -0300" stop="20260410000000 -0300" channel="retroblast">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Anime de accion centrado en batallas intensas entre guerreros con habilidades extraordinarias que defienden la Tierra de amenazas cada vez mas poderosas.</desc>
+  </programme>
+  <programme start="20260410000000 -0300" stop="20260410002200 -0300" channel="retroblast">
+    <title lang="es">Robot Chicken</title>
+    <desc lang="es">Serie animada en stop motion orientada a adultos que presenta sketches cortos parodiando la cultura pop peliculas series y videojuegos con humor rapido irreverente y muchas referencias.</desc>
+  </programme>
+  <programme start="20260410002200 -0300" stop="20260410004700 -0300" channel="retroblast">
+    <title lang="es">Aqua Teen Hunger Force</title>
+    <desc lang="es">Comedia animada surrealista que sigue las absurdas aventuras de tres alimentos antropomorficos enfrentando situaciones caoticas llenas de humor absurdo.</desc>
+  </programme>
+  <programme start="20260410004700 -0300" stop="20260410010000 -0300" channel="retroblast">
+    <title lang="es">Aqua Teen Hunger Force</title>
+    <desc lang="es">Comedia animada surrealista centrada en situaciones ridiculas y dialogos absurdos protagonizados por personajes completamente ilogicos.</desc>
+  </programme>
+  <programme start="20260410010000 -0300" stop="20260410011500 -0300" channel="retroblast">
+    <title lang="es">Metalocalypse</title>
+    <desc lang="es">Serie animada para adultos que sigue a la banda de metal extremo Dethklok considerada la mas popular del mundo cuyas decisiones absurdas generan caos global mientras viven excesos violencia y humor negro dentro de la industria musical.</desc>
+  </programme>
+  <programme start="20260410011500 -0300" stop="20260410013000 -0300" channel="retroblast">
+    <title lang="es">Tim and Eric Awesome Show Check It Out</title>
+    <desc lang="es">Serie de comedia surrealista que parodia programas televisivos con sketches absurdos actuaciones incomodas y situaciones ridiculamente exageradas que rompen con la logica tradicional.</desc>
+  </programme>
+  <programme start="20260410013000 -0300" stop="20260410020000 -0300" channel="retroblast">
+    <title lang="es">Bleach</title>
+    <desc lang="es">Anime de accion que sigue a Ichigo Kurosaki un joven que obtiene poderes de segador de almas y debe proteger a los humanos de espiritus malignos mientras descubre secretos sobre el mundo espiritual.</desc>
+  </programme>
+  <programme start="20260410020000 -0300" stop="20260410023000 -0300" channel="retroblast">
+    <title lang="es">Fullmetal Alchemist Brotherhood</title>
+    <desc lang="es">Anime que sigue a dos hermanos alquimistas que buscan la Piedra Filosofal para recuperar sus cuerpos despues de un experimento fallido enfrentando conspiraciones militares y enemigos poderosos.</desc>
+  </programme>
+  <programme start="20260410023000 -0300" stop="20260410030000 -0300" channel="retroblast">
+    <title lang="es">Samurai Champloo</title>
+    <desc lang="es">Anime que mezcla accion samurai con cultura hip hop siguiendo a tres viajeros que recorren el Japon feudal enfrentando enemigos y buscando a un misterioso guerrero.</desc>
+  </programme>
+  <programme start="20260410030000 -0300" stop="20260410031500 -0300" channel="retroblast">
+    <title lang="es">Futurama</title>
+    <desc lang="es">Serie animada de ciencia ficcion que sigue a Fry un repartidor que despierta mil años en el futuro y trabaja en una empresa de entregas espaciales viviendo aventuras absurdas.</desc>
+  </programme>
+  <programme start="20260410031500 -0300" stop="20260410033000 -0300" channel="retroblast">
+    <title lang="es">Futurama</title>
+    <desc lang="es">Serie animada que combina ciencia ficcion y comedia mostrando las desventuras de un grupo de trabajadores espaciales enfrentando situaciones peligrosas y ridiculas.</desc>
+  </programme>
+  <programme start="20260410033000 -0300" stop="20260410034500 -0300" channel="retroblast">
+    <title lang="es">Family Guy</title>
+    <desc lang="es">Comedia animada que sigue las desventuras de la familia Griffin combinando humor irreverente referencias culturales y situaciones absurdas.</desc>
+  </programme>
+  <programme start="20260410034500 -0300" stop="20260410040000 -0300" channel="retroblast">
+    <title lang="es">Family Guy</title>
+    <desc lang="es">Serie animada centrada en la vida cotidiana de la familia Griffin donde situaciones normales se convierten en caos lleno de humor exagerado.</desc>
+  </programme>
+  <programme start="20260410040000 -0300" stop="20260410041500 -0300" channel="retroblast">
+    <title lang="es">Aqua Teen Hunger Force</title>
+    <desc lang="es">Comedia animada surrealista que sigue las absurdas aventuras de Master Shake Frylock y Meatwad tres alimentos antropomorficos que viven en un suburbio enfrentando situaciones caoticas llenas de humor absurdo.</desc>
+  </programme>
+  <programme start="20260410041500 -0300" stop="20260410043000 -0300" channel="retroblast">
+    <title lang="es">Tim and Eric Awesome Show Check It Out</title>
+    <desc lang="es">Serie de sketches absurdos que parodia distintos formatos televisivos mediante humor incomodo y situaciones ridiculas.</desc>
+  </programme>
+  <programme start="20260410043000 -0300" stop="20260410050000 -0300" channel="retroblast">
+    <title lang="es">Bleach</title>
+    <desc lang="es">Anime que sigue a Ichigo y sus aliados enfrentando espiritus malignos mientras aprende a dominar sus poderes sobrenaturales.</desc>
+  </programme>
+  <programme start="20260410050000 -0300" stop="20260410053000 -0300" channel="retroblast">
+    <title lang="es">JoJos Bizarre Adventure</title>
+    <desc lang="es">Anime de accion sobrenatural que sigue distintas generaciones de la familia Joestar enfrentando enemigos mediante habilidades especiales y combates estrategicos.</desc>
+  </programme>
+  <programme start="20260410053000 -0300" stop="20260410060000 -0300" channel="retroblast">
+    <title lang="es">Inuyasha</title>
+    <desc lang="es">Anime de aventuras que sigue a una joven que viaja al Japon feudal y se une a un medio demonio en la busqueda de fragmentos magicos.</desc>
+  </programme>
+  <programme start="20260410060000 -0300" stop="20260410063000 -0300" channel="retroblast">
+    <title lang="es">Lupin the Third Part II</title>
+    <desc lang="es">Serie animada que sigue a un ladron maestro internacional realizando robos espectaculares mientras evade constantemente a la policia.</desc>
+  </programme>
+  <programme start="20260410063000 -0300" stop="20260410070000 -0300" channel="retroblast">
+    <title lang="es">Case Closed</title>
+    <desc lang="es">Anime de misterio que sigue a un joven detective atrapado en el cuerpo de un niño que resuelve complejos crimenes usando inteligencia y deduccion.</desc>
+  </programme>
+  <programme start="20260410070000 -0300" stop="20260410072200 -0300" channel="retroblast">
+    <title lang="es">Animaniacs</title>
+    <desc lang="es">Serie animada que sigue a los hermanos Warner causando caos comico dentro de los estudios Warner Bros combinando humor musical parodias y referencias culturales.</desc>
+  </programme>
+  <programme start="20260410072200 -0300" stop="20260410073000 -0300" channel="retroblast">
+    <title lang="es">Animaniacs</title>
+    <desc lang="es">Serie animada protagonizada por los hermanos Warner cuyas travesuras generan situaciones absurdas llenas de humor visual.</desc>
+  </programme>
+  <programme start="20260410073000 -0300" stop="20260410080000 -0300" channel="retroblast">
+    <title lang="es">Power Rangers</title>
+    <desc lang="es">Serie de accion que sigue a jovenes heroes que utilizan trajes especiales y robots gigantes para defender la Tierra de amenazas alienigenas.</desc>
+  </programme>
+  <programme start="20260410080000 -0300" stop="20260410083000 -0300" channel="retroblast">
+    <title lang="es">Batman The Animated Series</title>
+    <desc lang="es">Serie animada que sigue a Bruce Wayne protegiendo Gotham City como Batman enfrentando villanos iconicos mediante inteligencia y tecnologia.</desc>
+  </programme>
+  <programme start="20260410083000 -0300" stop="20260410090000 -0300" channel="retroblast">
+    <title lang="es">X Men The Animated Series</title>
+    <desc lang="es">Serie animada que sigue a mutantes con poderes especiales luchando por proteger a la humanidad mientras enfrentan discriminacion y amenazas globales.</desc>
+  </programme>
+  <programme start="20260410090000 -0300" stop="20260410093000 -0300" channel="retroblast">
+    <title lang="es">Totally Spies</title>
+    <desc lang="es">Serie animada que sigue a tres adolescentes que trabajan como espias secretas realizando misiones peligrosas en todo el mundo.</desc>
+  </programme>
+  <programme start="20260410093000 -0300" stop="20260410100000 -0300" channel="retroblast">
+    <title lang="es">Code Lyoko</title>
+    <desc lang="es">Serie animada donde un grupo de estudiantes combate una inteligencia artificial malvada en un mundo virtual utilizando tecnologia avanzada.</desc>
+  </programme>
+  <programme start="20260410100000 -0300" stop="20260410103000 -0300" channel="retroblast">
+    <title lang="es">Pokemon</title>
+    <desc lang="es">Serie animada que sigue a entrenadores que viajan por distintas regiones capturando criaturas llamadas Pokemon entrenandolas y participando en batallas competitivas.</desc>
+  </programme>
+  <programme start="20260410103000 -0300" stop="20260410110000 -0300" channel="retroblast">
+    <title lang="es">Yu Gi Oh GX</title>
+    <desc lang="es">Serie animada ambientada en una academia donde estudiantes entrenan en duelos de cartas enfrentando rivales cada vez mas fuertes.</desc>
+  </programme>
+  <programme start="20260410110000 -0300" stop="20260410113000 -0300" channel="retroblast">
+    <title lang="es">Star Wars The Clone Wars</title>
+    <desc lang="es">Serie animada ambientada en el universo de Star Wars que sigue a Jedi y clones durante las Guerras Clon enfrentando ejercitos droides y conspiraciones galacticas.</desc>
+  </programme>
+  <programme start="20260410113000 -0300" stop="20260410120000 -0300" channel="retroblast">
+    <title lang="es">Dexters Laboratory</title>
+    <desc lang="es">Serie animada que sigue a un niño genio que construye inventos secretos en su laboratorio oculto mientras intenta evitar que su hermana arruine sus experimentos.</desc>
+  </programme>
+  <programme start="20260410120000 -0300" stop="20260410123000 -0300" channel="retroblast">
+    <title lang="es">The Life and Times of Juniper Lee</title>
+    <desc lang="es">Serie animada que sigue a una joven que protege el mundo humano de criaturas magicas mientras equilibra su vida escolar y familiar.</desc>
+  </programme>
+  <programme start="20260410123000 -0300" stop="20260410130000 -0300" channel="retroblast">
+    <title lang="es">Camp Lazlo</title>
+    <desc lang="es">Serie animada ambientada en un campamento de verano donde un optimista mono vive aventuras absurdas junto a sus amigos.</desc>
+  </programme>
+  <programme start="20260410130000 -0300" stop="20260410133000 -0300" channel="retroblast">
+    <title lang="es">The Grim Adventures of Billy and Mandy</title>
+    <desc lang="es">Serie animada que mezcla humor oscuro con aventuras sobrenaturales protagonizadas por dos niños y la Muerte.</desc>
+  </programme>
+  <programme start="20260410133000 -0300" stop="20260410140000 -0300" channel="retroblast">
+    <title lang="es">The Powerpuff Girls</title>
+    <desc lang="es">Serie animada sobre tres niñas con superpoderes que protegen su ciudad enfrentando villanos extravagantes mediante accion y humor.</desc>
+  </programme>
+  <programme start="20260410140000 -0300" stop="20260410143000 -0300" channel="retroblast">
+    <title lang="es">Courage the Cowardly Dog</title>
+    <desc lang="es">Serie animada sobre un perro miedoso que enfrenta criaturas sobrenaturales para proteger a sus dueños.</desc>
+  </programme>
+  <programme start="20260410143000 -0300" stop="20260410150000 -0300" channel="retroblast">
+    <title lang="es">Time Squad</title>
+    <desc lang="es">Serie animada que sigue a un grupo de viajeros temporales que corrigen errores historicos provocados por personajes que alteran el pasado.</desc>
+  </programme>
+  <programme start="20260410150000 -0300" stop="20260410153000 -0300" channel="retroblast">
+    <title lang="es">Johnny Bravo</title>
+    <desc lang="es">Serie animada que sigue a un joven egocentrico obsesionado con su apariencia que intenta conquistar mujeres pero termina metido en situaciones absurdas.</desc>
+  </programme>
+  <programme start="20260410153000 -0300" stop="20260410160000 -0300" channel="retroblast">
+    <title lang="es">Codename Kids Next Door</title>
+    <desc lang="es">Serie animada que sigue a un grupo secreto de niños agentes que luchan contra villanos adultos utilizando tecnologia casera.</desc>
+  </programme>
+  <programme start="20260410160000 -0300" stop="20260410163000 -0300" channel="retroblast">
+    <title lang="es">Pokemon</title>
+    <desc lang="es">Serie animada que sigue a entrenadores que viajan por distintas regiones capturando criaturas llamadas Pokemon entrenandolas y participando en batallas competitivas mientras buscan convertirse en maestros Pokemon.</desc>
+  </programme>
+  <programme start="20260410163000 -0300" stop="20260410170000 -0300" channel="retroblast">
+    <title lang="es">Yu Gi Oh</title>
+    <desc lang="es">Serie animada que sigue a duelistas que utilizan cartas especiales para invocar criaturas y enfrentarse en intensos combates estrategicos donde la amistad y la confianza son clave para alcanzar la victoria.</desc>
+  </programme>
+  <programme start="20260410170000 -0300" stop="20260410172500 -0300" channel="retroblast">
+    <title lang="es">Sailor Moon</title>
+    <desc lang="es">Anime que sigue a una joven estudiante que descubre ser una guerrera magica destinada a proteger la Tierra de fuerzas oscuras junto a un grupo de aliadas con poderes elementales.</desc>
+  </programme>
+  <programme start="20260410172500 -0300" stop="20260410175000 -0300" channel="retroblast">
+    <title lang="es">YuYu Hakusho</title>
+    <desc lang="es">Anime de accion sobrenatural que sigue a un joven rebelde que se convierte en detective espiritual enfrentando demonios y participando en torneos de combate entre mundos.</desc>
+  </programme>
+  <programme start="20260410175000 -0300" stop="20260410181500 -0300" channel="retroblast">
+    <title lang="es">Gundam Wing</title>
+    <desc lang="es">Anime de ciencia ficcion que sigue a pilotos adolescentes que controlan robots gigantes llamados Gundam en medio de conflictos politicos y guerras espaciales entre colonias y gobiernos terrestres.</desc>
+  </programme>
+  <programme start="20260410181500 -0300" stop="20260410184000 -0300" channel="retroblast">
+    <title lang="es">Dragon Ball Z</title>
+    <desc lang="es">Anime de accion que sigue a Goku y sus aliados defendiendo la Tierra contra enemigos cada vez mas poderosos mediante intensos combates transformaciones y entrenamiento constante.</desc>
+  </programme>
+  <programme start="20260410184000 -0300" stop="20260410190500 -0300" channel="retroblast">
+    <title lang="es">Teen Titans</title>
+    <desc lang="es">Serie animada que sigue a un equipo de jovenes superheroes que combinan habilidades unicas para proteger su ciudad enfrentando villanos peligrosos mientras lidian con conflictos personales.</desc>
+  </programme>
+  <programme start="20260410190500 -0300" stop="20260410193000 -0300" channel="retroblast">
+    <title lang="es">One Piece</title>
+    <desc lang="es">Anime de aventuras que sigue a Monkey D Luffy y su tripulacion de piratas en busca del legendario tesoro One Piece enfrentando enemigos poderosos y explorando mares llenos de misterios.</desc>
+  </programme>
+  <programme start="20260410193000 -0300" stop="20260410200000 -0300" channel="retroblast">
+    <title lang="es">Naruto Shippuden</title>
+    <desc lang="es">Anime que sigue a Naruto Uzumaki ya como ninja adolescente enfrentando organizaciones criminales y amenazas globales mientras busca reconocimiento y proteger a sus amigos.</desc>
+  </programme>
+  <programme start="20260410200000 -0300" stop="20260410203000 -0300" channel="retroblast">
+    <title lang="es">Fosters Home for Imaginary Friends</title>
+    <desc lang="es">Serie animada ambientada en un hogar donde viven amigos imaginarios abandonados mostrando historias creativas sobre amistad y convivencia.</desc>
+  </programme>
+  <programme start="20260410203000 -0300" stop="20260410210000 -0300" channel="retroblast">
+    <title lang="es">Hi Hi Puffy AmiYumi</title>
+    <desc lang="es">Serie animada musical que sigue a versiones caricaturizadas del duo musical japones Puffy AmiYumi mientras viajan por el mundo enfrentando situaciones absurdas relacionadas con conciertos y fama.</desc>
+  </programme>
+  <programme start="20260410210000 -0300" stop="20260410213000 -0300" channel="retroblast">
+    <title lang="es">The Grim Adventures of Billy and Mandy</title>
+    <desc lang="es">Serie animada que mezcla humor oscuro con aventuras sobrenaturales protagonizadas por dos niños y la Muerte quienes enfrentan monstruos y situaciones absurdas.</desc>
+  </programme>
+  <programme start="20260410213000 -0300" stop="20260410220000 -0300" channel="retroblast">
+    <title lang="es">Ed Edd n Eddy</title>
+    <desc lang="es">Serie animada que sigue a tres amigos que idean planes ridiculos para ganar dinero y popularidad aunque siempre terminan en caos.</desc>
+  </programme>
+  <programme start="20260410220000 -0300" stop="20260410223000 -0300" channel="retroblast">
+    <title lang="es">Camp Lazlo</title>
+    <desc lang="es">Serie animada ambientada en un campamento de verano donde un optimista mono vive aventuras absurdas junto a sus amigos.</desc>
+  </programme>
+  <programme start="20260410223000 -0300" stop="20260410230000 -0300" channel="retroblast">
+    <title lang="es">Codename Kids Next Door</title>
+    <desc lang="es">Serie animada que sigue a un grupo secreto de niños agentes que luchan contra villanos adultos utilizando tecnologia casera y estrategias ingeniosas.</desc>
+  </programme>
+  <programme start="20260410230000 -0300" stop="20260410233000 -0300" channel="retroblast">
+    <title lang="es">The Life and Times of Juniper Lee</title>
+    <desc lang="es">Serie animada que sigue a una joven que protege el mundo humano de criaturas magicas mientras equilibra su vida escolar.</desc>
+  </programme>
+  <programme start="20260410233000 -0300" stop="20260411000000 -0300" channel="retroblast">
+    <title lang="es">The Powerpuff Girls</title>
+    <desc lang="es">Serie animada sobre tres niñas con superpoderes que protegen su ciudad enfrentando villanos extravagantes mediante accion y humor.</desc>
+  </programme>
   <programme start="20260408000000 -0300" stop="20260408010000 -0300" channel="telered.ar">
     <title lang="es">Serie Retro</title>
     <desc lang="es">Ciclo de series televisivas que marcaron el paso del tiempo. Telered recupera producciones clásicas de distintas décadas y géneros para que el público vuelva a disfrutar de los programas que fueron tendencia en su época.</desc>
@@ -4610,5 +5288,281 @@
   <programme start="20260410230000 -0300" stop="20260411000000 -0300" channel="telesistema.ar">
     <title lang="es">Series del ayer</title>
     <desc lang="es">Clásicas series de televisión de décadas pasadas.</desc>
+  </programme>
+  <programme start="20260408000000 -0300" stop="20260408010000 -0300" channel="GTVI">
+    <title lang="es">PlayList</title>
+    <desc lang="es">Programa PlayList, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408010000 -0300" stop="20260408090000 -0300" channel="GTVI">
+    <title lang="es">Noches de insomnio</title>
+    <desc lang="es">Programa Noches de insomnio, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408090000 -0300" stop="20260408093000 -0300" channel="GTVI">
+    <title lang="es">Música Católica</title>
+    <desc lang="es">Programa Música Católica, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408093000 -0300" stop="20260408100000 -0300" channel="GTVI">
+    <title lang="es">Rezo del Santo Rosario</title>
+    <desc lang="es">Programa Rezo del Santo Rosario, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408100000 -0300" stop="20260408110000 -0300" channel="GTVI">
+    <title lang="es">Santa Misa</title>
+    <desc lang="es">Programa Santa Misa, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408110000 -0300" stop="20260408130000 -0300" channel="GTVI">
+    <title lang="es">Película Familiar</title>
+    <desc lang="es">Programa Película Familiar, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408130000 -0300" stop="20260408133000 -0300" channel="GTVI">
+    <title lang="es">Bob Esponja - 1999</title>
+    <desc lang="es">Programa Bob Esponja - 1999, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408133000 -0300" stop="20260408140000 -0300" channel="GTVI">
+    <title lang="es">Garfield y sus amigos - 1988</title>
+    <desc lang="es">Programa Garfield y sus amigos - 1988, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408140000 -0300" stop="20260408143000 -0300" channel="GTVI">
+    <title lang="es">El show de Scooby-Doo y Scrappy-Doo - 1980</title>
+    <desc lang="es">Programa El show de Scooby-Doo y Scrappy-Doo - 1980, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408143000 -0300" stop="20260408150000 -0300" channel="GTVI">
+    <title lang="es">Los años maravillosos - 1988</title>
+    <desc lang="es">Programa Los años maravillosos - 1988, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408150000 -0300" stop="20260408160000 -0300" channel="GTVI">
+    <title lang="es">MacGyver - 1985</title>
+    <desc lang="es">Programa MacGyver - 1985, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408160000 -0300" stop="20260408163000 -0300" channel="GTVI">
+    <title lang="es">Hechizada - 1964</title>
+    <desc lang="es">Programa Hechizada - 1964, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408163000 -0300" stop="20260408170000 -0300" channel="GTVI">
+    <title lang="es">Los Looney Tunes - 1952</title>
+    <desc lang="es">Programa Los Looney Tunes - 1952, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408170000 -0300" stop="20260408173000 -0300" channel="GTVI">
+    <title lang="es">Slavado por la campana - 1989</title>
+    <desc lang="es">Programa Slavado por la campana - 1989, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408173000 -0300" stop="20260408180000 -0300" channel="GTVI">
+    <title lang="es">Los Picapiedras - 1960</title>
+    <desc lang="es">Programa Los Picapiedras - 1960, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408180000 -0300" stop="20260408183000 -0300" channel="GTVI">
+    <title lang="es">Los Supersónicos - 1962</title>
+    <desc lang="es">Programa Los Supersónicos - 1962, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408183000 -0300" stop="20260408190000 -0300" channel="GTVI">
+    <title lang="es">Halcones Galacticos - 1986</title>
+    <desc lang="es">Programa Halcones Galacticos - 1986, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408190000 -0300" stop="20260408193000 -0300" channel="GTVI">
+    <title lang="es">KND Los chicos del barrio -2002</title>
+    <desc lang="es">Programa KND Los chicos del barrio -2002, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408193000 -0300" stop="20260408200000 -0300" channel="GTVI">
+    <title lang="es">Pawer Ranger - 1993</title>
+    <desc lang="es">Programa Pawer Ranger - 1993, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408200000 -0300" stop="20260408203000 -0300" channel="GTVI">
+    <title lang="es">Dragon Ball Z - 1989</title>
+    <desc lang="es">Programa Dragon Ball Z - 1989, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408203000 -0300" stop="20260408210000 -0300" channel="GTVI">
+    <title lang="es">La niñera - 1993</title>
+    <desc lang="es">Programa La niñera - 1993, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408210000 -0300" stop="20260408220000 -0300" channel="GTVI">
+    <title lang="es">Buffy, la caza vampiros - 1997</title>
+    <desc lang="es">Programa Buffy, la caza vampiros - 1997, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408220000 -0300" stop="20260408230000 -0300" channel="GTVI">
+    <title lang="es">Doogie Howser, M.D. - 1989</title>
+    <desc lang="es">Programa Doogie Howser, M.D. - 1989, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260408230000 -0300" stop="20260409000000 -0300" channel="GTVI">
+    <title lang="es">Bienestar es Salud</title>
+    <desc lang="es">Programa Bienestar es Salud, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409000000 -0300" stop="20260409090000 -0300" channel="GTVI">
+    <title lang="es">Noches de insomnio</title>
+    <desc lang="es">Programa Noches de insomnio, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409000000 -0300" stop="20260409090000 -0300" channel="GTVI">
+    <title lang="es">Noches de insomnio</title>
+    <desc lang="es">Programa Noches de insomnio, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409090000 -0300" stop="20260409093000 -0300" channel="GTVI">
+    <title lang="es">Música Católica</title>
+    <desc lang="es">Programa Música Católica, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409093000 -0300" stop="20260409100000 -0300" channel="GTVI">
+    <title lang="es">Rezo del Santo Rosario</title>
+    <desc lang="es">Programa Rezo del Santo Rosario, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409100000 -0300" stop="20260409110000 -0300" channel="GTVI">
+    <title lang="es">Santa Misa</title>
+    <desc lang="es">Programa Santa Misa, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409110000 -0300" stop="20260409130000 -0300" channel="GTVI">
+    <title lang="es">Película Familiar</title>
+    <desc lang="es">Programa Película Familiar, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409130000 -0300" stop="20260409133000 -0300" channel="GTVI">
+    <title lang="es">Bob Esponja - 1999</title>
+    <desc lang="es">Programa Bob Esponja - 1999, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409133000 -0300" stop="20260409140000 -0300" channel="GTVI">
+    <title lang="es">Garfield y sus amigos - 1988</title>
+    <desc lang="es">Programa Garfield y sus amigos - 1988, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409140000 -0300" stop="20260409143000 -0300" channel="GTVI">
+    <title lang="es">El show de Scooby-Doo y Scrappy-Doo - 1980</title>
+    <desc lang="es">Programa El show de Scooby-Doo y Scrappy-Doo - 1980, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409143000 -0300" stop="20260409150000 -0300" channel="GTVI">
+    <title lang="es">Los años maravillosos - 1988</title>
+    <desc lang="es">Programa Los años maravillosos - 1988, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409150000 -0300" stop="20260409160000 -0300" channel="GTVI">
+    <title lang="es">MacGyver - 1985</title>
+    <desc lang="es">Programa MacGyver - 1985, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409160000 -0300" stop="20260409163000 -0300" channel="GTVI">
+    <title lang="es">Hechizada - 1964</title>
+    <desc lang="es">Programa Hechizada - 1964, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409163000 -0300" stop="20260409170000 -0300" channel="GTVI">
+    <title lang="es">Los Looney Tunes - 1952</title>
+    <desc lang="es">Programa Los Looney Tunes - 1952, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409170000 -0300" stop="20260409173000 -0300" channel="GTVI">
+    <title lang="es">Slavado por la campana - 1989</title>
+    <desc lang="es">Programa Slavado por la campana - 1989, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409173000 -0300" stop="20260409180000 -0300" channel="GTVI">
+    <title lang="es">Los Picapiedras - 1960</title>
+    <desc lang="es">Programa Los Picapiedras - 1960, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409180000 -0300" stop="20260409183000 -0300" channel="GTVI">
+    <title lang="es">Hey Arnold! - 1996</title>
+    <desc lang="es">Programa Hey Arnold! - 1996, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409183000 -0300" stop="20260409190000 -0300" channel="GTVI">
+    <title lang="es">El Hombre Araña - 1994</title>
+    <desc lang="es">Programa El Hombre Araña - 1994, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409190000 -0300" stop="20260409193000 -0300" channel="GTVI">
+    <title lang="es">Jhony Quest -1964</title>
+    <desc lang="es">Programa Jhony Quest -1964, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409193000 -0300" stop="20260409200000 -0300" channel="GTVI">
+    <title lang="es">Pawer Ranger - 1993</title>
+    <desc lang="es">Programa Pawer Ranger - 1993, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409200000 -0300" stop="20260409203000 -0300" channel="GTVI">
+    <title lang="es">Dragon Ball Z - 1989</title>
+    <desc lang="es">Programa Dragon Ball Z - 1989, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409203000 -0300" stop="20260409210000 -0300" channel="GTVI">
+    <title lang="es">La niñera - 1993</title>
+    <desc lang="es">Programa La niñera - 1993, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409210000 -0300" stop="20260409220000 -0300" channel="GTVI">
+    <title lang="es">Lobo del Aire - 1984</title>
+    <desc lang="es">Programa Lobo del Aire - 1984, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409220000 -0300" stop="20260409230000 -0300" channel="GTVI">
+    <title lang="es">Beverly Hills, 90210 - 1990</title>
+    <desc lang="es">Programa Beverly Hills, 90210 - 1990, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260409230000 -0300" stop="20260410000000 -0300" channel="GTVI">
+    <title lang="es">La Entrevista</title>
+    <desc lang="es">Programa La Entrevista, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410090000 -0300" stop="20260410093000 -0300" channel="GTVI">
+    <title lang="es">Música Católica</title>
+    <desc lang="es">Programa Música Católica, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410093000 -0300" stop="20260410100000 -0300" channel="GTVI">
+    <title lang="es">Rezo del Santo Rosario</title>
+    <desc lang="es">Programa Rezo del Santo Rosario, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410100000 -0300" stop="20260410110000 -0300" channel="GTVI">
+    <title lang="es">Santa Misa</title>
+    <desc lang="es">Programa Santa Misa, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410110000 -0300" stop="20260410130000 -0300" channel="GTVI">
+    <title lang="es">Película Familiar</title>
+    <desc lang="es">Programa Película Familiar, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410130000 -0300" stop="20260410133000 -0300" channel="GTVI">
+    <title lang="es">Bob Esponja - 1999</title>
+    <desc lang="es">Programa Bob Esponja - 1999, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410133000 -0300" stop="20260410140000 -0300" channel="GTVI">
+    <title lang="es">Garfield y sus amigos - 1988</title>
+    <desc lang="es">Programa Garfield y sus amigos - 1988, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410140000 -0300" stop="20260410143000 -0300" channel="GTVI">
+    <title lang="es">El show de Scooby-Doo y Scrappy-Doo - 1980</title>
+    <desc lang="es">Programa El show de Scooby-Doo y Scrappy-Doo - 1980, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410143000 -0300" stop="20260410150000 -0300" channel="GTVI">
+    <title lang="es">Los años maravillosos - 1988</title>
+    <desc lang="es">Programa Los años maravillosos - 1988, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410150000 -0300" stop="20260410160000 -0300" channel="GTVI">
+    <title lang="es">MacGyver - 1985</title>
+    <desc lang="es">Programa MacGyver - 1985, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410160000 -0300" stop="20260410163000 -0300" channel="GTVI">
+    <title lang="es">Hechizada - 1964</title>
+    <desc lang="es">Programa Hechizada - 1964, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410163000 -0300" stop="20260410170000 -0300" channel="GTVI">
+    <title lang="es">Los Looney Tunes - 1952</title>
+    <desc lang="es">Programa Los Looney Tunes - 1952, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410170000 -0300" stop="20260410173000 -0300" channel="GTVI">
+    <title lang="es">Slavado por la campana - 1989</title>
+    <desc lang="es">Programa Slavado por la campana - 1989, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410173000 -0300" stop="20260410180000 -0300" channel="GTVI">
+    <title lang="es">Los Picapiedras - 1960</title>
+    <desc lang="es">Programa Los Picapiedras - 1960, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410180000 -0300" stop="20260410183000 -0300" channel="GTVI">
+    <title lang="es">Dinosaurios - 1991</title>
+    <desc lang="es">Programa Dinosaurios - 1991, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410183000 -0300" stop="20260410190000 -0300" channel="GTVI">
+    <title lang="es">He-Man y los Amos del Universo - 1983</title>
+    <desc lang="es">Programa He-Man y los Amos del Universo - 1983, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410190000 -0300" stop="20260410193000 -0300" channel="GTVI">
+    <title lang="es">Transformers G1 - 1984</title>
+    <desc lang="es">Programa Transformers G1 - 1984, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410193000 -0300" stop="20260410200000 -0300" channel="GTVI">
+    <title lang="es">Pawer Ranger - 1993</title>
+    <desc lang="es">Programa Pawer Ranger - 1993, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410200000 -0300" stop="20260410203000 -0300" channel="GTVI">
+    <title lang="es">Dragon Ball Z - 1989</title>
+    <desc lang="es">Programa Dragon Ball Z - 1989, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410203000 -0300" stop="20260410210000 -0300" channel="GTVI">
+    <title lang="es">La niñera - 1993</title>
+    <desc lang="es">Programa La niñera - 1993, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410210000 -0300" stop="20260410220000 -0300" channel="GTVI">
+    <title lang="es">Batman y Robin - 1966</title>
+    <desc lang="es">Programa Batman y Robin - 1966, parte de la programación del canal.</desc>
+  </programme>
+  <programme start="20260410220000 -0300" stop="20260411000000 -0300" channel="GTVI">
+    <title lang="es">Se puso buena la banda</title>
+    <desc lang="es">Programa Se puso buena la banda, parte de la programación del canal.</desc>
   </programme>
 </tv>

@@ -85,7 +85,7 @@ CHANNELS = [
     },
 ]
 
-TIMEZONE    = "America/Argentina/Buenos_Aires"
+TIMEZONE = "America/Argentina/Buenos_Aires"
 OUTPUT_FILE = "epg.xml"
 
 DAYS_MAP = {
@@ -102,12 +102,12 @@ def fetch_sheet(url):
         print(f"❌ Error descargando {url} → {e}")
         return []
 
-# ─── PARSEO DE HORA ROBUSTO ──────────────────────────────────────────────────
+# ─── PARSEO DE HORA ──────────────────────────────────────────────────────────
 def parse_time(t):
     if not t:
         raise ValueError("Hora vacía")
 
-    t = t.strip()
+    t = t.strip().lower()
     t = t.replace("hs", "")
     t = t.replace(".", ":")
     t = t.replace("·", "")
@@ -127,6 +127,20 @@ def get_monday():
     today = datetime.now(tz).date()
     return today - timedelta(days=today.weekday())
 
+# ─── NUEVA LÓGICA DE TIPOS ───────────────────────────────────────────────────
+def get_days_from_type(tipo):
+    tipo = tipo.lower()
+
+    if tipo == "weekdays":
+        return [0,1,2,3,4]
+    elif tipo == "weekend":
+        return [5,6]
+    elif tipo in DAYS_MAP:
+        return [DAYS_MAP[tipo]]
+    else:
+        print(f"❌ Tipo inválido: {tipo}")
+        return []
+
 # ─── CONSTRUCCIÓN EPG ────────────────────────────────────────────────────────
 def build_epg(rows, channel_id):
     tz = pytz.timezone(TIMEZONE)
@@ -142,47 +156,41 @@ def build_epg(rows, channel_id):
 
         row = [col.strip() for col in row]
 
-        day_raw, start_raw, end_raw, title = row[0], row[1], row[2], row[3]
+        tipo, start_raw, end_raw, title = row[0], row[1], row[2], row[3]
         desc = row[4] if len(row) > 4 else ""
 
-        day_key = day_raw.lower()
+        days = get_days_from_type(tipo)
 
-        # DEBUG DÍA
-        if day_key not in DAYS_MAP:
-            print(f"❌ Día inválido: {day_raw}")
-            continue
+        for day_offset in days:
+            date = monday + timedelta(days=day_offset)
 
-        date = monday + timedelta(days=DAYS_MAP[day_key])
+            if not (today <= date <= limit):
+                continue
 
-        # FILTRO DE DÍAS
-        if not (today <= date <= limit):
-            continue
+            try:
+                start_t = parse_time(start_raw)
+                end_t   = parse_time(end_raw)
+            except Exception as e:
+                print(f"⚠️ Error en fila {row} → {e}")
+                continue
 
-        # PARSEO DE HORAS
-        try:
-            start_t = parse_time(start_raw)
-            end_t   = parse_time(end_raw)
-        except Exception as e:
-            print(f"⚠️ Error en fila {row} → {e}")
-            continue
+            start_dt = tz.localize(datetime.combine(date, start_t))
+            end_dt   = tz.localize(datetime.combine(date, end_t))
 
-        start_dt = tz.localize(datetime.combine(date, start_t))
-        end_dt   = tz.localize(datetime.combine(date, end_t))
+            if end_dt <= start_dt:
+                end_dt += timedelta(days=1)
 
-        if end_dt <= start_dt:
-            end_dt += timedelta(days=1)
-
-        programmes.append((
-            start_dt,
-            end_dt,
-            title.strip(),
-            desc.strip(),
-            channel_id
-        ))
+            programmes.append((
+                start_dt,
+                end_dt,
+                title.strip(),
+                desc.strip(),
+                channel_id
+            ))
 
     programmes.sort(key=lambda x: x[0])
     return programmes
-        
+
 # ─── GENERADOR XML ───────────────────────────────────────────────────────────
 def write_xmltv(channels_data):
     lines = []
@@ -239,7 +247,6 @@ def main():
 
     xml = write_xmltv(channels_data)
 
-    # 🔥 limpiar BOM / caracteres invisibles
     xml = xml.encode("utf-8").decode("utf-8-sig").lstrip()
 
     with open(OUTPUT_FILE, "w", encoding="utf-8-sig") as f:
@@ -247,6 +254,5 @@ def main():
 
     print(f"\nEPG guardado en {OUTPUT_FILE}")
 
-# ─── ENTRYPOINT ──────────────────────────────────────────────────────────────
 if __name__ == "__main__":
     main()

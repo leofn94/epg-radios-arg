@@ -179,18 +179,23 @@ def write_final_xml(channels_data):
 
     # Escribir Cabeceras de Canales
     for ch in channels_data:
+        name = ch.get("name") or "Canal sin nombre"
         lines.append(f'  <channel id="{ch["id"]}">')
-        lines.append(f'    <display-name>{html.escape(ch["name"])}</display-name>')
+        lines.append(f'    <display-name>{html.escape(str(name))}</display-name>')
         lines.append('  </channel>')
 
     # Escribir Programación
     total_prog_count = 0
     for ch in channels_data:
         for start, end, title, desc, channel_id in ch["programmes"]:
+            # Validamos que title y desc no sean None antes de hacer escape
+            safe_title = html.escape(str(title)) if title is not None else "Sin título"
+            safe_desc = html.escape(str(desc)) if desc is not None else ""
+
             lines.append(f'  <programme start="{xmltv_ts(start)}" stop="{xmltv_ts(end)}" channel="{channel_id}">')
-            lines.append(f'    <title lang="es">{html.escape(title)}</title>')
-            if desc:
-                lines.append(f'    <desc lang="es">{html.escape(desc)}</desc>')
+            lines.append(f'    <title lang="es">{safe_title}</title>')
+            if safe_desc:
+                lines.append(f'    <desc lang="es">{safe_desc}</desc>')
             lines.append('  </programme>')
             total_prog_count += 1
 

@@ -76,6 +76,9 @@
   <channel id="0135">
     <display-name>ZTV</display-name>
   </channel>
+  <channel id="0860">
+    <display-name>AVI</display-name>
+  </channel>
   <channel id="581">
     <display-name>MCG | ZoomBack</display-name>
   </channel>
@@ -84,9 +87,6 @@
   </channel>
   <channel id="536">
     <display-name>FMH - Atlas</display-name>
-  </channel>
-  <channel id="609">
-    <display-name>CL | ZTV</display-name>
   </channel>
   <channel id="608">
     <display-name>CL | Kanade</display-name>
@@ -111,9 +111,6 @@
   </channel>
   <channel id="517dtv.cl">
     <display-name>TELEVISA | Golden Edge</display-name>
-  </channel>
-  <channel id="609">
-    <display-name>CL | ZTV</display-name>
   </channel>
   <channel id="608">
     <display-name>CL | Kanade</display-name>
@@ -9350,6 +9347,154 @@
     <title lang="es">ZTV</title>
     <desc lang="es">La información de este programa no se encuentra disponible.</desc>
   </programme>
+  <programme start="20260413000000 -0400" stop="20260413001600 -0400" channel="0860">
+    <title lang="es">AVI</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260413001600 -0400" stop="20260413025100 -0400" channel="0860">
+    <title lang="es">Dune</title>
+    <desc lang="es">El elegido lucha por el futuro de Arrakis en una guerra sin fin.</desc>
+  </programme>
+  <programme start="20260413025100 -0400" stop="20260413044600 -0400" channel="0860">
+    <title lang="es">Smile</title>
+    <desc lang="es">Una sonrisa macabra marca el inicio de una pesadilla.</desc>
+  </programme>
+  <programme start="20260413044600 -0400" stop="20260413063600 -0400" channel="0860">
+    <title lang="es">No hables con extraños</title>
+    <desc lang="es">Un extraño acecha a una familia desatando secretos ocultos.</desc>
+  </programme>
+  <programme start="20260413063600 -0400" stop="20260413082600 -0400" channel="0860">
+    <title lang="es">12 horas para el fin del mundo</title>
+    <desc lang="es">Una amenaza global se desata en un día que cambia todo.</desc>
+  </programme>
+  <programme start="20260413082600 -0400" stop="20260413104400 -0400" channel="0860">
+    <title lang="es">Joker II</title>
+    <desc lang="es">El caos y la locura se intensifican con el regreso del Joker.</desc>
+  </programme>
+  <programme start="20260413104400 -0400" stop="20260413122700 -0400" channel="0860">
+    <title lang="es">El telefono negro</title>
+    <desc lang="es">Un niño escucha voces que lo llevan a enfrentarse a horrores ocultos.</desc>
+  </programme>
+  <programme start="20260413122700 -0400" stop="20260413135000 -0400" channel="0860">
+    <title lang="es">Pasajero 57</title>
+    <desc lang="es">Un agente combate terroristas en un avión en pleno vuelo.</desc>
+  </programme>
+  <programme start="20260413135000 -0400" stop="20260413154800 -0400" channel="0860">
+    <title lang="es">Alien Romulus</title>
+    <desc lang="es">La saga alien regresa con nuevos horrores espaciales.</desc>
+  </programme>
+  <programme start="20260413154800 -0400" stop="20260413172200 -0400" channel="0860">
+    <title lang="es">La torre oscura</title>
+    <desc lang="es">En un mundo extrañamente parecido al nuestro, un cowboy de nombre Roland Deschain de Gilead persigue a su eterno enemigo, &#x27;el hombre de negro&#x27;. Roland, solitario y quizá maldito, anda sin descanso a través de un paisaje triste y abandonado. El destino lo une con Jake, un chico de Nueva York pero venido de otro tiempo. Ante ellos están las montañas y, mucho más allá, la Torre Oscura.</desc>
+  </programme>
+  <programme start="20260413172200 -0400" stop="20260413191600 -0400" channel="0860">
+    <title lang="es">Dogman</title>
+    <desc lang="es">Un hombre marginado se convierte en símbolo de redención y venganza.</desc>
+  </programme>
+  <programme start="20260413191600 -0400" stop="20260413210000 -0400" channel="0860">
+    <title lang="es">La laguna azul</title>
+    <desc lang="es">Dos jóvenes náufragos crecen juntos en una isla desierta y descubren el amor.</desc>
+  </programme>
+  <programme start="20260413210000 -0400" stop="20260413230400 -0400" channel="0860">
+    <title lang="es">Ballerina</title>
+    <desc lang="es">Una asesina entrenada en las tradiciones de la organización Ruska Roma busca venganza tras la muerte de su padre.</desc>
+  </programme>
+  <programme start="20260413230400 -0400" stop="20260414011800 -0400" channel="0860">
+    <title lang="es">Gran Turismo</title>
+    <desc lang="es">Un joven piloto de videojuegos se convierte en corredor profesional de autos.</desc>
+  </programme>
+  <programme start="20260414011800 -0400" stop="20260414031400 -0400" channel="0860">
+    <title lang="es">Madame Web</title>
+    <desc lang="es">Una joven con habilidades psíquicas se conecta con el universo de Spider-Man.</desc>
+  </programme>
+  <programme start="20260414031400 -0400" stop="20260414050200 -0400" channel="0860">
+    <title lang="es">Lilo y Stitch</title>
+    <desc lang="es">Remake en imagen real de Lilo y Stitch. Narra la historia de una niña hawaiana solitaria y un extraterrestre fugitivo que la ayuda a recomponer su rota familia.</desc>
+  </programme>
+  <programme start="20260414050200 -0400" stop="20260414064300 -0400" channel="0860">
+    <title lang="es">Un Lugar En Silencio Día Uno</title>
+    <desc lang="es">El origen del apocalipsis en un mundo dominado por criaturas sensibles al sonido.</desc>
+  </programme>
+  <programme start="20260414064300 -0400" stop="20260414081300 -0400" channel="0860">
+    <title lang="es">Yo soy furia</title>
+    <desc lang="es">Un exagente busca justicia por el asesinato de su esposa.</desc>
+  </programme>
+  <programme start="20260414081300 -0400" stop="20260414103300 -0400" channel="0860">
+    <title lang="es">El Color Purpura</title>
+    <desc lang="es">La historia de lucha y esperanza de mujeres afroamericanas en el sur de EE.UU.</desc>
+  </programme>
+  <programme start="20260414103300 -0400" stop="20260414121800 -0400" channel="0860">
+    <title lang="es">Hocus Pocus II</title>
+    <desc lang="es">Las hermanas Sanderson regresan para desatar caos en Halloween.</desc>
+  </programme>
+  <programme start="20260414121800 -0400" stop="20260414140700 -0400" channel="0860">
+    <title lang="es">El precio del mañana</title>
+    <desc lang="es">En una sociedad en la que se ha conseguido anular el gen que provoca el envejecimiento, todas las personas aparenten tener 25 años. El tiempo se utiliza como moneda de cambio para evitar la superpoblación. Will es un hombre sin recursos que, después de ser acusado falsamente de haber cometido un crimen, decide huir, secuestrando en su camino a una joven heredera de una prestigiosa familia.</desc>
+  </programme>
+  <programme start="20260414140700 -0400" stop="20260414144700 -0400" channel="0860">
+    <title lang="es">Guardianes de la Galaxia El especial de las fiestas</title>
+    <desc lang="es">Los Guardianes celebran la Navidad en una aventura espacial fuera de lo común.</desc>
+  </programme>
+  <programme start="20260414144700 -0400" stop="20260414165100 -0400" channel="0860">
+    <title lang="es">Black Adam</title>
+    <desc lang="es">Black Adam es liberado de su tumba casi cinco mil años después de haber sido encarcelado y recibir sus poderes de los antiguos dioses. Ahora está listo para desatar su forma única de justicia en el mundo.</desc>
+  </programme>
+  <programme start="20260414165100 -0400" stop="20260414185600 -0400" channel="0860">
+    <title lang="es">Tren bala</title>
+    <desc lang="es">Cinco asesinos a sueldo se encuentran a bordo de un tren bala que viaja de Tokio a Morioka con unas pocas paradas intermedias. La pregunta es quién saldrá vivo del tren y qué les espera en la estación final.</desc>
+  </programme>
+  <programme start="20260414185600 -0400" stop="20260414210600 -0400" channel="0860">
+    <title lang="es">Top Gun Maverick</title>
+    <desc lang="es">Maverick entrena a nuevos pilotos en una misión casi imposible.</desc>
+  </programme>
+  <programme start="20260414210600 -0400" stop="20260414231200 -0400" channel="0860">
+    <title lang="es">Thunderbolts*</title>
+    <desc lang="es">Un grupo de supervillanos poco convencional es reclutado para hacer misiones para el gobierno.</desc>
+  </programme>
+  <programme start="20260414231200 -0400" stop="20260415015400 -0400" channel="0860">
+    <title lang="es">Misión Imposible Sentencia mortal Parte 1</title>
+    <desc lang="es">Ethan Hunt enfrenta su misión más compleja contra una amenaza digital global.</desc>
+  </programme>
+  <programme start="20260415015400 -0400" stop="20260415033600 -0400" channel="0860">
+    <title lang="es">Los mercen4rios</title>
+    <desc lang="es">Los mercenarios regresan con nuevas caras para una misión letal.</desc>
+  </programme>
+  <programme start="20260415033600 -0400" stop="20260415052000 -0400" channel="0860">
+    <title lang="es">Beekeeper: sentencia de muerte</title>
+    <desc lang="es">Adam Clay se embarca en la misión de matar a los estafadores que provocaron que su casera se suicidara tras robarle dinero para la beneficencia. Verona, la hija de la casera y agente del FBI, sospecha que el enigmático Adam no es quien asegura ser.</desc>
+  </programme>
+  <programme start="20260415052000 -0400" stop="20260415071000 -0400" channel="0860">
+    <title lang="es">Five Nights at Freddy&#x27;s</title>
+    <desc lang="es">Animatrónicos asesinos aterrorizan a un nuevo guardia nocturno.</desc>
+  </programme>
+  <programme start="20260415071000 -0400" stop="20260415095000 -0400" channel="0860">
+    <title lang="es">Wicked</title>
+    <desc lang="es">Una mujer llamada Elphaba forja una improbable amistad con Glinda, una estudiante muy amada por todos. Pronto, su relación llega a una encrucijada, por lo que sus vidas toman caminos muy diferentes.</desc>
+  </programme>
+  <programme start="20260415095000 -0400" stop="20260415124000 -0400" channel="0860">
+    <title lang="es">Gladiador</title>
+    <desc lang="es">Máximo, general romano, desea volver a casa, pero el emperador Marco Aurelio quiere que herede el imperio. Esto hace que Cómodo ordene matar a su familia. Máximo escapa de la muerte y regresa a Roma como gladiador para vengar la muerte de su familia.</desc>
+  </programme>
+  <programme start="20260415124000 -0400" stop="20260415145800 -0400" channel="0860">
+    <title lang="es">Gladiador 2</title>
+    <desc lang="es">La esperada secuela continúa la leyenda del gladiador y sus consecuencias.</desc>
+  </programme>
+  <programme start="20260415145800 -0400" stop="20260415165000 -0400" channel="0860">
+    <title lang="es">CODA Señales del corazón</title>
+    <desc lang="es">Una joven sorda encuentra su voz en una familia oyente.</desc>
+  </programme>
+  <programme start="20260415165000 -0400" stop="20260415185000 -0400" channel="0860">
+    <title lang="es">Atlas</title>
+    <desc lang="es">Una soldado con un pasado oscuro lucha para salvar la humanidad del futuro.</desc>
+  </programme>
+  <programme start="20260415185000 -0400" stop="20260415203700 -0400" channel="0860">
+    <title lang="es">Amigos Imaginarios</title>
+    <desc lang="es">Una niña puede ver a los amigos imaginarios de todos los niños.</desc>
+  </programme>
+  <programme start="20260415203700 -0400" stop="20260415235959 -0400" channel="0860">
+    <title lang="es">AVI</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
   <programme start="20260413200000 -0400" stop="20260413210000 -0400" channel="581">
     <title lang="es">Zoom back</title>
   </programme>
@@ -9638,10 +9783,7 @@
   <programme start="20260415190000 -0400" stop="20260415200000 -0400" channel="538">
     <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260413202904 -0400" stop="20260413203046 -0400" channel="536">
-    <title lang="es">El impresionante desierto del Namib</title>
-  </programme>
-  <programme start="20260413203056 -0400" stop="20260413213949 -0400" channel="536">
+  <programme start="20260413203930 -0400" stop="20260413213949 -0400" channel="536">
     <title lang="es">Más Allá De Neptuno - Viaje Al Misterioso Borde Del Sistema Solar</title>
   </programme>
   <programme start="20260413213949 -0400" stop="20260413223949 -0400" channel="536">
@@ -9782,103 +9924,10 @@
   <programme start="20260415183949 -0400" stop="20260415193949 -0400" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260415193949 -0400" stop="20260415202904 -0400" channel="536">
+  <programme start="20260415193949 -0400" stop="20260415203930 -0400" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260413202904 -0400" stop="20260413211400 -0400" channel="609">
-    <title lang="es">El poder de todos</title>
-  </programme>
-  <programme start="20260413211400 -0400" stop="20260413225100 -0400" channel="609">
-    <title lang="es">Mewtwo Strikes Back - Evolution</title>
-  </programme>
-  <programme start="20260413225100 -0400" stop="20260414002800 -0400" channel="609">
-    <title lang="es">Los Secretos De La Selva</title>
-  </programme>
-  <programme start="20260414002800 -0400" stop="20260414014900 -0400" channel="609">
-    <title lang="es">Pretty Guardian Sailor Moon Cosmos Parte 1</title>
-  </programme>
-  <programme start="20260414014900 -0400" stop="20260414031100 -0400" channel="609">
-    <title lang="es">Pretty Guardian Sailor Moon Cosmos Part2</title>
-  </programme>
-  <programme start="20260414031100 -0400" stop="20260414051000 -0400" channel="609">
-    <title lang="es">Made in Abyss: El amanecer del viaje - Parte1</title>
-  </programme>
-  <programme start="20260414051000 -0400" stop="20260414065500 -0400" channel="609">
-    <title lang="es">Made in Abyss: Crepúsculo errante - Parte 2</title>
-  </programme>
-  <programme start="20260414065500 -0400" stop="20260414084000 -0400" channel="609">
-    <title lang="es">Made in Abyss: El Amanecer del Alma Profunda - Parte 3</title>
-  </programme>
-  <programme start="20260414084000 -0400" stop="20260414102900 -0400" channel="609">
-    <title lang="es">Road to Ninja Naruto the Movie</title>
-  </programme>
-  <programme start="20260414102900 -0400" stop="20260414120100 -0400" channel="609">
-    <title lang="es">Bleach: Memories of Nobody</title>
-  </programme>
-  <programme start="20260414120100 -0400" stop="20260414133300 -0400" channel="609">
-    <title lang="es">Tokyo GODFATHERS</title>
-  </programme>
-  <programme start="20260414133300 -0400" stop="20260414151200 -0400" channel="609">
-    <title lang="es">La princesa y el piloto</title>
-  </programme>
-  <programme start="20260414151200 -0400" stop="20260414164800 -0400" channel="609">
-    <title lang="es">Pokemon Yo te elijo</title>
-  </programme>
-  <programme start="20260414164800 -0400" stop="20260414184700 -0400" channel="609">
-    <title lang="es">El niño y la bestia</title>
-  </programme>
-  <programme start="20260414184700 -0400" stop="20260414212700 -0400" channel="609">
-    <title lang="es">Ghost in the shell complex</title>
-  </programme>
-  <programme start="20260414212700 -0400" stop="20260414230400 -0400" channel="609">
-    <title lang="es">Los Secretos De La Selva</title>
-  </programme>
-  <programme start="20260414230400 -0400" stop="20260415003600 -0400" channel="609">
-    <title lang="es">Bleach: The DiamondDust Rebellion</title>
-  </programme>
-  <programme start="20260415003600 -0400" stop="20260415013600 -0400" channel="609">
-    <title lang="es">Sailor moon - La leyenda de la reina Xenian</title>
-  </programme>
-  <programme start="20260415013600 -0400" stop="20260415023500 -0400" channel="609">
-    <title lang="es">Sailor moon - La princesa de la luna</title>
-  </programme>
-  <programme start="20260415023500 -0400" stop="20260415033400 -0400" channel="609">
-    <title lang="es">Sailor moon - El milagro del agujero de los sueños</title>
-  </programme>
-  <programme start="20260415033400 -0400" stop="20260415045500 -0400" channel="609">
-    <title lang="es">sailor moon crystal eternal parte 1</title>
-  </programme>
-  <programme start="20260415045500 -0400" stop="20260415061600 -0400" channel="609">
-    <title lang="es">sailor moon crystal eternal parte 2</title>
-  </programme>
-  <programme start="20260415061600 -0400" stop="20260415073700 -0400" channel="609">
-    <title lang="es">Sailor Moon Cosmos Parte 1</title>
-  </programme>
-  <programme start="20260415073700 -0400" stop="20260415085900 -0400" channel="609">
-    <title lang="es">Sailor Moon Cosmos Parte 2</title>
-  </programme>
-  <programme start="20260415085900 -0400" stop="20260415103600 -0400" channel="609">
-    <title lang="es">Mewtwo Strikes Back - Evolution</title>
-  </programme>
-  <programme start="20260415103600 -0400" stop="20260415120600 -0400" channel="609">
-    <title lang="es">Blue Lock La Película Episodio Nagi</title>
-  </programme>
-  <programme start="20260415120600 -0400" stop="20260415140000 -0400" channel="609">
-    <title lang="es">Summer Wars</title>
-  </programme>
-  <programme start="20260415140000 -0400" stop="20260415155000 -0400" channel="609">
-    <title lang="es">Spy x Family Code White</title>
-  </programme>
-  <programme start="20260415155000 -0400" stop="20260415172700 -0400" channel="609">
-    <title lang="es">X La Pelicula</title>
-  </programme>
-  <programme start="20260415172700 -0400" stop="20260415190100 -0400" channel="609">
-    <title lang="es">Bleach: Fade to Black</title>
-  </programme>
-  <programme start="20260415190100 -0400" stop="20260415202904 -0400" channel="609">
-    <title lang="es">BLOOD C The Last Dark</title>
-  </programme>
-  <programme start="20260413202904 -0400" stop="20260413210000 -0400" channel="608">
+  <programme start="20260413203930 -0400" stop="20260413210000 -0400" channel="608">
     <title lang="es">House Md</title>
   </programme>
   <programme start="20260413210000 -0400" stop="20260413220000 -0400" channel="608">
@@ -9986,13 +10035,10 @@
   <programme start="20260415190000 -0400" stop="20260415200000 -0400" channel="608">
     <title lang="es">Lovely★Complex</title>
   </programme>
-  <programme start="20260415200000 -0400" stop="20260415202904 -0400" channel="608">
+  <programme start="20260415200000 -0400" stop="20260415203930 -0400" channel="608">
     <title lang="es">House Md</title>
   </programme>
-  <programme start="20260413202904 -0400" stop="20260413203000 -0400" channel="531">
-    <title lang="es">Digimon Frontier</title>
-  </programme>
-  <programme start="20260413203000 -0400" stop="20260413210000 -0400" channel="531">
+  <programme start="20260413203930 -0400" stop="20260413210000 -0400" channel="531">
     <title lang="es">Los Justicieros (Slayer)</title>
   </programme>
   <programme start="20260413210000 -0400" stop="20260413213000 -0400" channel="531">
@@ -10259,13 +10305,13 @@
   <programme start="20260415193000 -0400" stop="20260415200000 -0400" channel="531">
     <title lang="es">Dragon Ball</title>
   </programme>
-  <programme start="20260415200000 -0400" stop="20260415202904 -0400" channel="531">
+  <programme start="20260415200000 -0400" stop="20260415203000 -0400" channel="531">
     <title lang="es">Digimon Frontier</title>
   </programme>
-  <programme start="20260413202904 -0400" stop="20260413203000 -0400" channel="532">
-    <title lang="es">Dinoplativolos</title>
+  <programme start="20260415203000 -0400" stop="20260415203930 -0400" channel="531">
+    <title lang="es">Los Justicieros (Slayer)</title>
   </programme>
-  <programme start="20260413203000 -0400" stop="20260413210000 -0400" channel="532">
+  <programme start="20260413203930 -0400" stop="20260413210000 -0400" channel="532">
     <title lang="es">El Desafio de los Gobots</title>
   </programme>
   <programme start="20260413210000 -0400" stop="20260413230000 -0400" channel="532">
@@ -10514,10 +10560,13 @@
   <programme start="20260415193000 -0400" stop="20260415200000 -0400" channel="532">
     <title lang="es">She-Ra y las princesas del Poder</title>
   </programme>
-  <programme start="20260415200000 -0400" stop="20260415202904 -0400" channel="532">
+  <programme start="20260415200000 -0400" stop="20260415203000 -0400" channel="532">
     <title lang="es">Dinoplativolos</title>
   </programme>
-  <programme start="20260413202904 -0400" stop="20260413204849 -0400" channel="537">
+  <programme start="20260415203000 -0400" stop="20260415203930 -0400" channel="532">
+    <title lang="es">El Desafio de los Gobots</title>
+  </programme>
+  <programme start="20260413203930 -0400" stop="20260413204849 -0400" channel="537">
     <title lang="es">Sakura Card Captors</title>
   </programme>
   <programme start="20260413205210 -0400" stop="20260413211332 -0400" channel="537">
@@ -10739,10 +10788,10 @@
   <programme start="20260415192806 -0400" stop="20260415202806 -0400" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260415202806 -0400" stop="20260415202904 -0400" channel="537">
+  <programme start="20260415202806 -0400" stop="20260415203930 -0400" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260413202904 -0400" stop="20260414070000 -0400" channel="664">
+  <programme start="20260413203930 -0400" stop="20260414070000 -0400" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
   <programme start="20260414070000 -0400" stop="20260414110000 -0400" channel="664">
@@ -10766,10 +10815,10 @@
   <programme start="20260415160000 -0400" stop="20260415190000 -0400" channel="664">
     <title lang="es">Retro Prime</title>
   </programme>
-  <programme start="20260415190000 -0400" stop="20260415202904 -0400" channel="664">
+  <programme start="20260415190000 -0400" stop="20260415203930 -0400" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
-  <programme start="20260413202904 -0400" stop="20260413220000 -0400" channel="1503dtv.cl">
+  <programme start="20260413203930 -0400" stop="20260413220000 -0400" channel="1503dtv.cl">
     <title lang="es">El roomie</title>
   </programme>
   <programme start="20260413220000 -0400" stop="20260413234900 -0400" channel="1503dtv.cl">
@@ -10853,10 +10902,10 @@
   <programme start="20260415181100 -0400" stop="20260415200100 -0400" channel="1503dtv.cl">
     <title lang="es">Plan en Las Vegas</title>
   </programme>
-  <programme start="20260415200100 -0400" stop="20260415202904 -0400" channel="1503dtv.cl">
+  <programme start="20260415200100 -0400" stop="20260415203930 -0400" channel="1503dtv.cl">
     <title lang="es">Jungla</title>
   </programme>
-  <programme start="20260413202904 -0400" stop="20260413220000 -0400" channel="503dtv.cl">
+  <programme start="20260413203930 -0400" stop="20260413220000 -0400" channel="503dtv.cl">
     <title lang="es">El libro del amor</title>
   </programme>
   <programme start="20260413220000 -0400" stop="20260413235200 -0400" channel="503dtv.cl">
@@ -10928,10 +10977,10 @@
   <programme start="20260415172100 -0400" stop="20260415192300 -0400" channel="503dtv.cl">
     <title lang="es">Un detective en el kinder</title>
   </programme>
-  <programme start="20260415192300 -0400" stop="20260415202904 -0400" channel="503dtv.cl">
+  <programme start="20260415192300 -0400" stop="20260415203930 -0400" channel="503dtv.cl">
     <title lang="es">Forrest Gump</title>
   </programme>
-  <programme start="20260413202904 -0400" stop="20260413213700 -0400" channel="517dtv.cl">
+  <programme start="20260413203930 -0400" stop="20260413213700 -0400" channel="517dtv.cl">
     <title lang="es">Negocios fuera de control</title>
   </programme>
   <programme start="20260413213700 -0400" stop="20260413232000 -0400" channel="517dtv.cl">
@@ -11009,103 +11058,10 @@
   <programme start="20260415173900 -0400" stop="20260415200000 -0400" channel="517dtv.cl">
     <title lang="es">The Karate Kid</title>
   </programme>
-  <programme start="20260415200000 -0400" stop="20260415202904 -0400" channel="517dtv.cl">
+  <programme start="20260415200000 -0400" stop="20260415203930 -0400" channel="517dtv.cl">
     <title lang="es">The Karate Kid</title>
   </programme>
-  <programme start="20260413202904 -0400" stop="20260413211400 -0400" channel="609">
-    <title lang="es">El poder de todos</title>
-  </programme>
-  <programme start="20260413211400 -0400" stop="20260413225100 -0400" channel="609">
-    <title lang="es">Mewtwo Strikes Back - Evolution</title>
-  </programme>
-  <programme start="20260413225100 -0400" stop="20260414002800 -0400" channel="609">
-    <title lang="es">Los Secretos De La Selva</title>
-  </programme>
-  <programme start="20260414002800 -0400" stop="20260414014900 -0400" channel="609">
-    <title lang="es">Pretty Guardian Sailor Moon Cosmos Parte 1</title>
-  </programme>
-  <programme start="20260414014900 -0400" stop="20260414031100 -0400" channel="609">
-    <title lang="es">Pretty Guardian Sailor Moon Cosmos Part2</title>
-  </programme>
-  <programme start="20260414031100 -0400" stop="20260414051000 -0400" channel="609">
-    <title lang="es">Made in Abyss: El amanecer del viaje - Parte1</title>
-  </programme>
-  <programme start="20260414051000 -0400" stop="20260414065500 -0400" channel="609">
-    <title lang="es">Made in Abyss: Crepúsculo errante - Parte 2</title>
-  </programme>
-  <programme start="20260414065500 -0400" stop="20260414084000 -0400" channel="609">
-    <title lang="es">Made in Abyss: El Amanecer del Alma Profunda - Parte 3</title>
-  </programme>
-  <programme start="20260414084000 -0400" stop="20260414102900 -0400" channel="609">
-    <title lang="es">Road to Ninja Naruto the Movie</title>
-  </programme>
-  <programme start="20260414102900 -0400" stop="20260414120100 -0400" channel="609">
-    <title lang="es">Bleach: Memories of Nobody</title>
-  </programme>
-  <programme start="20260414120100 -0400" stop="20260414133300 -0400" channel="609">
-    <title lang="es">Tokyo GODFATHERS</title>
-  </programme>
-  <programme start="20260414133300 -0400" stop="20260414151200 -0400" channel="609">
-    <title lang="es">La princesa y el piloto</title>
-  </programme>
-  <programme start="20260414151200 -0400" stop="20260414164800 -0400" channel="609">
-    <title lang="es">Pokemon Yo te elijo</title>
-  </programme>
-  <programme start="20260414164800 -0400" stop="20260414184700 -0400" channel="609">
-    <title lang="es">El niño y la bestia</title>
-  </programme>
-  <programme start="20260414184700 -0400" stop="20260414212700 -0400" channel="609">
-    <title lang="es">Ghost in the shell complex</title>
-  </programme>
-  <programme start="20260414212700 -0400" stop="20260414230400 -0400" channel="609">
-    <title lang="es">Los Secretos De La Selva</title>
-  </programme>
-  <programme start="20260414230400 -0400" stop="20260415003600 -0400" channel="609">
-    <title lang="es">Bleach: The DiamondDust Rebellion</title>
-  </programme>
-  <programme start="20260415003600 -0400" stop="20260415013600 -0400" channel="609">
-    <title lang="es">Sailor moon - La leyenda de la reina Xenian</title>
-  </programme>
-  <programme start="20260415013600 -0400" stop="20260415023500 -0400" channel="609">
-    <title lang="es">Sailor moon - La princesa de la luna</title>
-  </programme>
-  <programme start="20260415023500 -0400" stop="20260415033400 -0400" channel="609">
-    <title lang="es">Sailor moon - El milagro del agujero de los sueños</title>
-  </programme>
-  <programme start="20260415033400 -0400" stop="20260415045500 -0400" channel="609">
-    <title lang="es">sailor moon crystal eternal parte 1</title>
-  </programme>
-  <programme start="20260415045500 -0400" stop="20260415061600 -0400" channel="609">
-    <title lang="es">sailor moon crystal eternal parte 2</title>
-  </programme>
-  <programme start="20260415061600 -0400" stop="20260415073700 -0400" channel="609">
-    <title lang="es">Sailor Moon Cosmos Parte 1</title>
-  </programme>
-  <programme start="20260415073700 -0400" stop="20260415085900 -0400" channel="609">
-    <title lang="es">Sailor Moon Cosmos Parte 2</title>
-  </programme>
-  <programme start="20260415085900 -0400" stop="20260415103600 -0400" channel="609">
-    <title lang="es">Mewtwo Strikes Back - Evolution</title>
-  </programme>
-  <programme start="20260415103600 -0400" stop="20260415120600 -0400" channel="609">
-    <title lang="es">Blue Lock La Película Episodio Nagi</title>
-  </programme>
-  <programme start="20260415120600 -0400" stop="20260415140000 -0400" channel="609">
-    <title lang="es">Summer Wars</title>
-  </programme>
-  <programme start="20260415140000 -0400" stop="20260415155000 -0400" channel="609">
-    <title lang="es">Spy x Family Code White</title>
-  </programme>
-  <programme start="20260415155000 -0400" stop="20260415172700 -0400" channel="609">
-    <title lang="es">X La Pelicula</title>
-  </programme>
-  <programme start="20260415172700 -0400" stop="20260415190100 -0400" channel="609">
-    <title lang="es">Bleach: Fade to Black</title>
-  </programme>
-  <programme start="20260415190100 -0400" stop="20260415202904 -0400" channel="609">
-    <title lang="es">BLOOD C The Last Dark</title>
-  </programme>
-  <programme start="20260413202904 -0400" stop="20260413210000 -0400" channel="608">
+  <programme start="20260413203930 -0400" stop="20260413210000 -0400" channel="608">
     <title lang="es">House Md</title>
   </programme>
   <programme start="20260413210000 -0400" stop="20260413220000 -0400" channel="608">
@@ -11213,13 +11169,10 @@
   <programme start="20260415190000 -0400" stop="20260415200000 -0400" channel="608">
     <title lang="es">Lovely★Complex</title>
   </programme>
-  <programme start="20260415200000 -0400" stop="20260415202904 -0400" channel="608">
+  <programme start="20260415200000 -0400" stop="20260415203930 -0400" channel="608">
     <title lang="es">House Md</title>
   </programme>
-  <programme start="20260413202904 -0400" stop="20260413203000 -0400" channel="531">
-    <title lang="es">Digimon Frontier</title>
-  </programme>
-  <programme start="20260413203000 -0400" stop="20260413210000 -0400" channel="531">
+  <programme start="20260413203930 -0400" stop="20260413210000 -0400" channel="531">
     <title lang="es">Los Justicieros (Slayer)</title>
   </programme>
   <programme start="20260413210000 -0400" stop="20260413213000 -0400" channel="531">
@@ -11486,13 +11439,13 @@
   <programme start="20260415193000 -0400" stop="20260415200000 -0400" channel="531">
     <title lang="es">Dragon Ball</title>
   </programme>
-  <programme start="20260415200000 -0400" stop="20260415202904 -0400" channel="531">
+  <programme start="20260415200000 -0400" stop="20260415203000 -0400" channel="531">
     <title lang="es">Digimon Frontier</title>
   </programme>
-  <programme start="20260413202904 -0400" stop="20260413203000 -0400" channel="532">
-    <title lang="es">Dinoplativolos</title>
+  <programme start="20260415203000 -0400" stop="20260415203930 -0400" channel="531">
+    <title lang="es">Los Justicieros (Slayer)</title>
   </programme>
-  <programme start="20260413203000 -0400" stop="20260413210000 -0400" channel="532">
+  <programme start="20260413203930 -0400" stop="20260413210000 -0400" channel="532">
     <title lang="es">El Desafio de los Gobots</title>
   </programme>
   <programme start="20260413210000 -0400" stop="20260413230000 -0400" channel="532">
@@ -11741,10 +11694,13 @@
   <programme start="20260415193000 -0400" stop="20260415200000 -0400" channel="532">
     <title lang="es">She-Ra y las princesas del Poder</title>
   </programme>
-  <programme start="20260415200000 -0400" stop="20260415202904 -0400" channel="532">
+  <programme start="20260415200000 -0400" stop="20260415203000 -0400" channel="532">
     <title lang="es">Dinoplativolos</title>
   </programme>
-  <programme start="20260413202904 -0400" stop="20260413204849 -0400" channel="537">
+  <programme start="20260415203000 -0400" stop="20260415203930 -0400" channel="532">
+    <title lang="es">El Desafio de los Gobots</title>
+  </programme>
+  <programme start="20260413203930 -0400" stop="20260413204849 -0400" channel="537">
     <title lang="es">Sakura Card Captors</title>
   </programme>
   <programme start="20260413205210 -0400" stop="20260413211332 -0400" channel="537">
@@ -11966,10 +11922,10 @@
   <programme start="20260415192806 -0400" stop="20260415202806 -0400" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260415202806 -0400" stop="20260415202904 -0400" channel="537">
+  <programme start="20260415202806 -0400" stop="20260415203930 -0400" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260413202904 -0400" stop="20260414070000 -0400" channel="664">
+  <programme start="20260413203930 -0400" stop="20260414070000 -0400" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
   <programme start="20260414070000 -0400" stop="20260414110000 -0400" channel="664">
@@ -11993,7 +11949,7 @@
   <programme start="20260415160000 -0400" stop="20260415190000 -0400" channel="664">
     <title lang="es">Retro Prime</title>
   </programme>
-  <programme start="20260415190000 -0400" stop="20260415202904 -0400" channel="664">
+  <programme start="20260415190000 -0400" stop="20260415203930 -0400" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
 </tv>

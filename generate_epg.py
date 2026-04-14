@@ -32,11 +32,11 @@ CHANNELS = [
 EXTERNAL_SOURCES = [
     {
         "url": "https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/vilma/guia-de-programacion.xml",
-        "ids": ["0855", "0533", "0839", "XXX8", "0861", "0852", "0827", "0528", "0135","0860"]
+        "ids": ["0855", "0533", "0839", "XXX8", "0861", "0827", "0528", "0135","0860"]
     }
     ,{
         "url": "https://epg.programadorx.cl/mdiaz/gratis.xml",
-        "ids": ["581", "538", "536", "608", "531", "532","537","664","1503dtv.cl","503dtv.cl", "517dtv.cl", "608", "531", "532","537","664","663"]
+        "ids": ["581", "538", "536", "608", "531", "532","537","664","1503dtv.cl","503dtv.cl", "517dtv.cl", "608", "531", "532","537","664","663","504","567","568","569","539"]
      }
    # ,{
    #     "url": "https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml",

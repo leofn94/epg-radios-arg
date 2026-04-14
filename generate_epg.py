@@ -32,8 +32,16 @@ CHANNELS = [
 EXTERNAL_SOURCES = [
     {
         "url": "https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/vilma/guia-de-programacion.xml",
-        "ids": ["0855", "0533", "0839", "XXX8"]
+        "ids": ["0855", "0533", "0839", "XXX8", "0861", "0852", "0827", "0528", "0135"]
     }
+    ,{
+        "url": "https://epg.programadorx.cl/mdiaz/gratis.xml",
+        "ids": ["581", "538", "536", "609", "608", "531", "532","537","664","1503dtv.cl","503dtv.cl", "517dtv.cl", "609", "608", "531", "532","537","664"]
+     }
+    ,{
+        "url": "https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml",
+        "ids": ["Magic Kids Tv", "Zaz TV", "Ani Retro", "Dreiko TV", "El Chavo", "Cine Sony", "Frecuencia Musical TV", "Tv Retro Palmares"]
+     }
     # Ejemplo de cómo agregar otra fuente:
     # ,{
     #    "url": "https://otra-fuente.com/guia.xml",

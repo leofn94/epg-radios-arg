@@ -268,6 +268,9 @@
   <channel id="ESBC2700002LO">
     <display-name>Grjngo - Películas Del Oeste</display-name>
   </channel>
+  <channel id="ESBD80000288">
+    <display-name>Runtime Acción</display-name>
+  </channel>
   <channel id="USBB3200016HO">
     <display-name>Telemundo Al Día</display-name>
   </channel>
@@ -357,6 +360,9 @@
   </channel>
   <channel id="GBAJ40003642">
     <display-name>FailArmy</display-name>
+  </channel>
+  <channel id="GB4000008O5">
+    <display-name>Mr Bean Live Action</display-name>
   </channel>
   <channel id="5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a">
     <display-name>Family Feud Classic</display-name>
@@ -8025,10 +8031,7 @@
     <title lang="es">AVI</title>
     <desc lang="es">La información de este programa no se encuentra disponible.</desc>
   </programme>
-  <programme start="20260415222650 -0300" stop="20260415230000 -0300" channel="503dtv.cl">
-    <title lang="es">Forrest Gump</title>
-  </programme>
-  <programme start="20260415230000 -0300" stop="20260416011800 -0300" channel="503dtv.cl">
+  <programme start="20260415234951 -0300" stop="20260416011800 -0300" channel="503dtv.cl">
     <title lang="es">Un lugar llamado Notting Hill</title>
   </programme>
   <programme start="20260416011800 -0300" stop="20260416033900 -0300" channel="503dtv.cl">
@@ -8094,13 +8097,13 @@
   <programme start="20260417192600 -0300" stop="20260417211000 -0300" channel="503dtv.cl">
     <title lang="es">Hombres de negro</title>
   </programme>
-  <programme start="20260417211000 -0300" stop="20260417222650 -0300" channel="503dtv.cl">
+  <programme start="20260417211000 -0300" stop="20260417230000 -0300" channel="503dtv.cl">
     <title lang="es">La máscara</title>
   </programme>
-  <programme start="20260415222650 -0300" stop="20260415232440 -0300" channel="504">
-    <title lang="es">Ultima Llamada</title>
+  <programme start="20260417230000 -0300" stop="20260417234951 -0300" channel="503dtv.cl">
+    <title lang="es">Jumanji: En la selva</title>
   </programme>
-  <programme start="20260415232612 -0300" stop="20260416005927 -0300" channel="504">
+  <programme start="20260415234951 -0300" stop="20260416005927 -0300" channel="504">
     <title lang="es">Siempre A Tu Lado</title>
   </programme>
   <programme start="20260416010108 -0300" stop="20260416024031 -0300" channel="504">
@@ -8172,13 +8175,10 @@
   <programme start="20260417203131 -0300" stop="20260417221649 -0300" channel="504">
     <title lang="es">El Ascenso</title>
   </programme>
-  <programme start="20260417221821 -0300" stop="20260417222650 -0300" channel="504">
+  <programme start="20260417221821 -0300" stop="20260417234951 -0300" channel="504">
     <title lang="es">Bajo el mismo techo</title>
   </programme>
-  <programme start="20260415222650 -0300" stop="20260415233400 -0300" channel="517dtv.cl">
-    <title lang="es">The Karate Kid</title>
-  </programme>
-  <programme start="20260415233400 -0300" stop="20260416012400 -0300" channel="517dtv.cl">
+  <programme start="20260415234951 -0300" stop="20260416012400 -0300" channel="517dtv.cl">
     <title lang="es">Ritual del más allá</title>
   </programme>
   <programme start="20260416012400 -0300" stop="20260416025200 -0300" channel="517dtv.cl">
@@ -8250,16 +8250,13 @@
   <programme start="20260417192500 -0300" stop="20260417210000 -0300" channel="517dtv.cl">
     <title lang="es">Infierno en la tormenta</title>
   </programme>
-  <programme start="20260417210000 -0300" stop="20260417222650 -0300" channel="517dtv.cl">
+  <programme start="20260417210000 -0300" stop="20260417230100 -0300" channel="517dtv.cl">
     <title lang="es">Latidos en la oscuridad</title>
   </programme>
-  <programme start="20260415222650 -0300" stop="20260415223000 -0300" channel="531">
-    <title lang="es">Los Caballeros de Kodai</title>
+  <programme start="20260417230100 -0300" stop="20260417234951 -0300" channel="517dtv.cl">
+    <title lang="es">El descenso</title>
   </programme>
-  <programme start="20260415223000 -0300" stop="20260415230000 -0300" channel="531">
-    <title lang="es">Getbackers</title>
-  </programme>
-  <programme start="20260415230000 -0300" stop="20260416000000 -0300" channel="531">
+  <programme start="20260415234951 -0300" stop="20260416000000 -0300" channel="531">
     <title lang="es">EnerGeek MOVIE</title>
   </programme>
   <programme start="20260416000000 -0300" stop="20260416003000 -0300" channel="531">
@@ -8523,10 +8520,16 @@
   <programme start="20260417213000 -0300" stop="20260417220000 -0300" channel="531">
     <title lang="es">Los Justicieros (Slayer)</title>
   </programme>
-  <programme start="20260417220000 -0300" stop="20260417222650 -0300" channel="531">
+  <programme start="20260417220000 -0300" stop="20260417223000 -0300" channel="531">
     <title lang="es">Los Caballeros de Kodai</title>
   </programme>
-  <programme start="20260415222650 -0300" stop="20260416000000 -0300" channel="532">
+  <programme start="20260417223000 -0300" stop="20260417230000 -0300" channel="531">
+    <title lang="es">Getbackers</title>
+  </programme>
+  <programme start="20260417230000 -0300" stop="20260417234951 -0300" channel="531">
+    <title lang="es">EnerGeek MOVIE</title>
+  </programme>
+  <programme start="20260415234951 -0300" stop="20260416000000 -0300" channel="532">
     <title lang="es">EnerGeek Movie</title>
   </programme>
   <programme start="20260416000000 -0300" stop="20260416003000 -0300" channel="532">
@@ -8778,11 +8781,8 @@
   <programme start="20260417213000 -0300" stop="20260417220000 -0300" channel="532">
     <title lang="es">El Desafio de los Gobots</title>
   </programme>
-  <programme start="20260417220000 -0300" stop="20260417222650 -0300" channel="532">
+  <programme start="20260417220000 -0300" stop="20260417234951 -0300" channel="532">
     <title lang="es">EnerGeek Movie</title>
-  </programme>
-  <programme start="20260415222650 -0300" stop="20260415222910 -0300" channel="536">
-    <title lang="es">Viaje Al DESCUBRIMIENTO De Los Mundos Extraterrestres Del Cinturón De Asteroides</title>
   </programme>
   <programme start="20260416000651 -0300" stop="20260416005022 -0300" channel="536">
     <title lang="es">Buque Factoría de Pesca más Grande (Episodio 1)</title>
@@ -8868,10 +8868,7 @@
   <programme start="20260417021037 -0300" stop="20260417031057 -0300" channel="536">
     <title lang="es">Un Increíble Viaje En El Tiempo - Los Primeros 1.000 Días En MARTE</title>
   </programme>
-  <programme start="20260415222910 -0300" stop="20260415232910 -0300" channel="536">
-    <title lang="es">Sin información</title>
-  </programme>
-  <programme start="20260415232910 -0300" stop="20260416000651 -0300" channel="536">
+  <programme start="20260415234951 -0300" stop="20260416000651 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
   <programme start="20260416005022 -0300" stop="20260416015022 -0300" channel="536">
@@ -8940,20 +8937,11 @@
   <programme start="20260417211057 -0300" stop="20260417221057 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260417221057 -0300" stop="20260417222650 -0300" channel="536">
+  <programme start="20260417221057 -0300" stop="20260417231057 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260415222650 -0300" stop="20260415223528 -0300" channel="537">
-    <title lang="es">Ren y Stimpy</title>
-  </programme>
-  <programme start="20260415223528 -0300" stop="20260415225703 -0300" channel="537">
-    <title lang="es">Ren y Stimpy</title>
-  </programme>
-  <programme start="20260415225703 -0300" stop="20260415231917 -0300" channel="537">
-    <title lang="es">Ren y Stimpy</title>
-  </programme>
-  <programme start="20260415232238 -0300" stop="20260415234647 -0300" channel="537">
-    <title lang="es">Sailor Moon</title>
+  <programme start="20260417231057 -0300" stop="20260417234951 -0300" channel="536">
+    <title lang="es">Sin información</title>
   </programme>
   <programme start="20260415235008 -0300" stop="20260416001400 -0300" channel="537">
     <title lang="es">Robotech</title>
@@ -8973,194 +8961,194 @@
   <programme start="20260416022425 -0300" stop="20260416025059 -0300" channel="537">
     <title lang="es">Capitán Escarlata</title>
   </programme>
-  <programme start="20260416025419 -0300" stop="20260416034136 -0300" channel="537">
+  <programme start="20260416025418 -0300" stop="20260416034135 -0300" channel="537">
     <title lang="es">Thunderbirds</title>
   </programme>
-  <programme start="20260416034456 -0300" stop="20260416043526 -0300" channel="537">
+  <programme start="20260416034455 -0300" stop="20260416043525 -0300" channel="537">
     <title lang="es">Viajes a las Estrellas</title>
   </programme>
-  <programme start="20260416043846 -0300" stop="20260416050330 -0300" channel="537">
+  <programme start="20260416043845 -0300" stop="20260416050329 -0300" channel="537">
     <title lang="es">Sledge Hammer</title>
   </programme>
-  <programme start="20260416050650 -0300" stop="20260416064337 -0300" channel="537">
+  <programme start="20260416050649 -0300" stop="20260416064336 -0300" channel="537">
     <title lang="es">La Isla de la Fantasía</title>
   </programme>
-  <programme start="20260416064657 -0300" stop="20260416071252 -0300" channel="537">
+  <programme start="20260416064656 -0300" stop="20260416071251 -0300" channel="537">
     <title lang="es">La Dimensión Desconocida</title>
   </programme>
-  <programme start="20260416071613 -0300" stop="20260416074058 -0300" channel="537">
+  <programme start="20260416071612 -0300" stop="20260416074057 -0300" channel="537">
     <title lang="es">El Super Agente 86</title>
   </programme>
-  <programme start="20260416074419 -0300" stop="20260416083135 -0300" channel="537">
+  <programme start="20260416074418 -0300" stop="20260416083134 -0300" channel="537">
     <title lang="es">Kojak</title>
   </programme>
-  <programme start="20260416083456 -0300" stop="20260416085215 -0300" channel="537">
+  <programme start="20260416083455 -0300" stop="20260416085214 -0300" channel="537">
     <title lang="es">Los Tres Chiflados</title>
   </programme>
-  <programme start="20260416085215 -0300" stop="20260416090842 -0300" channel="537">
+  <programme start="20260416085214 -0300" stop="20260416090841 -0300" channel="537">
     <title lang="es">Los Tres Chiflados</title>
   </programme>
-  <programme start="20260416090842 -0300" stop="20260416092544 -0300" channel="537">
+  <programme start="20260416090841 -0300" stop="20260416092543 -0300" channel="537">
     <title lang="es">Los Tres Chiflados</title>
   </programme>
-  <programme start="20260416092905 -0300" stop="20260416093544 -0300" channel="537">
+  <programme start="20260416092904 -0300" stop="20260416093543 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260416093544 -0300" stop="20260416094234 -0300" channel="537">
+  <programme start="20260416093543 -0300" stop="20260416094233 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260416094234 -0300" stop="20260416094935 -0300" channel="537">
+  <programme start="20260416094233 -0300" stop="20260416094934 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260416094935 -0300" stop="20260416095610 -0300" channel="537">
+  <programme start="20260416094934 -0300" stop="20260416095609 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260416095610 -0300" stop="20260416100309 -0300" channel="537">
+  <programme start="20260416095609 -0300" stop="20260416100308 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260416100309 -0300" stop="20260416100957 -0300" channel="537">
+  <programme start="20260416100308 -0300" stop="20260416100956 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260416100957 -0300" stop="20260416101756 -0300" channel="537">
+  <programme start="20260416100956 -0300" stop="20260416101755 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260416101756 -0300" stop="20260416102446 -0300" channel="537">
+  <programme start="20260416101755 -0300" stop="20260416102445 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260416102446 -0300" stop="20260416103122 -0300" channel="537">
+  <programme start="20260416102445 -0300" stop="20260416103121 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260416103122 -0300" stop="20260416103845 -0300" channel="537">
+  <programme start="20260416103121 -0300" stop="20260416103844 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260416103845 -0300" stop="20260416104608 -0300" channel="537">
+  <programme start="20260416103844 -0300" stop="20260416104607 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260416104608 -0300" stop="20260416105335 -0300" channel="537">
+  <programme start="20260416104607 -0300" stop="20260416105334 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260416105335 -0300" stop="20260416110107 -0300" channel="537">
+  <programme start="20260416105334 -0300" stop="20260416110106 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260416110107 -0300" stop="20260416110747 -0300" channel="537">
+  <programme start="20260416110106 -0300" stop="20260416110746 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260416110747 -0300" stop="20260416111508 -0300" channel="537">
+  <programme start="20260416110746 -0300" stop="20260416111507 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260416111508 -0300" stop="20260416112240 -0300" channel="537">
+  <programme start="20260416111507 -0300" stop="20260416112239 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260416112240 -0300" stop="20260416122240 -0300" channel="537">
+  <programme start="20260416112239 -0300" stop="20260416122239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260416122240 -0300" stop="20260416132240 -0300" channel="537">
+  <programme start="20260416122239 -0300" stop="20260416132239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260416132240 -0300" stop="20260416142240 -0300" channel="537">
+  <programme start="20260416132239 -0300" stop="20260416142239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260416142240 -0300" stop="20260416152240 -0300" channel="537">
+  <programme start="20260416142239 -0300" stop="20260416152239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260416152240 -0300" stop="20260416162240 -0300" channel="537">
+  <programme start="20260416152239 -0300" stop="20260416162239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260416162240 -0300" stop="20260416172240 -0300" channel="537">
+  <programme start="20260416162239 -0300" stop="20260416172239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260416172240 -0300" stop="20260416182240 -0300" channel="537">
+  <programme start="20260416172239 -0300" stop="20260416182239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260416182240 -0300" stop="20260416192240 -0300" channel="537">
+  <programme start="20260416182239 -0300" stop="20260416192239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260416192240 -0300" stop="20260416202240 -0300" channel="537">
+  <programme start="20260416192239 -0300" stop="20260416202239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260416202240 -0300" stop="20260416212240 -0300" channel="537">
+  <programme start="20260416202239 -0300" stop="20260416212239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260416212240 -0300" stop="20260416222240 -0300" channel="537">
+  <programme start="20260416212239 -0300" stop="20260416222239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260416222240 -0300" stop="20260416232240 -0300" channel="537">
+  <programme start="20260416222239 -0300" stop="20260416232239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260416232240 -0300" stop="20260417002240 -0300" channel="537">
+  <programme start="20260416232239 -0300" stop="20260417002239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417002240 -0300" stop="20260417012240 -0300" channel="537">
+  <programme start="20260417002239 -0300" stop="20260417012239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417012240 -0300" stop="20260417022240 -0300" channel="537">
+  <programme start="20260417012239 -0300" stop="20260417022239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417022240 -0300" stop="20260417032240 -0300" channel="537">
+  <programme start="20260417022239 -0300" stop="20260417032239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417032240 -0300" stop="20260417042240 -0300" channel="537">
+  <programme start="20260417032239 -0300" stop="20260417042239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417042240 -0300" stop="20260417052240 -0300" channel="537">
+  <programme start="20260417042239 -0300" stop="20260417052239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417052240 -0300" stop="20260417062240 -0300" channel="537">
+  <programme start="20260417052239 -0300" stop="20260417062239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417062240 -0300" stop="20260417072240 -0300" channel="537">
+  <programme start="20260417062239 -0300" stop="20260417072239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417072240 -0300" stop="20260417082240 -0300" channel="537">
+  <programme start="20260417072239 -0300" stop="20260417082239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417082240 -0300" stop="20260417092240 -0300" channel="537">
+  <programme start="20260417082239 -0300" stop="20260417092239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417092240 -0300" stop="20260417102240 -0300" channel="537">
+  <programme start="20260417092239 -0300" stop="20260417102239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417102240 -0300" stop="20260417112240 -0300" channel="537">
+  <programme start="20260417102239 -0300" stop="20260417112239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417112240 -0300" stop="20260417122240 -0300" channel="537">
+  <programme start="20260417112239 -0300" stop="20260417122239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417122240 -0300" stop="20260417132240 -0300" channel="537">
+  <programme start="20260417122239 -0300" stop="20260417132239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417132240 -0300" stop="20260417142240 -0300" channel="537">
+  <programme start="20260417132239 -0300" stop="20260417142239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417142240 -0300" stop="20260417152240 -0300" channel="537">
+  <programme start="20260417142239 -0300" stop="20260417152239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417152240 -0300" stop="20260417162240 -0300" channel="537">
+  <programme start="20260417152239 -0300" stop="20260417162239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417162240 -0300" stop="20260417172240 -0300" channel="537">
+  <programme start="20260417162239 -0300" stop="20260417172239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417172240 -0300" stop="20260417182240 -0300" channel="537">
+  <programme start="20260417172239 -0300" stop="20260417182239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417182240 -0300" stop="20260417192240 -0300" channel="537">
+  <programme start="20260417182239 -0300" stop="20260417192239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417192240 -0300" stop="20260417202240 -0300" channel="537">
+  <programme start="20260417192239 -0300" stop="20260417202239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417202240 -0300" stop="20260417212240 -0300" channel="537">
+  <programme start="20260417202239 -0300" stop="20260417212239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417212240 -0300" stop="20260417222240 -0300" channel="537">
+  <programme start="20260417212239 -0300" stop="20260417222239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260417222240 -0300" stop="20260417222650 -0300" channel="537">
+  <programme start="20260417222239 -0300" stop="20260417232239 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260415220000 -0300" stop="20260415230000 -0300" channel="538">
-    <title lang="es">Programación Musical</title>
+  <programme start="20260417232239 -0300" stop="20260417234951 -0300" channel="537">
+    <title lang="es">Animotion</title>
   </programme>
   <programme start="20260415230000 -0300" stop="20260416000000 -0300" channel="538">
     <title lang="es">Programación Musical</title>
@@ -9303,10 +9291,10 @@
   <programme start="20260417210000 -0300" stop="20260417220000 -0300" channel="538">
     <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260415222650 -0300" stop="20260415231617 -0300" channel="539">
-    <title lang="es">(1936) - Tiempos Modernos</title>
+  <programme start="20260417220000 -0300" stop="20260417230000 -0300" channel="538">
+    <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260415231617 -0300" stop="20260416010930 -0300" channel="539">
+  <programme start="20260415234951 -0300" stop="20260416010930 -0300" channel="539">
     <title lang="es">(1981) - Cuerpos Ardientes</title>
   </programme>
   <programme start="20260416010930 -0300" stop="20260416024653 -0300" channel="539">
@@ -9381,11 +9369,8 @@
   <programme start="20260417201808 -0300" stop="20260417215036 -0300" channel="539">
     <title lang="es">(2005) - Se Acabó el Amor</title>
   </programme>
-  <programme start="20260417215036 -0300" stop="20260417222650 -0300" channel="539">
+  <programme start="20260417215036 -0300" stop="20260417234951 -0300" channel="539">
     <title lang="es">(1998) - Gia</title>
-  </programme>
-  <programme start="20260415220000 -0300" stop="20260415230000 -0300" channel="567">
-    <title lang="es">MX Classic</title>
   </programme>
   <programme start="20260415230000 -0300" stop="20260416000000 -0300" channel="567">
     <title lang="es">MX Classic</title>
@@ -9528,8 +9513,8 @@
   <programme start="20260417210000 -0300" stop="20260417220000 -0300" channel="567">
     <title lang="es">MX Classic</title>
   </programme>
-  <programme start="20260415220000 -0300" stop="20260415230000 -0300" channel="568">
-    <title lang="es">MX Series</title>
+  <programme start="20260417220000 -0300" stop="20260417230000 -0300" channel="567">
+    <title lang="es">MX Classic</title>
   </programme>
   <programme start="20260415230000 -0300" stop="20260416000000 -0300" channel="568">
     <title lang="es">MX Series</title>
@@ -9672,8 +9657,8 @@
   <programme start="20260417210000 -0300" stop="20260417220000 -0300" channel="568">
     <title lang="es">MX Series</title>
   </programme>
-  <programme start="20260415220000 -0300" stop="20260415230000 -0300" channel="569">
-    <title lang="es">MX Old</title>
+  <programme start="20260417220000 -0300" stop="20260417230000 -0300" channel="568">
+    <title lang="es">MX Series</title>
   </programme>
   <programme start="20260415230000 -0300" stop="20260416000000 -0300" channel="569">
     <title lang="es">MX Old</title>
@@ -9816,8 +9801,8 @@
   <programme start="20260417210000 -0300" stop="20260417220000 -0300" channel="569">
     <title lang="es">MX Old</title>
   </programme>
-  <programme start="20260415220000 -0300" stop="20260415230000 -0300" channel="581">
-    <title lang="es">Zoom back</title>
+  <programme start="20260417220000 -0300" stop="20260417230000 -0300" channel="569">
+    <title lang="es">MX Old</title>
   </programme>
   <programme start="20260415230000 -0300" stop="20260416000000 -0300" channel="581">
     <title lang="es">Zoom back</title>
@@ -9960,10 +9945,10 @@
   <programme start="20260417210000 -0300" stop="20260417220000 -0300" channel="581">
     <title lang="es">Zoom back</title>
   </programme>
-  <programme start="20260415222650 -0300" stop="20260415230000 -0300" channel="608">
-    <title lang="es">The X Files</title>
+  <programme start="20260417220000 -0300" stop="20260417230000 -0300" channel="581">
+    <title lang="es">Zoom back</title>
   </programme>
-  <programme start="20260415230000 -0300" stop="20260416000000 -0300" channel="608">
+  <programme start="20260415234951 -0300" stop="20260416000000 -0300" channel="608">
     <title lang="es">Doctor Who (Repetición)</title>
   </programme>
   <programme start="20260416000000 -0300" stop="20260416010000 -0300" channel="608">
@@ -10068,10 +10053,13 @@
   <programme start="20260417210000 -0300" stop="20260417220000 -0300" channel="608">
     <title lang="es">House Md</title>
   </programme>
-  <programme start="20260417220000 -0300" stop="20260417222650 -0300" channel="608">
+  <programme start="20260417220000 -0300" stop="20260417230000 -0300" channel="608">
     <title lang="es">The X Files</title>
   </programme>
-  <programme start="20260415222650 -0300" stop="20260416000000 -0300" channel="663">
+  <programme start="20260417230000 -0300" stop="20260417234951 -0300" channel="608">
+    <title lang="es">Doctor Who (Repetición)</title>
+  </programme>
+  <programme start="20260415234951 -0300" stop="20260416000000 -0300" channel="663">
     <title lang="es">Noche de Western</title>
   </programme>
   <programme start="20260416000000 -0300" stop="20260416070000 -0300" channel="663">
@@ -10107,10 +10095,10 @@
   <programme start="20260417170000 -0300" stop="20260417200000 -0300" channel="663">
     <title lang="es">Clásicos del Western</title>
   </programme>
-  <programme start="20260417200000 -0300" stop="20260417222650 -0300" channel="663">
+  <programme start="20260417200000 -0300" stop="20260417234951 -0300" channel="663">
     <title lang="es">Noche de Western</title>
   </programme>
-  <programme start="20260415222650 -0300" stop="20260416080000 -0300" channel="664">
+  <programme start="20260415234951 -0300" stop="20260416080000 -0300" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
   <programme start="20260416080000 -0300" stop="20260416120000 -0300" channel="664">
@@ -10134,13 +10122,10 @@
   <programme start="20260417170000 -0300" stop="20260417200000 -0300" channel="664">
     <title lang="es">Retro Prime</title>
   </programme>
-  <programme start="20260417200000 -0300" stop="20260417222650 -0300" channel="664">
+  <programme start="20260417200000 -0300" stop="20260417234951 -0300" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
-  <programme start="20260415222650 -0300" stop="20260415230000 -0300" channel="1503dtv.cl">
-    <title lang="es">Jungla</title>
-  </programme>
-  <programme start="20260415230000 -0300" stop="20260416011300 -0300" channel="1503dtv.cl">
+  <programme start="20260415234951 -0300" stop="20260416011300 -0300" channel="1503dtv.cl">
     <title lang="es">Nada es lo que parece 2</title>
   </programme>
   <programme start="20260416011300 -0300" stop="20260416030200 -0300" channel="1503dtv.cl">
@@ -10218,8 +10203,11 @@
   <programme start="20260417190200 -0300" stop="20260417211100 -0300" channel="1503dtv.cl">
     <title lang="es">Dobles de acción</title>
   </programme>
-  <programme start="20260417211100 -0300" stop="20260417222650 -0300" channel="1503dtv.cl">
+  <programme start="20260417211100 -0300" stop="20260417230000 -0300" channel="1503dtv.cl">
     <title lang="es">Agua profunda</title>
+  </programme>
+  <programme start="20260417230000 -0300" stop="20260417234951 -0300" channel="1503dtv.cl">
+    <title lang="es">La luz del fin del mundo</title>
   </programme>
   <programme start="20260416002300 -0300" stop="20260416012300 -0300" channel="66a11a21a79dea0008aa90ca">
     <title lang="es">MTV Classic</title>
@@ -13365,6 +13353,26 @@
     <title lang="es">Hellgate: La puerta del infierno</title>
     <desc lang="es">Un hombre es falsamente acusado de espionaje y enviado a la brutal prisión de Hellgate. Tras un fallido intento de fuga, es condenado al aislamiento. Cuando una plaga asola la prisión, encuentra una inesperada redención en medio del caos.</desc>
   </programme>
+  <programme start="20260416021500 -0300" stop="20260416040000 -0300" channel="ESBD80000288">
+    <title lang="es">La Balada de Davy Crockett</title>
+    <desc lang="es">En 1815, una leyenda estadounidense, cuya esposa ha caído enferma de muerte, dejando a sus hijos pequeños para sobrevivir solos, debe luchar para regresar con ellos a través de los muchos peligros que se encuentran en las Tierras Salvajes.</desc>
+  </programme>
+  <programme start="20260416040000 -0300" stop="20260416053000 -0300" channel="ESBD80000288">
+    <title lang="es">Misión para Tres</title>
+    <desc lang="es">Un investigador está a punto de ser contratado para llevar a cabo una importante y peligrosa misión. Nettie ha sido secuestrada por una banda de traficantes de droga mexicanos y el detective tendrá que recuperarla con vida.</desc>
+  </programme>
+  <programme start="20260416053000 -0300" stop="20260416071500 -0300" channel="ESBD80000288">
+    <title lang="es">Drive</title>
+    <desc lang="es">Un prototipo de humano mejorado, que huye de unos asesinos a sueldo chinos, se une a un transeúnte con rastas, y ambos eluden a sus perseguidores por muy poco.</desc>
+  </programme>
+  <programme start="20260416071500 -0300" stop="20260416090000 -0300" channel="ESBD80000288">
+    <title lang="es">Amerigeddon</title>
+    <desc lang="es">Una representación ficticia de un futuro en el que una organización terrorista globalista se alinea con las Naciones Unidas para inutilizar la red eléctrica de Estados Unidos e instituye la Ley Marcial.</desc>
+  </programme>
+  <programme start="20260416090000 -0300" stop="20260416103000 -0300" channel="ESBD80000288">
+    <title lang="es">Última Esperanza</title>
+    <desc lang="es">En una peligrosa Tierra futura llena de monstruos, un huérfano intenta escapar a SkyArk, una ciudad artificial en el cielo, pero pronto descubre que tiene un propósito mucho mayor.</desc>
+  </programme>
   <programme start="20260416022157 -0300" stop="20260416031624 -0300" channel="USBB3200016HO">
     <title lang="es">Persiguiendo Injusticias</title>
     <desc lang="es">La Dra. Polo y el periodista Max Aub investigan crímenes sin resolver en busca de pistas y justicia.</desc>
@@ -14360,6 +14368,54 @@
   <programme start="20260416090007 -0300" stop="20260416093006 -0300" channel="GBAJ40003642">
     <title lang="es">FailFactory</title>
     <desc lang="es">These natural disasters probably could have been avoided.</desc>
+  </programme>
+  <programme start="20260416030914 -0300" stop="20260416034018 -0300" channel="GB4000008O5">
+    <title lang="es">Mr Bean Live Action</title>
+    <desc lang="es">Mr Bean hosts a New Year&#x27;s Eve party.</desc>
+  </programme>
+  <programme start="20260416034018 -0300" stop="20260416040850 -0300" channel="GB4000008O5">
+    <title lang="es">Mr Bean Live Action</title>
+    <desc lang="es">Mr Bean goes back to school.</desc>
+  </programme>
+  <programme start="20260416040850 -0300" stop="20260416043950 -0300" channel="GB4000008O5">
+    <title lang="es">Mr Bean Live Action</title>
+    <desc lang="es">Mr Bean goes to the laundrette where he loses his trousers once more.</desc>
+  </programme>
+  <programme start="20260416043950 -0300" stop="20260416050958 -0300" channel="GB4000008O5">
+    <title lang="es">Mr Bean Live Action</title>
+    <desc lang="es">Mr Bean has a hard time waiting his turn at the hospital.</desc>
+  </programme>
+  <programme start="20260416050958 -0300" stop="20260416054215 -0300" channel="GB4000008O5">
+    <title lang="es">Mr Bean Live Action</title>
+    <desc lang="es">Mr Bean has a grand day at the hairdresser&#x27;s.</desc>
+  </programme>
+  <programme start="20260416054215 -0300" stop="20260416061131 -0300" channel="GB4000008O5">
+    <title lang="es">Mr Bean Live Action</title>
+    <desc lang="es">Mr Bean rushes to his exam only to find out he&#x27;s studied the wrong subject.</desc>
+  </programme>
+  <programme start="20260416061131 -0300" stop="20260416064244 -0300" channel="GB4000008O5">
+    <title lang="es">Mr Bean Live Action</title>
+    <desc lang="es">Mr Bean wants to give a busker some money until he realises he has no change.</desc>
+  </programme>
+  <programme start="20260416064244 -0300" stop="20260416071131 -0300" channel="GB4000008O5">
+    <title lang="es">Mr Bean Live Action</title>
+    <desc lang="es">Mr Bean goes to a swimming pool but finds himself terrified of the high diving board.</desc>
+  </programme>
+  <programme start="20260416071131 -0300" stop="20260416073938 -0300" channel="GB4000008O5">
+    <title lang="es">Mr Bean Live Action</title>
+    <desc lang="es">Mr Bean buys a portable television but can&#x27;t get it to work properly.</desc>
+  </programme>
+  <programme start="20260416073938 -0300" stop="20260416081022 -0300" channel="GB4000008O5">
+    <title lang="es">Mr Bean Live Action</title>
+    <desc lang="es">Mr Bean rushes to the dentist&#x27;s office after oversleeping.</desc>
+  </programme>
+  <programme start="20260416081022 -0300" stop="20260416084011 -0300" channel="GB4000008O5">
+    <title lang="es">Mr Bean Live Action</title>
+    <desc lang="es">Mr Bean resuscitates a heart attack victim at the bus stop.</desc>
+  </programme>
+  <programme start="20260416084011 -0300" stop="20260416091139 -0300" channel="GB4000008O5">
+    <title lang="es">Mr Bean Live Action</title>
+    <desc lang="es">Mr Bean goes Christmas shopping, conducts a Salvation Army band.</desc>
   </programme>
   <programme start="20260416011316 -0300" stop="20260416014115 -0300" channel="5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a">
     <title lang="es">Family Feud</title>

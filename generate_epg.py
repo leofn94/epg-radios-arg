@@ -68,19 +68,19 @@ EXTERNAL_SOURCES = [
         "url": "https://i.mjh.nz/Plex/mx.xml",
         "ids": ["608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb", "608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3", "608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5"]
     }
-    ,{
-        "url": "https://github.com/HelmerLuzo/RakutenTV_HL/raw/refs/heads/main/epg/RakutenTV.xml.gz",
-        "ids": ["filmrise-sci-fi-es", "sci-fi-rakuten-tv", "action-rakuten-tv", "thriller-rakuten-tv", "fifa-plus-es-new"]
-    }
+  #  ,{
+  #      "url": "https://github.com/HelmerLuzo/RakutenTV_HL/raw/refs/heads/main/epg/RakutenTV.xml.gz",
+  #      "ids": ["filmrise-sci-fi-es", "sci-fi-rakuten-tv", "action-rakuten-tv", "thriller-rakuten-tv", "fifa-plus-es-new"]
+  #  }
 
-    ,{
-        "url": "https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml",
-       "ids": ["Magic Kids Tv", "Zaz TV", "Ani Retro", "Dreiko TV", "El Chavo", "Cine Sony", "Frecuencia Musical TV", "Tv Retro Palmares"]
-     }
-    ,{
-        "url": "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz",
-       "ids": ["Qello.Concerts.by.Stingray.be"]
-     }
+   # ,{
+   #     "url": "https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml",
+   #    "ids": ["Magic Kids Tv", "Zaz TV", "Ani Retro", "Dreiko TV", "El Chavo", "Cine Sony", "Frecuencia Musical TV", "Tv Retro Palmares"]
+   #  }
+   # ,{
+   #     "url": "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz",
+   #    "ids": ["Qello.Concerts.by.Stingray.be"]
+   #  }
   #    Ejemplo de cómo agregar otra fuente:
     # ,{
     #    "url": "https://otra-fuente.com/guia.xml",

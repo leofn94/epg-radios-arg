@@ -48,7 +48,7 @@ EXTERNAL_SOURCES = [
     ,{
         "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml",
         "ids": ["ESBC4100004J1", "ESBC400003YM", "ES3400004SS", "ESBA3300024AJ", "ES300029LP", "ES3000288I", "ES300002Y6", "ES300003D4","0860", "ESBC1700004PX", "ES300006QJ","ESBC2700003T8", "ES2600013H4", 
-                "ESBC400001QQ","ESBD800001RJ", "ESBC40000248", "ES2200003DA","ES2300005G7","ESBC2700002LO"]
+                "ESBC400001QQ","ESBD800001RJ", "ESBC40000248", "ES2200003DA","ES2300005G7","ESBC2700002LO", "ESBD80000288"]
     }
     ,{
         "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml",
@@ -57,7 +57,7 @@ EXTERNAL_SOURCES = [
     }
     ,{
         "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml",
-        "ids": ["GB2300005ML", "GBBD4900001RG", "GBBD1900009UD", "GBBC2100002HP", "GB300033HI", "GB500007VM", "GBAJ40003642"]
+        "ids": ["GB2300005ML", "GBBD4900001RG", "GBBD1900009UD", "GBBC2100002HP", "GB300033HI", "GB500007VM", "GBAJ40003642", "GB4000008O5"]
     }
     ,{
         "url": "https://i.mjh.nz/Plex/us.xml",
@@ -68,18 +68,18 @@ EXTERNAL_SOURCES = [
         "url": "https://i.mjh.nz/Plex/mx.xml",
         "ids": ["608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb", "608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3", "608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5"]
     }
-   ,{
-        "url": "https://github.com/HelmerLuzo/RuntimeTV_HL/raw/refs/heads/main/epg/RuntimeTV.xml.gz",
-        "ids": ["/esruntime-accion"]
-    }
     ,{
         "url": "https://github.com/HelmerLuzo/RakutenTV_HL/raw/refs/heads/main/epg/RakutenTV.xml.gz",
-        "ids": ["filmrise-sci-fi-es", "sci-fi-rakuten-tv", "action-rakuten-tv", "thriller-rakuten-tv", "mr-bean-live-action", "fifa-plus-es-new"]
+        "ids": ["filmrise-sci-fi-es", "sci-fi-rakuten-tv", "action-rakuten-tv", "thriller-rakuten-tv", "fifa-plus-es-new"]
     }
 
     ,{
-        "url": "https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml.gz",
+        "url": "https://raw.githubusercontent.com/luisms123/tdt/master/guiaxmltv.xml",
        "ids": ["Magic Kids Tv", "Zaz TV", "Ani Retro", "Dreiko TV", "El Chavo", "Cine Sony", "Frecuencia Musical TV", "Tv Retro Palmares"]
+     }
+    ,{
+        "url": "https://epgshare01.online/epgshare01/epg_ripper_RAKUTEN1.xml.gz",
+       "ids": ["Qello.Concerts.by.Stingray.be"]
      }
   #    Ejemplo de cómo agregar otra fuente:
     # ,{

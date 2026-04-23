@@ -11,7 +11,7 @@ import xml.etree.ElementTree as ET
 OFFSET_CONFIG = {
     "464956": -8,  # Screenpix (epg.pw)
     "464775": -8,  # Screenpix Action (epg.pw)
-    "0824": -8,    # Golden Premiere (Puticastillo)
+    "0824": -7,    # Golden Premiere (Puticastillo)
 }
 
 # 1. CANALES DESDE GOOGLE SHEETS
@@ -29,6 +29,7 @@ CHANNELS = [
     {"id": "mitv.ar", "name": "MiTV 1", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=1227571137&single=true&output=csv"},
     {"id": "animestation.ar", "name": "Animestation", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=446220036&single=true&output=csv"},
     {"id": "retroblast", "name": "retroblast", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=441139638&single=true&output=csv"},
+    {"id": "cncity", "name": "cncity", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=1501419241&single=true&output=csv"},
     {"id": "telered.ar", "name": "Telered", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=763195247&single=true&output=csv"},
     {"id": "telesistema.ar", "name": "telesistema", "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQ1YPyXdfmd2n7W6tAEnS_7aPb1r9j8fmdF_XP-jxi5cYdcZwkx_4t5OEIqYpGzr98wcF4nHUzhbval/pub?gid=503971923&single=true&output=csv"},
 ]
@@ -117,9 +118,16 @@ def get_days_from_type(tipo):
         "lunes": 0, "martes": 1, "miercoles": 2, "miércoles": 2,
         "jueves": 3, "viernes": 4, "sabado": 5, "sábado": 5, "domingo": 6,
     }
-    if tipo == "weekdays": return [0, 1, 2, 3, 4]
-    elif tipo == "weekend": return [5, 6]
-    elif tipo in days_map: return [days_map[tipo]]
+    
+    if tipo == "weekdays": 
+        return [0, 1, 2, 3, 4]
+    elif tipo == "weekend": 
+        return [5, 6]
+    elif tipo == "madr_esp": # <--- 
+        return [1, 2, 3, 4, 5]  # Martes, Miércoles, Jueves, Viernes y Sábado
+    elif tipo in days_map: 
+        return [days_map[tipo]]
+    
     return []
 
 # ─── PROCESAMIENTO EPG EXTERNA ───────────────────────────────────────────────

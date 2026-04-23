@@ -11,8 +11,8 @@ import xml.etree.ElementTree as ET
 OFFSET_CONFIG = {
     "464956": -8,  # Screenpix (epg.pw)
     "464775": -8,  # Screenpix Action (epg.pw)
-    "aztv.ar": -2, # AZTV (sheet)
-   #"0824": +1,    # Golden Premiere (Puticastillo)
+    "aztv.ar": -2, # AZTV (sheet) 
+   # "0824": -8,    # Golden Premiere (Puticastillo)
 }
 
 # 1. CANALES DESDE GOOGLE SHEETS
@@ -124,8 +124,8 @@ def get_days_from_type(tipo):
         return [0, 1, 2, 3, 4]
     elif tipo == "weekend": 
         return [5, 6]
-    elif tipo == "madr_esp": # <--- 
-        return [1, 2, 3, 4, 5]  # Martes, Miércoles, Jueves, Viernes y Sábado
+    elif tipo == "madr_esp": 
+        return [1, 2, 3, 4, 5]  # Martes a Sábado
     elif tipo in days_map: 
         return [days_map[tipo]]
     
@@ -151,9 +151,7 @@ def process_external_sources(sources):
                 ch_node = root.find(f"./channel[@id='{ch_id}']")
                 ch_name = ch_node.find("display-name").text if ch_node is not None else f"Extra {ch_id}"
                 
-                # Verificar ajuste horario (Offset)
                 hour_offset = OFFSET_CONFIG.get(ch_id, 0)
-                
                 programmes = []
                 for prog in root.findall(f"./programme[@channel='{ch_id}']"):
                     fmt = "%Y%m%d%H%M%S %z"
@@ -166,7 +164,6 @@ def process_external_sources(sources):
                     
                     title = prog.find("title").text if prog.find("title") is not None else "Sin título"
                     desc = prog.find("desc").text if prog.find("desc") is not None else ""
-                    
                     programmes.append((s_dt, e_dt, title, desc, ch_id))
                 
                 offset_msg = f" [Ajuste: {hour_offset}hs]" if hour_offset != 0 else ""
@@ -186,6 +183,9 @@ def build_epg_from_sheets(rows, channel_id):
     today = now.date()
     limit_date = today + timedelta(days=3)
 
+    # Buscar Offset para el canal de Sheet
+    sheet_offset = OFFSET_CONFIG.get(channel_id, 0)
+
     for row in rows:
         if len(row) < 4: continue
         row = [col.strip() for col in row]
@@ -203,6 +203,12 @@ def build_epg_from_sheets(rows, channel_id):
                 e_dt = tz.localize(datetime.combine(target_date, e_t))
                 if e_dt <= s_dt:
                     e_dt += timedelta(days=1)
+                
+                # APLICAR OFFSET A CANALES DE SHEET
+                if sheet_offset != 0:
+                    s_dt += timedelta(hours=sheet_offset)
+                    e_dt += timedelta(hours=sheet_offset)
+                
                 programmes.append((s_dt, e_dt, title, desc, channel_id))
             except:
                 continue
@@ -250,11 +256,18 @@ def main():
     for ch in CHANNELS:
         content = fetch_url(ch["url"])
         if not content: continue
-        csv_lines = content.decode("utf-8").splitlines()
-        rows = list(csv.reader(csv_lines))[1:]
-        progs = build_epg_from_sheets(rows, ch["id"])
-        print(f"  📁 Sheet: {ch['name']} → {len(progs)} programas")
-        final_data.append({"id": ch["id"], "name": ch["name"], "programmes": progs})
+        try:
+            csv_lines = content.decode("utf-8").splitlines()
+            rows = list(csv.reader(csv_lines))[1:]
+            progs = build_epg_from_sheets(rows, ch["id"])
+            
+            offset_val = OFFSET_CONFIG.get(ch["id"], 0)
+            offset_txt = f" [Ajuste: {offset_val}hs]" if offset_val != 0 else ""
+            
+            print(f"  📁 Sheet: {ch['name']} → {len(progs)} programas{offset_txt}")
+            final_data.append({"id": ch["id"], "name": ch["name"], "programmes": progs})
+        except Exception as e:
+            print(f"  ❌ Error en sheet {ch['name']}: {e}")
 
     external_channels = process_external_sources(EXTERNAL_SOURCES)
     final_data.extend(external_channels)

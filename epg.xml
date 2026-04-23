@@ -12668,7 +12668,7 @@
     <title lang="es">Al límite de la venganza</title>
     <desc lang="es">En la frontera entre México y los EE. UU., un hombre que vigila que no entren ilegales asesina, sin pretenderlo, a un joven. Aunque escapa de la policía, la culpa lo atormenta y, por ello, viaja a México para pedirle perdón al padre de la víctima.</desc>
   </programme>
-  <programme start="20260423051007 -0300" stop="20260423055034 -0300" channel="504">
+  <programme start="20260423055004 -0300" stop="20260423055034 -0300" channel="504">
     <title lang="es">Noche De Venganza</title>
   </programme>
   <programme start="20260423055145 -0300" stop="20260423072552 -0300" channel="504">
@@ -12752,13 +12752,10 @@
   <programme start="20260425021947 -0300" stop="20260425040740 -0300" channel="504">
     <title lang="es">Atelier Fontana parte 1</title>
   </programme>
-  <programme start="20260425040937 -0300" stop="20260425051007 -0300" channel="504">
+  <programme start="20260425040937 -0300" stop="20260425055004 -0300" channel="504">
     <title lang="es">Esto es Guerra</title>
   </programme>
-  <programme start="20260423051007 -0300" stop="20260423053000 -0300" channel="531">
-    <title lang="es">Los Justicieros (Slayer)</title>
-  </programme>
-  <programme start="20260423053000 -0300" stop="20260423060000 -0300" channel="531">
+  <programme start="20260423055004 -0300" stop="20260423060000 -0300" channel="531">
     <title lang="es">Los Caballeros de Kodai</title>
   </programme>
   <programme start="20260423060000 -0300" stop="20260423063000 -0300" channel="531">
@@ -12965,13 +12962,13 @@
   <programme start="20260425033000 -0300" stop="20260425043000 -0300" channel="531">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425043000 -0300" stop="20260425051007 -0300" channel="531">
+  <programme start="20260425043000 -0300" stop="20260425053000 -0300" channel="531">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260423051007 -0300" stop="20260423053000 -0300" channel="532">
-    <title lang="es">She-Ra y las princesas del Poder</title>
+  <programme start="20260425053000 -0300" stop="20260425055004 -0300" channel="531">
+    <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260423053000 -0300" stop="20260423060000 -0300" channel="532">
+  <programme start="20260423055004 -0300" stop="20260423060000 -0300" channel="532">
     <title lang="es">Dinoplativolos</title>
   </programme>
   <programme start="20260423060000 -0300" stop="20260423063000 -0300" channel="532">
@@ -13169,10 +13166,13 @@
   <programme start="20260425033000 -0300" stop="20260425043000 -0300" channel="532">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425043000 -0300" stop="20260425051007 -0300" channel="532">
+  <programme start="20260425043000 -0300" stop="20260425053000 -0300" channel="532">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260423051007 -0300" stop="20260423062221 -0300" channel="536">
+  <programme start="20260425053000 -0300" stop="20260425055004 -0300" channel="532">
+    <title lang="es">Sin información</title>
+  </programme>
+  <programme start="20260423055004 -0300" stop="20260423062221 -0300" channel="536">
     <title lang="es">La Odisea de la Tierra ¿Cuál es la historia de nuestro planeta</title>
   </programme>
   <programme start="20260423062231 -0300" stop="20260423071419 -0300" channel="536">
@@ -13316,13 +13316,13 @@
   <programme start="20260425033212 -0300" stop="20260425043212 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425043212 -0300" stop="20260425051007 -0300" channel="536">
+  <programme start="20260425043212 -0300" stop="20260425053212 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260423051007 -0300" stop="20260423051657 -0300" channel="537">
-    <title lang="es">Sledge Hammer</title>
+  <programme start="20260425053212 -0300" stop="20260425055004 -0300" channel="536">
+    <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260423052018 -0300" stop="20260423063517 -0300" channel="537">
+  <programme start="20260423055004 -0300" stop="20260423063517 -0300" channel="537">
     <title lang="es">La Isla de la Fantasía</title>
   </programme>
   <programme start="20260423063837 -0300" stop="20260423070421 -0300" channel="537">
@@ -13511,7 +13511,10 @@
   <programme start="20260425031235 -0300" stop="20260425041235 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260425041235 -0300" stop="20260425051007 -0300" channel="537">
+  <programme start="20260425041235 -0300" stop="20260425051235 -0300" channel="537">
+    <title lang="es">Animotion</title>
+  </programme>
+  <programme start="20260425051235 -0300" stop="20260425055004 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
   <programme start="20260423050000 -0300" stop="20260423060000 -0300" channel="538">
@@ -13658,10 +13661,7 @@
   <programme start="20260425040000 -0300" stop="20260425050000 -0300" channel="538">
     <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260423051007 -0300" stop="20260423054543 -0300" channel="539">
-    <title lang="es">(1986) - El Niño De Oro</title>
-  </programme>
-  <programme start="20260423054553 -0300" stop="20260423073830 -0300" channel="539">
+  <programme start="20260423055004 -0300" stop="20260423073830 -0300" channel="539">
     <title lang="es">(1973) - Locura De Verano</title>
   </programme>
   <programme start="20260423073830 -0300" stop="20260423090806 -0300" channel="539">
@@ -13748,7 +13748,7 @@
   <programme start="20260425025621 -0300" stop="20260425042909 -0300" channel="539">
     <title lang="es">(1984) - Se Busca Novio</title>
   </programme>
-  <programme start="20260425042909 -0300" stop="20260425051007 -0300" channel="539">
+  <programme start="20260425042909 -0300" stop="20260425055004 -0300" channel="539">
     <title lang="es">(1996) - Jack</title>
   </programme>
   <programme start="20260423050000 -0300" stop="20260423060000 -0300" channel="567">
@@ -14327,7 +14327,7 @@
   <programme start="20260425040000 -0300" stop="20260425050000 -0300" channel="581">
     <title lang="es">Zoom back</title>
   </programme>
-  <programme start="20260423051007 -0300" stop="20260423060000 -0300" channel="608">
+  <programme start="20260423055004 -0300" stop="20260423060000 -0300" channel="608">
     <title lang="es">House Md</title>
   </programme>
   <programme start="20260423060000 -0300" stop="20260423070000 -0300" channel="608">
@@ -14453,10 +14453,10 @@
   <programme start="20260425040000 -0300" stop="20260425050000 -0300" channel="608">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425050000 -0300" stop="20260425051007 -0300" channel="608">
+  <programme start="20260425050000 -0300" stop="20260425055004 -0300" channel="608">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260423051007 -0300" stop="20260423070000 -0300" channel="663">
+  <programme start="20260423055004 -0300" stop="20260423070000 -0300" channel="663">
     <title lang="es">Leyendas del Oeste</title>
   </programme>
   <programme start="20260423070000 -0300" stop="20260423080000 -0300" channel="663">
@@ -14492,10 +14492,10 @@
   <programme start="20260424200000 -0300" stop="20260425000000 -0300" channel="663">
     <title lang="es">Noche de Western</title>
   </programme>
-  <programme start="20260425000000 -0300" stop="20260425051007 -0300" channel="663">
+  <programme start="20260425000000 -0300" stop="20260425055004 -0300" channel="663">
     <title lang="es">Leyendas del Oeste</title>
   </programme>
-  <programme start="20260423051007 -0300" stop="20260423080000 -0300" channel="664">
+  <programme start="20260423055004 -0300" stop="20260423080000 -0300" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
   <programme start="20260423080000 -0300" stop="20260423120000 -0300" channel="664">
@@ -14519,7 +14519,7 @@
   <programme start="20260424170000 -0300" stop="20260424200000 -0300" channel="664">
     <title lang="es">Retro Prime</title>
   </programme>
-  <programme start="20260424200000 -0300" stop="20260425051007 -0300" channel="664">
+  <programme start="20260424200000 -0300" stop="20260425055004 -0300" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
   <programme start="20260423072300 -0300" stop="20260423082300 -0300" channel="66a11a21a79dea0008aa90ca">
@@ -17154,10 +17154,6 @@
     <title lang="es">La Tarde En 24h</title>
     <desc lang="es">INFORMATIVO EN DIRECTO DE NOTICIAS ENTREVISTAS Y REPORTAJES CON DEDICACIÓN ESPECIAL A LA ECONOMÍA, INTERNACIONAL, CULTURA Y DEPORTE</desc>
   </programme>
-  <programme start="20260423090000 -0300" stop="20260423100000 -0300" channel="ESBC400003YM">
-    <title lang="es">Morning News NOW</title>
-    <desc lang="es">Reporting breaking news and developing stories in real time  covering the most important stories of the day and taking deep dives on issues.</desc>
-  </programme>
   <programme start="20260423100000 -0300" stop="20260423110000 -0300" channel="ESBC400003YM">
     <title lang="es">Morning News NOW</title>
     <desc lang="es">Reporting breaking news and developing stories in real time  covering the most important stories of the day and taking deep dives on issues.</desc>
@@ -17182,13 +17178,9 @@
     <title lang="es">NBC News Daily With Kate Snow and Zinhle Essamuah</title>
     <desc lang="es">NBC News provides viewers with the latest national and international news  consumer, health and personal finance reporting  up-to-the-minute local news.</desc>
   </programme>
-  <programme start="20260423090000 -0300" stop="20260423093000 -0300" channel="ES3400004SS">
-    <title lang="es">Sky News Today with Jayne Secker</title>
-    <desc lang="es">Jayne Secker with a round-up of all the main lunchtime news stories, with analysis from Sky News correspondents across the UK and around the world.</desc>
-  </programme>
-  <programme start="20260423093000 -0300" stop="20260423100000 -0300" channel="ES3400004SS">
-    <title lang="es">Sky News Today with Jayne Secker</title>
-    <desc lang="es">Jayne Secker with a round-up of all the main lunchtime news stories, with analysis from Sky News correspondents across the UK and around the world.</desc>
+  <programme start="20260423160000 -0300" stop="20260423170000 -0300" channel="ESBC400003YM">
+    <title lang="es">NBC News Daily With Kate Snow and Zinhle Essamuah</title>
+    <desc lang="es">NBC News provides viewers with the latest national and international news  consumer, health and personal finance reporting  up-to-the-minute local news.</desc>
   </programme>
   <programme start="20260423100000 -0300" stop="20260423103000 -0300" channel="ES3400004SS">
     <title lang="es">Sky News Today with Jayne Secker</title>
@@ -17234,9 +17226,13 @@
     <title lang="es">Politics Hub</title>
     <desc lang="es">A dissection of the day&#x27;s political events, with a mix of interviews, insights and analysis from the Sky News team in Westminster.</desc>
   </programme>
-  <programme start="20260423070000 -0300" stop="20260423100000 -0300" channel="ESBA3300024AJ">
-    <title lang="es">Bloomberg Surveillance</title>
-    <desc lang="es">Jonathan Ferro, Lisa Abramowicz and Annmarie Hordern have the economy and global markets &quot;under surveillance&quot;  their daily conversations with leaders and decision makers from Wall Street to Washington and beyond cover the latest in business, investment, and geopolitics  no other program better positions investors and executives for the trading day.</desc>
+  <programme start="20260423153000 -0300" stop="20260423160000 -0300" channel="ES3400004SS">
+    <title lang="es">Politics Hub</title>
+    <desc lang="es">A dissection of the day&#x27;s political events, with a mix of interviews, insights and analysis from the Sky News team in Westminster.</desc>
+  </programme>
+  <programme start="20260423160000 -0300" stop="20260423163000 -0300" channel="ES3400004SS">
+    <title lang="es">UK Tonight with Sarah-Jane Mee</title>
+    <desc lang="es">Sarah-Jane Mee digs deep into the stories the UK is talking about to give insightful analysis on the news that matters, plus interviews, discussions, and debates with the people at the heart of the news.</desc>
   </programme>
   <programme start="20260423100000 -0300" stop="20260423120000 -0300" channel="ESBA3300024AJ">
     <title lang="es">Bloomberg Open Interest</title>
@@ -17251,16 +17247,16 @@
     <desc lang="es">The most important global business and breaking markets news and information as it happens.</desc>
   </programme>
   <programme start="20260423140000 -0300" stop="20260423150000 -0300" channel="ESBA3300024AJ">
-    <title lang="es">Bloomberg: Balance of Power</title>
+    <title lang="es">Bloomberg</title>
     <desc lang="es">&quot;Bloomberg Balance of Power&quot; with host David Westin is a daily look at how politics is impacting global business decisions  top lawmakers, business executives and government leaders join to discuss doing business in today&#x27;s volatile political climate.</desc>
   </programme>
   <programme start="20260423150000 -0300" stop="20260423160000 -0300" channel="ESBA3300024AJ">
     <title lang="es">Bloomberg Businessweek Daily</title>
     <desc lang="es">Carol Massar and Tim Stenovec bring reporting from the magazine that helps global leaders stay ahead, plus insight on the people, companies and trends shaping today&#x27;s complex economy.</desc>
   </programme>
-  <programme start="20260423085731 -0300" stop="20260423092354 -0300" channel="ES300029LP">
-    <title lang="es">Tokyo Ghoul</title>
-    <desc lang="es">La CCG inicia la investigación de una banda organizada de ghouls conocida como los Rose que se dedica al secuestro en masa. Mientras tanto, el estado de Tsukiyama empeora porque al estar hambriento no puede controlar su kagune.</desc>
+  <programme start="20260423160000 -0300" stop="20260423180000 -0300" channel="ESBA3300024AJ">
+    <title lang="es">Bloomberg</title>
+    <desc lang="es">Romaine Bostick and Katie Greifeld break down the day&#x27;s top market-moving stories and trading action around the closing bell.</desc>
   </programme>
   <programme start="20260423092354 -0300" stop="20260423110752 -0300" channel="ES300029LP">
     <title lang="es">El Castillo de Cagliostro</title>
@@ -17306,13 +17302,13 @@
     <title lang="es">STEINS  GATE</title>
     <desc lang="es">Rintaro Okabe, el fundador del club de inventores “El laboratorio de los artefactos del futuro”, se dirige al edificio Radio Kaikan para asistir a la conferencia del Dr. Nakabachi junto con Mayuri Shiina, su amiga de la infancia y miembro del club. A mitad de la conferencia, mientras Okabe protesta sobre la teoría de viajes en el tiempo del Dr. Nakabachi, una chica lo saca de ella. Esta chica, Kurisu Makise, es un genio al que le han publicado su tesis en una revista científica estadounidense. Pero, nada más separarse de Kurisu, un alarido resuena por el edificio. Okabe corre hacia su origen, encontrándose a Kurisu Makise, a la que acababa de conocer, trágicamente tirada en un charco de sangre. Okabe, aún conmocionado, le envía un mensaje al móvil a Itaru Hashida, Daru, miembro del club, contándole lo sucedido. El momento en que presiona el botón de enviar, los alrededores de Okabe se sumen en el silencio, y la gente desaparece de Akihabara. Tras un momento de caos, cuando por fin vuelve a la realidad, Okabe se encuentra con que un objeto de gran tamaño, que se cree es un satélite, se ha estrellado contra el Radio Kaikan. En este momento del 28 de julio de 2010, las puertas de Steins Gate se abren.</desc>
   </programme>
-  <programme start="20260423085016 -0300" stop="20260423091656 -0300" channel="ES3000288I">
-    <title lang="es">Record of Lodoss War</title>
-    <desc lang="es">A pesar de que Parn consigue herir al dragón Shooting Star, el ejército de Kashue se ve obligado a retirarse ante la furia de la bestia. Por su lado, Ashram consigue introducirse en la caverna acompañado por la elfa oscura Pirotess.</desc>
+  <programme start="20260423153203 -0300" stop="20260423155811 -0300" channel="ES300029LP">
+    <title lang="es">STEINS  GATE</title>
+    <desc lang="es">Alguien había apuñalado a Kurisu Makise en el Radio Kaikan durante la conferencia del Dr. Nakabachi, pero Okabe se la encuentra en un seminario al que asiste, dando una conferencia como si no hubiera pasado nada. La habían asesinado, pero está viva. Okabe, abrumado por los hechos que escapan a su comprensión, no puede evitar comportarse de forma extraña. En el año 2000, John Titor, que decía haber venido del futuro, fue un fenómeno de internet, y ahora, 10 años más tarde, en el foro @Channel vuelve a aparecer alguien que se hace llamar así. Sin embargo, solo Okabe lo recuerda. Mientras se dirige al Maid Cafe regentado por Faris, conoce a Moeka Kiryu, una chica en busca del ordenador retro IBN5100. De vuelta al laboratorio, Okabe hace un experimento con el Teléfono microondas (nombre provisional). Mete una banana dentro de él, que se convierte en gelnana y vuelve a aparecer encima de la mesa. Daru y Okabe se quedan atónitos por el inesperado resultado del experimento, y entonces, Kurisu Makise se presenta en el laboratorio.</desc>
   </programme>
-  <programme start="20260423091656 -0300" stop="20260423094337 -0300" channel="ES3000288I">
-    <title lang="es">Record of Lodoss War</title>
-    <desc lang="es">Tras derrotar a Shooting Star, Parn y sus compañeros regresan a Valis, donde reciben noticias preocupantes de Marmo. Las intenciones del mago Wagnard de restaurar el poder de la diosa malvada Kardis comienzan a resultar evidentes.</desc>
+  <programme start="20260423155811 -0300" stop="20260423162420 -0300" channel="ES300029LP">
+    <title lang="es">STEINS  GATE</title>
+    <desc lang="es">Okabe y Daru han llevado a cabo un experimento en el teléfono microondas (nombre provisional) de El laboratorio de los artefactos del futuro. La banana que habían metido en su interior había tomado una consistencia gelatinosa, y sorprendentemente había vuelto al racimo, lejos del microondas. Okabe, presionado por Kurisu Makise, que había presenciado el experimento por casualidad, conjetura que el teléfono microondas (nombre provisional) es una especie de máquina del tiempo, ya que también puede enviar mensajes al pasado. Kurisu, incapaz de aceptar la existencia de una máquina del tiempo, sale corriendo de El laboratorio de los artefactos del futuro. Por su parte, Okabe, decidido a demostrar su teoría de la máquina del tiempo, lee lo que ha escrito John Titor en @Channel: En el futuro, en SERN tendrá el monopolio de las máquinas del tiempo. Okabe le pide a Daru que hackee al SERN, y este consigue acceder a los correos de un empleado. En ellos, descubren que el SERN ha conseguido algo que habían negado públicamente, la creación de mini agujeros negros, y hacen uso de una teoría según la cual se puede viajar en el tiempo usando agujeros negros. A continuación, encuentran un correo en el que leen: “Human is Dead, mismatch”.</desc>
   </programme>
   <programme start="20260423094337 -0300" stop="20260423101018 -0300" channel="ES3000288I">
     <title lang="es">Record of Lodoss War</title>
@@ -17366,9 +17362,13 @@
     <title lang="es">Inuyasha</title>
     <desc lang="es">Koga y su tribu de lobos deciden atacar el castillo de Naraku en solitario mientras Inuyasha se encuentra atrapado en su forma mortal por la luna nueva. Al mismo tiempo, Kagura decide hacer un peligroso trato con Naraku.</desc>
   </programme>
-  <programme start="20260423082924 -0300" stop="20260423092706 -0300" channel="ES300002Y6">
-    <title lang="es">Charlie&#x27;s Angels S2E41</title>
-    <desc lang="es">Charlie envía a los Ángeles a investigar la misteriosa muerte de su cantante de folk-rock favorita, Amy Waters. Kris conoce a un taxista llamado Lenny que fue una de las últimas personas en ver a Amy con vida.</desc>
+  <programme start="20260423152336 -0300" stop="20260423155003 -0300" channel="ES3000288I">
+    <title lang="es">Inuyasha</title>
+    <desc lang="es">Después de que Sesshomaru decline su oferta para acabar con Naraku, Kagura ataca al grupo de Inuyasha. En el transcurso del combate, Kagura descubre el secreto de Inuyasha, pero decide no explicarle nada a Naraku.</desc>
+  </programme>
+  <programme start="20260423155003 -0300" stop="20260423161631 -0300" channel="ES3000288I">
+    <title lang="es">Inuyasha</title>
+    <desc lang="es">Un misterioso demonio que resulta ser el último superviviente de la tribu del rayo se presenta ante Shippo. El joven demonio zorro es desafiado en singular combate y no le queda otra opción que tragar saliva y aceptar el reto.</desc>
   </programme>
   <programme start="20260423092706 -0300" stop="20260423102441 -0300" channel="ES300002Y6">
     <title lang="es">Charlie&#x27;s Angels S2E42</title>
@@ -17398,13 +17398,9 @@
     <title lang="es">Charlie&#x27;s Angels S3E51</title>
     <desc lang="es">Alguien intenta matar a una joven golfista profesional llamada Linda Frye antes del torneo de golf Cyprus Pines Gold. Su entrenador, un abogado llamado Montclair, es asesinado y algunos sicarios esperan a Linda en el agujero 18.</desc>
   </programme>
-  <programme start="20260423085513 -0300" stop="20260423092514 -0300" channel="ES300003D4">
-    <title lang="es">Bewitched S4E133</title>
-    <desc lang="es">Tabitha convierte a un mocoso abusivo en un bulldog.</desc>
-  </programme>
-  <programme start="20260423092514 -0300" stop="20260423095544 -0300" channel="ES300003D4">
-    <title lang="es">Bewitched S4E134</title>
-    <desc lang="es">La brujería de Tabitha, un tablero de ouija y un fantasma, ayudan a Larry a conservar un cliente.</desc>
+  <programme start="20260423160531 -0300" stop="20260423170313 -0300" channel="ES300002Y6">
+    <title lang="es">Charlie&#x27;s Angels S2E41</title>
+    <desc lang="es">Charlie envía a los Ángeles a investigar la misteriosa muerte de su cantante de folk-rock favorita, Amy Waters. Kris conoce a un taxista llamado Lenny que fue una de las últimas personas en ver a Amy con vida.</desc>
   </programme>
   <programme start="20260423095544 -0300" stop="20260423102534 -0300" channel="ES300003D4">
     <title lang="es">Bewitched S4E135</title>
@@ -17450,13 +17446,13 @@
     <title lang="es">Bewitched S5E146</title>
     <desc lang="es">Endora lanza un hechizo y Darrin se enamora de su propia imagen.</desc>
   </programme>
-  <programme start="20260423085100 -0300" stop="20260423092000 -0300" channel="ESBC1700004PX">
-    <title lang="es">Close Up</title>
-    <desc lang="es">La historia, el glamour, la cinematografía y los cotilleos de tus estrellas favoritas de Hollywood.</desc>
+  <programme start="20260423152542 -0300" stop="20260423155543 -0300" channel="ES300003D4">
+    <title lang="es">Bewitched S5E147</title>
+    <desc lang="es">El tío Arthur intenta hacer pastelería francesa, pero solo consigue hacer el milhojas original.</desc>
   </programme>
-  <programme start="20260423092000 -0300" stop="20260423095100 -0300" channel="ESBC1700004PX">
-    <title lang="es">Close Up</title>
-    <desc lang="es">La historia, el glamour, la cinematografía y los cotilleos de tus estrellas favoritas de Hollywood.</desc>
+  <programme start="20260423155543 -0300" stop="20260423162548 -0300" channel="ES300003D4">
+    <title lang="es">Bewitched S5E148</title>
+    <desc lang="es">Darrin acusa a Samantha de utilizar la brujería para ganar un concurso de lemas.</desc>
   </programme>
   <programme start="20260423095100 -0300" stop="20260423102200 -0300" channel="ESBC1700004PX">
     <title lang="es">Close Up</title>
@@ -17498,6 +17494,14 @@
     <title lang="es">Close Up</title>
     <desc lang="es">La historia, el glamour, la cinematografía y los cotilleos de tus estrellas favoritas de Hollywood.</desc>
   </programme>
+  <programme start="20260423151500 -0300" stop="20260423154600 -0300" channel="ESBC1700004PX">
+    <title lang="es">Close Up</title>
+    <desc lang="es">La historia, el glamour, la cinematografía y los cotilleos de tus estrellas favoritas de Hollywood.</desc>
+  </programme>
+  <programme start="20260423154600 -0300" stop="20260423161700 -0300" channel="ESBC1700004PX">
+    <title lang="es">Close Up</title>
+    <desc lang="es">La historia, el glamour, la cinematografía y los cotilleos de tus estrellas favoritas de Hollywood.</desc>
+  </programme>
   <programme start="20260423090207 -0300" stop="20260423110746 -0300" channel="ES300006QJ">
     <title lang="es">Gattaca</title>
     <desc lang="es">Ambientada en una sociedad futura, en la que la mayor parte de los niños son concebidos in vitro y con técnicas de selección genética.</desc>
@@ -17526,9 +17530,13 @@
     <title lang="es">Rancho Esperanza</title>
     <desc lang="es">Con la inminente ejecución hipotecaria del rancho familiar, Rebecca lucha con su rebelde hija Grace, que aún no ha superado la muerte de su padre Mike.</desc>
   </programme>
-  <programme start="20260423134329 -0300" stop="20260423153918 -0300" channel="ESBC2700003T8">
+  <programme start="20260423134329 -0300" stop="20260423153919 -0300" channel="ESBC2700003T8">
     <title lang="es">Jack Hunter y la búsqueda de la tumba de Akhenaten</title>
     <desc lang="es">Jack Hunter es secuestrado por la NSA para buscar la otra parte del arma de Osiris en Giza. Junto a Lena y sus amigos sirios, enfrenta a una secta midianita, a un coronel ambicioso y a peligros mortales mientras descifra pistas ugaríticas hacia el tesoro de la tumba del faraón.</desc>
+  </programme>
+  <programme start="20260423153919 -0300" stop="20260423172127 -0300" channel="ESBC2700003T8">
+    <title lang="es">Corazones salvajes</title>
+    <desc lang="es">Wild Hearts sigue a Willow, una joven de Malibú, que busca a su padre Jack en las montañas Sierra Nevada. Entre rivales, caballos salvajes y desafíos familiares, Willow lucha por liberar al mustang Bravo y descubre la aventura, el coraje y el autodescubrimiento.</desc>
   </programme>
   <programme start="20260423090041 -0300" stop="20260423112028 -0300" channel="ES2600013H4">
     <title lang="es">Fuera de control</title>
@@ -17562,9 +17570,9 @@
     <title lang="es">Visita Inesperada</title>
     <desc lang="es">Val Spencer, que acaba de enviudar, lucha por criar a su hijo de 14 años y se embarca en una carrera en el sector inmobiliario.</desc>
   </programme>
-  <programme start="20260423082258 -0300" stop="20260423100617 -0300" channel="ESBD800001RJ">
-    <title lang="es">Planet Dune V2</title>
-    <desc lang="es">Una tripulación en misión para salvar una base abandonada en un planeta desértico se convierte en mortal cuando son acechados y atacados por los principales depredadores del planeta: gusanos de arena gigantes.</desc>
+  <programme start="20260423151500 -0300" stop="20260423170000 -0300" channel="ESBC400001QQ">
+    <title lang="es">La Era del Mañana</title>
+    <desc lang="es">Cuando el sol incide sobre un altar escondido dentro de la antigua pirámide de México, crea una baliza que desencadena una guerra relámpago alienígena. Sus barcos destruyen toda la infraestructura militar del planeta. Un antropólogo sabe cómo repeler a los invasores, pero este secreto está enterrado bajo las ruinas de la Pirámide de la Luna, directamente debajo de la nave nodriza.</desc>
   </programme>
   <programme start="20260423100617 -0300" stop="20260423114249 -0300" channel="ESBD800001RJ">
     <title lang="es">Asalto sin límite</title>
@@ -17578,9 +17586,9 @@
     <title lang="es">Redención</title>
     <desc lang="es">Cine Friki</desc>
   </programme>
-  <programme start="20260423074753 -0300" stop="20260423094143 -0300" channel="ESBC40000248">
-    <title lang="es">Trunk Spanish Dub</title>
-    <desc lang="es">Megan Johnson, una hermosa madre soltera de veintitantos años, con mucho en su plato, es secuestrada y encarcelada por un asesino en serie en la cajuela de su automóvil. Lo que descubre sobre ella y su secuestrador, mientras está atrapada, marcará la diferencia entre la supervivencia y la muerte inminente.</desc>
+  <programme start="20260423155655 -0300" stop="20260423174855 -0300" channel="ESBD800001RJ">
+    <title lang="es">El tren de la muerte</title>
+    <desc lang="es">Un tren con rehenes es robado en Bremen, Alemania. Se dirige al sur de Europa con una bomba nuclear. Un grupo especial de lucha contra el crimen de la ONU se encarga de detenerlo en cooperación con militares y policías locales.</desc>
   </programme>
   <programme start="20260423094143 -0300" stop="20260423111316 -0300" channel="ESBC40000248">
     <title lang="es">Billy The Kid Versus Dracula</title>
@@ -17593,6 +17601,10 @@
   <programme start="20260423131322 -0300" stop="20260423152422 -0300" channel="ESBC40000248">
     <title lang="es">El caballero de las sombras</title>
     <desc lang="es">Todas las adolescentes del pueblo han desaparecido. Para resolver el misterio, el detective Fei se une al cazador de demonios Pu Songling, cuyos poderes le permiten invocar cadenas con forma de tentáculos con los que atrapa a los monstruos.</desc>
+  </programme>
+  <programme start="20260423152422 -0300" stop="20260423162501 -0300" channel="ESBC40000248">
+    <title lang="es">Becoming Evil: Cult of Personality: The Monster Within and Among Us</title>
+    <desc lang="es">Episode One discusses &#x27;The Monster Within And Among Us&#x27;, and discusses Jack The Ripper (even though he&#x27;s not American), since he is pretty much the first recognized serial killer. Since a lack of real footage is obvious, this episode uses footage from an old black and white move, loosely based on Jack The Ripper.</desc>
   </programme>
   <programme start="20260423090000 -0300" stop="20260423111500 -0300" channel="ES2200003DA">
     <title lang="es">La última vez que vi París</title>
@@ -17622,13 +17634,13 @@
     <title lang="es">7 Winchester per un Massacro</title>
     <desc lang="es">Un pistolero se une a una banda de guerrilleros confederados para encontrar un alijo de oro confederado desaparecido.</desc>
   </programme>
-  <programme start="20260423141554 -0300" stop="20260423155854 -0300" channel="ES2300005G7">
+  <programme start="20260423141554 -0300" stop="20260423155848 -0300" channel="ES2300005G7">
     <title lang="es">El último rebelde</title>
     <desc lang="es">La aventura de dos soldados rebeldes tras el fin de la Guerra Civil.</desc>
   </programme>
-  <programme start="20260423073303 -0300" stop="20260423091436 -0300" channel="ESBC2700002LO">
-    <title lang="es">El sureño</title>
-    <desc lang="es">Adaptación de la novela &quot;Sostén el otoño en tu mano&quot; - La vida de la pobre familia Tucker, que trabajaba como taponadora de algodón y decidió conseguir su propio terreno, pero la naturaleza está en su contra.</desc>
+  <programme start="20260423155848 -0300" stop="20260423173106 -0300" channel="ES2300005G7">
+    <title lang="es">El angel vengador</title>
+    <desc lang="es">Miles Utley es un comando/guardaespaldas mormón profesional que se ve obligado a convertirse en renegado y a cuestionar su fe cuando investiga un escándalo de asesinato y especulación de tierras.</desc>
   </programme>
   <programme start="20260423091436 -0300" stop="20260423103826 -0300" channel="ESBC2700002LO">
     <title lang="es">Un deseo de matar</title>
@@ -17642,9 +17654,13 @@
     <title lang="es">Sentencia de muerte</title>
     <desc lang="es">Cuatro hombres mataron al hermano de Django hace mucho tiempo.</desc>
   </programme>
-  <programme start="20260423133551 -0300" stop="20260423152131 -0300" channel="ESBC2700002LO">
+  <programme start="20260423133551 -0300" stop="20260423152132 -0300" channel="ESBC2700002LO">
     <title lang="es">Mad Morgan</title>
     <desc lang="es">La verdadera historia del forajido irlandés Daniel Morgan, que es buscado, vivo o muerto, en Australia durante la década de 1850.</desc>
+  </programme>
+  <programme start="20260423152132 -0300" stop="20260423165901 -0300" channel="ESBC2700002LO">
+    <title lang="es">Los indomables</title>
+    <desc lang="es">Un detective de Pinkerton va de incógnito para infiltrarse en una banda de ladrones cuyo jefe es una aguerrida tabernera. Las complicaciones sobrevienen.</desc>
   </programme>
   <programme start="20260423090000 -0300" stop="20260423110000 -0300" channel="ESBD80000288">
     <title lang="es">Los Mercenarios</title>
@@ -17662,9 +17678,9 @@
     <title lang="es">Sharknado 2: El Segundo</title>
     <desc lang="es">Cuando un huracán de categoría 7 azota Nueva York, las crecientes aguas atraen a miles de tiburones. Para empeorar las cosas, pronto los tornados salpican el horizonte. Mientras los Sharknados arrasan la ciudad, ningún vehículo, edificio o monumento nacional está a salvo.</desc>
   </programme>
-  <programme start="20260423090057 -0300" stop="20260423093431 -0300" channel="USBB3200016HO">
-    <title lang="es">Al Rojo Vivo</title>
-    <desc lang="es">Al Rojo Vivo, la revista noticiosa que define la agenda de la televisión en español.</desc>
+  <programme start="20260423154500 -0300" stop="20260423173000 -0300" channel="ESBD80000288">
+    <title lang="es">Bigfoot</title>
+    <desc lang="es">Cuando Bigfoot ataca un concierto de música con temática de los 80, un promotor del concierto y un hippie agotado harán cualquier cosa para proteger a las &quot;especies en peligro de extinción&quot;.</desc>
   </programme>
   <programme start="20260423093431 -0300" stop="20260423102214 -0300" channel="USBB3200016HO">
     <title lang="es">Noticias Telemundo</title>
@@ -17698,10 +17714,6 @@
     <title lang="es">Hoy Día</title>
     <desc lang="es">Comienza tu día con el programa matutino que mejor te informa con las noticias más actuales y relevantes.</desc>
   </programme>
-  <programme start="20260423090000 -0300" stop="20260423100000 -0300" channel="US3000005RS">
-    <title lang="es">Las noticias de la mañana AHORA</title>
-    <desc lang="es">Un resumen de noticias para comenzar el día sobre los temas que afectan a los latinos en EE. UU.</desc>
-  </programme>
   <programme start="20260423100000 -0300" stop="20260423110000 -0300" channel="US3000005RS">
     <title lang="es">Las noticias de la mañana AHORA</title>
     <desc lang="es">Un resumen de noticias para comenzar el día sobre los temas que afectan a los latinos en EE. UU.</desc>
@@ -17730,9 +17742,13 @@
     <title lang="es">Mediodía AHORA</title>
     <desc lang="es">Una extensión del noticiero de Mediodía con las últimas noticias.</desc>
   </programme>
-  <programme start="20260423090000 -0300" stop="20260423100000 -0300" channel="USBA370000104">
-    <title lang="es">CBS Mornings</title>
-    <desc lang="es">Hosts Gayle King, Tony Dokoupil and Nate Burleson set out to unite CBS&#x27; morning landscape with their lively and original reporting on international news stories during the weekday program&#x27;s first hour, while expanding on feature reporting during the second hour with live interviews as well as in-depth pieces, covering topics from news, sports, climate and technology to race, health, parenting and personal finance. The team broadcasts from a new state-of-the-art studio in New York&#x27;s Times Square.</desc>
+  <programme start="20260423153000 -0300" stop="20260423160000 -0300" channel="US3000005RS">
+    <title lang="es">Mediodía AHORA</title>
+    <desc lang="es">Una extensión del noticiero de Mediodía con las últimas noticias.</desc>
+  </programme>
+  <programme start="20260423160000 -0300" stop="20260423163000 -0300" channel="US3000005RS">
+    <title lang="es">Noticias en positivo AHORA</title>
+    <desc lang="es">Un resumen de las buenas noticias del día.</desc>
   </programme>
   <programme start="20260423100000 -0300" stop="20260423120000 -0300" channel="USBA370000104">
     <title lang="es">CBS News 24/7</title>
@@ -17751,6 +17767,10 @@
     <desc lang="es">Coverage, reporting and storytelling from CBS News and Stations  a look at how news coverage comes together.</desc>
   </programme>
   <programme start="20260423150000 -0300" stop="20260423160000 -0300" channel="USBA370000104">
+    <title lang="es">CBS News 24/7</title>
+    <desc lang="es">Coverage, reporting and storytelling from CBS News and Stations  a look at how news coverage comes together.</desc>
+  </programme>
+  <programme start="20260423160000 -0300" stop="20260423170000 -0300" channel="USBA370000104">
     <title lang="es">CBS News 24/7</title>
     <desc lang="es">Coverage, reporting and storytelling from CBS News and Stations  a look at how news coverage comes together.</desc>
   </programme>
@@ -17778,10 +17798,6 @@
     <title lang="es">Fly 90s Afternoon</title>
     <desc lang="es">Nostalgia filled 90s music video hits.</desc>
   </programme>
-  <programme start="20260423090406 -0300" stop="20260423091458 -0300" channel="USBD350002623">
-    <title lang="es">Sergey Malov</title>
-    <desc lang="es">Cinematic classical clips and energizing concert pieces featuring up-and-coming artists.</desc>
-  </programme>
   <programme start="20260423091458 -0300" stop="20260423102957 -0300" channel="USBD350002623">
     <title lang="es">Gianandrea Noseda, London Symphony Orchestra, Chris Richards &amp; Rachel Gough</title>
     <desc lang="es">Gianandrea Noseda conducts the London Symphony Orchestra in a concert performance recorded on April 15, 2021, at St. Luke&#x27;s, London. The program begins with Richard Strauss&#x27;s Duett-Concertino for clarinet and bassoon, a late, lyrical work that evokes a fairy-tale-like dialogue between the two solo instruments, featuring Chris Richards (clarinet) and Rachel Gough (bassoon). Next is Franz Liszt&#x27;s Symphonic Poem No. 4, Orpheus, a contemplative and radiant homage to the mythic musician. The concert concludes with Nino Rota&#x27;s Symphony No. 3, a richly melodic and rhythmically vibrant work that reflects the cinematic flair for which the composer is widely known.</desc>
@@ -17805,6 +17821,10 @@
   <programme start="20260423134453 -0300" stop="20260423154453 -0300" channel="USBD350002623">
     <title lang="es">Quatuor Ebène</title>
     <desc lang="es">Renowned French string quartet Quatuor Ébène marked the 250th birth anniversary of Ludwig van Beethoven (1770-1827) with a remarkable project: recording all of the great composer&#x27;s sixteen string quartets. For five years, violinists Pierre Colombet and Gabriel Le Magadure, violist Marie Chilemme, and cellist Raphaël Merlin immersed themselves in Beethoven&#x27;s 650 pages of sheet music. Their efforts culminated in the performance of the composer&#x27;s complete repertoire for string quartet, which covers three decades of Beethoven&#x27;s musical creativity, during six impressive concerts at Philharmonie de Paris in the autumn of 2020. Quatuor Ébène explored every facet of Beethoven&#x27;s string quartet repertoire: from the youthful Opus 18 string quartets to the Razumovsky, Harp, and Serioso quartets (Opus 59, 74, and 95) from his middle period, and finally, the depth of his late quartets (Opus 127 to 135). This program features Quatuor Ébène performing Beethoven&#x27;s String Quartet No. 7 in F major, Op. 59, No. 1, known as “Razumovsky”  String Quartet No. 13 in B-flat major, Op. 130  and the monumental Great Fugue, Op. 133. This concert performance was recorded at Philharmonie de Paris on October 12, 2020.</desc>
+  </programme>
+  <programme start="20260423154453 -0300" stop="20260423173413 -0300" channel="USBD350002623">
+    <title lang="es">Gabriela Montero, Youth Orchestra of the Americas &amp; Carlos Miguel Prieto</title>
+    <desc lang="es">Venezuelan pianist Gabriela Montero is accompanied by the Youth Orchestra of the Americas conducted by Carlos Miguel Prieto. On the program are Maurice Ravel&#x27;s Piano Concerto in G Major, as well as two of Montero&#x27;s own works: the “Latin Concerto” and Improvisations. The performance took place in one of the world&#x27;s most beautiful concert halls, the Teatro del Lago in Frutillar, located in the middle of the Patagonian plains. The concert hall, which opened its doors in 2010, stands on the banks of Chile&#x27;s second-largest lake overlooking a volcano that is capped with snow the entire year. In an accompanying interview, Montero speaks about composing, improvising, and performing works of her own alongside those of others. She discusses her home country of Venezuela, where she no longer performs for political reasons.</desc>
   </programme>
   <programme start="20260423090000 -0300" stop="20260423110000 -0300" channel="USBD3300022QK">
     <title lang="es">Stingray Remember the 80&#x27;s</title>
@@ -17870,10 +17890,6 @@
     <title lang="es">Stingray Classic Rock</title>
     <desc lang="es">Relive the wonders of classic rock, the sound that revolutionized the world of music from the ‘60s to the ‘80s. Listen to the genre&#x27;s biggest legends.</desc>
   </programme>
-  <programme start="20260423084218 -0300" stop="20260423093224 -0300" channel="US2600019IC">
-    <title lang="es">American Pickers</title>
-    <desc lang="es">Mike finds a coin-op elephant in a family compound near NYC.</desc>
-  </programme>
   <programme start="20260423093224 -0300" stop="20260423102356 -0300" channel="US2600019IC">
     <title lang="es">American Pickers</title>
     <desc lang="es">Mike and Frank find a stash of untouched inventory.</desc>
@@ -17902,9 +17918,9 @@
     <title lang="es">American Pickers</title>
     <desc lang="es">Mike finds a coin-op elephant in a family compound near NYC.</desc>
   </programme>
-  <programme start="20260423080302 -0300" stop="20260423091520 -0300" channel="USBD1200009JI">
-    <title lang="es">Battlefields</title>
-    <desc lang="es">Commanders and historians study the events of Normandy to improve modern tactics.</desc>
+  <programme start="20260423153225 -0300" stop="20260423162357 -0300" channel="US2600019IC">
+    <title lang="es">American Pickers</title>
+    <desc lang="es">Mike and Frank find a stash of untouched inventory.</desc>
   </programme>
   <programme start="20260423091520 -0300" stop="20260423103214 -0300" channel="USBD1200009JI">
     <title lang="es">Battlefields</title>
@@ -17926,9 +17942,9 @@
     <title lang="es">Hitler&#x27;s Children</title>
     <desc lang="es">For the first time, children born into the &#x27;Lebensborn&#x27; program find out the dark secret of their origins.</desc>
   </programme>
-  <programme start="20260423082936 -0300" stop="20260423093236 -0300" channel="US2200001IY">
-    <title lang="es">Protección</title>
-    <desc lang="es">Patrick busca animales que han dominado el arte de la protección y descubre cómo inspiran nuevas tecnologías para protegernos en el futuro.</desc>
+  <programme start="20260423152327 -0300" stop="20260423163225 -0300" channel="USBD1200009JI">
+    <title lang="es">History Uncovered</title>
+    <desc lang="es">Was Hitler was a military genius? That&#x27;s an enduring myth. He was a disastrous strategist and commander.</desc>
   </programme>
   <programme start="20260423093236 -0300" stop="20260423103241 -0300" channel="US2200001IY">
     <title lang="es">Movimiento</title>
@@ -17954,13 +17970,9 @@
     <title lang="es">Protección</title>
     <desc lang="es">Patrick busca animales que han dominado el arte de la protección y descubre cómo inspiran nuevas tecnologías para protegernos en el futuro.</desc>
   </programme>
-  <programme start="20260423090000 -0300" stop="20260423093000 -0300" channel="USAJ3504704A">
-    <title lang="es">Animals Unscripted | It&#x27;s A Zoo Out There</title>
-    <desc lang="es">Nonstop antics from silly and amusing animals.</desc>
-  </programme>
-  <programme start="20260423093000 -0300" stop="20260423100000 -0300" channel="USAJ3504704A">
-    <title lang="es">Animals Unscripted | Dawgz</title>
-    <desc lang="es">You&#x27;re gunna wish these dogs were part of your crew.</desc>
+  <programme start="20260423154717 -0300" stop="20260423164722 -0300" channel="US2200001IY">
+    <title lang="es">Movimiento</title>
+    <desc lang="es">Los secretos para viajar más rápido y lejano se están descubriendo. Patrick investiga las criaturas que evolucionaron para moverse bien.</desc>
   </programme>
   <programme start="20260423100000 -0300" stop="20260423103000 -0300" channel="USAJ3504704A">
     <title lang="es">Animals Unscripted | Go Mutts!</title>
@@ -18006,6 +18018,14 @@
     <title lang="es">Pets VS. Everything | Pets VS. Anatomy</title>
     <desc lang="es">Pets express themselves through tails, eyes, tongues, and paws.</desc>
   </programme>
+  <programme start="20260423153000 -0300" stop="20260423160000 -0300" channel="USAJ3504704A">
+    <title lang="es">Pets VS. Everything | Pets VS. Interactions</title>
+    <desc lang="es">Pets clash and connect with nature, wildlife, kids and fellow furry friends.</desc>
+  </programme>
+  <programme start="20260423160000 -0300" stop="20260423163000 -0300" channel="USAJ3504704A">
+    <title lang="es">Dr. Phur | For the Love of Tennis Balls!</title>
+    <desc lang="es">What to do when your furry friends are too attached, scare off delivery drivers, and hate the holiday season.</desc>
+  </programme>
   <programme start="20260423084706 -0300" stop="20260423102200 -0300" channel="USBB4400017N3">
     <title lang="es">Deal or No Deal</title>
     <desc lang="es">Contestants get a chance to win money, from one penny to $1 million.</desc>
@@ -18034,9 +18054,13 @@
     <title lang="es">Deal or No Deal</title>
     <desc lang="es">Contestants get a chance to win money, from one penny to $1 million.</desc>
   </programme>
-  <programme start="20260423082900 -0300" stop="20260423095200 -0300" channel="US5000053YV">
-    <title lang="es">Fast Money</title>
-    <desc lang="es">Learn how you play fast money.</desc>
+  <programme start="20260423151014 -0300" stop="20260423155743 -0300" channel="USBB4400017N3">
+    <title lang="es">Deal or No Deal</title>
+    <desc lang="es">Contestants get a chance to win money, from one penny to $1 million.</desc>
+  </programme>
+  <programme start="20260423155743 -0300" stop="20260423164454 -0300" channel="USBB4400017N3">
+    <title lang="es">Deal or No Deal</title>
+    <desc lang="es">Contestants get a chance to win money, from one penny to $1 million.</desc>
   </programme>
   <programme start="20260423095200 -0300" stop="20260423105100 -0300" channel="US5000053YV">
     <title lang="es">Compilations</title>
@@ -18050,13 +18074,13 @@
     <title lang="es">Compilations</title>
     <desc lang="es">Steve Harvey watches the classic family competition.</desc>
   </programme>
-  <programme start="20260423090000 -0300" stop="20260423093000 -0300" channel="USBC36000073J">
-    <title lang="es">Astro Boy</title>
-    <desc lang="es">Strange snow drains energy from everything it touches  Astro battles a leopard.</desc>
+  <programme start="20260423153500 -0300" stop="20260423160100 -0300" channel="US5000053YV">
+    <title lang="es">Family Feud</title>
+    <desc lang="es">Nichols family vs. Collins family.</desc>
   </programme>
-  <programme start="20260423093000 -0300" stop="20260423100000 -0300" channel="USBC36000073J">
-    <title lang="es">Astro Boy</title>
-    <desc lang="es">Residents believe their village at the foot of a mountain will be ruined when the human-faced rock on top turns its direction.</desc>
+  <programme start="20260423160100 -0300" stop="20260423162800 -0300" channel="US5000053YV">
+    <title lang="es">Family Feud</title>
+    <desc lang="es">Collins family vs. Carter family.</desc>
   </programme>
   <programme start="20260423100000 -0300" stop="20260423103000 -0300" channel="USBC36000073J">
     <title lang="es">Astro Boy</title>
@@ -18099,16 +18123,16 @@
     <desc lang="es">Astro Boy and company go on a trip through time.</desc>
   </programme>
   <programme start="20260423150000 -0300" stop="20260423153000 -0300" channel="USBC36000073J">
-    <title lang="es">Flame of Recca: Paper Dance: Breathing in Life!</title>
+    <title lang="es">Flame of Recca</title>
     <desc lang="es">Recca has his turn in the ring.</desc>
   </programme>
-  <programme start="20260423090000 -0300" stop="20260423093000 -0300" channel="USAJ3504502A">
-    <title lang="es">City Hunter</title>
-    <desc lang="es">City Hunter is a notorious contractor group with the call sign XYZ. No matter the job, they will take it, cleaning up the scum on the streets of Tokyo.</desc>
+  <programme start="20260423153000 -0300" stop="20260423160000 -0300" channel="USBC36000073J">
+    <title lang="es">Flame of Recca</title>
+    <desc lang="es">Recca takes on a mighty challenger, Kukai.</desc>
   </programme>
-  <programme start="20260423093000 -0300" stop="20260423100000 -0300" channel="USAJ3504502A">
-    <title lang="es">City Hunter</title>
-    <desc lang="es">City Hunter is a notorious contractor group with the call sign XYZ. No matter the job, they will take it, cleaning up the scum on the streets of Tokyo.</desc>
+  <programme start="20260423160000 -0300" stop="20260423163000 -0300" channel="USBC36000073J">
+    <title lang="es">Flame of Recca</title>
+    <desc lang="es">Kukai is on a bloodthirsty rampage.</desc>
   </programme>
   <programme start="20260423100000 -0300" stop="20260423103000 -0300" channel="USAJ3504502A">
     <title lang="es">City Hunter</title>
@@ -18154,13 +18178,13 @@
     <title lang="es">City Hunter</title>
     <desc lang="es">City Hunter is a notorious contractor group with the call sign XYZ. No matter the job, they will take it, cleaning up the scum on the streets of Tokyo.</desc>
   </programme>
-  <programme start="20260423090200 -0300" stop="20260423092900 -0300" channel="US15000032I">
-    <title lang="es">Helck</title>
-    <desc lang="es">Helck and Vermilio bid farewell to the mysterious island and its residents as they sail away with a stowaway Piwi aboard  they run into a massive whirlpool.</desc>
+  <programme start="20260423153000 -0300" stop="20260423160000 -0300" channel="USAJ3504502A">
+    <title lang="es">City Hunter</title>
+    <desc lang="es">City Hunter is a notorious contractor group with the call sign XYZ. No matter the job, they will take it, cleaning up the scum on the streets of Tokyo.</desc>
   </programme>
-  <programme start="20260423092900 -0300" stop="20260423095600 -0300" channel="US15000032I">
-    <title lang="es">Helck</title>
-    <desc lang="es">Helck and company end up in the Erille Kingdom where they must fight the barbarians of the Tothman Tribe  the Tothman King goes berserk after tapping into a mysterious power.</desc>
+  <programme start="20260423160000 -0300" stop="20260423163000 -0300" channel="USAJ3504502A">
+    <title lang="es">City Hunter</title>
+    <desc lang="es">City Hunter is a notorious contractor group with the call sign XYZ. No matter the job, they will take it, cleaning up the scum on the streets of Tokyo.</desc>
   </programme>
   <programme start="20260423095600 -0300" stop="20260423102300 -0300" channel="US15000032I">
     <title lang="es">Helck</title>
@@ -18210,9 +18234,13 @@
     <title lang="es">Helck</title>
     <desc lang="es">Hyura and Edil battle it out at Castle Thor while a strange relationship starts between them  Azudra confronts Mikaros and reveals a past grudge.</desc>
   </programme>
-  <programme start="20260423090300 -0300" stop="20260423095400 -0300" channel="USBD7000017L">
-    <title lang="es">The Walking Dead</title>
-    <desc lang="es">Se revela el origen de Alpha y Beta. Además, Alpha intenta endurecer a Lydia a medida que se preparan para caminar junto a los muertos, y los Susurradores crean sus hordas.</desc>
+  <programme start="20260423152000 -0300" stop="20260423154700 -0300" channel="US15000032I">
+    <title lang="es">Helck</title>
+    <desc lang="es">Raphaeds army attacks a demonkin outpost, when Helck and Vermilio arrive  Raphaed determines Vermilio is Helcks newfound source of support.</desc>
+  </programme>
+  <programme start="20260423154700 -0300" stop="20260423161400 -0300" channel="US15000032I">
+    <title lang="es">Helck</title>
+    <desc lang="es">Helck faces off with his former friend, Alicia  Vermilio can&#x27;t help but be concerned about Helck as she continues to fight with Raphaed.</desc>
   </programme>
   <programme start="20260423095400 -0300" stop="20260423104900 -0300" channel="USBD7000017L">
     <title lang="es">The Walking Dead</title>
@@ -18238,6 +18266,10 @@
     <title lang="es">The Walking Dead</title>
     <desc lang="es">Una pelea causa tensiones en Oceanside mientras los habitantes de Alejandría se embarcan en una misión de alto riesgo.</desc>
   </programme>
+  <programme start="20260423152200 -0300" stop="20260423161200 -0300" channel="USBD7000017L">
+    <title lang="es">The Walking Dead</title>
+    <desc lang="es">El grupo debe averiguar cómo salir de una situación peligrosa.</desc>
+  </programme>
   <programme start="20260423084600 -0300" stop="20260423102800 -0300" channel="US1900002QK">
     <title lang="es">Beneath</title>
     <desc lang="es">Coal miners become trapped 600 feet below the surface. As the air grows toxic and time runs out, the crew descends into madness and turns on one another.</desc>
@@ -18254,13 +18286,9 @@
     <title lang="es">Blood Creek</title>
     <desc lang="es">Two brothers become entangled in a sinister Nazi&#x27;s occult experiment at an American farmhouse.</desc>
   </programme>
-  <programme start="20260423090700 -0300" stop="20260423093800 -0300" channel="US1800014CG">
-    <title lang="es">Alfred Hitchcock Presents</title>
-    <desc lang="es">A studio publicist (Joby Baker) takes advantage of a star&#x27;s (Audrey Totter) demise to hype her final film.</desc>
-  </programme>
-  <programme start="20260423093800 -0300" stop="20260423100500 -0300" channel="US1800014CG">
-    <title lang="es">Alfred Hitchcock Presents</title>
-    <desc lang="es">A little man enters a mining town and challenges two miners to a contest with surprising results.</desc>
+  <programme start="20260423151800 -0300" stop="20260423162700 -0300" channel="US1900002QK">
+    <title lang="es">Captive Wild Woman</title>
+    <desc lang="es">A mad doctor (John Carradine) turns an animal trainer&#x27;s (Milburn Stone) ape into Paula the ape-woman (Acquanetta).</desc>
   </programme>
   <programme start="20260423100500 -0300" stop="20260423103500 -0300" channel="US1800014CG">
     <title lang="es">Alfred Hitchcock Presents</title>
@@ -18306,9 +18334,13 @@
     <title lang="es">Alfred Hitchcock Presents</title>
     <desc lang="es">A writer arrives in a small town to investigate the circumstances of a bank robbery in which the money was never found.</desc>
   </programme>
-  <programme start="20260423090713 -0300" stop="20260423093618 -0300" channel="USBD12000255B">
-    <title lang="es">FIFA World Cup™ Great Matches</title>
-    <desc lang="es">Enjoy Colombia against Uruguay in Brazil 2014™ and England against Cameroon in Italy 1990™.</desc>
+  <programme start="20260423151400 -0300" stop="20260423154400 -0300" channel="US1800014CG">
+    <title lang="es">Alfred Hitchcock Presents</title>
+    <desc lang="es">Two kidnappers come upon a tanker in the middle of the desert and decide to make their escape in it. With Burt Reynolds and James Bell.</desc>
+  </programme>
+  <programme start="20260423154400 -0300" stop="20260423161400 -0300" channel="US1800014CG">
+    <title lang="es">Alfred Hitchcock Presents</title>
+    <desc lang="es">A man (Robert Horton) schemes with a young woman (Anne Francis) to get rid of his wealthy wife (Vivienne Segal).</desc>
   </programme>
   <programme start="20260423093618 -0300" stop="20260423112211 -0300" channel="USBD12000255B">
     <title lang="es">Italy v USA | Group Matches | 1990 FIFA World Cup Italy™ | Full Match Replay</title>
@@ -18326,9 +18358,9 @@
     <title lang="es">Road to Maracana | The Official Film of the 2014 FIFA World Cup™</title>
     <desc lang="es">Relive a FIFA World Cup™ featuring the hypnotising trickery of Neymar</desc>
   </programme>
-  <programme start="20260423090000 -0300" stop="20260423100000 -0300" channel="GB2300005ML">
-    <title lang="es">Newshour</title>
-    <desc lang="es">Latest news and in-depth analysis from around the world.</desc>
+  <programme start="20260423154010 -0300" stop="20260423181424 -0300" channel="USBD12000255B">
+    <title lang="es">Argentina v Switzerland | Round of 16 | 2014 FIFA World Cup Brazil™ | Full Match Replay</title>
+    <desc lang="es">Watch the full match replay between Argentina and Switzerland at Arena de São Paulo, São Paulo.</desc>
   </programme>
   <programme start="20260423100000 -0300" stop="20260423110000 -0300" channel="GB2300005ML">
     <title lang="es">Newshour</title>
@@ -18366,9 +18398,9 @@
     <title lang="es">Newshour</title>
     <desc lang="es">Latest news and in-depth analysis from around the world.</desc>
   </programme>
-  <programme start="20260423080000 -0300" stop="20260423100000 -0300" channel="GBBD4900001RG">
-    <title lang="es">Reuters</title>
-    <desc lang="es">Reuters delivers fast, accurate, unbiased and trusted news around the globe.</desc>
+  <programme start="20260423160000 -0300" stop="20260423163000 -0300" channel="GB2300005ML">
+    <title lang="es">News Live</title>
+    <desc lang="es">Up-to-date news and analysis from around the world.</desc>
   </programme>
   <programme start="20260423100000 -0300" stop="20260423120000 -0300" channel="GBBD4900001RG">
     <title lang="es">Reuters</title>
@@ -18382,9 +18414,9 @@
     <title lang="es">Reuters</title>
     <desc lang="es">Reuters delivers fast, accurate, unbiased and trusted news around the globe.</desc>
   </programme>
-  <programme start="20260423090000 -0300" stop="20260423100000 -0300" channel="GBBD1900009UD">
-    <title lang="es">I Want My &#x27;80s Videos!</title>
-    <desc lang="es">A mix of all your favorite artists from the decadent decade.</desc>
+  <programme start="20260423160000 -0300" stop="20260423180000 -0300" channel="GBBD4900001RG">
+    <title lang="es">Reuters</title>
+    <desc lang="es">Reuters delivers fast, accurate, unbiased and trusted news around the globe.</desc>
   </programme>
   <programme start="20260423100000 -0300" stop="20260423110000 -0300" channel="GBBD1900009UD">
     <title lang="es">Rock Gods</title>
@@ -18410,9 +18442,9 @@
     <title lang="es">Ultimate Hits</title>
     <desc lang="es">Unforgettable hits from the &#x27;70s &amp; &#x27;80s.</desc>
   </programme>
-  <programme start="20260423090000 -0300" stop="20260423100000 -0300" channel="GBBC2100002HP">
-    <title lang="es">Live from the &#x27;00s</title>
-    <desc lang="es">Performances from the biggest superstars of the decade.</desc>
+  <programme start="20260423160000 -0300" stop="20260423170000 -0300" channel="GBBD1900009UD">
+    <title lang="es">British Legends</title>
+    <desc lang="es">The most influential music icons of the &#x27;70s &amp; &#x27;80s.</desc>
   </programme>
   <programme start="20260423100000 -0300" stop="20260423110000 -0300" channel="GBBC2100002HP">
     <title lang="es">Boy vs Girl Bands</title>
@@ -18438,17 +18470,9 @@
     <title lang="es">Non-Stop Hits</title>
     <desc lang="es">Biggest hits from both decades.</desc>
   </programme>
-  <programme start="20260423084747 -0300" stop="20260423091157 -0300" channel="GB500007VM">
-    <title lang="es">Episode 81</title>
-    <desc lang="es">Episode 81</desc>
-  </programme>
-  <programme start="20260423091157 -0300" stop="20260423093607 -0300" channel="GB500007VM">
-    <title lang="es">Episode 82</title>
-    <desc lang="es">Episode 82</desc>
-  </programme>
-  <programme start="20260423093607 -0300" stop="20260423100017 -0300" channel="GB500007VM">
-    <title lang="es">Episode 83</title>
-    <desc lang="es">Episode 83</desc>
+  <programme start="20260423160000 -0300" stop="20260423170000 -0300" channel="GBBC2100002HP">
+    <title lang="es">Y2K Party Essentials</title>
+    <desc lang="es">Party to the biggest hits of the 2000s!</desc>
   </programme>
   <programme start="20260423100017 -0300" stop="20260423102427 -0300" channel="GB500007VM">
     <title lang="es">Episode 84</title>
@@ -18502,13 +18526,17 @@
     <title lang="es">Episode 81</title>
     <desc lang="es">Episode 81</desc>
   </programme>
-  <programme start="20260423090006 -0300" stop="20260423093006 -0300" channel="GBAJ40003642">
-    <title lang="es">FailFactory</title>
-    <desc lang="es">Farm-to-table fails because you deserve the best.</desc>
+  <programme start="20260423151426 -0300" stop="20260423153835 -0300" channel="GB500007VM">
+    <title lang="es">Episode 82</title>
+    <desc lang="es">Episode 82</desc>
   </programme>
-  <programme start="20260423093006 -0300" stop="20260423100006 -0300" channel="GBAJ40003642">
-    <title lang="es">FailFactory</title>
-    <desc lang="es">Don&#x27;t be fooled, grass is not padding.</desc>
+  <programme start="20260423153835 -0300" stop="20260423160245 -0300" channel="GB500007VM">
+    <title lang="es">Episode 83</title>
+    <desc lang="es">Episode 83</desc>
+  </programme>
+  <programme start="20260423160245 -0300" stop="20260423162655 -0300" channel="GB500007VM">
+    <title lang="es">Episode 84</title>
+    <desc lang="es">Episode 84</desc>
   </programme>
   <programme start="20260423100006 -0300" stop="20260423103005 -0300" channel="GBAJ40003642">
     <title lang="es">FailFactory</title>
@@ -18550,17 +18578,17 @@
     <title lang="es">FALL OF FAME</title>
     <desc lang="es">Athletes take on the game, their gear, and gravityproving that sometimes, failing is the real sport!</desc>
   </programme>
-  <programme start="20260423150009 -0300" stop="20260423153009 -0300" channel="GBAJ40003642">
+  <programme start="20260423150009 -0300" stop="20260423153010 -0300" channel="GBAJ40003642">
     <title lang="es">Fall of Fame</title>
     <desc lang="es">From early fumbles to last-second heartbreaks, these sports moments prove that failing is a full-game effort!</desc>
   </programme>
-  <programme start="20260423084257 -0300" stop="20260423091246 -0300" channel="GB4000008O5">
-    <title lang="es">Mr Bean Live Action</title>
-    <desc lang="es">Mr Bean resuscitates a heart attack victim at the bus stop.</desc>
+  <programme start="20260423153010 -0300" stop="20260423160010 -0300" channel="GBAJ40003642">
+    <title lang="es">Fall of Fame</title>
+    <desc lang="es">From midair meltdowns to wrecking laps, this finale showcases the most spectacular failures as athletes push the limits.</desc>
   </programme>
-  <programme start="20260423091246 -0300" stop="20260423094414 -0300" channel="GB4000008O5">
-    <title lang="es">Mr Bean Live Action</title>
-    <desc lang="es">Mr Bean goes Christmas shopping, conducts a Salvation Army band.</desc>
+  <programme start="20260423160010 -0300" stop="20260423163010 -0300" channel="GBAJ40003642">
+    <title lang="es">Fall of Fame</title>
+    <desc lang="es">From brutal crashes to epic fails, these athletes prove that greatness can come from going downhard.</desc>
   </programme>
   <programme start="20260423094414 -0300" stop="20260423101446 -0300" channel="GB4000008O5">
     <title lang="es">Mr Bean Live Action</title>
@@ -18606,29 +18634,13 @@
     <title lang="es">Mr Bean Live Action</title>
     <desc lang="es">Mr Bean buys a portable television but can&#x27;t get it to work properly.</desc>
   </programme>
-  <programme start="20260423071431 -0300" stop="20260423074339 -0300" channel="5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a">
-    <title lang="es">Family Feud</title>
-    <desc lang="es">Two families, each composed of five members, compete against each other to guess the answers with the results of a survey of one hundred people.</desc>
+  <programme start="20260423151334 -0300" stop="20260423154418 -0300" channel="GB4000008O5">
+    <title lang="es">Mr Bean Live Action</title>
+    <desc lang="es">Mr Bean rushes to the dentist&#x27;s office after oversleeping.</desc>
   </programme>
-  <programme start="20260423074339 -0300" stop="20260423081252 -0300" channel="5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a">
-    <title lang="es">Family Feud</title>
-    <desc lang="es">Two families, each composed of five members, compete against each other to guess the answers with the results of a survey of one hundred people.</desc>
-  </programme>
-  <programme start="20260423081252 -0300" stop="20260423084149 -0300" channel="5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a">
-    <title lang="es">Family Feud</title>
-    <desc lang="es">Two families, each composed of five members, compete against each other to guess the answers with the results of a survey of one hundred people.</desc>
-  </programme>
-  <programme start="20260423084149 -0300" stop="20260423090954 -0300" channel="5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a">
-    <title lang="es">Family Feud</title>
-    <desc lang="es">Two families, each composed of five members, compete against each other to guess the answers with the results of a survey of one hundred people.</desc>
-  </programme>
-  <programme start="20260423090954 -0300" stop="20260423093901 -0300" channel="5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a">
-    <title lang="es">Family Feud</title>
-    <desc lang="es">Two families, each composed of five members, compete against each other to guess the answers with the results of a survey of one hundred people.</desc>
-  </programme>
-  <programme start="20260423093901 -0300" stop="20260423100759 -0300" channel="5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a">
-    <title lang="es">Family Feud</title>
-    <desc lang="es">Two families, each composed of five members, compete against each other to guess the answers with the results of a survey of one hundred people.</desc>
+  <programme start="20260423154418 -0300" stop="20260423161407 -0300" channel="GB4000008O5">
+    <title lang="es">Mr Bean Live Action</title>
+    <desc lang="es">Mr Bean resuscitates a heart attack victim at the bus stop.</desc>
   </programme>
   <programme start="20260423100759 -0300" stop="20260423103713 -0300" channel="5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a">
     <title lang="es">Family Feud</title>
@@ -18810,33 +18822,29 @@
     <title lang="es">Family Feud</title>
     <desc lang="es">Two families, each composed of five members, compete against each other to guess the answers with the results of a survey of one hundred people.</desc>
   </programme>
-  <programme start="20260423065759 -0300" stop="20260423072439 -0300" channel="5e20b730f2f8d5003d739db7-6876f76054325376973fd314">
-    <title lang="es">The New Pink Panther Show</title>
-    <desc lang="es">In Elizabethan England, Pinky must dress up as the queen to thwart an evil jewel thief.</desc>
+  <programme start="20260424074544 -0300" stop="20260424081418 -0300" channel="5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a">
+    <title lang="es">Family Feud</title>
+    <desc lang="es">Two families, each composed of five members, compete against each other to guess the answers with the results of a survey of one hundred people.</desc>
   </programme>
-  <programme start="20260423072439 -0300" stop="20260423075118 -0300" channel="5e20b730f2f8d5003d739db7-6876f76054325376973fd314">
-    <title lang="es">The New Pink Panther Show</title>
-    <desc lang="es">When Pinky and Rex Barklay vie for car salesmen of the month, Pinky discovers his rival is stealing new cars.</desc>
+  <programme start="20260424081418 -0300" stop="20260424084326 -0300" channel="5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a">
+    <title lang="es">Family Feud</title>
+    <desc lang="es">Two families, each composed of five members, compete against each other to guess the answers with the results of a survey of one hundred people.</desc>
   </programme>
-  <programme start="20260423075118 -0300" stop="20260423081755 -0300" channel="5e20b730f2f8d5003d739db7-6876f76054325376973fd314">
-    <title lang="es">The New Pink Panther Show</title>
-    <desc lang="es">Pinky works as a hard-boiled detective in the Emerald City helping a dame named Dorothy find her ruby pumps.</desc>
+  <programme start="20260424084326 -0300" stop="20260424091206 -0300" channel="5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a">
+    <title lang="es">Family Feud</title>
+    <desc lang="es">Two families, each composed of five members, compete against each other to guess the answers with the results of a survey of one hundred people.</desc>
   </programme>
-  <programme start="20260423081755 -0300" stop="20260423084433 -0300" channel="5e20b730f2f8d5003d739db7-6876f76054325376973fd314">
-    <title lang="es">The New Pink Panther Show</title>
-    <desc lang="es">Pinky dreams of being a Mounty and gets his chance when a &quot;Damsel in Distress&quot; mistakes him for one.</desc>
+  <programme start="20260424091206 -0300" stop="20260424094101 -0300" channel="5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a">
+    <title lang="es">Family Feud</title>
+    <desc lang="es">Two families, each composed of five members, compete against each other to guess the answers with the results of a survey of one hundred people.</desc>
   </programme>
-  <programme start="20260423084433 -0300" stop="20260423091111 -0300" channel="5e20b730f2f8d5003d739db7-6876f76054325376973fd314">
-    <title lang="es">The New Pink Panther Show</title>
-    <desc lang="es">When valet Pinky saves the life of a zillionaire, he&#x27;s given a million dollar reward.</desc>
+  <programme start="20260424094101 -0300" stop="20260424100950 -0300" channel="5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a">
+    <title lang="es">Family Feud</title>
+    <desc lang="es">Two families, each composed of five members, compete against each other to guess the answers with the results of a survey of one hundred people.</desc>
   </programme>
-  <programme start="20260423091111 -0300" stop="20260423093749 -0300" channel="5e20b730f2f8d5003d739db7-6876f76054325376973fd314">
-    <title lang="es">The New Pink Panther Show</title>
-    <desc lang="es">Secret agent Panther must deliver a top-secret valise to the president.</desc>
-  </programme>
-  <programme start="20260423093749 -0300" stop="20260423100427 -0300" channel="5e20b730f2f8d5003d739db7-6876f76054325376973fd314">
-    <title lang="es">The New Pink Panther Show</title>
-    <desc lang="es">Pinky fights off his boss, the Dogfather and a gypsy curse to become King of the Gypsy.</desc>
+  <programme start="20260424100950 -0300" stop="20260424103824 -0300" channel="5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a">
+    <title lang="es">Family Feud</title>
+    <desc lang="es">Two families, each composed of five members, compete against each other to guess the answers with the results of a survey of one hundred people.</desc>
   </programme>
   <programme start="20260423100427 -0300" stop="20260423103109 -0300" channel="5e20b730f2f8d5003d739db7-6876f76054325376973fd314">
     <title lang="es">The New Pink Panther Show</title>
@@ -19034,13 +19042,33 @@
     <title lang="es">The Pink Panther Show</title>
     <desc lang="es">Three classic cartoons with the Pink Panther, the Inspector and friends!</desc>
   </programme>
-  <programme start="20260423070000 -0300" stop="20260423082821 -0300" channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3">
-    <title lang="es">La Maldición en El Hotel Park</title>
-    <desc lang="es">El director Anthony Pierce activa el género sobrenatural y filma una película completa en una sola toma. Seguimos a un joven equipo de filmación mientras intentan crear una serie web paranormal en el hotel más embrujado de los EE.UU. Después de realizar un ritual llamado The Speak, el equipo libera espíritus para los que simplemente no están preparados.</desc>
+  <programme start="20260424073628 -0300" stop="20260424080222 -0300" channel="5e20b730f2f8d5003d739db7-6876f76054325376973fd314">
+    <title lang="es">The Pink Panther Show</title>
+    <desc lang="es">Three classic cartoons with the Pink Panther, the Inspector and friends!</desc>
   </programme>
-  <programme start="20260423082821 -0300" stop="20260423095113 -0300" channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3">
-    <title lang="es">Elder Island</title>
-    <desc lang="es">Basada en hechos reales. Cinco familias siempre han controlado la isla; cinco familias comparten la fortuna de la Isla y cinco familias comparten su maldición.</desc>
+  <programme start="20260424080222 -0300" stop="20260424082812 -0300" channel="5e20b730f2f8d5003d739db7-6876f76054325376973fd314">
+    <title lang="es">The Pink Panther Show</title>
+    <desc lang="es">Three classic cartoons with the Pink Panther, the Inspector and friends!</desc>
+  </programme>
+  <programme start="20260424082812 -0300" stop="20260424085422 -0300" channel="5e20b730f2f8d5003d739db7-6876f76054325376973fd314">
+    <title lang="es">The Pink Panther Show</title>
+    <desc lang="es">Three classic cartoons with the Pink Panther, the Inspector and friends!</desc>
+  </programme>
+  <programme start="20260424085422 -0300" stop="20260424092112 -0300" channel="5e20b730f2f8d5003d739db7-6876f76054325376973fd314">
+    <title lang="es">The Pink Panther Show</title>
+    <desc lang="es">Three classic cartoons with the Pink Panther, the Inspector and friends!</desc>
+  </programme>
+  <programme start="20260424092112 -0300" stop="20260424094813 -0300" channel="5e20b730f2f8d5003d739db7-6876f76054325376973fd314">
+    <title lang="es">The Pink Panther Show</title>
+    <desc lang="es">Three classic cartoons with the Pink Panther, the Inspector and friends!</desc>
+  </programme>
+  <programme start="20260424094813 -0300" stop="20260424101453 -0300" channel="5e20b730f2f8d5003d739db7-6876f76054325376973fd314">
+    <title lang="es">The Pink Panther Show</title>
+    <desc lang="es">Three classic cartoons with the Pink Panther, the Inspector and friends!</desc>
+  </programme>
+  <programme start="20260424101453 -0300" stop="20260424104151 -0300" channel="5e20b730f2f8d5003d739db7-6876f76054325376973fd314">
+    <title lang="es">The Pink Panther Show</title>
+    <desc lang="es">Three classic cartoons with the Pink Panther, the Inspector and friends!</desc>
   </programme>
   <programme start="20260423095113 -0300" stop="20260423111826 -0300" channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3">
     <title lang="es">Viven Entre Nosotros</title>
@@ -19122,29 +19150,9 @@
     <title lang="es">Amor Rabioso</title>
     <desc lang="es">Cinco amigos deciden pasar sus vacaciones en el bosque y uno de ellos se infecta con un virus rabioso.</desc>
   </programme>
-  <programme start="20260423070047 -0300" stop="20260423073051 -0300" channel="5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c">
-    <title lang="es">The Addams Family</title>
-    <desc lang="es">Uncle Fester, who has become lonely, convinces Gomez and Morticia that it is time for him to find a bride. He decides to put an ad in the newspaper, looking for love. But things go awry when a door-to-door saleswoman comes by.</desc>
-  </programme>
-  <programme start="20260423073051 -0300" stop="20260423080053 -0300" channel="5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c">
-    <title lang="es">The Addams Family</title>
-    <desc lang="es">Election fever grips the Addams household, as Gomez (John Astin) supports the council candidate whose campaign promise is to drain the town&#x27;s disgusting bogs.  Morticia (Carolyn Jones), who likes &quot;the lovely bogs,&quot; labels the candidate an extremist.</desc>
-  </programme>
-  <programme start="20260423080053 -0300" stop="20260423083048 -0300" channel="5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c">
-    <title lang="es">The Addams Family</title>
-    <desc lang="es">Pugsley and Wednesday start a row at a party when their gift of a tarantula upsets Harold, the birthday boy.  Harold&#x27;s parents insist that the Addams children lack breeding and, therefore, are no longer allowed to play with their son.</desc>
-  </programme>
-  <programme start="20260423083048 -0300" stop="20260423090049 -0300" channel="5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c">
-    <title lang="es">The Addams Family</title>
-    <desc lang="es">After Pugsley befriends Gorgo, a circus gorilla, Gorgo decides to follow Pugsley and Gomez home, where he is accepted as one of the family. But Gorgo gives Morticia&#x27;s tea guests, the Ladies League members, quite a shock.</desc>
-  </programme>
-  <programme start="20260423090049 -0300" stop="20260423093049 -0300" channel="5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c">
-    <title lang="es">The Addams Family</title>
-    <desc lang="es">A pair of bank robbers are welcomed as Halloween trick-or-treaters by Morticia and Gomez.  The creepy atmosphere of the house, Morticia&#x27;s smoldering holiday punch and Lurch&#x27;s ominous presence impel the crooks to abandon their plans.</desc>
-  </programme>
-  <programme start="20260423093049 -0300" stop="20260423100052 -0300" channel="5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c">
-    <title lang="es">The Addams Family</title>
-    <desc lang="es">When Lionel Barker, a former suitor of Morticia, shows up, Gomez is jealous. But he&#x27;s soon calmed when he learns that Barker is after Mildred, the new maid. The Addamses then discover that Barker is a con man--after Mildred&#x27;s money, not her love.</desc>
+  <programme start="20260424084603 -0300" stop="20260424102049 -0300" channel="5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3">
+    <title lang="es">Maligno</title>
+    <desc lang="es">Una leyenda espeluznante se toma forma cuando se abre un misterioso agujero en el hospital principal de una ciudad y se libera una entidad oscura.</desc>
   </programme>
   <programme start="20260423100052 -0300" stop="20260423103056 -0300" channel="5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c">
     <title lang="es">The Addams Family</title>
@@ -19318,21 +19326,29 @@
     <title lang="es">The Addams Family</title>
     <desc lang="es">Because she thinks Fester (Jackie Coogan) and Grandmama (Blossom Rock) are spoiling the children, Morticia (Carolyn Jones) hires a governess. Insulted, Fester paints a white line down the center of the Addams house, dividing it in half.</desc>
   </programme>
-  <programme start="20260423064900 -0300" stop="20260423075800 -0300" channel="608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb">
-    <title lang="es">O, KA &amp; Amaluna</title>
-    <desc lang="es">Performances from the Cirque du Soleil productions.</desc>
+  <programme start="20260424073040 -0300" stop="20260424080040 -0300" channel="5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c">
+    <title lang="es">The Addams Family</title>
+    <desc lang="es">Morticia and Gomez see Fester conferring with TV muscleman Jack LaGrann (Jack LaLanne), and think that Fester is planning a television career.  However, Uncle Fester confides to Lurch that he has to go on a secret diet and exercise.</desc>
   </programme>
-  <programme start="20260423075800 -0300" stop="20260423081600 -0300" channel="608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb">
-    <title lang="es">Cirque Untold</title>
-    <desc lang="es">No makeup, no costumes: just raw talent. Cirque RAW offers an unfiltered view of the circus arts.</desc>
+  <programme start="20260424080040 -0300" stop="20260424082939 -0300" channel="5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c">
+    <title lang="es">The Addams Family</title>
+    <desc lang="es">Morticia and Gomez find Grandfather Pegleg&#x27;s treasure map and summon Captain Grimby.  They hope to charter his boat for the treasure hunt. But after meeting the Captain, Morticia is careful to keep the nature of the mission secret.</desc>
   </programme>
-  <programme start="20260423081600 -0300" stop="20260423093100 -0300" channel="608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb">
-    <title lang="es">Ovo, Bazzar &amp; Alegria</title>
-    <desc lang="es">Embrace your inner child as you revisit moments from OVO, BAZZAR and the original version of Alegria.</desc>
+  <programme start="20260424082939 -0300" stop="20260424085941 -0300" channel="5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c">
+    <title lang="es">The Addams Family</title>
+    <desc lang="es">Ophelia Frump is madly in love with Horatio Bartholomew, the man who has everything, except the truth about her relatives. Morticia, not convinced by Bartholomew, persuades playboy Cousin Itt to stir the embers of his past romance with Ophelia.</desc>
   </programme>
-  <programme start="20260423093100 -0300" stop="20260423101100 -0300" channel="608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb">
-    <title lang="es">Best Of</title>
-    <desc lang="es">Experience the poetic and mischievous world of Corteo, with incredible performances.</desc>
+  <programme start="20260424085941 -0300" stop="20260424092942 -0300" channel="5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c">
+    <title lang="es">The Addams Family</title>
+    <desc lang="es">Pugsley shocks his parents when he gives up his new atomic reactor as kid stuff and announces that he wants to find his own job.  His first try is as a medical assistant to Dr. Bird.  He turns up, scalpel in hand, ready to help during an operation.</desc>
+  </programme>
+  <programme start="20260424092942 -0300" stop="20260424095844 -0300" channel="5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c">
+    <title lang="es">The Addams Family</title>
+    <desc lang="es">Grandma Frump (guest star Margaret Hamilton) comes to the mistaken conclusion that her daughter, Morticia (Carolyn Jones), and Gomez (John Astin) plan to pack her off to an old folks home. Actually, they plan to send her to a beauty farm.</desc>
+  </programme>
+  <programme start="20260424095844 -0300" stop="20260424102845 -0300" channel="5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c">
+    <title lang="es">The Addams Family</title>
+    <desc lang="es">Morticia, in order to be part of the National Beautification Program, decides to become a home decorator and offers her services to the neighbors. Next door neighbor, and insurance agent, Joe Digby hires Morticia in hopes of selling them insurance.</desc>
   </programme>
   <programme start="20260423101100 -0300" stop="20260423122500 -0300" channel="608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb">
     <title lang="es">Slow TV: Watch Cirque du Soleil Artists Training</title>
@@ -19422,13 +19438,17 @@
     <title lang="es">Cirque du Soleil Presents: Le Cirque Reinvente</title>
     <desc lang="es">The full production of Le Cirque Reinvente, recorded live!</desc>
   </programme>
-  <programme start="20260423062032 -0300" stop="20260423080708 -0300" channel="608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3">
-    <title lang="es">Hercules Reborn</title>
-    <desc lang="es">Cuando la novia de un joven es secuestrada por un rey malvado, él busca la ayuda de Hércules. El héroe caído ha estado viviendo en el exilio, desterrado por matar a su familia, pero el valor del joven inspira a Hércules. Juntos, luchan para rescatar a la novia y recuperar el honor de Hércules.</desc>
+  <programme start="20260424081700 -0300" stop="20260424084000 -0300" channel="608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb">
+    <title lang="es">Gravity Defied: Cirque du Soleil</title>
+    <desc lang="es">Spectacular acrobatics, immersive artistry, and unique athleticism unite in Gravity Defied: Cirque du Soleil!</desc>
   </programme>
-  <programme start="20260423080708 -0300" stop="20260423094404 -0300" channel="608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3">
-    <title lang="es">La Orden Judicial</title>
-    <desc lang="es">Tras luchar en la Guerra Civil, dos compañeros de la Unión se encuentran en lados opuestos poniendo en peligro la paz de posguerra.</desc>
+  <programme start="20260424084000 -0300" stop="20260424095700 -0300" channel="608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb">
+    <title lang="es">Corteo, Volta &amp; Totem</title>
+    <desc lang="es">Joining fans to take a look at moments from &quot;Corteo,&quot; &quot;Totem&quot; and &quot;Volta.&quot;</desc>
+  </programme>
+  <programme start="20260424095700 -0300" stop="20260424102000 -0300" channel="608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb">
+    <title lang="es">Gravity Defied: Cirque du Soleil</title>
+    <desc lang="es">Refresh your spirit with Mood Boosting Acts, filled with electrifying energy. A perfect way to lift your mood.</desc>
   </programme>
   <programme start="20260423094404 -0300" stop="20260423111244 -0300" channel="608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3">
     <title lang="es">Guardianes</title>
@@ -19482,9 +19502,9 @@
     <title lang="es">Avalancha: Desastre en la Montaña</title>
     <desc lang="es">Basada en la historia real de los primeros escaladores chinos que alcanzaron la cima del Everest por la cara norte. Conocida como la cara más desafiante de la montaña, la peligrosa travesía los obliga a tomar decisiones de vida o muerte a cada paso.</desc>
   </programme>
-  <programme start="20260423065243 -0300" stop="20260423084123 -0300" channel="608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5">
-    <title lang="es">La Maldición de La Sirena</title>
-    <desc lang="es">Sacan a una sirena del Pacífico, le cortan la cola y la arrojan a un manicomio, donde nadie cree que sea una sirena.</desc>
+  <programme start="20260424085934 -0300" stop="20260424105956 -0300" channel="608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3">
+    <title lang="es">Carrera Contra el Tiempo</title>
+    <desc lang="es">Deacon es un ex agente que se despierta en una habitación de hotel y se da cuenta de que le han drogado y extirpado un riñón. Él y su hermano siguen la pista del tráfico de órganos para vengarse. Juntos se enfrentarán a todos los obstáculos hasta encontrar a los responsables, sin importarles que sus vidas sean el precio que tengan que pagar en su búsqueda de venganza</desc>
   </programme>
   <programme start="20260423084123 -0300" stop="20260423102846 -0300" channel="608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5">
     <title lang="es">Noctem</title>
@@ -19533,6 +19553,10 @@
   <programme start="20260424065334 -0300" stop="20260424091147 -0300" channel="608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5">
     <title lang="es">Secretos Malignos</title>
     <desc lang="es">Mientras vuelve a casa tras una cita obstétrica, Esther es brutalmente atacada y desfigurada por un asaltante encapuchado. Este terrible evento parece ser una bendición disfrazada cuando Esther encuentra consuelo en un grupo de apoyo. Su vida de tristeza y soledad se abre a la amistad, la empatía e incluso la aceptación. Sin embargo, la amistad y la empatía pueden ser muy peligrosas cuando involucran a las personas equivocadas.</desc>
+  </programme>
+  <programme start="20260424091147 -0300" stop="20260424110527 -0300" channel="608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5">
+    <title lang="es">Ring: El Aro Espiral</title>
+    <desc lang="es">Un joven patólogo entra en contacto con un videotape mortal mientras investiga la muerte de un amigo.</desc>
   </programme>
   <programme start="20260422000000 -0300" stop="20260422003000 -0300" channel="Magic Kids Tv">
     <title lang="es">Dragon Ball Gt</title>

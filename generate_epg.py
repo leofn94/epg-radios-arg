@@ -14,6 +14,7 @@ OFFSET_CONFIG = {
     "464956": -8,  # Screenpix (epg.pw)
     "464775": -8,  # Screenpix Action (epg.pw)
     "aztv.ar": -2, # AZTV (sheet) 
+    "Canal.Cinema.Platino.mx": -1, # Cinema Platino (MX1) 
 }
 
 # 1. CANALES DESDE GOOGLE SHEETS

@@ -442,6 +442,9 @@
   <channel id="464775">
     <display-name>ScreenPix Action</display-name>
   </channel>
+  <channel id="Canal.Cinema.Platino.mx">
+    <display-name>Canal Cinema Platino</display-name>
+  </channel>
   <programme start="20260425000000 -0300" stop="20260425020000 -0300" channel="radio10.ar">
     <title lang="es">La medianoche (Carlos Polimeni)</title>
     <desc lang="es">Cultura, música, reflexiones y una mirada crítica de la realidad.</desc>
@@ -11204,7 +11207,7 @@
     <title lang="es">Mórbido TV</title>
     <desc lang="es">La información de este programa no se encuentra disponible.</desc>
   </programme>
-  <programme start="20260425061012 -0300" stop="20260425073209 -0300" channel="504">
+  <programme start="20260425061352 -0300" stop="20260425073209 -0300" channel="504">
     <title lang="es">Pesadilla en la calle Elm</title>
   </programme>
   <programme start="20260425073340 -0300" stop="20260425091130 -0300" channel="504">
@@ -11279,7 +11282,7 @@
   <programme start="20260427041657 -0300" stop="20260427055859 -0300" channel="504">
     <title lang="es">La Pequeña Picara</title>
   </programme>
-  <programme start="20260427060040 -0300" stop="20260427061012 -0300" channel="504">
+  <programme start="20260427060040 -0300" stop="20260427061352 -0300" channel="504">
     <title lang="es">Asesinos Con Estilo</title>
   </programme>
   <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="531">
@@ -11570,9 +11573,6 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="532">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425061012 -0300" stop="20260425061221 -0300" channel="536">
-    <title lang="es">Cosmos - Cuando el conocimiento conquistó al miedo</title>
-  </programme>
   <programme start="20260425061402 -0300" stop="20260425065352 -0300" channel="536">
     <title lang="es">Isla de Lemures - Madagascar</title>
   </programme>
@@ -11720,10 +11720,13 @@
   <programme start="20260427041056 -0300" stop="20260427051056 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427051056 -0300" stop="20260427061012 -0300" channel="536">
+  <programme start="20260427051056 -0300" stop="20260427061056 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425061012 -0300" stop="20260425062654 -0300" channel="537">
+  <programme start="20260427061056 -0300" stop="20260427061352 -0300" channel="536">
+    <title lang="es">Sin información</title>
+  </programme>
+  <programme start="20260425061352 -0300" stop="20260425062654 -0300" channel="537">
     <title lang="es">La Dimensión Desconocida</title>
   </programme>
   <programme start="20260425063012 -0300" stop="20260425065428 -0300" channel="537">
@@ -11918,7 +11921,7 @@
   <programme start="20260427043753 -0300" stop="20260427053753 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260427053753 -0300" stop="20260427061012 -0300" channel="537">
+  <programme start="20260427053753 -0300" stop="20260427061352 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
   <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="538">
@@ -12065,7 +12068,7 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="538">
     <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260425061012 -0300" stop="20260425064241 -0300" channel="539">
+  <programme start="20260425061352 -0300" stop="20260425064241 -0300" channel="539">
     <title lang="es">(1993) - Cazador Citadino</title>
   </programme>
   <programme start="20260425064241 -0300" stop="20260425082700 -0300" channel="539">
@@ -12149,7 +12152,7 @@
   <programme start="20260427024114 -0300" stop="20260427042859 -0300" channel="539">
     <title lang="es">(1982) - Que Buena Madre Es Mi Padre</title>
   </programme>
-  <programme start="20260427042859 -0300" stop="20260427061012 -0300" channel="539">
+  <programme start="20260427042859 -0300" stop="20260427061352 -0300" channel="539">
     <title lang="es">(1990) - Matrimonio por Conveniencia</title>
   </programme>
   <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="567">
@@ -12872,7 +12875,7 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="608">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425061012 -0300" stop="20260425070000 -0300" channel="663">
+  <programme start="20260425061352 -0300" stop="20260425070000 -0300" channel="663">
     <title lang="es">Leyendas del Oeste</title>
   </programme>
   <programme start="20260425070000 -0300" stop="20260425080000 -0300" channel="663">
@@ -12908,10 +12911,10 @@
   <programme start="20260426200000 -0300" stop="20260427000000 -0300" channel="663">
     <title lang="es">Noche de Western</title>
   </programme>
-  <programme start="20260427000000 -0300" stop="20260427061012 -0300" channel="663">
+  <programme start="20260427000000 -0300" stop="20260427061352 -0300" channel="663">
     <title lang="es">Leyendas del Oeste</title>
   </programme>
-  <programme start="20260425061012 -0300" stop="20260425080000 -0300" channel="664">
+  <programme start="20260425061352 -0300" stop="20260425080000 -0300" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
   <programme start="20260425080000 -0300" stop="20260425120000 -0300" channel="664">
@@ -12935,7 +12938,7 @@
   <programme start="20260426170000 -0300" stop="20260426200000 -0300" channel="664">
     <title lang="es">Retro Prime</title>
   </programme>
-  <programme start="20260426200000 -0300" stop="20260427061012 -0300" channel="664">
+  <programme start="20260426200000 -0300" stop="20260427061352 -0300" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
   <programme start="20260425092300 -0300" stop="20260425102300 -0300" channel="66a11a21a79dea0008aa90ca">
@@ -19057,5 +19060,198 @@
   <programme start="20260427004000 -0300" stop="20260427130000 -0300" channel="464775">
     <title lang="es">A Twist of Sand</title>
     <desc lang="es">An ex-submarine captain (Richard Johnson) hunts diamonds in Africa with smugglers and a mystery woman (Honor Blackman).</desc>
+  </programme>
+  <programme start="20260424052200 -0300" stop="20260424065900 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">24 Horas para Vivir</title>
+    <desc lang="es">Un vertiginoso asesino, Travis Conrad (Ethan Hawke) a quien se le da una oportunidad para redimirse después de que su jefe lo resucitara temporalmente después de haber sido asesinado en el trabajo.</desc>
+  </programme>
+  <programme start="20260424065900 -0300" stop="20260424085400 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Addicted</title>
+  </programme>
+  <programme start="20260424085400 -0300" stop="20260424103200 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Por amor</title>
+  </programme>
+  <programme start="20260424103200 -0300" stop="20260424110200 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Televenta</title>
+  </programme>
+  <programme start="20260424110200 -0300" stop="20260424124600 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Sin Escape</title>
+    <desc lang="es">Jack (Owen Wilson) decide viajar con su familia Annie (Lake Bell), Lucy (Sterling Jerins) y Beeze (Claire Geare) al sureste de Asia. Mientras bajan del avión conocen a un extranjero igual que ellos llamado Hammond (Pierce Brosnan) quien conoce y le da buenas expectativas del país, pero él no sabe que ese país está a punto de pasar por un conflicto armado y ahora ellos deberán correr por sus vidas.</desc>
+  </programme>
+  <programme start="20260424124600 -0300" stop="20260424131600 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Televenta</title>
+  </programme>
+  <programme start="20260424131600 -0300" stop="20260424151400 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Mientras Estés Conmigo</title>
+  </programme>
+  <programme start="20260424151400 -0300" stop="20260424154400 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Televenta</title>
+  </programme>
+  <programme start="20260424154400 -0300" stop="20260424172000 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">7500: Avión Secuestrado</title>
+  </programme>
+  <programme start="20260424172000 -0300" stop="20260424185000 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Conjuro Siniestro</title>
+  </programme>
+  <programme start="20260424185000 -0300" stop="20260424202700 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Criaturas salvajes</title>
+  </programme>
+  <programme start="20260424202700 -0300" stop="20260424220400 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Paddington</title>
+  </programme>
+  <programme start="20260424220400 -0300" stop="20260425002100 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Creed: Corazón de Campeón</title>
+    <desc lang="es">Adonis Johnson (Michael B. Jordan) nunca conoció a su famoso padre, el campeón mundial de pesos pesados Apollo Creed, quien murió antes de que él naciera. Aun así, no se puede negar que lleva el boxeo en la sangre, por lo cual Adonis viaja a Filadelfia, el lugar donde se llevó a cabo la legendaria pelea entre Apollo y un duro principiante llamado Rocky Balboa.Una vez llegado a “la ciudad del amor fraternal”, Adonis va a buscar a Rocky (Sylvester Stallone) y le pide que sea su entrenador. A pesar de insistir en que está retirado del mundo de las peleas, Rocky ve en Adonis la misma fuerza y determinación que Apollo, el feroz rival que terminó convirtiéndose en su amigo más cercano. Finalmente, Rocky acepta entrenar al joven luchador a pesar de estar él mismo contra un oponente mucho más letal que cualquiera al que se haya enfrentado en el ring.Con Rocky de su lado, no pasará mucho tiempo hasta que Adonis consiga su oportunidad de competir por un título, pero ¿podrá desarrollar no solo su impulso sino también el corazón de un verdadero luchador antes de entrar al ring?</desc>
+  </programme>
+  <programme start="20260425002100 -0300" stop="20260425015800 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Amor a la Italiana</title>
+  </programme>
+  <programme start="20260425015800 -0300" stop="20260425035800 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Gracia Perpetua, Ltd</title>
+  </programme>
+  <programme start="20260425035800 -0300" stop="20260425054800 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">El protector</title>
+  </programme>
+  <programme start="20260425054800 -0300" stop="20260425075000 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">La ballena</title>
+  </programme>
+  <programme start="20260425075000 -0300" stop="20260425092800 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Lila y Eve</title>
+  </programme>
+  <programme start="20260425092800 -0300" stop="20260425104500 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Las Aventuras de un Cerdito</title>
+  </programme>
+  <programme start="20260425104500 -0300" stop="20260425111500 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Televenta</title>
+  </programme>
+  <programme start="20260425111500 -0300" stop="20260425124100 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Desesperada</title>
+  </programme>
+  <programme start="20260425124100 -0300" stop="20260425131100 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Televenta</title>
+  </programme>
+  <programme start="20260425131100 -0300" stop="20260425153900 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">007: Spectre</title>
+  </programme>
+  <programme start="20260425153900 -0300" stop="20260425161000 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Televenta</title>
+  </programme>
+  <programme start="20260425161000 -0300" stop="20260425174600 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">La Familia Addams 2</title>
+  </programme>
+  <programme start="20260425174600 -0300" stop="20260425192700 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Maestras del Engaño</title>
+    <desc lang="es">Dos estafadoras, una de clase baja y la otra de clase baja, se unen para derribar a los hombres sucios y malvados que en algún momento las han despreciado.</desc>
+  </programme>
+  <programme start="20260425192700 -0300" stop="20260425212500 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Robin Hood</title>
+  </programme>
+  <programme start="20260425212500 -0300" stop="20260425225100 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Atrapada En El Fondo Del Mar</title>
+    <desc lang="es">Unos días después de Navidad, las medias hermanas Ida (Moa Gammel) y Tuva (Madeleine Martin) deciden hacer una inmersión en una remota costa, pero un deslave deja atrapada a Tuva bajo el agua. Ida regresa a la superficie para descubrir que el mismo desplazamiento de roca ha cubierto todo su equipo dejándolas completamente aisladas sin ninguna posibilidad de pedir ayuda. Mientras se desarrolla la frenética carrera por la supervivencia, Ida se someterá a los imposibles para ayudar a Tuva.</desc>
+  </programme>
+  <programme start="20260425225100 -0300" stop="20260426010000 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Aguas Oscuras</title>
+  </programme>
+  <programme start="20260426010000 -0300" stop="20260426023900 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Vidas Perfectas</title>
+  </programme>
+  <programme start="20260426023900 -0300" stop="20260426041500 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Sobrevivir a la Noche</title>
+  </programme>
+  <programme start="20260426041500 -0300" stop="20260426060300 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">El túnel</title>
+  </programme>
+  <programme start="20260426060300 -0300" stop="20260426080800 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Duro de Cuidar</title>
+    <desc lang="es">El mejor agente de protección del mundo Michael Bryce (Ryan Reynolds), está llamado a proteger la vida de su peor enemigo, uno de los sicarios más letales del mundo, Darius Kincaid (Samuel L. Jackson). El implacable guardaespaldas y el asesino manipulador han estado en los opuestos extremos de la bala por años y son lanzados juntos por 24 horas salvajes. Durante su estridente e hilarante aventura desde Inglaterra hasta Holanda, se topan con persecuciones de alta velocidad, extravagantes escapadas de botes y un despiadado dictador de Europa oriental, Vladislav Dukhovich (Gary Oldman), quien está en búsqueda de sangre. Sonia Kincaid (Salma Hayek) se une al caos como la esposa igualmente notoria de Darius.</desc>
+  </programme>
+  <programme start="20260426080800 -0300" stop="20260426094100 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Relic: Herencia Maldita</title>
+  </programme>
+  <programme start="20260426094100 -0300" stop="20260426112200 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">La fuerza de la naturaleza</title>
+  </programme>
+  <programme start="20260426112200 -0300" stop="20260426115200 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Televenta</title>
+  </programme>
+  <programme start="20260426115200 -0300" stop="20260426141900 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Trece vidas</title>
+  </programme>
+  <programme start="20260426141900 -0300" stop="20260426144900 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Televenta</title>
+  </programme>
+  <programme start="20260426144900 -0300" stop="20260426164200 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Tres segundos</title>
+  </programme>
+  <programme start="20260426164200 -0300" stop="20260426171300 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Televenta</title>
+  </programme>
+  <programme start="20260426171300 -0300" stop="20260426190600 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Gringo</title>
+  </programme>
+  <programme start="20260426190600 -0300" stop="20260426205500 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Inconcebible</title>
+  </programme>
+  <programme start="20260426205500 -0300" stop="20260426223800 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">¿Cómo Matar a un Esposo Muerto?</title>
+    <desc lang="es">Una mujer, madre de familia, que debe enfrentar a las adversidades de la vida que conlleva a la separación de un hombre poderoso y prepotente que decide arruinarle la vida, aún, después de que ha muerto.</desc>
+  </programme>
+  <programme start="20260426223800 -0300" stop="20260427002600 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">El Pasajero</title>
+  </programme>
+  <programme start="20260427002600 -0300" stop="20260427030200 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">El Renacido</title>
+    <desc lang="es">En una expedición a tierras americanas inexploradas, el legendario explorador Hugh Glass (Leonardo DiCaprio) es brutalmente atacado por un oso y es dado por muerto por los miembros de su equipo de caza. En su lucha por sobrevivir, Glass tolera un dolor inimaginable, así como la traición de su confidente John Fitzgerald (Tom Hardy). Su gran voluntad y el amor hacia su familia hacen que Glass haga todo lo posible por sobrevivir a un invierno cruel.</desc>
+  </programme>
+  <programme start="20260427030200 -0300" stop="20260427051700 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Hasta los Huesos</title>
+  </programme>
+  <programme start="20260427051700 -0300" stop="20260427071000 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Los misteriosos asesinatos de Limehouse</title>
+  </programme>
+  <programme start="20260427071000 -0300" stop="20260427085100 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">La venganza perfecta</title>
+  </programme>
+  <programme start="20260427085100 -0300" stop="20260427101600 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Syndrome</title>
+  </programme>
+  <programme start="20260427101600 -0300" stop="20260427104700 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Televenta</title>
+  </programme>
+  <programme start="20260427104700 -0300" stop="20260427121400 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">La Familia Addams</title>
+  </programme>
+  <programme start="20260427121400 -0300" stop="20260427124400 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Televenta</title>
+  </programme>
+  <programme start="20260427124400 -0300" stop="20260427143200 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Bajo el mismo cielo</title>
+  </programme>
+  <programme start="20260427143200 -0300" stop="20260427150300 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Televenta</title>
+  </programme>
+  <programme start="20260427150300 -0300" stop="20260427165000 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">En la playa de Chesil</title>
+  </programme>
+  <programme start="20260427165000 -0300" stop="20260427185000 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Los caballeros</title>
+  </programme>
+  <programme start="20260427185000 -0300" stop="20260427204800 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">En la mira</title>
+  </programme>
+  <programme start="20260427204800 -0300" stop="20260427222600 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Chance</title>
+  </programme>
+  <programme start="20260427222600 -0300" stop="20260428001400 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Dicha</title>
+  </programme>
+  <programme start="20260428001400 -0300" stop="20260428021900 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Ad Astra: Hacia las Estrellas</title>
+    <desc lang="es">El astronauta Roy McBride (Brad Pitt) viaja a los bordes exteriores del sistema solar para encontrar a su padre desaparecido y descubrir un misterio que amenaza la supervivencia de nuestro planeta. Su viaje dejará al descubierto secretos que desafían la naturaleza de la existencia humana y nuestro lugar en el cosmos.</desc>
+  </programme>
+  <programme start="20260428021900 -0300" stop="20260428041400 -0300" channel="Canal.Cinema.Platino.mx">
+    <title lang="es">Si Solo Pudiera Imaginar</title>
+    <desc lang="es">La verdadera e inspiradora historia detrás de la querida y exitosa canción &quot;MercyMe&quot;, que corona la última esperanza para muchos, es un recordatorio apasionante del poder del verdadero perdón.</desc>
   </programme>
 </tv>

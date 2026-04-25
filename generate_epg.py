@@ -83,7 +83,12 @@ EXTERNAL_SOURCES = [
     {
         "url": "https://epg.pw/xmltv/epg_US.xml.gz",
         "ids": ["464956", "464775"]
+    },
+    {
+        "url": "https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz",
+        "ids": ["Canal.Cinema.Platino.mx"]
     }
+   
 ]
 
 TIMEZONE = "America/Argentina/Buenos_Aires"

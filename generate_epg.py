@@ -91,6 +91,10 @@ EXTERNAL_SOURCES = [
     {
         "url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
         "ids": ["M+.Estrenos.es", "M+ Accion.es", "Be.Mad.es", "C.Hollywood.es", "XTRM.es", "Dark.es", "TCM.es", "M+.Clásicos.es"]
+    },
+    {
+        "url": "https://github.com/HelmerLuzo/RakutenTV_HL/raw/refs/heads/main/epg/RakutenTV.xml.gz",
+        "ids": ["that-s-80s"]
     }
    
 ]

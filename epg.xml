@@ -469,6 +469,27 @@
   <channel id="that-s-80s">
     <display-name>That&#x27;s 80s</display-name>
   </channel>
+  <channel id="that-s-90s00s">
+    <display-name>That&#x27;s 90s00s</display-name>
+  </channel>
+  <channel id="that-s-rock">
+    <display-name>That&#x27;s ROCK</display-name>
+  </channel>
+  <channel id="filmrise-sci-fi-es">
+    <display-name>FilmRise Sci-Fi</display-name>
+  </channel>
+  <channel id="sci-fi-rakuten-tv">
+    <display-name>Sci-Fi</display-name>
+  </channel>
+  <channel id="action-rakuten-tv">
+    <display-name>Películas de Acción</display-name>
+  </channel>
+  <channel id="thriller-rakuten-tv">
+    <display-name>Thrillers</display-name>
+  </channel>
+  <channel id="fifa-plus-es-new">
+    <display-name>FIFA+</display-name>
+  </channel>
   <programme start="20260425000000 -0300" stop="20260425020000 -0300" channel="radio10.ar">
     <title lang="es">La medianoche (Carlos Polimeni)</title>
     <desc lang="es">Cultura, música, reflexiones y una mirada crítica de la realidad.</desc>
@@ -11231,7 +11252,7 @@
     <title lang="es">Mórbido TV</title>
     <desc lang="es">La información de este programa no se encuentra disponible.</desc>
   </programme>
-  <programme start="20260425062413 -0300" stop="20260425073209 -0300" channel="504">
+  <programme start="20260425062954 -0300" stop="20260425073209 -0300" channel="504">
     <title lang="es">Pesadilla en la calle Elm</title>
   </programme>
   <programme start="20260425073340 -0300" stop="20260425091130 -0300" channel="504">
@@ -11306,7 +11327,7 @@
   <programme start="20260427041657 -0300" stop="20260427055859 -0300" channel="504">
     <title lang="es">La Pequeña Picara</title>
   </programme>
-  <programme start="20260427060040 -0300" stop="20260427062413 -0300" channel="504">
+  <programme start="20260427060040 -0300" stop="20260427062954 -0300" channel="504">
     <title lang="es">Asesinos Con Estilo</title>
   </programme>
   <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="531">
@@ -11597,7 +11618,7 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="532">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425062413 -0300" stop="20260425065352 -0300" channel="536">
+  <programme start="20260425062954 -0300" stop="20260425065352 -0300" channel="536">
     <title lang="es">Isla de Lemures - Madagascar</title>
   </programme>
   <programme start="20260425065457 -0300" stop="20260425080443 -0300" channel="536">
@@ -11747,11 +11768,8 @@
   <programme start="20260427051056 -0300" stop="20260427061056 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427061056 -0300" stop="20260427062413 -0300" channel="536">
+  <programme start="20260427061056 -0300" stop="20260427062954 -0300" channel="536">
     <title lang="es">Sin información</title>
-  </programme>
-  <programme start="20260425062413 -0300" stop="20260425062654 -0300" channel="537">
-    <title lang="es">La Dimensión Desconocida</title>
   </programme>
   <programme start="20260425063012 -0300" stop="20260425065428 -0300" channel="537">
     <title lang="es">El Super Agente 86</title>
@@ -11945,7 +11963,7 @@
   <programme start="20260427043753 -0300" stop="20260427053753 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260427053753 -0300" stop="20260427062413 -0300" channel="537">
+  <programme start="20260427053753 -0300" stop="20260427062954 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
   <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="538">
@@ -12092,7 +12110,7 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="538">
     <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260425062413 -0300" stop="20260425064241 -0300" channel="539">
+  <programme start="20260425062954 -0300" stop="20260425064241 -0300" channel="539">
     <title lang="es">(1993) - Cazador Citadino</title>
   </programme>
   <programme start="20260425064241 -0300" stop="20260425082700 -0300" channel="539">
@@ -12179,7 +12197,7 @@
   <programme start="20260427042859 -0300" stop="20260427061602 -0300" channel="539">
     <title lang="es">(1990) - Matrimonio por Conveniencia</title>
   </programme>
-  <programme start="20260427061602 -0300" stop="20260427062413 -0300" channel="539">
+  <programme start="20260427061602 -0300" stop="20260427062954 -0300" channel="539">
     <title lang="es">(1999) - Buscando A Eva</title>
   </programme>
   <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="567">
@@ -12902,7 +12920,7 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="608">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425062413 -0300" stop="20260425070000 -0300" channel="663">
+  <programme start="20260425062954 -0300" stop="20260425070000 -0300" channel="663">
     <title lang="es">Leyendas del Oeste</title>
   </programme>
   <programme start="20260425070000 -0300" stop="20260425080000 -0300" channel="663">
@@ -12938,10 +12956,10 @@
   <programme start="20260426200000 -0300" stop="20260427000000 -0300" channel="663">
     <title lang="es">Noche de Western</title>
   </programme>
-  <programme start="20260427000000 -0300" stop="20260427062413 -0300" channel="663">
+  <programme start="20260427000000 -0300" stop="20260427062954 -0300" channel="663">
     <title lang="es">Leyendas del Oeste</title>
   </programme>
-  <programme start="20260425062413 -0300" stop="20260425080000 -0300" channel="664">
+  <programme start="20260425062954 -0300" stop="20260425080000 -0300" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
   <programme start="20260425080000 -0300" stop="20260425120000 -0300" channel="664">
@@ -12965,7 +12983,7 @@
   <programme start="20260426170000 -0300" stop="20260426200000 -0300" channel="664">
     <title lang="es">Retro Prime</title>
   </programme>
-  <programme start="20260426200000 -0300" stop="20260427062413 -0300" channel="664">
+  <programme start="20260426200000 -0300" stop="20260427062954 -0300" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
   <programme start="20260425092300 -0300" stop="20260425102300 -0300" channel="66a11a21a79dea0008aa90ca">
@@ -20979,6 +20997,1872 @@
     <desc lang="es">Música • TP
 
 •  Headlining Glastonbury at 80 was just another day in the office for Paul McCartney! Here are his post-Beatles greatest hits from the 70s &amp; 80s.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424190001 -0300" stop="20260424210000 -0300" channel="that-s-90s00s">
+    <title lang="es">A Decade Of Dance: The 00s!</title>
+    <desc lang="es">Música • TP
+
+•  It&#x27;s time to go on a journey back to the 00s for the biggest global dance hits!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424210001 -0300" stop="20260424230000 -0300" channel="that-s-90s00s">
+    <title lang="es">Nothing Compares To The 90s!</title>
+    <desc lang="es">Música • TP
+
+•  The 90s bought us Grunge, Britpop and The Spice Girls, and we are taking you back there right now for pure nostalgia vibes
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424230001 -0300" stop="20260425000000 -0300" channel="that-s-90s00s">
+    <title lang="es">Blockbuster Hits From The Flicks!</title>
+    <desc lang="es">Música • TP
+
+•  All the biggest songs from your fave movies from 1999 - 2009
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425000001 -0300" stop="20260425010000 -0300" channel="that-s-90s00s">
+    <title lang="es">Hottest Hits Of 1994!</title>
+    <desc lang="es">Música • TP
+
+•  Rewind back in time to hear the biggest hits from 1994
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425010001 -0300" stop="20260425020000 -0300" channel="that-s-90s00s">
+    <title lang="es">Boyband Fever!</title>
+    <desc lang="es">Música • TP
+
+•  It&#x27;s all about the swagger right now as we play the biggest boy bands from the 90s and 00s
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425020001 -0300" stop="20260425040000 -0300" channel="that-s-90s00s">
+    <title lang="es">We Love Pop Throwbacks!</title>
+    <desc lang="es">Música • TP
+
+•  This playlist is packed full of fun and nostalgia, so join us for back to back pop hits!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425040001 -0300" stop="20260425050000 -0300" channel="that-s-90s00s">
+    <title lang="es">Hottest Hits Of 1995!</title>
+    <desc lang="es">Música • TP
+
+•  Rewind back in time to hear the biggest hits from 1995
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425050001 -0300" stop="20260425060000 -0300" channel="that-s-90s00s">
+    <title lang="es">Mega Movie Soundtracks!</title>
+    <desc lang="es">Música • TP
+
+•  Grab the popcorn cos it&#x27;s time to play the blockbuster movie hits from the 90s and 00s
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425060001 -0300" stop="20260425080000 -0300" channel="that-s-90s00s">
+    <title lang="es">Crazy 4 90s Love Songs!</title>
+    <desc lang="es">Música • TP
+
+•  It&#x27;s time to get emosh right now as we go crazy for 90s love songs
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425080001 -0300" stop="20260425100000 -0300" channel="that-s-90s00s">
+    <title lang="es">A Decade Of Dance: The 90s!</title>
+    <desc lang="es">Música • TP
+
+•  It&#x27;s time to go on a journey back to the 90s for the biggest global dance hits!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425100001 -0300" stop="20260425110000 -0300" channel="that-s-90s00s">
+    <title lang="es">Hottest Hits Of 2003!</title>
+    <desc lang="es">Música • TP
+
+•  Rewind back in time to hear the biggest hits from 2003
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425110001 -0300" stop="20260425130000 -0300" channel="that-s-90s00s">
+    <title lang="es">Truly, Madly, 90s!</title>
+    <desc lang="es">Música • TP
+
+•  Non stop pop hits from the 90s to give you all the nostalgia feels!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425130001 -0300" stop="20260425150000 -0300" channel="that-s-90s00s">
+    <title lang="es">Jumpin Jumpin&#x27; R&amp;B Bangers!</title>
+    <desc lang="es">Música • TP
+
+•  Pure R&amp;B bangers are coming your way right now to get your party started
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425150001 -0300" stop="20260425170000 -0300" channel="that-s-90s00s">
+    <title lang="es">Who Runs The World? Girls!</title>
+    <desc lang="es">Música • TP
+
+•  These are the girls that ruled the world in the 90s and 00s!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425170001 -0300" stop="20260425190000 -0300" channel="that-s-90s00s">
+    <title lang="es">90s Karaoke Party!</title>
+    <desc lang="es">Música • TP
+
+•  Grab your mates and your mic cos you are invited to one huge 90s karaoke party!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425190001 -0300" stop="20260425210000 -0300" channel="that-s-90s00s">
+    <title lang="es">We&#x27;re Going To Ibiza! Party Anthems!</title>
+    <desc lang="es">Música • TP
+
+•  Transport yourself to summer nights on the White Isle raving in Ibiza! Get me on that plane now!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425210001 -0300" stop="20260425230000 -0300" channel="that-s-90s00s">
+    <title lang="es">Biggest Collabs Of The 90s And 00s!</title>
+    <desc lang="es">Música • TP
+
+•  The artists that joined forces to bring you iconic collabs over 2 decades
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425230001 -0300" stop="20260426010000 -0300" channel="that-s-90s00s">
+    <title lang="es">Supermassive Rock Party!</title>
+    <desc lang="es">Música • TP
+
+•  High energy rock anthems that will have your walls and speakers shaking!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426010001 -0300" stop="20260426020000 -0300" channel="that-s-90s00s">
+    <title lang="es">Hottest Hits Of 2008!</title>
+    <desc lang="es">Música • TP
+
+•  Rewind back in time to hear the biggest hits from 2008
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426020001 -0300" stop="20260426040000 -0300" channel="that-s-90s00s">
+    <title lang="es">Chilled Anthems 1990 - 2009!</title>
+    <desc lang="es">Música • TP
+
+•  Kick back and relax to our chilled out playlist.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426040001 -0300" stop="20260426060000 -0300" channel="that-s-90s00s">
+    <title lang="es">Rock N Roll Stars Of The 90s &amp; 00s!</title>
+    <desc lang="es">Música • TP
+
+•  Riffs and swagger from the Rock n Roll stars that owned the 90s and 00s
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426060001 -0300" stop="20260426080000 -0300" channel="that-s-90s00s">
+    <title lang="es">Don&#x27;t Stop Movin! Mega Pop Hits!</title>
+    <desc lang="es">Música • TP
+
+•  You won&#x27;t stop movin&#x27; when you hear our huge playlist of pop hits from the 90s and 00s
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426080001 -0300" stop="20260426090000 -0300" channel="that-s-90s00s">
+    <title lang="es">Boyband Battle 90s &amp; 00s!</title>
+    <desc lang="es">Música • TP
+
+•  These are the boybands the dominated the charts in the 90s and 00s
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426090001 -0300" stop="20260426110000 -0300" channel="that-s-90s00s">
+    <title lang="es">It&#x27;s The 90s Baby!</title>
+    <desc lang="es">Música • TP
+
+•  We are taking you back to the 90s right now with all your favourite hits!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426110001 -0300" stop="20260426130000 -0300" channel="that-s-90s00s">
+    <title lang="es">Feel the Flava of the Old Skool!</title>
+    <desc lang="es">Música • TP
+
+•  A huge collection of throwback R&amp;B Party vibes
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426130001 -0300" stop="20260426150000 -0300" channel="that-s-90s00s">
+    <title lang="es">Who Runs The World? Girls!</title>
+    <desc lang="es">Música • TP
+
+•  These are the girls that ruled the world in the 90s and 00s!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426150001 -0300" stop="20260426170000 -0300" channel="that-s-90s00s">
+    <title lang="es">Crazy 4 90s Love Songs!</title>
+    <desc lang="es">Música • TP
+
+•  It&#x27;s time to get emosh right now as we go crazy for 90s love songs
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426170001 -0300" stop="20260426180000 -0300" channel="that-s-90s00s">
+    <title lang="es">Mega Movie Soundtracks!</title>
+    <desc lang="es">Música • TP
+
+•  Grab the popcorn cos it&#x27;s time to play the blockbuster movie hits from the 90s and 00s
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426180001 -0300" stop="20260426190000 -0300" channel="that-s-90s00s">
+    <title lang="es">On Point: Style Icons!</title>
+    <desc lang="es">Música • TP
+
+•  From Doc Martins to Cargo pants, these are all the iconic looks we were copying in the 90s and 00s
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426190001 -0300" stop="20260426210000 -0300" channel="that-s-90s00s">
+    <title lang="es">Truly, Madly, 90s!</title>
+    <desc lang="es">Música • TP
+
+•  Non stop pop hits from the 90s to give you all the nostalgia feels!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424190001 -0300" stop="20260424212500 -0300" channel="that-s-rock">
+    <title lang="es">Nicky Horne&#x27;s Rock Party Anthems</title>
+    <desc lang="es">Música • TP
+
+•  Nicky Horne presents his favourite 30 rock party anthems of all time, featuring Led Zeppelin, Def Leppard, Thin Lizzy and David Bowie.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424212501 -0300" stop="20260424220000 -0300" channel="that-s-rock">
+    <title lang="es">Weekend Anthems!</title>
+    <desc lang="es">Música • TP
+
+•  Turn it up to 11 all weekend for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424220001 -0300" stop="20260424224000 -0300" channel="that-s-rock">
+    <title lang="es">30 Big Selling Rock Songs of 90s!</title>
+    <desc lang="es">Música • TP
+
+•  Bruno Brookes with the biggest UK rock tracks of the 90s. Expect a decent slice of Stereophonics, Bon Jovi, Nirvana &amp; RHCP. But you might be surprised at the No.1!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424224001 -0300" stop="20260424230000 -0300" channel="that-s-rock">
+    <title lang="es">Killer Cuts Of The 00s!</title>
+    <desc lang="es">Música • TP
+
+•  A decade of mega hits and the loudest anthems! Expect Biffy Clyro, Linkin Park, Blink 182, Evanescence, Fall Out Boy &amp; loads more!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424230001 -0300" stop="20260425040000 -0300" channel="that-s-rock">
+    <title lang="es">Backtrack: Rock Anthems 2020-1970</title>
+    <desc lang="es">Música • TP
+
+•  In Reverse: Starting with the Anthems of 2020, we&#x27;re going back 45 years to the legendary rock anthems of the 70s! Turn it up this is going to be epic!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425040001 -0300" stop="20260425055000 -0300" channel="that-s-rock">
+    <title lang="es">Turn Up The Emo Anthems!</title>
+    <desc lang="es">Música • TP
+
+•  Turn up your speakers to 11 and live life even louder! Emo Anthems in order from Linkin Park in 2000 to The My Chemical Romance at the end of the Decade!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425055001 -0300" stop="20260425060000 -0300" channel="that-s-rock">
+    <title lang="es">Weekend Anthems!</title>
+    <desc lang="es">Música • TP
+
+•  Turn it up to 11 all weekend for the finest rock anthems! Featuring Kings Of Leon, The Killers, Green Day, Biffy Clyro &amp; The Foo Fighters. This is Now Rock!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425060001 -0300" stop="20260425080000 -0300" channel="that-s-rock">
+    <title lang="es">Teenage Dirtbags! 1995-2010</title>
+    <desc lang="es">Música • TP
+
+•  From the rebellious teens of the 90s and 00s we bring you the stars who said &quot;To hell with the world&quot; and expressed themselves through great tunes!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425080001 -0300" stop="20260425090000 -0300" channel="that-s-rock">
+    <title lang="es">Linkin Park: Fan Favourites</title>
+    <desc lang="es">Música • TP
+
+•  Starting in 2001, here are the biggest rock songs from Linkin Park!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425090001 -0300" stop="20260425110000 -0300" channel="that-s-rock">
+    <title lang="es">Kings &amp; Queens: 2000 - NOW!</title>
+    <desc lang="es">Música • TP
+
+•  Starting in the 00s, bow before the royal rock stage! Home to the best front men and leading ladies that the world of rock has produced! 
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425110001 -0300" stop="20260425120000 -0300" channel="that-s-rock">
+    <title lang="es">Guns N&#x27; Roses: Rock Icons</title>
+    <desc lang="es">Música • TP
+
+•  An hour of Anthems and the biggest rock songs from rock legends Guns N&#x27; Roses!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425120001 -0300" stop="20260425150000 -0300" channel="that-s-rock">
+    <title lang="es">Nicky Horne&#x27;s 30 Hardest Hitters!</title>
+    <desc lang="es">Música • TP
+
+•  The 30 greatest rock drummers in the world! These are Nicky&#x27;s hardest hitters featuring Dave Grohl, Tommy Lee, Keith Moon, Ginger Baker, John Bonham but who is his Number 1?
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425150001 -0300" stop="20260425160000 -0300" channel="that-s-rock">
+    <title lang="es">Essential Air Guitar: Killer Riffs</title>
+    <desc lang="es">Música • TP
+
+•  From killer riffs in the 20s right back to the legendary solos of the 80s, we&#x27;re counting down 12 essential anthems that you just need to know!
+
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425160001 -0300" stop="20260425220000 -0300" channel="that-s-rock">
+    <title lang="es">Monsters of Rock! 2000-2009</title>
+    <desc lang="es">Música • TP
+
+•  A definitive 6 hour marathon of 00s rock anthems in order! From Alien Ant Farm to The Arctic Monkeys, Fall Out Boy to The Foo Fighters, Weezer to the White Stripes. 
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425220001 -0300" stop="20260425230000 -0300" channel="that-s-rock">
+    <title lang="es">Kings &amp; Queens: 2000 - NOW!</title>
+    <desc lang="es">Música • TP
+
+•  Starting in the 00s, bow before the royal rock stage! Home to the best front men and leading ladies that the world of rock has produced! 
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425230001 -0300" stop="20260426000000 -0300" channel="that-s-rock">
+    <title lang="es">Guns N&#x27; Roses: Rock Icons</title>
+    <desc lang="es">Música • TP
+
+•  An hour of Anthems and the biggest rock songs from rock legends Guns N&#x27; Roses!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426000001 -0300" stop="20260426030000 -0300" channel="that-s-rock">
+    <title lang="es">Nicky Horne&#x27;s 30 Hardest Hitters!</title>
+    <desc lang="es">Música • TP
+
+•  The 30 greatest rock drummers in the world! These are Nicky&#x27;s hardest hitters featuring Dave Grohl, Tommy Lee, Keith Moon, Ginger Baker, John Bonham but who is his Number 1?
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426030001 -0300" stop="20260426040000 -0300" channel="that-s-rock">
+    <title lang="es">Essential Air Guitar: Killer Riffs</title>
+    <desc lang="es">Música • TP
+
+•  From killer riffs in the 20s right back to the legendary solos of the 80s, we&#x27;re counting down 12 essential anthems that you just need to know!
+
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426040001 -0300" stop="20260426073500 -0300" channel="that-s-rock">
+    <title lang="es">Carol Decker&#x27;s 1st Ladies of Rock!</title>
+    <desc lang="es">Música • TP
+
+•  T&#x27;Pau&#x27;s Carol Decker with 30 years of the most amazing women who ROCK! From Grace Slick in the 60s to Florence Welch in the 00s - these ladies all left an incredible mark.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426073501 -0300" stop="20260426080000 -0300" channel="that-s-rock">
+    <title lang="es">Sunday Rock Classics</title>
+    <desc lang="es">Música • TP
+
+•  Rounding off the week with rock classics and anthems! We guarantee AC/DC, Nirvana, Queen, Meat Loaf, Bon Jovi &amp; much more!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426080001 -0300" stop="20260426100000 -0300" channel="that-s-rock">
+    <title lang="es">Big Hair &amp; Power Chords!</title>
+    <desc lang="es">Música • TP
+
+•  20 epic songs loaded with mega hair energy &amp; power chords! From 80s rock icons Boston, Whitesnake &amp; Chicago to modern day heroes The Darkness, Green Day &amp; My Chemical Romance.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426100001 -0300" stop="20260426190000 -0300" channel="that-s-rock">
+    <title lang="es">The Rock 100 of the 80s</title>
+    <desc lang="es">Música • TP
+
+•  Mark Goodier brings you our exclusive chart of the 100 biggest rock songs of the 80s, based on streaming data, historic sales info, and enduring global appeal. Crank this up LOUD!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426190001 -0300" stop="20260426220000 -0300" channel="that-s-rock">
+    <title lang="es">We Will Rock You! 1970-1979</title>
+    <desc lang="es">Música • TP
+
+•  A definitive 4 hour marathon of 70s guitar anthems! From Black Sabbath &amp; Free in 1970 to Kiss &amp; AC/DC in 1979 - 60 rock classics are here, in order!
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424202012 -0300" stop="20260424211405 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Los Castalians abordan el Andrómeda para finalizar la carta de la Nueva Mancomunidad. Cuando el líder es descubierto muerto, Tyr es el principal sospechoso.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424211406 -0300" stop="20260424220759 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Beka se entera de que el ex socio de negocios de su padre se ocupa de una droga altamente adictiva llamada Flash.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424220800 -0300" stop="20260424230154 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Tyr se estrella contra el Eureka Maru en un planeta Nietzschean y desarrolla amnesia. Debe recordar lo que está haciendo antes de que los Nietzscheans lo descubran a él y a su caja de bienes robados.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424230155 -0300" stop="20260424235548 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Harper recibe el don del conocimiento de un Perseid moribundo, sólo para descubrir que el Perseid estaba siendo buscado por un cazarrecompensas que ahora ha vuelto su atención a Harper.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424235549 -0300" stop="20260425004942 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Dylan fue arrestado por asesinar a un dictador hace 300 años.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425004943 -0300" stop="20260425014338 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Andrómeda está embarcada por un dron del Consenso de Partes, una sociedad mecánica mítica. Mientras que amistoso al principio, el dron intenta forzar a la nave a unirse al Consenso.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425014339 -0300" stop="20260425023733 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Gerentex está de vuelta, y exige que Trance y Harper lo ayuden con su nuevo plan: encontrar a Tarn-Vedra.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425023734 -0300" stop="20260425033128 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Dylan intenta llevar la paz a dos diferentes orgullos Nietzschean escoltando a la princesa de uno a su matrimonio arreglado con el príncipe del otro.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425033129 -0300" stop="20260425042522 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  El avatar de Rommie se enamora de lo que resulta ser el avatar de un buque de guerra llamado Gabriel. Gabriel intenta infectar a Rommie con un virus que difunde sus planes a la nave de guerra.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425042523 -0300" stop="20260425051917 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Beka lleva la Andrómeda a Tarn-Vedra, pero el la corriente de deslizamiento causa efectos secundarios.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425051918 -0300" stop="20260425061311 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Un viejo recuerdo de la Andrómeda se activa accidentalmente, lo que la envía en una misión y deja a Dylan y la tripulación incapaces de anular el comando.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425061312 -0300" stop="20260425070707 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Después de quedar varado cerca de un agujero negro, el capitán Dylan Hunt es descubierto por un barco de salvamento mercenario y descubre que ha estado congelado en el tiempo durante 300 años.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425070708 -0300" stop="20260425080101 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Dylan encuentra una estación espacial llena de niños que creen que está allí para traer la paz matando a sus enemigos.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425080102 -0300" stop="20260425085455 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  La tripulación de Andrómeda todavía está aprendiendo a trabajar juntos mientras son atacados por los Restauradores.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425085456 -0300" stop="20260425094849 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  La Andrómeda se involucra en una disputa entre un planeta Than y una colonia Nietzschean.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425094850 -0300" stop="20260425104244 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Una deslizamiento envía a la Andrómeda de vuelta en el tiempo a justo antes de que cayera la Mancomunidad.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425104245 -0300" stop="20260425113638 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Responder a una llamada de socorro lleva a la tripulación a recoger al hermano de Beka, ahora un Wayist, y a su amigo.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425113639 -0300" stop="20260425123033 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Dylan es encarcelado en un planeta carcelario y debe organizar una fuga mientras su tripulación intenta organizar su propio rescate.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425123034 -0300" stop="20260425132427 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Los Castalians abordan el Andrómeda para finalizar la carta de la Nueva Mancomunidad. Cuando el líder es descubierto muerto, Tyr es el principal sospechoso.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425132428 -0300" stop="20260425141830 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  Al descubrir que su compañera de equipo Lexa es objeto de un experimento encubierto que la está controlando, el equipo de Mutante X busca al médico responsable.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425141831 -0300" stop="20260425151233 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  Cuando la vida de Jesse está en juego, Brennan debe conectarse con él y guiarlo a través de recuerdos pasados que han compartido para salvar su vida.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425151234 -0300" stop="20260425160636 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  Mutante X debe evitar que un científico clone mujeres para usarlas como esclavas en su club de hombres ultra exclusivo.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425160637 -0300" stop="20260425170039 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  Las sospechas de Lexa llevan a Mutante X a revelar un campo de exterminio itinerante, que se presenta como un circo para refugiados mutantes y el enemigo de Mutante X dentro del Dominio.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425170040 -0300" stop="20260425175442 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  Muchos de los misterios que rodean a Mutante X se revelan cuando Lexa y Jesse son capturados por el Dominio, y el equipo, junto con Adam, entra a rescatarlos.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425175443 -0300" stop="20260425184844 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  En la emocionante apertura de la temporada, los miembros supervivientes de Mutante X emergen de una explosión mortal para encontrarse con Lexa, quien les hace comenzar a cuestionar las suposiciones fundamentales sobre su mundo.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425184845 -0300" stop="20260425194247 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  El equipo de Mutante X debe detener la subasta de una sustancia altamente letal que una serie de notorios terroristas internacionales están compitiendo por adquirir.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425194248 -0300" stop="20260425203650 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  El equipo de Mutante X llega para ayudar a una base militar que se ha infectado con una enfermedad mortal.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425203651 -0300" stop="20260425213052 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  Cuando Lexa es drogada sin saberlo con una sustancia letal, el equipo debe correr para encontrar el antídoto antes de que sea demasiado tarde.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425213053 -0300" stop="20260425222455 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  Se llama al equipo de Mutante X para investigar actividades extrañas que ocurren en un hospital local.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425222456 -0300" stop="20260425231858 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  El equipo de Mutante X se embarca en una misión para localizar y capturar a un poderoso super-mutante que posee poderes divinos.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425231859 -0300" stop="20260426001511 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  Jesse se ve obligado a volver a conectarse con su ex prometida cuando el equipo de Mutante X se entera de que su empresa está involucrada en la manipulación genética de cultivos.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426001512 -0300" stop="20260426010914 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  El equipo de Mutante X se entera de la existencia del hermano gemelo separado de Lexa cuando se convierte en el objetivo principal de una operación subterránea que extrae órganos mutantes.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426010915 -0300" stop="20260426020317 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  Al descubrir que su compañera de equipo Lexa es objeto de un experimento encubierto que la está controlando, el equipo de Mutante X busca al médico responsable.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426020318 -0300" stop="20260426025720 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  Cuando la vida de Jesse está en juego, Brennan debe conectarse con él y guiarlo a través de recuerdos pasados que han compartido para salvar su vida.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426025721 -0300" stop="20260426035123 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  Mutante X debe evitar que un científico clone mujeres para usarlas como esclavas en su club de hombres ultra exclusivo.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426035124 -0300" stop="20260426044526 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  Brennan lucha con un Guardián de la Profecía para detener el plan del difunto mutante Ashlocke más allá de la tumba de la dominación mundial.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426044527 -0300" stop="20260426053929 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  Muchos de los misterios que rodean a Mutante X se revelan cuando Lexa y Jesse son capturados por el Dominio, y el equipo, junto con Adam, entra a rescatarlos.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426053930 -0300" stop="20260426063331 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  En la emocionante apertura de la temporada, los miembros supervivientes de Mutante X emergen de una explosión mortal para encontrarse con Lexa, quien les hace comenzar a cuestionar las suposiciones fundamentales sobre su mundo.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426063332 -0300" stop="20260426072734 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  El equipo de Mutante X debe detener la subasta de una sustancia altamente letal que una serie de notorios terroristas internacionales están compitiendo por adquirir.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426072735 -0300" stop="20260426082137 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  El equipo de Mutante X llega para ayudar a una base militar que se ha infectado con una enfermedad mortal.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426082138 -0300" stop="20260426091539 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  El equipo de Mutante X debe detener a un asesino en serie que deja pistas a sus próximas víctimas en forma de rompecabezas.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426091540 -0300" stop="20260426100942 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  Se llama al equipo de Mutante X para investigar actividades extrañas que ocurren en un hospital local.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426100943 -0300" stop="20260426110345 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  El equipo de Mutante X se embarca en una misión para localizar y capturar a un poderoso super-mutante que posee poderes divinos.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426110346 -0300" stop="20260426115958 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  Jesse se ve obligado a volver a conectarse con su ex prometida cuando el equipo de Mutante X se entera de que su empresa está involucrada en la manipulación genética de cultivos.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426115959 -0300" stop="20260426125401 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  Un mutante que tiene la capacidad de interfase con cualquier computadora con su mente, que queda paralizado después de un encuentro con el equipo, se hace cargo de las computadoras de Sanctuary.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426125402 -0300" stop="20260426134804 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Mutant X</title>
+    <desc lang="es">Series • ⑬
+
+•  El equipo de Mutante X se entera de la existencia del hermano gemelo separado de Lexa cuando se convierte en el objetivo principal de una operación subterránea que extrae órganos mutantes.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426134805 -0300" stop="20260426144158 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Dylan y el reverendo Bem ayudan a una sociedad pacífica a hacer frente a sus posibles esclavos. Tienen que tener cuidado porque si Dylan les enseña a matar, sus hijos nacerán sabiendo.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426144159 -0300" stop="20260426153554 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Dylan intenta llevar la paz a dos diferentes orgullos Nietzschean escoltando a la princesa de uno a su matrimonio arreglado con el príncipe del otro.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426153555 -0300" stop="20260426162948 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  El avatar de Rommie se enamora de lo que resulta ser el avatar de un buque de guerra llamado Gabriel. Gabriel intenta infectar a Rommie con un virus que difunde sus planes a la nave de guerra.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426162949 -0300" stop="20260426172342 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Beka lleva la Andrómeda a Tarn-Vedra, pero el la corriente de deslizamiento causa efectos secundarios.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426172343 -0300" stop="20260426181737 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Un viejo recuerdo de la Andrómeda se activa accidentalmente, lo que la envía en una misión y deja a Dylan y la tripulación incapaces de anular el comando.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426181738 -0300" stop="20260426191132 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Dylan protege a la Andrómeda de los mercenarios mientras Beka comienza a preguntarse si están luchando por el lado equivocado.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426191133 -0300" stop="20260426200526 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  Dylan encuentra una estación espacial llena de niños que creen que está allí para traer la paz matando a sus enemigos.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426200527 -0300" stop="20260426205921 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  La tripulación de Andrómeda todavía está aprendiendo a trabajar juntos mientras son atacados por los Restauradores.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426205922 -0300" stop="20260426215315 -0300" channel="filmrise-sci-fi-es">
+    <title lang="es">Andromeda</title>
+    <desc lang="es">Series • ⑬
+
+•  La Andrómeda se involucra en una disputa entre un planeta Than y una colonia Nietzschean.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424201752 -0300" stop="20260424220556 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Dredd</title>
+    <desc lang="es">Películas • ⑯
+
+•  Conocido y temido en toda la ciudad; Dredd es el juez definitivo y su trabajo es limpiar la ciudad de la última amenaza: una peligrosa droga llamada “Slo-Mo” y la sádica criminal Ma-Ma; que usa la droga para apoderarse de la ciudad. Basada en el famoso personaje de cómics Juez Dredd.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424220557 -0300" stop="20260424235248 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Historias Apocalípticas</title>
+    <desc lang="es">Películas • ⑯
+
+•  Dos hombres, dos mujeres de una colonia de supervivencia y una niña y un hombre forman alianzas mientras intentan sobrevivir.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424235249 -0300" stop="20260425012339 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Collider</title>
+    <desc lang="es">Películas • ⑯
+
+•  En el año 2033, una joven atrapada en un misterioso orfanato viaja imprudentemente en el tiempo para encontrar a sus padres y enmendar su pasado.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425012340 -0300" stop="20260425031509 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Zoe</title>
+    <desc lang="es">Películas • ⑯
+
+•  Dos compañeros en un revolucionario laboratorio diseñan la tecnología que mejora y perfecciona relaciones románticas. Mientras su trabajo progresa, sus descubrimientos se hacen más profundos.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425031510 -0300" stop="20260425045937 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Los cinco diablos</title>
+    <desc lang="es">Películas • ⑯
+
+•  Vicky, una niña extraña y solitaria, tiene un don mágico: un olfato con el que recoge aromas etiquetados en frascos. Cuando su tía paterna irrumpe en el hogar familiar, Vicky también captura su olor. Con ello se transporta a recuerdos oscuros y secretos de su familia y su propia existencia.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425045938 -0300" stop="20260425064628 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Memorias de un hombre invisible</title>
+    <desc lang="es">Películas • ⑯
+
+•  Un experimento del Gobierno fracasa y vuelve invisible a un testigo casual.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425064629 -0300" stop="20260425082209 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">La bruma</title>
+    <desc lang="es">Películas • ⑯
+
+•  París se sumerge en una extraña niebla mortal, y los supervivientes se refugian en los pisos y tejados de la ciudad. A medida que pasan las horas una pequeña familia se ve obligada a enfrentarse a la realidad: si esperan salir vivos, tendrán que correr el riesgo de salir a la niebla.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425082210 -0300" stop="20260425102315 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">La maldición de Rookford</title>
+    <desc lang="es">Películas • ⑯
+
+•  Una escéptica investigadora de fenómenos paranormales ve tambalearse sus convicciones cuando llega a un internado masculino para demostrar la ausencia de espíritus en él. 
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425102316 -0300" stop="20260425120810 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Código fuente</title>
+    <desc lang="es">Películas • ⑯
+
+•  ¿Es posible viajar en el tiempo para evitar una catástrofe? El capitán Colter Stevens (Jake Gyllenhaal) tiene la difícil misión de conseguirlo en esta eficaz película de acción y ciencia-ficción considerada como una de las mejores películas del género de los últimos años.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425120811 -0300" stop="20260425134144 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Perfect weapon (Arma Perfecta)</title>
+    <desc lang="es">Películas • ⑯
+
+•  En un futuro no muy lejano, una organización gubernamental y secreta dirigida por EL DIRECTOR controla todos los aspectos de la vida. Todos “los enemigos del estado” son castigados de manera severa y muchos de ellos son ejecutados mediante asesinos de la organización.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425134145 -0300" stop="20260425160157 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Power Rangers</title>
+    <desc lang="es">Películas • ⑯
+
+•  Musculoso y espectacular reboot de la mítica serie de los 90&#x27; a medio camino entre &#x27;Transformers&#x27; y el cine de superhéroes. 5 jóvenes estudiantes van a descubrir que La Tierra está al borde de la extinción por una amenaza alienígena. Pronto descubrirán que son los únicos que pueden salvar el planeta
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425160158 -0300" stop="20260425174625 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Los cinco diablos</title>
+    <desc lang="es">Películas • ⑯
+
+•  Vicky, una niña extraña y solitaria, tiene un don mágico: un olfato con el que recoge aromas etiquetados en frascos. Cuando su tía paterna irrumpe en el hogar familiar, Vicky también captura su olor. Con ello se transporta a recuerdos oscuros y secretos de su familia y su propia existencia.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425174626 -0300" stop="20260425193544 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Robot Doméstico</title>
+    <desc lang="es">Películas • ⑯
+
+•  Una ingeniera y su marido se mudan al campo para trabajar en el último prototipo de su empresa: un robot de Inteligencia Artificial de forma humanoide. Ella espera que el nuevo trabajo y la mudanza supongan un nuevo comienzo para su vida y su matrimonio.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425193545 -0300" stop="20260425212022 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">The Last Boy on Earth</title>
+    <desc lang="es">Películas • ⑯
+
+•  En un futuro lejano, un niño enigmático se convierte en la figura central en la búsqueda de una nueva esperanza. ¿Quién es este chico? ¿Por qué lo buscan todos? A veces es mejor no saber ciertas respuestas.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425212023 -0300" stop="20260425225329 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Parallel Minds</title>
+    <desc lang="es">Películas • ⑯
+
+•  En un futuro próximo, un detective y un investigador investigan una inteligencia artificial llamada URM para un laboratorio que está a punto de lanzar al mercado unas lentillas con la capacidad de grabar lo que ve el ojo para recrear recuerdos.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425225330 -0300" stop="20260426003448 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Tierra 0</title>
+    <desc lang="es">Películas • ⑯
+
+•  Para combatir la desertificación, los humanos han desarrollado fármacos que promueven la reproducción acelerada de las células vegetales, pero accidentalmente han liberado el sistema de estrés de las plantas y despertado las emociones vegetales, provocando una devastación a nivel global.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426003449 -0300" stop="20260426025442 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">The Unthinkable</title>
+    <desc lang="es">Películas • ⑯
+
+•  Suecia se enfrenta a un misterioso ataque y Alex se ve forzado a volver a su hogar. Allí se enfrentará a su padre y se encontrará con su antiguo amor de juventud.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426025443 -0300" stop="20260426051455 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Power Rangers</title>
+    <desc lang="es">Películas • ⑯
+
+•  Musculoso y espectacular reboot de la mítica serie de los 90&#x27; a medio camino entre &#x27;Transformers&#x27; y el cine de superhéroes. 5 jóvenes estudiantes van a descubrir que La Tierra está al borde de la extinción por una amenaza alienígena. Pronto descubrirán que son los únicos que pueden salvar el planeta
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426051456 -0300" stop="20260426065412 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">G-Loc</title>
+    <desc lang="es">Películas • ⑯
+
+•  Con la Tierra prácticamente destruida, Bran Marshall huye a un planeta hostil. En una nave dañada por meteoritos, Bran deberá unir sus fuerzas con una guerrera para salvar a la humanidad.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426065413 -0300" stop="20260426091316 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Ad Astra</title>
+    <desc lang="es">Películas • ⑯
+
+•  El astronauta Roy McBride (Brad Pitt) viaja hasta los confines del sistema solar para encontrar a su padre desaparecido. Descubriendo secretos que amenazan la supervivencia del planeta...
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426091317 -0300" stop="20260426104650 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Perfect weapon (Arma Perfecta)</title>
+    <desc lang="es">Películas • ⑯
+
+•  En un futuro no muy lejano, una organización gubernamental y secreta dirigida por EL DIRECTOR controla todos los aspectos de la vida. Todos “los enemigos del estado” son castigados de manera severa y muchos de ellos son ejecutados mediante asesinos de la organización.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426104651 -0300" stop="20260426124756 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">La maldición de Rookford</title>
+    <desc lang="es">Películas • ⑯
+
+•  Una escéptica investigadora de fenómenos paranormales ve tambalearse sus convicciones cuando llega a un internado masculino para demostrar la ausencia de espíritus en él. 
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426124757 -0300" stop="20260426143224 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Los cinco diablos</title>
+    <desc lang="es">Películas • ⑯
+
+•  Vicky, una niña extraña y solitaria, tiene un don mágico: un olfato con el que recoge aromas etiquetados en frascos. Cuando su tía paterna irrumpe en el hogar familiar, Vicky también captura su olor. Con ello se transporta a recuerdos oscuros y secretos de su familia y su propia existencia.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426143225 -0300" stop="20260426161719 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Código fuente</title>
+    <desc lang="es">Películas • ⑯
+
+•  ¿Es posible viajar en el tiempo para evitar una catástrofe? El capitán Colter Stevens (Jake Gyllenhaal) tiene la difícil misión de conseguirlo en esta eficaz película de acción y ciencia-ficción considerada como una de las mejores películas del género de los últimos años.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426161720 -0300" stop="20260426175300 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">La bruma</title>
+    <desc lang="es">Películas • ⑯
+
+•  París se sumerge en una extraña niebla mortal, y los supervivientes se refugian en los pisos y tejados de la ciudad. A medida que pasan las horas una pequeña familia se ve obligada a enfrentarse a la realidad: si esperan salir vivos, tendrán que correr el riesgo de salir a la niebla.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426175301 -0300" stop="20260426193419 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">Tierra 0</title>
+    <desc lang="es">Películas • ⑯
+
+•  Para combatir la desertificación, los humanos han desarrollado fármacos que promueven la reproducción acelerada de las células vegetales, pero accidentalmente han liberado el sistema de estrés de las plantas y despertado las emociones vegetales, provocando una devastación a nivel global.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426193420 -0300" stop="20260426211857 -0300" channel="sci-fi-rakuten-tv">
+    <title lang="es">The Last Boy on Earth</title>
+    <desc lang="es">Películas • ⑯
+
+•  En un futuro lejano, un niño enigmático se convierte en la figura central en la búsqueda de una nueva esperanza. ¿Quién es este chico? ¿Por qué lo buscan todos? A veces es mejor no saber ciertas respuestas.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424204453 -0300" stop="20260424224006 -0300" channel="action-rakuten-tv">
+    <title lang="es">Redada mortal</title>
+    <desc lang="es">Películas • ⑯
+
+•  Nikita es contratado para neutralizar la gran fuerza de seguridad privada en una fábrica local para que su sospechoso empleador pueda extorsionar al dueño... que resulta ser un poderoso señor de la guerra conectado con el gobierno ruso.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424224007 -0300" stop="20260425002407 -0300" channel="action-rakuten-tv">
+    <title lang="es">Skin Trade: Tráfico humano</title>
+    <desc lang="es">Películas • ⑯
+
+•  Cuando su familia es asesinada por un gánster serbio con intereses internacionales, un detective de la policía Nueva York, Nick, viaja al Sudeste Asiático para formar equipo con un detective tailandés para vengarse y destruir una red de tráfico humano.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425002408 -0300" stop="20260425020902 -0300" channel="action-rakuten-tv">
+    <title lang="es">Código fuente</title>
+    <desc lang="es">Películas • ⑯
+
+•  ¿Es posible viajar en el tiempo para evitar una catástrofe? El capitán Colter Stevens (Jake Gyllenhaal) tiene la difícil misión de conseguirlo en esta eficaz película de acción y ciencia-ficción considerada como una de las mejores películas del género de los últimos años.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425020903 -0300" stop="20260425035007 -0300" channel="action-rakuten-tv">
+    <title lang="es">Indomable</title>
+    <desc lang="es">Películas • ⑯
+
+•  Estilizado y contundente thriller de acción de Steven Soderbergh. La hermosa Mallory Kane es una joven soldado contratada por numerosos gobiernos para realizar tareas que ellos mismos no podrían llevar a cabo... Se le encomienda una misión donde es traicionada. Ahora sólo planea su venganza.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425035008 -0300" stop="20260425060759 -0300" channel="action-rakuten-tv">
+    <title lang="es">En el nombre del rey</title>
+    <desc lang="es">Películas • ⑯
+
+•  Película basada en el popular videojuego Dungeon Siege. Historia de corte medieval en la que un granjero de origen humilde consigue convertirse en un heroico y valeroso príncipe que tendrá que salvar su reino de un oscuro y tenebroso final.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425060800 -0300" stop="20260425075352 -0300" channel="action-rakuten-tv">
+    <title lang="es">Tracers</title>
+    <desc lang="es">Películas • ⑯
+
+•  Un mensajero de Nueva York (Taylor Lautner) se ve envuelto en una trama criminal. &#x27;Tracers&#x27; está ambientada en el espectacular mundo del parkour, una técnica de desplazamiento en la que hay que superar todos los obstáculos usando las habilidades del cuerpo humano: saltando vallas, muros, etc.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425075353 -0300" stop="20260425095103 -0300" channel="action-rakuten-tv">
+    <title lang="es">Vanguard</title>
+    <desc lang="es">Películas • ⑯
+
+•  La compañía de seguridad encubierta Vanguard es la última esperanza de supervivencia para un contable que es perseguido por la organización de mercenarios más mortífera del mundo.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425095104 -0300" stop="20260425114631 -0300" channel="action-rakuten-tv">
+    <title lang="es">Blood Money</title>
+    <desc lang="es">Películas • ⑯
+
+•  Un cártel de droga colombiano se alía con un grupo de Triads de Hong Kong y con el sicario más atactivo del planeta para enviar dos toneladas de cocaína a Australia y a China.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425114632 -0300" stop="20260425132145 -0300" channel="action-rakuten-tv">
+    <title lang="es">Código de defensa</title>
+    <desc lang="es">Películas • ⑯
+
+•  A un agente especial estadounidense caído en desgracia (John Cusack) se le encarga la rutinaria misión de proteger a una joven civil (Malin Akerman), cifradora de códigos de defensa, en una estación emisora secreta en Gran Bretaña.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425132146 -0300" stop="20260425145627 -0300" channel="action-rakuten-tv">
+    <title lang="es">El poder de la fuerza</title>
+    <desc lang="es">Películas • ⑯
+
+•  Mientras intenta localizar a su hermano, un duro camionero acaba en el pequeño pueblo donde su hermano fue visto por última vez antes de desaparecer misteriosamente.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425145628 -0300" stop="20260425162912 -0300" channel="action-rakuten-tv">
+    <title lang="es">Rescate en Afganistán</title>
+    <desc lang="es">Películas • ⑯
+
+•  Un comando de las operaciones especiales, liderado por el experto francotirador Jake Chandler, es enviado a un poblado de Afganistan para rescatar a un congresista capturado por los talibanes. La misión es un éxito, pero Jake, se queda en el campo de batalla para salvar a un soldado herido.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425162913 -0300" stop="20260425180654 -0300" channel="action-rakuten-tv">
+    <title lang="es">Asia connection</title>
+    <desc lang="es">Películas • ⑯
+
+•  Dos expatriados estadounidenses, Jack y Sam deciden robar un banco. Sin saberlo se han llevado el dinero de un poderoso narcotraficante.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425180655 -0300" stop="20260425201044 -0300" channel="action-rakuten-tv">
+    <title lang="es">La venganza del justiciero</title>
+    <desc lang="es">Películas • ⑯
+
+•  Un respetado ex médico que cumple condena en prisión por vengar la muerte de su hermano, tiene la oportunidad de salir si ayuda a la policía infiltrándose en una peligrosa banda criminal.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425201045 -0300" stop="20260425215445 -0300" channel="action-rakuten-tv">
+    <title lang="es">Skin Trade: Tráfico humano</title>
+    <desc lang="es">Películas • ⑯
+
+•  Cuando su familia es asesinada por un gánster serbio con intereses internacionales, un detective de la policía Nueva York, Nick, viaja al Sudeste Asiático para formar equipo con un detective tailandés para vengarse y destruir una red de tráfico humano.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425215446 -0300" stop="20260425231028 -0300" channel="action-rakuten-tv">
+    <title lang="es">Ace Bodyguard</title>
+    <desc lang="es">Películas • ⑯
+
+•  Esta película cuenta la historia de Zhang Han, un guardaespaldas de élite «retirado», que une fuerzas con su antiguo compañero para rescatar a su esposa secuestrada.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425231029 -0300" stop="20260426004142 -0300" channel="action-rakuten-tv">
+    <title lang="es">Taoist Monster Hunter</title>
+    <desc lang="es">Películas • ⑯
+
+•  El cazador de monstruos taoísta Yan se ve envuelto en una conspiración del palacio imperial en la que intervienen criaturas de la Montaña Negra y en la búsqueda de las puertas del Infierno cerca del sagrado pero peligroso templo de Lan Re.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426004143 -0300" stop="20260426020944 -0300" channel="action-rakuten-tv">
+    <title lang="es">La fiebre de la pradera</title>
+    <desc lang="es">Películas • ⑯
+
+•  Para algunos, el Oeste es un lugar de oportunidades y aventuras. Para otros, es tierra de muerte y peligros.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426020945 -0300" stop="20260426035537 -0300" channel="action-rakuten-tv">
+    <title lang="es">Tracers</title>
+    <desc lang="es">Películas • ⑯
+
+•  Un mensajero de Nueva York (Taylor Lautner) se ve envuelto en una trama criminal. &#x27;Tracers&#x27; está ambientada en el espectacular mundo del parkour, una técnica de desplazamiento en la que hay que superar todos los obstáculos usando las habilidades del cuerpo humano: saltando vallas, muros, etc.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426035538 -0300" stop="20260426060012 -0300" channel="action-rakuten-tv">
+    <title lang="es">La Jungla</title>
+    <desc lang="es">Películas • ⑯
+
+•  Jungle está basada en la historia real de Yossi Ghinsberg, un aventurero que sobrevivió para escribir un bestseller de memorias sobre su aventura en el interior del Amazonas. El viaje de Yossi y sus amigos acabó convirtiéndose en un calvario tan aterrador como psicológico.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426060013 -0300" stop="20260426073454 -0300" channel="action-rakuten-tv">
+    <title lang="es">El poder de la fuerza</title>
+    <desc lang="es">Películas • ⑯
+
+•  Mientras intenta localizar a su hermano, un duro camionero acaba en el pequeño pueblo donde su hermano fue visto por última vez antes de desaparecer misteriosamente.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426073455 -0300" stop="20260426091236 -0300" channel="action-rakuten-tv">
+    <title lang="es">Asia connection</title>
+    <desc lang="es">Películas • ⑯
+
+•  Dos expatriados estadounidenses, Jack y Sam deciden robar un banco. Sin saberlo se han llevado el dinero de un poderoso narcotraficante.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426091237 -0300" stop="20260426110947 -0300" channel="action-rakuten-tv">
+    <title lang="es">Vanguard</title>
+    <desc lang="es">Películas • ⑯
+
+•  La compañía de seguridad encubierta Vanguard es la última esperanza de supervivencia para un contable que es perseguido por la organización de mercenarios más mortífera del mundo.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426110948 -0300" stop="20260426125031 -0300" channel="action-rakuten-tv">
+    <title lang="es">Agente Antidroga</title>
+    <desc lang="es">Películas • ⑯
+
+•  Tras ser detenido por la policía, tras la misteriosa desaparición de su mujer, Johnny se pone en contacto con su hermano Cole, un atormentado agente de la D.E.A., que no dudará en enfrentarse a los más peligrosos cárteles de la droga en la frontera entre Estados Unidos y México para rescatarla.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426125032 -0300" stop="20260426142427 -0300" channel="action-rakuten-tv">
+    <title lang="es">La promesa del pistolero</title>
+    <desc lang="es">Películas • ⑯
+
+•  Cuando un pistolero obsesionado por el pasado mata accidentalmente a un extraño en un tiroteo, empieza para él un inesperado viaje que lo llevará por el camino de la redención.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426142428 -0300" stop="20260426160532 -0300" channel="action-rakuten-tv">
+    <title lang="es">Indomable</title>
+    <desc lang="es">Películas • ⑯
+
+•  Estilizado y contundente thriller de acción de Steven Soderbergh. La hermosa Mallory Kane es una joven soldado contratada por numerosos gobiernos para realizar tareas que ellos mismos no podrían llevar a cabo... Se le encomienda una misión donde es traicionada. Ahora sólo planea su venganza.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426160533 -0300" stop="20260426174046 -0300" channel="action-rakuten-tv">
+    <title lang="es">Código de defensa</title>
+    <desc lang="es">Películas • ⑯
+
+•  A un agente especial estadounidense caído en desgracia (John Cusack) se le encarga la rutinaria misión de proteger a una joven civil (Malin Akerman), cifradora de códigos de defensa, en una estación emisora secreta en Gran Bretaña.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426174047 -0300" stop="20260426192242 -0300" channel="action-rakuten-tv">
+    <title lang="es">Policías de Queens</title>
+    <desc lang="es">Películas • ⑯
+
+•  Un joven policía (Channing Tatum) es asignado a una comisaría en el barrio de Queens donde creció. Trabaja duro para mantener a su esposa y su hija enferma. Pero esta vida se verá amenazada cuando salen a la luz una cadena de atroces acontecimientos que sacuden el barrio entero.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426192243 -0300" stop="20260426210516 -0300" channel="action-rakuten-tv">
+    <title lang="es">Eliminators</title>
+    <desc lang="es">Películas • ⑯
+
+•  Thomas, ex agente federal en protección de testigos se ve expuesto y tiene que huir de Londres para poner a salvo a su hija cuando mata en defensa propia a tres hombres que entran en su casa y se ve perseguido por el asesino más peligroso de Europa.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424201043 -0300" stop="20260424214940 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Bajo amenaza</title>
+    <desc lang="es">Películas • ⑯
+
+•  El afamado realizador Joel Schumacher dirige a Nicolas Cage y Nicole Kidman en este thriller con gran ritmo y guión. Una pareja son brutalmente asaltados en su casa por un grupo de criminales que los toma como rehenes. La situación se irá complicando a medida que se descubren traiciones y engaños.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424214941 -0300" stop="20260424233131 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Sin escapatoria</title>
+    <desc lang="es">Películas • ⑯
+
+•  Shannon presencia cómo una agente de policía asesina a un traficante de drogas. Junto a Jack, un policía retirado (Bruce Willis), se enfrenta a los policías corruptos para hacer justicia.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424233132 -0300" stop="20260425010917 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Gun Shy: Blanco perfecto</title>
+    <desc lang="es">Películas • ⑯
+
+•  Una desmejorada estrella del rock es secuestrada cuando está de vacaciones en Chile.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425010918 -0300" stop="20260425043259 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">La sombra del pasado</title>
+    <desc lang="es">Películas • ⑯
+
+•  Kurt es un joven estudiante de arte en la Alemania del Este, enamorado de su compañera de clase, Ellie. El padre de ella, no aprueba la relación de su hija y está decidido a destruirla. Ninguno de ellos sabe es que sus vidas están conectadas por un terrible crimen cometido hace décadas.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425043300 -0300" stop="20260425061348 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Miranda (2002)</title>
+    <desc lang="es">Películas • ⑯
+
+•  Frank, un sensible y culto librero, tiene un apasionado romance con Miranda, una misteriosa joven que entra en su librería. Cuando súbitamente ella desaparece, Frank viaja a Londres para encontrarla, pero allí descubre que Miranda tiene varias identidades, algunas muy oscuras y peligrosas.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425061349 -0300" stop="20260425075728 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">El falsificador</title>
+    <desc lang="es">Películas • ⑯
+
+•  Un ladrón de poca monta se las arregla para conseguir que el sindicato donde trabaja su padre pague la fianza para poder salir de la cárcel y pasar tiempo con su hijo enfermo. Eso sí, tendrá que cumplir una condición para devolver el dinero prestado.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425075729 -0300" stop="20260425094149 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Agatha y la verdad del crimen</title>
+    <desc lang="es">Películas • ⑯
+
+•  En 1926, con su vida personal hecha jirones y su escritura en crisis, una joven Agatha Christie decide resolver un asesinato en la vida real.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425094150 -0300" stop="20260425111928 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Policías Corruptos</title>
+    <desc lang="es">Películas • ⑯
+
+•  Un thriller de acción que gira en torno a dos policías corruptos que descubren una custodiada caja fuerte, con un contenido totalmente incógnito. La ambición de ambos por hacerse con el indeterminado hallazgo les empujará al enfrentamiento, a la lucha por sus vidas y a no saber en quién confiar.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425111929 -0300" stop="20260425130228 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Sin rastro</title>
+    <desc lang="es">Películas • ⑯
+
+•  Frenético thriller lleno de persecuciones sin tregua protagonizado por Amanda Seyfried (&#x27;In time&#x27;). Jill Parrish regresa a su casa después de pasar la noche trabajando y descubre que su hermana ha sido raptada. Jill sospecha que el secuestrador es el mismo que la atormentó a ella años atrás.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425130229 -0300" stop="20260425150322 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">7 días en Entebbe</title>
+    <desc lang="es">Películas • ⑯
+
+•  En 1976 un avión de Air France con 248 pasajeros a bordo fue secuestrado por dos palestinos del Frente Popular para la Liberación de Palestina y dos alemanes de las Células Revolucionarias alemanas, siendo desviado al Aeropuerto Internacional de Entebbe, en Uganda...
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425150323 -0300" stop="20260425170126 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Cash (2010)</title>
+    <desc lang="es">Películas • ⑯
+
+•  En Chicago, la vida de Sam Phelan (Chris Hemsworth) y su esposa Leslie (Victoria Profeta) cambiará por completo cuando en un golpe de suerte se encuentran con un maletín lleno de dinero en efecitvo.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425170127 -0300" stop="20260425185431 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">La particula de Dios</title>
+    <desc lang="es">Películas • ⑯
+
+•  El detective privado Ned Cruz recibe el encargo de encontrar a Lexi Persimmon, una stripper que ha desaparecido junto a un alijo de diamantes valorado en 30 millones de dólares. Cruz topará con personajes oscuros, algunos morirán misteriosamente, otros tienen entre manos planes siniestros.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425185432 -0300" stop="20260425203536 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Indomable</title>
+    <desc lang="es">Películas • ⑯
+
+•  Estilizado y contundente thriller de acción de Steven Soderbergh. La hermosa Mallory Kane es una joven soldado contratada por numerosos gobiernos para realizar tareas que ellos mismos no podrían llevar a cabo... Se le encomienda una misión donde es traicionada. Ahora sólo planea su venganza.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425203537 -0300" stop="20260425221434 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Bajo amenaza</title>
+    <desc lang="es">Películas • ⑯
+
+•  El afamado realizador Joel Schumacher dirige a Nicolas Cage y Nicole Kidman en este thriller con gran ritmo y guión. Una pareja son brutalmente asaltados en su casa por un grupo de criminales que los toma como rehenes. La situación se irá complicando a medida que se descubren traiciones y engaños.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425221435 -0300" stop="20260426000817 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Acero Azul</title>
+    <desc lang="es">Películas • ⑯
+
+•  Una novata del cuerpo de policía se ve envuelta en un juego del gato y el ratón con un psicópata con una pistola que se obsesiona con ella.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426000818 -0300" stop="20260426015703 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Ojos que te acechan</title>
+    <desc lang="es">Películas • ⑯
+
+•  &quot;El Ojo&quot; es un agente especial del Servicio Británico, cuya misión es seguir a Joanna Eris, una mujer sospechosa de chantajear a un miembro del gobierno.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426015704 -0300" stop="20260426033852 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Más allá de la verdad</title>
+    <desc lang="es">Películas • ⑯
+
+•  Una joven sorprende a la familia de su difunto novio al contarles que está embarazada de un hijo suyo.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426033853 -0300" stop="20260426051559 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Secuestro ilegal</title>
+    <desc lang="es">Películas • ⑯
+
+•  Un recién contratado ejecutivo es secuestrado. Los responsables exigen el cese del empleado de la empresa como condición para que no muera. Y aseguran que si la empresa no cumple, solo es el primero de muchos otros.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426051600 -0300" stop="20260426065859 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Sin rastro</title>
+    <desc lang="es">Películas • ⑯
+
+•  Frenético thriller lleno de persecuciones sin tregua protagonizado por Amanda Seyfried (&#x27;In time&#x27;). Jill Parrish regresa a su casa después de pasar la noche trabajando y descubre que su hermana ha sido raptada. Jill sospecha que el secuestrador es el mismo que la atormentó a ella años atrás.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426065900 -0300" stop="20260426084038 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Presunta inocencia</title>
+    <desc lang="es">Películas • ⑯
+
+•  En esta secuela, el juez Rusty Sabich (Bill Pullman) una vez más se encuentra en medio de una investigación de asesinato cuando es acusado de matar a su esposa.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426084039 -0300" stop="20260426102531 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Juego Asesino</title>
+    <desc lang="es">Películas • ⑯
+
+•  Harto de perseguir asesinos en serie, el agente del FBI Joel Campbell decide retirarse: pide la baja voluntaria y se traslada a vivir a Chicago. Cuando un año más tarde, una mujer aparece asesinada en su edificio, Campbell reconoce el estilo de David Allen Griffin, un peligroso psicópata...
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426102532 -0300" stop="20260426124416 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">El escritor</title>
+    <desc lang="es">Películas • ⑯
+
+•  Oso de Plata al Mejor Director en el Festival de Berlín 2010. Roman Polanski dirige un apasionado thriller político cargado de suspense en un mundo en el que nada es lo que parece.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426124417 -0300" stop="20260426144220 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Cash (2010)</title>
+    <desc lang="es">Películas • ⑯
+
+•  En Chicago, la vida de Sam Phelan (Chris Hemsworth) y su esposa Leslie (Victoria Profeta) cambiará por completo cuando en un golpe de suerte se encuentran con un maletín lleno de dinero en efecitvo.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426144221 -0300" stop="20260426162059 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">12 horas desesperadas</title>
+    <desc lang="es">Películas • ⑯
+
+•  Una agente del FBI sigue la pista de un asesino en serie que ha secuestrado a una adolescente. Las horas van pasando mientras que la vida de la joven corre peligro: es diabética y necesita su dosis de insulina.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426162100 -0300" stop="20260426180339 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">Extraña desaparición</title>
+    <desc lang="es">Películas • ⑯
+
+•  Una mujer, que investiga la misteriosa desaparición de un amigo al que le ha tocado la lotería, queda horrorizada al descubrir que su marido podría estar involucrado en el crimen.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426180340 -0300" stop="20260426194312 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">La Bahía Del Silencio</title>
+    <desc lang="es">Películas • ⑯
+
+•  Will cree que su esposa Rosalind es inocente del presunto asesinato de su hijo, pero descubre la devastadora verdad de que está vinculada a otro crimen sin resolver.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426194313 -0300" stop="20260426212950 -0300" channel="thriller-rakuten-tv">
+    <title lang="es">El juego del asesino</title>
+    <desc lang="es">Películas • ⑯
+
+•  Un curtido teniente, su fuerza policial y un vigilante local se ven inmersos en una peligrosa conspiración relacionada con la detención de un problemático hombre a quien se le relaciona con múltiples raptos, asesinatos y violaciones.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424195302 -0300" stop="20260424211702 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Emotions</title>
+    <desc lang="es">Deportes • TP
+
+•  Vive toda la emoción de la Copa Mundial de la FIFA™. Desilusión, tensión, gloria y pasión se unen en algunos de los momentos más icónicos de la historia del fútbol.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424211708 -0300" stop="20260424232057 -0300" channel="fifa-plus-es-new">
+    <title lang="es">EEUU vs Gales | Grupo B | Copa Mundial de la FIFA Catar 2022™ | Partido Completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre EEUU y Gales jugado en Ahmad Bin Ali Stadium, Ar-Rayyan el lunes, 21 de noviembre de 2022 a las 22:00 (hora local).
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424232104 -0300" stop="20260424235302 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Nadeshisko en las finales de la Copa Mundial Femenina de la FIFA™</title>
+    <desc lang="es">Deportes • TP
+
+•  Mira al seleccionado de Japón en las finales de la Copa Mundial Femenina de la FIFA 2011 y 2015.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260424235309 -0300" stop="20260425014756 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Uruguay vs Costa Rica | Grupo D | Copa Mundial de la FIFA Brasil 2014™ | Partido Completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre Uruguay y Costa Rica jugado en el Estadio Castelão, Fortaleza el sábado, 14 de junio de 2014 a las 16:00 (hora local).
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425014802 -0300" stop="20260425021044 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Mana Iwabuchi | La vida en el Arsenal</title>
+    <desc lang="es">Deportes • TP
+
+•  Una bella historia sobre la vida de Mana Iwabuchi, un diamante de la selección femenina de Japón que juega en el Arsenal inglés.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425021051 -0300" stop="20260425040604 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Uruguay vs Francia | Cuartos de final | Copa Mundial de la FIFA Rusia 2018™ | Partido completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre Uruguay y Francia jugado en el Estadio Nizhny Novgorod, Nizhny Novgorod, el viernes 6 de julio de 2018.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425040610 -0300" stop="20260425044313 -0300" channel="fifa-plus-es-new">
+    <title lang="es">15 Estrellas de Australia/Nueva Zelanda 2023™</title>
+    <desc lang="es">Deportes • TP
+
+•  Las historias de las jugadoras que brillaron con más intensidad en la Copa Mundial Femenina de la FIFA 2023™
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425044320 -0300" stop="20260425062903 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Argentina vs Bulgaria | Fase de grupos | Copa Mundial de la FIFA México 1986™ | Partido completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre Argentina y Bulgaria jugado en el Estadio Olímpico Universitario, Ciudad de México, el martes 10 de junio de 1986.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425062910 -0300" stop="20260425082237 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Paraguay vs España | Cuartos de final | Copa Mundial de la FIFA Sudáfrica 2010™ | Partido completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre Paraguay y España jugado en el Estadio Ellis Park, Johannesburgo, el sábado 3 de julio de 2010.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425082243 -0300" stop="20260425085431 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Marta, leyenda de la Copa Mundial Femenina de la FIFA™</title>
+    <desc lang="es">Deportes • TP
+
+•  Disfruta con las actuaciones de Marta con la camiseta de Brasil frente a Estados Unidos en China 2007™ y contra Italia en Brasil 2019™.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425085437 -0300" stop="20260425091853 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Kyogo Furuhashi | La vida en Glasgow</title>
+    <desc lang="es">Deportes • TP
+
+•  Siga los altibajos del primer año de vida del internacional japonés Kyogo Furuhashi en Glasgow, Escocia.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425091859 -0300" stop="20260425112846 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Portugal vs EEUU | Grupo E | Copa Mundial Femenina de la FIFA Australia &amp; Nueva Zelanda 2023™ | Partido Completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre Portugal y EEUU jugado en el Eden Park, Auckland, el martes, 1 de agosto de 2023, a las 19:00 (hora local).
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425112853 -0300" stop="20260425121308 -0300" channel="fifa-plus-es-new">
+    <title lang="es">La Tierra Bajo Nuestros Pies</title>
+    <desc lang="es">Deportes • TP
+
+•  La selección de futsal de Islas Salomón lucha por el futuro de su deporte y del vulnerable archipiélago del Pacífico.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425121314 -0300" stop="20260425140309 -0300" channel="fifa-plus-es-new">
+    <title lang="es">EEUU vs Japón | Final | Copa Mundial Femenina de la FIFA Canadá 2015™ | Partido Completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre EEUU y Japón jugado en BC Place Stadium, Vancouver el domingo, 5 de julio de 2015 a las 16:00 (hora local).
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425140316 -0300" stop="20260425143514 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Nadeshisko en las finales de la Copa Mundial Femenina de la FIFA™</title>
+    <desc lang="es">Deportes • TP
+
+•  Mira al seleccionado de Japón en las finales de la Copa Mundial Femenina de la FIFA 2011 y 2015.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425143521 -0300" stop="20260425145328 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Copa Mundial Sub-17 de la FIFA Catar 2025™: Resúmenes Destacados</title>
+    <desc lang="es">Deportes • TP
+
+•  Mira los últimos resúmenes de la Copa Mundial Sub-17 de la FIFA Catar 2025™.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425145334 -0300" stop="20260425164329 -0300" channel="fifa-plus-es-new">
+    <title lang="es">EEUU vs Japón | Final | Copa Mundial Femenina de la FIFA Canadá 2015™ | Partido Completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre EEUU y Japón jugado en BC Place Stadium, Vancouver el domingo, 5 de julio de 2015 a las 16:00 (hora local).
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425164336 -0300" stop="20260425171925 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Lo mejor de la Copa Mundial de la FIFA Estados Unidos 1994™</title>
+    <desc lang="es">Deportes • TP
+
+•  Una selección de los mejores goles, asistencias y momentos premiados del torneo en Estados Unidos 1994.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425171931 -0300" stop="20260425191418 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Uruguay vs Costa Rica | Grupo D | Copa Mundial de la FIFA Brasil 2014™ | Partido Completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre Uruguay y Costa Rica jugado en el Estadio Castelão, Fortaleza el sábado, 14 de junio de 2014 a las 16:00 (hora local).
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425191425 -0300" stop="20260425193707 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Mana Iwabuchi | La vida en el Arsenal</title>
+    <desc lang="es">Deportes • TP
+
+•  Una bella historia sobre la vida de Mana Iwabuchi, un diamante de la selección femenina de Japón que juega en el Arsenal inglés.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425193714 -0300" stop="20260425213227 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Uruguay vs Francia | Cuartos de final | Copa Mundial de la FIFA Rusia 2018™ | Partido completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre Uruguay y Francia jugado en el Estadio Nizhny Novgorod, Nizhny Novgorod, el viernes 6 de julio de 2018.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425213233 -0300" stop="20260425221629 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Una Mirada Atrás: Copa Mundial Femenina De La Fifa Francia 2019™</title>
+    <desc lang="es">Deportes • TP
+
+•  Destacados de EE. UU. en la Copa Mundial Femenina de la FIFA Canadá 2019™
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425221635 -0300" stop="20260425224611 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Partidos resueltos en el alargue de la Copa Mundial Femenina de la FIFA™</title>
+    <desc lang="es">Deportes • TP
+
+•  Vuelve a ver dos encuentros que necesitaron más de 90 minutos para consagrar a una ganadora.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425224618 -0300" stop="20260425230328 -0300" channel="fifa-plus-es-new">
+    <title lang="es">25 Goles memorables de la Copa Mundial Sub-20 de la FIFA</title>
+    <desc lang="es">Deportes • TP
+
+•  Recuerda algunos de los mejores goles en la historia del torneo.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260425230335 -0300" stop="20260426011242 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Argentina vs Arabia Saudí | Grupo C | Copa Mundial de la FIFA Catar 2022™ | Partido Completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre Argentina y Arabia Saudí jugado en Lusail Stadium, Al Daayen el martes, 22 de noviembre de 2022 a las 13:00 (hora local).
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426011249 -0300" stop="20260426013700 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Almost Hero</title>
+    <desc lang="es">Deportes • TP
+
+•  Oportunidades que podrían haber cambiado la narrativa de la historia de la Copa Mundial de la FIFA™, pero no lo hicieron. Una colección de historias llenas de drama, agonía y un devastador “lo que pudo haber sido”.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426013706 -0300" stop="20260426032848 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Alemania vs España | Semifinales | Copa Mundial de la FIFA Sudáfrica 2010™ | Partido completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre Alemania y España jugado en el Estadio de Durban, Durban, el miércoles 7 de julio de 2010.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426032854 -0300" stop="20260426051635 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Brasil vs Uruguay | Semifinales | Copa Mundial de la FIFA México 1970™ | Partido Completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre Brasil y Uruguay jugado en el Estadio Jalisco, Guadalajara el miércoles, 17 de junio de 1970 a las 16:00 (hora local).
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426051642 -0300" stop="20260426054536 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Lo mejor de la Copa Mundial de la FIFA Francia 1998™</title>
+    <desc lang="es">Deportes • TP
+
+•  Una selección de los mejores goles, asistencias y momentos premiados del torneo en Francia 1998.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426054542 -0300" stop="20260426074132 -0300" channel="fifa-plus-es-new">
+    <title lang="es">España vs Chile | Grupo B | Copa Mundial de la FIFA Brasil 2014™ | Partido Completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre España y Chile jugado en el Estadio Maracaná, Río de Janeiro el miércoles, 18 de junio de 2014 a las 16:00 (hora local).
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426074138 -0300" stop="20260426081251 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Partidos resueltos en el alargue de la Copa Mundial de la FIFA™</title>
+    <desc lang="es">Deportes • TP
+
+•  Vuelve a ver dos encuentros que necesitaron más de 90 minutos para consagrar a un ganador.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426081258 -0300" stop="20260426083033 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Voices | Lalas and Milutinović</title>
+    <desc lang="es">Deportes • TP
+
+•  Los Anfitriones: Un entrenador legendario reflexiona sobre dirigir a dos países anfitriones de la Copa Mundial, y un ícono de EE. UU. revive el gran momento de despegue de Estados Unidos en USA ’94.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426083039 -0300" stop="20260426104707 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Inglaterra vs Colombia | Cuartos de final | Copa Mundial Femenina de la FIFA Australia &amp; Nueva Zelanda 2023™ | Partido Completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre Inglaterra y Colombia jugado en el Estadio de Australia, Sídney, el sábado, 12 de agosto de 2023, a las 20:30 (hora local).
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426104714 -0300" stop="20260426111539 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Lucy Bronze | Íconos</title>
+    <desc lang="es">Deportes • TP
+
+•  &quot;Más fuerte, más en forma y más rápida&quot;. Ninguna lesión iba a impedir que Lucy Bronze alcance su grandeza.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426111545 -0300" stop="20260426130718 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Colombia vs Uruguay | Octavos de final | Copa Mundial de la FIFA Brasil 2014™ | Partido Completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre Colombia y Uruguay jugado en el Estadio Maracaná, Río de Janeiro el sábado, 28 de junio de 2014 a las 17:00 (hora local).
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426130725 -0300" stop="20260426135121 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Una Mirada Atrás: Copa Mundial Femenina De La Fifa Francia 2019™</title>
+    <desc lang="es">Deportes • TP
+
+•  Destacados de EE. UU. en la Copa Mundial Femenina de la FIFA Canadá 2019™
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426135127 -0300" stop="20260426142103 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Partidos resueltos en el alargue de la Copa Mundial Femenina de la FIFA™</title>
+    <desc lang="es">Deportes • TP
+
+•  Vuelve a ver dos encuentros que necesitaron más de 90 minutos para consagrar a una ganadora.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426142110 -0300" stop="20260426143820 -0300" channel="fifa-plus-es-new">
+    <title lang="es">25 Goles memorables de la Copa Mundial Sub-20 de la FIFA</title>
+    <desc lang="es">Deportes • TP
+
+•  Recuerda algunos de los mejores goles en la historia del torneo.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426143827 -0300" stop="20260426163417 -0300" channel="fifa-plus-es-new">
+    <title lang="es">España vs Chile | Grupo B | Copa Mundial de la FIFA Brasil 2014™ | Partido Completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre España y Chile jugado en el Estadio Maracaná, Río de Janeiro el miércoles, 18 de junio de 2014 a las 16:00 (hora local).
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426163423 -0300" stop="20260426184330 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Argentina vs Arabia Saudí | Grupo C | Copa Mundial de la FIFA Catar 2022™ | Partido Completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre Argentina y Arabia Saudí jugado en Lusail Stadium, Al Daayen el martes, 22 de noviembre de 2022 a las 13:00 (hora local).
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426184337 -0300" stop="20260426190748 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Almost Hero</title>
+    <desc lang="es">Deportes • TP
+
+•  Oportunidades que podrían haber cambiado la narrativa de la historia de la Copa Mundial de la FIFA™, pero no lo hicieron. Una colección de historias llenas de drama, agonía y un devastador “lo que pudo haber sido”.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426190754 -0300" stop="20260426205936 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Alemania vs España | Semifinales | Copa Mundial de la FIFA Sudáfrica 2010™ | Partido completo</title>
+    <desc lang="es">Deportes • TP
+
+•  Vídeo del partido completo entre Alemania y España jugado en el Estadio de Durban, Durban, el miércoles 7 de julio de 2010.
+
+ • rakuten</desc>
+  </programme>
+  <programme start="20260426205942 -0300" stop="20260426210000 -0300" channel="fifa-plus-es-new">
+    <title lang="es">Lo mejor de la Copa Mundial de la FIFA Francia 1998™</title>
+    <desc lang="es">Deportes • TP
+
+•  Una selección de los mejores goles, asistencias y momentos premiados del torneo en Francia 1998.
 
  • rakuten</desc>
   </programme>

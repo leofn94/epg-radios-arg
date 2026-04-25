@@ -124,6 +124,15 @@
   <channel id="0859">
     <display-name>Mórbido TV</display-name>
   </channel>
+  <channel id="0629">
+    <display-name>Canal Luz</display-name>
+  </channel>
+  <channel id="0222">
+    <display-name>América 24</display-name>
+  </channel>
+  <channel id="0808">
+    <display-name>A and E • Feed 1</display-name>
+  </channel>
   <channel id="504">
     <display-name>FMH Movies</display-name>
   </channel>
@@ -11252,7 +11261,1507 @@
     <title lang="es">Mórbido TV</title>
     <desc lang="es">La información de este programa no se encuentra disponible.</desc>
   </programme>
-  <programme start="20260425062954 -0300" stop="20260425073209 -0300" channel="504">
+  <programme start="20260425010000 -0300" stop="20260425013000 -0300" channel="0629">
+    <title lang="es">Hillsong Latam TV</title>
+    <desc lang="es">El mensaje de Chris es simple y práctico y te motivará a crecer y vivir tu vida reflejando el corazón de Dios hacia las personas.</desc>
+  </programme>
+  <programme start="20260425013000 -0300" stop="20260425020000 -0300" channel="0629">
+    <title lang="es">Backstage</title>
+    <desc lang="es">Un programa que propone un viaje a través de diferentes estilos musicales, donde conocerás los autores y las historias que inspiraron algunas de las canciones más conocidas e influyentes de la música cristiana en Uruguay y en América Latina.</desc>
+  </programme>
+  <programme start="20260425020000 -0300" stop="20260425023000 -0300" channel="0629">
+    <title lang="es">Enciende una luz</title>
+    <desc lang="es">Mediante esta ventana se difunde el mensaje de Dios, escrito en los textos sagrados de la Biblia. Te invitamos a que goces de su divinidad, te acerques mediante la oración y agradezcas sus bendiciones. Tu vida puede ser un reflejo de Dios para bien de otros.</desc>
+  </programme>
+  <programme start="20260425023000 -0300" stop="20260425030000 -0300" channel="0629">
+    <title lang="es">Avivamiento</title>
+    <desc lang="es">Un encuentro diferente en el que se presentará, mediante alabanzas, cantos y prédicas del evangelio, la renovación de la vida a través de la gracia de Dios, con un toque emotivo, profundo y espiritual.</desc>
+  </programme>
+  <programme start="20260425030000 -0300" stop="20260425033000 -0300" channel="0629">
+    <title lang="es">Somos la voz</title>
+    <desc lang="es">Una visión joven de nuestra sociedad actual con propuestas para influenciar y generar un cambio positivo.</desc>
+  </programme>
+  <programme start="20260425033000 -0300" stop="20260425040000 -0300" channel="0629">
+    <title lang="es">Edificados por la palabra</title>
+    <desc lang="es">Desde Ushuaia, Tierra del Fuego del Espíritu Santo, Fabián Rotemberg funda los cimientos de una sólida vida cristiana.</desc>
+  </programme>
+  <programme start="20260425040000 -0300" stop="20260425050000 -0300" channel="0629">
+    <title lang="es">Cantaré al señor - Lo mejor</title>
+    <desc lang="es">Canciones e himnos de ayer, de hoy y de siempre.</desc>
+  </programme>
+  <programme start="20260425050000 -0300" stop="20260425053000 -0300" channel="0629">
+    <title lang="es">Yo lo viví</title>
+    <desc lang="es">Historias de Vida en Primera persona, contada por sus Protagonistas.</desc>
+  </programme>
+  <programme start="20260425053000 -0300" stop="20260425063000 -0300" channel="0629">
+    <title lang="es">Noche de oración</title>
+    <desc lang="es">Una hora dedicada a orar por las necesidades de los televidentes.</desc>
+  </programme>
+  <programme start="20260425063000 -0300" stop="20260425073000 -0300" channel="0629">
+    <title lang="es">La puerta abierta</title>
+    <desc lang="es">Un segmento de atractivo general, conducido por Juan Pablo Bongarrá. En esta edición, se abordan temas de la vida diaria y sobre todo espiritual, incluyendo datos de interés, notas, entrevistas a diferentes personalidades, debates, informes especiales y mucho más. Todo, en vivo desde Buenos Aires.</desc>
+  </programme>
+  <programme start="20260425073000 -0300" stop="20260425074500 -0300" channel="0629">
+    <title lang="es">Centro de avivamiento familiar</title>
+    <desc lang="es">El fuego de Dios produce un despertar en la vida del creyente.</desc>
+  </programme>
+  <programme start="20260425074500 -0300" stop="20260425080000 -0300" channel="0629">
+    <title lang="es">Un mensaje a la conciencia</title>
+    <desc lang="es">Breves anécdotas para despertar la conciencia del pueblo hispano.</desc>
+  </programme>
+  <programme start="20260425080000 -0300" stop="20260425083000 -0300" channel="0629">
+    <title lang="es">Los 4 Evangelios</title>
+    <desc lang="es">Segmentos de los escritos de Mateo, Marcos, Lucas y Juan, que trae la narrativa original de Jesús a la pantalla utilizando el texto del Evangelio como guión, palabra por palabra.</desc>
+  </programme>
+  <programme start="20260425083000 -0300" stop="20260425093000 -0300" channel="0629">
+    <title lang="es">Un tiempo con Jesús</title>
+    <desc lang="es">Acompaña al evangelista Carlos Annacondia en este espacio en el cual podrás conocer diferentes reflexiones y exhortaciones acerca de la palabra de Dios, enlazados con algunos consejos útiles para avivar la fe. Además, miles de personas acuden con Carlos en busca de la sobrenatural ayuda de Dios en distintas ciudades de Argentina y el mundo.</desc>
+  </programme>
+  <programme start="20260425093000 -0300" stop="20260425100000 -0300" channel="0629">
+    <title lang="es">Una paloma sobre el mundo</title>
+    <desc lang="es">Más que un símbolo, un deseo de paz para el mundo entero, es la propuesta de este programa conducido por Alberto Rey.</desc>
+  </programme>
+  <programme start="20260425100000 -0300" stop="20260425110000 -0300" channel="0629">
+    <title lang="es">Iglesia Redentor</title>
+    <desc lang="es">Sé partícipe de un encuentro diferente en el que podrás conocer las enseñanzas de las sagradas escrituras, entablar un dialogo con Dios a través de la oración y experimentar su gracia en tu vida. Con la conducción de Daniel Cattaneo.</desc>
+  </programme>
+  <programme start="20260425110000 -0300" stop="20260425113000 -0300" channel="0629">
+    <title lang="es">La palabra de Dios</title>
+    <desc lang="es">Los Pastores rosarinos José María Silvestri y Norberto Carlini nos explican con un lenguaje bien comprensible los conceptos primordiales de la Biblia.</desc>
+  </programme>
+  <programme start="20260425113000 -0300" stop="20260425120000 -0300" channel="0629">
+    <title lang="es">Viviendo en el plan de Dios</title>
+    <desc lang="es">Un espacio en el que Pablo Silvestri y Víctor Rodríguez exponen principios prácticos con maestría y profundidad.</desc>
+  </programme>
+  <programme start="20260425120000 -0300" stop="20260425123000 -0300" channel="0629">
+    <title lang="es">Tutti y los frutis</title>
+    <desc lang="es">Tutti, los frutis y mango te esperan para vivir increíbles aventuras!.</desc>
+  </programme>
+  <programme start="20260425123000 -0300" stop="20260425133000 -0300" channel="0629">
+    <title lang="es">Scroll</title>
+    <desc lang="es">No hay información disponible.</desc>
+  </programme>
+  <programme start="20260425133000 -0300" stop="20260425143000 -0300" channel="0629">
+    <title lang="es">La posta</title>
+    <desc lang="es">Espacio de contenido religioso.</desc>
+  </programme>
+  <programme start="20260425143000 -0300" stop="20260425144500 -0300" channel="0629">
+    <title lang="es">Sembrar valores</title>
+    <desc lang="es">La estrategia para el cambio. Desde Mendoza, con Víctor Doroschuk.</desc>
+  </programme>
+  <programme start="20260425144500 -0300" stop="20260425150000 -0300" channel="0629">
+    <title lang="es">Musicales</title>
+    <desc lang="es">Disfruta de un espacio con grandes dosis de entretenimiento, con una agenda musical variada a través de la cual podrás disfrutar de tus éxitos favoritos.</desc>
+  </programme>
+  <programme start="20260425150000 -0300" stop="20260425153000 -0300" channel="0629">
+    <title lang="es">Gente nueva</title>
+    <desc lang="es">Edición en la que podrás conocer algunos testimonios reveladores y a la vez conmovedores de personas que experimentaron un cambio de vida radical, mediante la presencia y gracia de Dios, con un toque edificante.</desc>
+  </programme>
+  <programme start="20260425153000 -0300" stop="20260425160000 -0300" channel="0629">
+    <title lang="es">Haciendo Iglesia</title>
+    <desc lang="es">Haciendo Iglesia Podcast existe para ayudar a pastores y líderes de iglesias a crecer. Somos mejores cuando estamos juntos. Este podcast será una conversación donde crecemos juntos, en aprender la voluntad de Dios para Su Iglesia.</desc>
+  </programme>
+  <programme start="20260425160000 -0300" stop="20260425163000 -0300" channel="0629">
+    <title lang="es">Bendita luz</title>
+    <desc lang="es">En compañía de la apóstol María Rosa de Morellato, recibe esa palabra de aliento y poder que tanto has esperado, para que vivas siempre lleno de alegría, fe y esperanza.</desc>
+  </programme>
+  <programme start="20260425163000 -0300" stop="20260425170000 -0300" channel="0629">
+    <title lang="es">Tiempo de bendición</title>
+    <desc lang="es">El Apóstol Oscar Agüero comparte un mensaje de fe, ánimo e inspiración con los espectadores, sobre la presencia de Dios en la vida del ser humano, a la vez que ofrece algunos consejos de utilidad para fortalecer nuestras creencias.</desc>
+  </programme>
+  <programme start="20260425170000 -0300" stop="20260425173000 -0300" channel="0629">
+    <title lang="es">Lo hablamos en familia</title>
+    <desc lang="es">No hay información disponible.</desc>
+  </programme>
+  <programme start="20260425173000 -0300" stop="20260425180000 -0300" channel="0629">
+    <title lang="es">Cartas abiertas</title>
+    <desc lang="es">Un espacio en el que se transmiten especiales de distintos países del continente americano.</desc>
+  </programme>
+  <programme start="20260425180000 -0300" stop="20260425183000 -0300" channel="0629">
+    <title lang="es">Iglesia de la ciudad</title>
+    <desc lang="es">Desde Resistencia, José Luis Cinalli comparte experiencias que enriquecerán tu vida familiar.</desc>
+  </programme>
+  <programme start="20260425183000 -0300" stop="20260425190000 -0300" channel="0629">
+    <title lang="es">Justo a tiempo</title>
+    <desc lang="es">Claudio Freidzon nos estimula a pasar tiempo en la presencia de Dios.</desc>
+  </programme>
+  <programme start="20260425190000 -0300" stop="20260425210000 -0300" channel="0629">
+    <title lang="es">I.E.M.A</title>
+    <desc lang="es">Conferencias en vivo desde el auditorio de la Iglesia Evangélica Misionera Argentina. El público podrá disfrutar de un momento de reflexión e introspección espiritual a través de la interpretación de la Palabra de Cristo.</desc>
+  </programme>
+  <programme start="20260425210000 -0300" stop="20260425220000 -0300" channel="0629">
+    <title lang="es">Un día a la vez</title>
+    <desc lang="es">Enseñanzas bíblicas magistrales por el pastor y maestro Raúl David Caballero.</desc>
+  </programme>
+  <programme start="20260425220000 -0300" stop="20260425230000 -0300" channel="0629">
+    <title lang="es">Catedral de la Fe</title>
+    <desc lang="es">El Pastor Osvaldo Carnival predica una palabra de esperanza desde la Catedral de la Fe en Buenos Aires Argentina.</desc>
+  </programme>
+  <programme start="20260425230000 -0300" stop="20260425233000 -0300" channel="0629">
+    <title lang="es">Musicales</title>
+    <desc lang="es">Disfruta de un espacio con grandes dosis de entretenimiento, con una agenda musical variada a través de la cual podrás disfrutar de tus éxitos favoritos.</desc>
+  </programme>
+  <programme start="20260425233000 -0300" stop="20260426000000 -0300" channel="0629">
+    <title lang="es">Momento decisivo</title>
+    <desc lang="es">Momento Decisivo es un programa radial diario de media hora, dedicado a la enseñanza sana y profunda de la Palabra de Dios, la Biblia. El compromiso del Dr. Jeremiah es atraer a las personas al conocimiento de la enseñanzas divinas.</desc>
+  </programme>
+  <programme start="20260426000000 -0300" stop="20260426003000 -0300" channel="0629">
+    <title lang="es">Jóvenes héroes</title>
+    <desc lang="es">Xavier Ferro motiva a la juventud de fe a vivir al máximo su experiencia cristiana.</desc>
+  </programme>
+  <programme start="20260426003000 -0300" stop="20260426013000 -0300" channel="0629">
+    <title lang="es">La posta</title>
+    <desc lang="es">Espacio de contenido religioso.</desc>
+  </programme>
+  <programme start="20260426013000 -0300" stop="20260426020000 -0300" channel="0629">
+    <title lang="es">Gente nueva</title>
+    <desc lang="es">Edición en la que podrás conocer algunos testimonios reveladores y a la vez conmovedores de personas que experimentaron un cambio de vida radical, mediante la presencia y gracia de Dios, con un toque edificante.</desc>
+  </programme>
+  <programme start="20260426020000 -0300" stop="20260426023000 -0300" channel="0629">
+    <title lang="es">Haciendo Iglesia</title>
+    <desc lang="es">Haciendo Iglesia Podcast existe para ayudar a pastores y líderes de iglesias a crecer. Somos mejores cuando estamos juntos. Este podcast será una conversación donde crecemos juntos, en aprender la voluntad de Dios para Su Iglesia.</desc>
+  </programme>
+  <programme start="20260426023000 -0300" stop="20260426030000 -0300" channel="0629">
+    <title lang="es">Bendita luz</title>
+    <desc lang="es">En compañía de la apóstol María Rosa de Morellato, recibe esa palabra de aliento y poder que tanto has esperado, para que vivas siempre lleno de alegría, fe y esperanza.</desc>
+  </programme>
+  <programme start="20260426030000 -0300" stop="20260426033000 -0300" channel="0629">
+    <title lang="es">Tiempo de bendición</title>
+    <desc lang="es">El Apóstol Oscar Agüero comparte un mensaje de fe, ánimo e inspiración con los espectadores, sobre la presencia de Dios en la vida del ser humano, a la vez que ofrece algunos consejos de utilidad para fortalecer nuestras creencias.</desc>
+  </programme>
+  <programme start="20260426033000 -0300" stop="20260426040000 -0300" channel="0629">
+    <title lang="es">Lo hablamos en familia</title>
+    <desc lang="es">No hay información disponible.</desc>
+  </programme>
+  <programme start="20260426040000 -0300" stop="20260426043000 -0300" channel="0629">
+    <title lang="es">Cartas abiertas</title>
+    <desc lang="es">Un espacio en el que se transmiten especiales de distintos países del continente americano.</desc>
+  </programme>
+  <programme start="20260426043000 -0300" stop="20260426050000 -0300" channel="0629">
+    <title lang="es">Iglesia de la ciudad</title>
+    <desc lang="es">Desde Resistencia, José Luis Cinalli comparte experiencias que enriquecerán tu vida familiar.</desc>
+  </programme>
+  <programme start="20260426050000 -0300" stop="20260426053000 -0300" channel="0629">
+    <title lang="es">Una paloma sobre el mundo</title>
+    <desc lang="es">Más que un símbolo, un deseo de paz para el mundo entero, es la propuesta de este programa conducido por Alberto Rey.</desc>
+  </programme>
+  <programme start="20260426053000 -0300" stop="20260426063000 -0300" channel="0629">
+    <title lang="es">Un tiempo con Jesús</title>
+    <desc lang="es">Acompaña al evangelista Carlos Annacondia en este espacio en el cual podrás conocer diferentes reflexiones y exhortaciones acerca de la palabra de Dios, enlazados con algunos consejos útiles para avivar la fe. Además, miles de personas acuden con Carlos en busca de la sobrenatural ayuda de Dios en distintas ciudades de Argentina y el mundo.</desc>
+  </programme>
+  <programme start="20260426063000 -0300" stop="20260426073000 -0300" channel="0629">
+    <title lang="es">Iglesia Redentor</title>
+    <desc lang="es">Sé partícipe de un encuentro diferente en el que podrás conocer las enseñanzas de las sagradas escrituras, entablar un dialogo con Dios a través de la oración y experimentar su gracia en tu vida. Con la conducción de Daniel Cattaneo.</desc>
+  </programme>
+  <programme start="20260426073000 -0300" stop="20260426074500 -0300" channel="0629">
+    <title lang="es">Centro de avivamiento familiar</title>
+    <desc lang="es">El fuego de Dios produce un despertar en la vida del creyente.</desc>
+  </programme>
+  <programme start="20260426074500 -0300" stop="20260426080000 -0300" channel="0629">
+    <title lang="es">Un mensaje a la conciencia</title>
+    <desc lang="es">Breves anécdotas para despertar la conciencia del pueblo hispano.</desc>
+  </programme>
+  <programme start="20260426080000 -0300" stop="20260426083000 -0300" channel="0629">
+    <title lang="es">Los 4 Evangelios</title>
+    <desc lang="es">Segmentos de los escritos de Mateo, Marcos, Lucas y Juan, que trae la narrativa original de Jesús a la pantalla utilizando el texto del Evangelio como guión, palabra por palabra.</desc>
+  </programme>
+  <programme start="20260426083000 -0300" stop="20260426090000 -0300" channel="0629">
+    <title lang="es">La verdad y nada más</title>
+    <desc lang="es">Espacio que busca sembrar los valores que la sociedad necesita, en el que el pastor Victor Doroschuk brinda una enseñanza sobre la oración de Jesús.</desc>
+  </programme>
+  <programme start="20260426090000 -0300" stop="20260426100000 -0300" channel="0629">
+    <title lang="es">Catedral de milagros</title>
+    <desc lang="es">Una Iglesia adoradora, sanadora y restauradora. La meta principal es que todos aprendan a ministrar de Cristo en un mundo de necesidad.</desc>
+  </programme>
+  <programme start="20260426100000 -0300" stop="20260426110000 -0300" channel="0629">
+    <title lang="es">Clásicos de Canal Luz</title>
+    <desc lang="es">Revivimos los momentos más memorables de nuestra programación.</desc>
+  </programme>
+  <programme start="20260426110000 -0300" stop="20260426120000 -0300" channel="0629">
+    <title lang="es">Visión de futuro</title>
+    <desc lang="es">Acompaña al reverendo Omar Cabrera en esta edición en la que presenta algunos mensajes de fe y esperanza inspirados en las enseñanzas bíblicas, para que puedas edificar tu alma a través del encuentro con Cristo.</desc>
+  </programme>
+  <programme start="20260426120000 -0300" stop="20260426130000 -0300" channel="0629">
+    <title lang="es">Una cita con la vida</title>
+    <desc lang="es">No hay información disponible.</desc>
+  </programme>
+  <programme start="20260426130000 -0300" stop="20260426140000 -0300" channel="0629">
+    <title lang="es">Santuario de fe</title>
+    <desc lang="es">Asista a un encuentro espiritual que le acercará al gran poder de Dios a través de la oración, y a mensajes reveladores e inspiradores sobre las Sagradas Escrituras, con un toque devocional que edificará su alma. Se verá de cara a los testimonios, alabanzas y la Palabra del Creador para así entre todos compartir su enseñanza.</desc>
+  </programme>
+  <programme start="20260426140000 -0300" stop="20260426140700 -0300" channel="0629">
+    <title lang="es">Un mensaje a la conciencia</title>
+    <desc lang="es">Breves anécdotas para despertar la conciencia del pueblo hispano.</desc>
+  </programme>
+  <programme start="20260426140700 -0300" stop="20260426141500 -0300" channel="0629">
+    <title lang="es">Aprender a vivir</title>
+    <desc lang="es">Una pausa para reflexionar sobre las conductas de nuestro diario vivir, junto a Arnoldo Aranda.</desc>
+  </programme>
+  <programme start="20260426141500 -0300" stop="20260426143000 -0300" channel="0629">
+    <title lang="es">Los 4 Evangelios</title>
+    <desc lang="es">Segmentos de los escritos de Mateo, Marcos, Lucas y Juan, que trae la narrativa original de Jesús a la pantalla utilizando el texto del Evangelio como guión, palabra por palabra.</desc>
+  </programme>
+  <programme start="20260426143000 -0300" stop="20260426150000 -0300" channel="0629">
+    <title lang="es">Viviendo en el plan de Dios</title>
+    <desc lang="es">Un espacio en el que Pablo Silvestri y Víctor Rodríguez exponen principios prácticos con maestría y profundidad.</desc>
+  </programme>
+  <programme start="20260426150000 -0300" stop="20260426153000 -0300" channel="0629">
+    <title lang="es">La verdad te hará libre</title>
+    <desc lang="es">Acompaña al pastor Gustavo Ferro en esta edición que motivará tu vida a la fe, guiará tu conocimiento personal de la Verdad y a servir a Dios cumpliendo el mandato de Jesús: Y les dijo: Id por todo el mundo y predicad el evangelio a toda criatura.</desc>
+  </programme>
+  <programme start="20260426153000 -0300" stop="20260426160000 -0300" channel="0629">
+    <title lang="es">Todo es posible</title>
+    <desc lang="es">Los pastores guían e inspiran a través de edificantes mensajes y entrevistas, que encaminan y muestran la presencia de Dios en la gente.</desc>
+  </programme>
+  <programme start="20260426160000 -0300" stop="20260426163000 -0300" channel="0629">
+    <title lang="es">Libros con voz</title>
+    <desc lang="es">Segmento dedicado a los hobbies y al coleccionismo, desde Bahía Blanca, provincia de Buenos Aires, Argentina, para todo el país. Con la conducción de Silvia Rodríguez, se proponen entrevistas amenas, presentando recomendaciones literarias; vas a escuchar a distintos autores de libros, con un mensaje de sanidad, restauración, sabiduría y crecimiento.</desc>
+  </programme>
+  <programme start="20260426163000 -0300" stop="20260426170000 -0300" channel="0629">
+    <title lang="es">Eleva+</title>
+    <desc lang="es">David Passuelo comparte tips para desarrollar una mejor calidad de vida.</desc>
+  </programme>
+  <programme start="20260426170000 -0300" stop="20260426180000 -0300" channel="0629">
+    <title lang="es">Esperanza en la ciudad</title>
+    <desc lang="es">Edición en la cual la Iglesia Evangélica Armenia, a través de Pedro Lapadjian, expone un mensaje de fe y amor con algunas reflexiones para fortalecer la vida del cristiano en la gracia de Dios padre, y que nos alientan a esperar sin desmayar. Además, presenta lectura de la palabra, predicas y algo más.</desc>
+  </programme>
+  <programme start="20260426180000 -0300" stop="20260426191500 -0300" channel="0629">
+    <title lang="es">Cielos abiertos</title>
+    <desc lang="es">Inspiración y motivación son las marca características. La dirección para iniciar la semana con expectativas renovadas, desde la ciudad de Resistencia, en Chaco, con la conducción de Jorge Ledesma.</desc>
+  </programme>
+  <programme start="20260426191500 -0300" stop="20260426210000 -0300" channel="0629">
+    <title lang="es">I.E.M.A</title>
+    <desc lang="es">Conferencias en vivo desde el auditorio de la Iglesia Evangélica Misionera Argentina. El público podrá disfrutar de un momento de reflexión e introspección espiritual a través de la interpretación de la Palabra de Cristo.</desc>
+  </programme>
+  <programme start="20260426210000 -0300" stop="20260426223000 -0300" channel="0629">
+    <title lang="es">Noches CDV</title>
+    <desc lang="es">Revive la experiencia presencial de los domingos en la Noche de CDV, en la que cualquier cosa puede suceder.</desc>
+  </programme>
+  <programme start="20260426223000 -0300" stop="20260426233000 -0300" channel="0629">
+    <title lang="es">Día de bendición</title>
+    <desc lang="es">El pastor Omar Olier conduce este segmento en el cual realiza algunas prédicas y exhortaciones inspiradas en el contenido de las Sagradas Escrituras, para dar un mensaje de fe, esperanza y bendición a tu vida.</desc>
+  </programme>
+  <programme start="20260426233000 -0300" stop="20260427003000 -0300" channel="0629">
+    <title lang="es">Rey de Reyes</title>
+    <desc lang="es">Un espacio que enfatiza en la necesidad de depender de la guía del Espíritu Santo de Dios.</desc>
+  </programme>
+  <programme start="20260427003000 -0300" stop="20260427010000 -0300" channel="0629">
+    <title lang="es">La verdad y nada más</title>
+    <desc lang="es">Espacio que busca sembrar los valores que la sociedad necesita, en el que el pastor Victor Doroschuk brinda una enseñanza sobre la oración de Jesús.</desc>
+  </programme>
+  <programme start="20260427010000 -0300" stop="20260427020000 -0300" channel="0629">
+    <title lang="es">Catedral de milagros</title>
+    <desc lang="es">Una Iglesia adoradora, sanadora y restauradora. La meta principal es que todos aprendan a ministrar de Cristo en un mundo de necesidad.</desc>
+  </programme>
+  <programme start="20260427020000 -0300" stop="20260427030000 -0300" channel="0629">
+    <title lang="es">Clásicos de Canal Luz</title>
+    <desc lang="es">Revivimos los momentos más memorables de nuestra programación.</desc>
+  </programme>
+  <programme start="20260427030000 -0300" stop="20260427040000 -0300" channel="0629">
+    <title lang="es">Visión de futuro</title>
+    <desc lang="es">Acompaña al reverendo Omar Cabrera en esta edición en la que presenta algunos mensajes de fe y esperanza inspirados en las enseñanzas bíblicas, para que puedas edificar tu alma a través del encuentro con Cristo.</desc>
+  </programme>
+  <programme start="20260427040000 -0300" stop="20260427050000 -0300" channel="0629">
+    <title lang="es">Una cita con la vida</title>
+    <desc lang="es">No hay información disponible.</desc>
+  </programme>
+  <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="0629">
+    <title lang="es">Santuario de fe</title>
+    <desc lang="es">Asista a un encuentro espiritual que le acercará al gran poder de Dios a través de la oración, y a mensajes reveladores e inspiradores sobre las Sagradas Escrituras, con un toque devocional que edificará su alma. Se verá de cara a los testimonios, alabanzas y la Palabra del Creador para así entre todos compartir su enseñanza.</desc>
+  </programme>
+  <programme start="20260427060000 -0300" stop="20260427063000 -0300" channel="0629">
+    <title lang="es">Eleva+</title>
+    <desc lang="es">David Passuelo comparte tips para desarrollar una mejor calidad de vida.</desc>
+  </programme>
+  <programme start="20260427063000 -0300" stop="20260427073000 -0300" channel="0629">
+    <title lang="es">Esperanza en la ciudad</title>
+    <desc lang="es">Edición en la cual la Iglesia Evangélica Armenia, a través de Pedro Lapadjian, expone un mensaje de fe y amor con algunas reflexiones para fortalecer la vida del cristiano en la gracia de Dios padre, y que nos alientan a esperar sin desmayar. Además, presenta lectura de la palabra, predicas y algo más.</desc>
+  </programme>
+  <programme start="20260427073000 -0300" stop="20260427074500 -0300" channel="0629">
+    <title lang="es">Centro de avivamiento familiar</title>
+    <desc lang="es">El fuego de Dios produce un despertar en la vida del creyente.</desc>
+  </programme>
+  <programme start="20260427074500 -0300" stop="20260427080000 -0300" channel="0629">
+    <title lang="es">Un mensaje a la conciencia</title>
+    <desc lang="es">Breves anécdotas para despertar la conciencia del pueblo hispano.</desc>
+  </programme>
+  <programme start="20260427080000 -0300" stop="20260427100000 -0300" channel="0629">
+    <title lang="es">La caldera de oración</title>
+    <desc lang="es">Comienza el dia orando a Dios.</desc>
+  </programme>
+  <programme start="20260427100000 -0300" stop="20260427110000 -0300" channel="0629">
+    <title lang="es">Mañanas sofisticadas</title>
+    <desc lang="es">Un espacio de contenido religioso con charlas dinámicas sobre aprendizaje y crecimiento personal, invitados especiales y muy buen humor.</desc>
+  </programme>
+  <programme start="20260427110000 -0300" stop="20260427120000 -0300" channel="0629">
+    <title lang="es">Visión de futuro</title>
+    <desc lang="es">Acompaña al reverendo Omar Cabrera en esta edición en la que presenta algunos mensajes de fe y esperanza inspirados en las enseñanzas bíblicas, para que puedas edificar tu alma a través del encuentro con Cristo.</desc>
+  </programme>
+  <programme start="20260427120000 -0300" stop="20260427123000 -0300" channel="0629">
+    <title lang="es">Viviendo en el plan de Dios</title>
+    <desc lang="es">Un espacio en el que Pablo Silvestri y Víctor Rodríguez exponen principios prácticos con maestría y profundidad.</desc>
+  </programme>
+  <programme start="20260427123000 -0300" stop="20260427130000 -0300" channel="0629">
+    <title lang="es">Eleva+</title>
+    <desc lang="es">David Passuelo comparte tips para desarrollar una mejor calidad de vida.</desc>
+  </programme>
+  <programme start="20260427130000 -0300" stop="20260427140000 -0300" channel="0629">
+    <title lang="es">Palabra de aliento</title>
+    <desc lang="es">En vivo desde La Matanza, la familia de pastores Pereda comparten ricas experiencias de años caminando inspirados por la Biblia, la Palabra de Dios.</desc>
+  </programme>
+  <programme start="20260427140000 -0300" stop="20260427140600 -0300" channel="0629">
+    <title lang="es">Nueva vida</title>
+    <desc lang="es">Breves reflexiones para alimentar el alma. Conducen Erich y Marcos Würfel desde Concordia, Entre Ríos. Obra Misionera Nueva Vida.</desc>
+  </programme>
+  <programme start="20260427140600 -0300" stop="20260427141200 -0300" channel="0629">
+    <title lang="es">Un mensaje a la conciencia</title>
+    <desc lang="es">Breves anécdotas para despertar la conciencia del pueblo hispano.</desc>
+  </programme>
+  <programme start="20260427141200 -0300" stop="20260427141500 -0300" channel="0629">
+    <title lang="es">Aprender a vivir</title>
+    <desc lang="es">Una pausa para reflexionar sobre las conductas de nuestro diario vivir, junto a Arnoldo Aranda.</desc>
+  </programme>
+  <programme start="20260427141500 -0300" stop="20260427144500 -0300" channel="0629">
+    <title lang="es">Cartas abiertas</title>
+    <desc lang="es">Un espacio en el que se transmiten especiales de distintos países del continente americano.</desc>
+  </programme>
+  <programme start="20260427144500 -0300" stop="20260427150000 -0300" channel="0629">
+    <title lang="es">Grandes verdades</title>
+    <desc lang="es">Con la Apóstol Stella Agüero, con una palabra actual de parte de Dios, llevándote a reflexionar para poder experimentar un crecimiento espiritual. Cada mensaje es pensando en la familia, para que puedan haber cambios en los matrimonios y experimentar la paz y alegría de Dios en los hogares.</desc>
+  </programme>
+  <programme start="20260427150000 -0300" stop="20260427153000 -0300" channel="0629">
+    <title lang="es">Hillsong Latam TV</title>
+    <desc lang="es">El mensaje de Chris es simple y práctico y te motivará a crecer y vivir tu vida reflejando el corazón de Dios hacia las personas.</desc>
+  </programme>
+  <programme start="20260427153000 -0300" stop="20260427160000 -0300" channel="0629">
+    <title lang="es">Backstage</title>
+    <desc lang="es">Un programa que propone un viaje a través de diferentes estilos musicales, donde conocerás los autores y las historias que inspiraron algunas de las canciones más conocidas e influyentes de la música cristiana en Uruguay y en América Latina.</desc>
+  </programme>
+  <programme start="20260427160000 -0300" stop="20260427163000 -0300" channel="0629">
+    <title lang="es">Enciende una luz</title>
+    <desc lang="es">Mediante esta ventana se difunde el mensaje de Dios, escrito en los textos sagrados de la Biblia. Te invitamos a que goces de su divinidad, te acerques mediante la oración y agradezcas sus bendiciones. Tu vida puede ser un reflejo de Dios para bien de otros.</desc>
+  </programme>
+  <programme start="20260427163000 -0300" stop="20260427170000 -0300" channel="0629">
+    <title lang="es">La verdad y nada más</title>
+    <desc lang="es">Espacio que busca sembrar los valores que la sociedad necesita, en el que el pastor Victor Doroschuk brinda una enseñanza sobre la oración de Jesús.</desc>
+  </programme>
+  <programme start="20260427170000 -0300" stop="20260427173000 -0300" channel="0629">
+    <title lang="es">Somos la voz</title>
+    <desc lang="es">Una visión joven de nuestra sociedad actual con propuestas para influenciar y generar un cambio positivo.</desc>
+  </programme>
+  <programme start="20260427173000 -0300" stop="20260427180000 -0300" channel="0629">
+    <title lang="es">Momento decisivo</title>
+    <desc lang="es">Momento Decisivo es un programa radial diario de media hora, dedicado a la enseñanza sana y profunda de la Palabra de Dios, la Biblia. El compromiso del Dr. Jeremiah es atraer a las personas al conocimiento de la enseñanzas divinas.</desc>
+  </programme>
+  <programme start="20260427180000 -0300" stop="20260427183000 -0300" channel="0629">
+    <title lang="es">Vida dura</title>
+    <desc lang="es">No hay información disponible.</desc>
+  </programme>
+  <programme start="20260427183000 -0300" stop="20260427190000 -0300" channel="0629">
+    <title lang="es">Superlibro</title>
+    <desc lang="es">Aventuras que capturan la imaginación de niños alrededor del mundo con Anita, Luis y su simpático robot, Tuercas. Junto con ellos, niños de todas las edades aprenden sobre las asombrosas historias de la Biblia.</desc>
+  </programme>
+  <programme start="20260427190000 -0300" stop="20260427200000 -0300" channel="0629">
+    <title lang="es">Scroll</title>
+    <desc lang="es">No hay información disponible.</desc>
+  </programme>
+  <programme start="20260427200000 -0300" stop="20260427210000 -0300" channel="0629">
+    <title lang="es">Tiempo extra</title>
+    <desc lang="es">Leandro y Rolando nos traen las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte. Con móviles, invitados, un poco de humor y mucho más.</desc>
+  </programme>
+  <programme start="20260427210000 -0300" stop="20260427220000 -0300" channel="0629">
+    <title lang="es">La puerta abierta</title>
+    <desc lang="es">Un segmento de atractivo general, conducido por Juan Pablo Bongarrá. En esta edición, se abordan temas de la vida diaria y sobre todo espiritual, incluyendo datos de interés, notas, entrevistas a diferentes personalidades, debates, informes especiales y mucho más. Todo, en vivo desde Buenos Aires.</desc>
+  </programme>
+  <programme start="20260427220000 -0300" stop="20260427223000 -0300" channel="0629">
+    <title lang="es">Justo a tiempo</title>
+    <desc lang="es">Claudio Freidzon nos estimula a pasar tiempo en la presencia de Dios.</desc>
+  </programme>
+  <programme start="20260427223000 -0300" stop="20260427230000 -0300" channel="0629">
+    <title lang="es">Vive +</title>
+    <desc lang="es">No hay información disponible.</desc>
+  </programme>
+  <programme start="20260427230000 -0300" stop="20260428000000 -0300" channel="0629">
+    <title lang="es">Un tiempo con Jesús</title>
+    <desc lang="es">Acompaña al evangelista Carlos Annacondia en este espacio en el cual podrás conocer diferentes reflexiones y exhortaciones acerca de la palabra de Dios, enlazados con algunos consejos útiles para avivar la fe. Además, miles de personas acuden con Carlos en busca de la sobrenatural ayuda de Dios en distintas ciudades de Argentina y el mundo.</desc>
+  </programme>
+  <programme start="20260428000000 -0300" stop="20260428000600 -0300" channel="0629">
+    <title lang="es">Nueva vida</title>
+    <desc lang="es">Breves reflexiones para alimentar el alma. Conducen Erich y Marcos Würfel desde Concordia, Entre Ríos. Obra Misionera Nueva Vida.</desc>
+  </programme>
+  <programme start="20260428000600 -0300" stop="20260428001200 -0300" channel="0629">
+    <title lang="es">Un mensaje a la conciencia</title>
+    <desc lang="es">Breves anécdotas para despertar la conciencia del pueblo hispano.</desc>
+  </programme>
+  <programme start="20260428001200 -0300" stop="20260428001500 -0300" channel="0629">
+    <title lang="es">Aprender a vivir</title>
+    <desc lang="es">Una pausa para reflexionar sobre las conductas de nuestro diario vivir, junto a Arnoldo Aranda.</desc>
+  </programme>
+  <programme start="20260428001500 -0300" stop="20260428004500 -0300" channel="0629">
+    <title lang="es">Cartas abiertas</title>
+    <desc lang="es">Un espacio en el que se transmiten especiales de distintos países del continente americano.</desc>
+  </programme>
+  <programme start="20260428004500 -0300" stop="20260428010000 -0300" channel="0629">
+    <title lang="es">Grandes verdades</title>
+    <desc lang="es">Con la Apóstol Stella Agüero, con una palabra actual de parte de Dios, llevándote a reflexionar para poder experimentar un crecimiento espiritual. Cada mensaje es pensando en la familia, para que puedan haber cambios en los matrimonios y experimentar la paz y alegría de Dios en los hogares.</desc>
+  </programme>
+  <programme start="20260428010000 -0300" stop="20260428013000 -0300" channel="0629">
+    <title lang="es">Hillsong Latam TV</title>
+    <desc lang="es">El mensaje de Chris es simple y práctico y te motivará a crecer y vivir tu vida reflejando el corazón de Dios hacia las personas.</desc>
+  </programme>
+  <programme start="20260428013000 -0300" stop="20260428020000 -0300" channel="0629">
+    <title lang="es">Backstage</title>
+    <desc lang="es">Un programa que propone un viaje a través de diferentes estilos musicales, donde conocerás los autores y las historias que inspiraron algunas de las canciones más conocidas e influyentes de la música cristiana en Uruguay y en América Latina.</desc>
+  </programme>
+  <programme start="20260428020000 -0300" stop="20260428023000 -0300" channel="0629">
+    <title lang="es">Enciende una luz</title>
+    <desc lang="es">Mediante esta ventana se difunde el mensaje de Dios, escrito en los textos sagrados de la Biblia. Te invitamos a que goces de su divinidad, te acerques mediante la oración y agradezcas sus bendiciones. Tu vida puede ser un reflejo de Dios para bien de otros.</desc>
+  </programme>
+  <programme start="20260428023000 -0300" stop="20260428030000 -0300" channel="0629">
+    <title lang="es">La verdad y nada más</title>
+    <desc lang="es">Espacio que busca sembrar los valores que la sociedad necesita, en el que el pastor Victor Doroschuk brinda una enseñanza sobre la oración de Jesús.</desc>
+  </programme>
+  <programme start="20260428030000 -0300" stop="20260428033000 -0300" channel="0629">
+    <title lang="es">Somos la voz</title>
+    <desc lang="es">Una visión joven de nuestra sociedad actual con propuestas para influenciar y generar un cambio positivo.</desc>
+  </programme>
+  <programme start="20260428033000 -0300" stop="20260428040000 -0300" channel="0629">
+    <title lang="es">Momento decisivo</title>
+    <desc lang="es">Momento Decisivo es un programa radial diario de media hora, dedicado a la enseñanza sana y profunda de la Palabra de Dios, la Biblia. El compromiso del Dr. Jeremiah es atraer a las personas al conocimiento de la enseñanzas divinas.</desc>
+  </programme>
+  <programme start="20260428040000 -0300" stop="20260428043000 -0300" channel="0629">
+    <title lang="es">Vida dura</title>
+    <desc lang="es">No hay información disponible.</desc>
+  </programme>
+  <programme start="20260428043000 -0300" stop="20260428053000 -0300" channel="0629">
+    <title lang="es">Un tiempo con Jesús</title>
+    <desc lang="es">Acompaña al evangelista Carlos Annacondia en este espacio en el cual podrás conocer diferentes reflexiones y exhortaciones acerca de la palabra de Dios, enlazados con algunos consejos útiles para avivar la fe. Además, miles de personas acuden con Carlos en busca de la sobrenatural ayuda de Dios en distintas ciudades de Argentina y el mundo.</desc>
+  </programme>
+  <programme start="20260428053000 -0300" stop="20260428063000 -0300" channel="0629">
+    <title lang="es">Scroll</title>
+    <desc lang="es">No hay información disponible.</desc>
+  </programme>
+  <programme start="20260428063000 -0300" stop="20260428073000 -0300" channel="0629">
+    <title lang="es">La puerta abierta</title>
+    <desc lang="es">Un segmento de atractivo general, conducido por Juan Pablo Bongarrá. En esta edición, se abordan temas de la vida diaria y sobre todo espiritual, incluyendo datos de interés, notas, entrevistas a diferentes personalidades, debates, informes especiales y mucho más. Todo, en vivo desde Buenos Aires.</desc>
+  </programme>
+  <programme start="20260428073000 -0300" stop="20260428074500 -0300" channel="0629">
+    <title lang="es">Centro de avivamiento familiar</title>
+    <desc lang="es">El fuego de Dios produce un despertar en la vida del creyente.</desc>
+  </programme>
+  <programme start="20260428074500 -0300" stop="20260428080000 -0300" channel="0629">
+    <title lang="es">Un mensaje a la conciencia</title>
+    <desc lang="es">Breves anécdotas para despertar la conciencia del pueblo hispano.</desc>
+  </programme>
+  <programme start="20260428080000 -0300" stop="20260428100000 -0300" channel="0629">
+    <title lang="es">La caldera de oración</title>
+    <desc lang="es">Comienza el dia orando a Dios.</desc>
+  </programme>
+  <programme start="20260428100000 -0300" stop="20260428110000 -0300" channel="0629">
+    <title lang="es">Mañanas sofisticadas</title>
+    <desc lang="es">Un espacio de contenido religioso con charlas dinámicas sobre aprendizaje y crecimiento personal, invitados especiales y muy buen humor.</desc>
+  </programme>
+  <programme start="20260428110000 -0300" stop="20260428120000 -0300" channel="0629">
+    <title lang="es">Día de bendición</title>
+    <desc lang="es">El pastor Omar Olier conduce este segmento en el cual realiza algunas prédicas y exhortaciones inspiradas en el contenido de las Sagradas Escrituras, para dar un mensaje de fe, esperanza y bendición a tu vida.</desc>
+  </programme>
+  <programme start="20260428120000 -0300" stop="20260428123000 -0300" channel="0629">
+    <title lang="es">La palabra de Dios</title>
+    <desc lang="es">Los Pastores rosarinos José María Silvestri y Norberto Carlini nos explican con un lenguaje bien comprensible los conceptos primordiales de la Biblia.</desc>
+  </programme>
+  <programme start="20260428123000 -0300" stop="20260428130000 -0300" channel="0629">
+    <title lang="es">Tiempo de bendición</title>
+    <desc lang="es">El Apóstol Oscar Agüero comparte un mensaje de fe, ánimo e inspiración con los espectadores, sobre la presencia de Dios en la vida del ser humano, a la vez que ofrece algunos consejos de utilidad para fortalecer nuestras creencias.</desc>
+  </programme>
+  <programme start="20260428130000 -0300" stop="20260428133000 -0300" channel="0629">
+    <title lang="es">Avivamiento</title>
+    <desc lang="es">Un encuentro diferente en el que se presentará, mediante alabanzas, cantos y prédicas del evangelio, la renovación de la vida a través de la gracia de Dios, con un toque emotivo, profundo y espiritual.</desc>
+  </programme>
+  <programme start="20260428133000 -0300" stop="20260428143000 -0300" channel="0629">
+    <title lang="es">I.E.M.A</title>
+    <desc lang="es">Conferencias en vivo desde el auditorio de la Iglesia Evangélica Misionera Argentina. El público podrá disfrutar de un momento de reflexión e introspección espiritual a través de la interpretación de la Palabra de Cristo.</desc>
+  </programme>
+  <programme start="20260428143000 -0300" stop="20260428150000 -0300" channel="0629">
+    <title lang="es">Bendita luz</title>
+    <desc lang="es">En compañía de la apóstol María Rosa de Morellato, recibe esa palabra de aliento y poder que tanto has esperado, para que vivas siempre lleno de alegría, fe y esperanza.</desc>
+  </programme>
+  <programme start="20260428150000 -0300" stop="20260428153000 -0300" channel="0629">
+    <title lang="es">La verdad te hará libre</title>
+    <desc lang="es">Acompaña al pastor Gustavo Ferro en esta edición que motivará tu vida a la fe, guiará tu conocimiento personal de la Verdad y a servir a Dios cumpliendo el mandato de Jesús: Y les dijo: Id por todo el mundo y predicad el evangelio a toda criatura.</desc>
+  </programme>
+  <programme start="20260428153000 -0300" stop="20260428160000 -0300" channel="0629">
+    <title lang="es">Torre de oración</title>
+    <desc lang="es">Emisión en la que podrás experimentar un encuentro diferente con Dios, a través de cantos de alabanza, oración constante y la predicación del evangelio por pastores cristianos que te edificarán en la gracia del creador.</desc>
+  </programme>
+  <programme start="20260428160000 -0300" stop="20260428170000 -0300" channel="0629">
+    <title lang="es">Iglesia Redentor</title>
+    <desc lang="es">Sé partícipe de un encuentro diferente en el que podrás conocer las enseñanzas de las sagradas escrituras, entablar un dialogo con Dios a través de la oración y experimentar su gracia en tu vida. Con la conducción de Daniel Cattaneo.</desc>
+  </programme>
+  <programme start="20260428170000 -0300" stop="20260428173000 -0300" channel="0629">
+    <title lang="es">Jesús está aquí</title>
+    <desc lang="es">Acompaña al pastor Marcelo D&#x27;Emilio del Ministerio Apostólico Internacional &#x27;Jesús está aquí&#x27;, quien realiza una serie de exhortaciones y predicación de la Palabra para dar a conocer al espectador el mensaje del Señor y la seguridad de su compañía permanente.</desc>
+  </programme>
+  <programme start="20260428173000 -0300" stop="20260428180000 -0300" channel="0629">
+    <title lang="es">Iglesia de la ciudad</title>
+    <desc lang="es">Desde Resistencia, José Luis Cinalli comparte experiencias que enriquecerán tu vida familiar.</desc>
+  </programme>
+  <programme start="20260428180000 -0300" stop="20260428190000 -0300" channel="0629">
+    <title lang="es">Vuelve a empezar</title>
+    <desc lang="es">Acompaña al pastor Juan Herrera en esta edición en la cual se encarga de ofrecer diferentes prédicas del Evangelio, con mensajes emotivos y reflexiones que guían a iniciar un camino en total comunión con Dios.</desc>
+  </programme>
+  <programme start="20260428190000 -0300" stop="20260428200000 -0300" channel="0629">
+    <title lang="es">Catedral de la Fe</title>
+    <desc lang="es">El Pastor Osvaldo Carnival predica una palabra de esperanza desde la Catedral de la Fe en Buenos Aires Argentina.</desc>
+  </programme>
+  <programme start="20260428200000 -0300" stop="20260428210000 -0300" channel="0629">
+    <title lang="es">I.E.M.A</title>
+    <desc lang="es">Conferencias en vivo desde el auditorio de la Iglesia Evangélica Misionera Argentina. El público podrá disfrutar de un momento de reflexión e introspección espiritual a través de la interpretación de la Palabra de Cristo.</desc>
+  </programme>
+  <programme start="20260428210000 -0300" stop="20260428220000 -0300" channel="0629">
+    <title lang="es">La puerta abierta</title>
+    <desc lang="es">Un segmento de atractivo general, conducido por Juan Pablo Bongarrá. En esta edición, se abordan temas de la vida diaria y sobre todo espiritual, incluyendo datos de interés, notas, entrevistas a diferentes personalidades, debates, informes especiales y mucho más. Todo, en vivo desde Buenos Aires.</desc>
+  </programme>
+  <programme start="20260428220000 -0300" stop="20260428223000 -0300" channel="0629">
+    <title lang="es">Justo a tiempo</title>
+    <desc lang="es">Claudio Freidzon nos estimula a pasar tiempo en la presencia de Dios.</desc>
+  </programme>
+  <programme start="20260428223000 -0300" stop="20260428230000 -0300" channel="0629">
+    <title lang="es">Vive +</title>
+    <desc lang="es">No hay información disponible.</desc>
+  </programme>
+  <programme start="20260428230000 -0300" stop="20260428233000 -0300" channel="0629">
+    <title lang="es">La verdad y nada más</title>
+    <desc lang="es">Espacio que busca sembrar los valores que la sociedad necesita, en el que el pastor Victor Doroschuk brinda una enseñanza sobre la oración de Jesús.</desc>
+  </programme>
+  <programme start="20260428233000 -0300" stop="20260429000000 -0300" channel="0629">
+    <title lang="es">Cielos abiertos</title>
+    <desc lang="es">Inspiración y motivación son las marca características. La dirección para iniciar la semana con expectativas renovadas, desde la ciudad de Resistencia, en Chaco, con la conducción de Jorge Ledesma.</desc>
+  </programme>
+  <programme start="20260429000000 -0300" stop="20260429060000 -0300" channel="0629">
+    <title lang="es">Canal Luz</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260429060000 -0300" stop="20260429120000 -0300" channel="0629">
+    <title lang="es">Canal Luz</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260429120000 -0300" stop="20260429180000 -0300" channel="0629">
+    <title lang="es">Canal Luz</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260429180000 -0300" stop="20260430000000 -0300" channel="0629">
+    <title lang="es">Canal Luz</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260430000000 -0300" stop="20260430005959 -0300" channel="0629">
+    <title lang="es">Canal Luz</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260425010000 -0300" stop="20260425020000 -0300" channel="0222">
+    <title lang="es">El valor de tus joyas</title>
+    <desc lang="es">Programa que presenta casos típicos de compra y venta de joyas y alhajas.</desc>
+  </programme>
+  <programme start="20260425020000 -0300" stop="20260425030000 -0300" channel="0222">
+    <title lang="es">TeveCompras</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de &#x27;Teve Compras&#x27;, los cuales pueden ser adquiridos telefónicamente.</desc>
+  </programme>
+  <programme start="20260425030000 -0300" stop="20260425050000 -0300" channel="0222">
+    <title lang="es">A24 - Lo mejor</title>
+    <desc lang="es">Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.</desc>
+  </programme>
+  <programme start="20260425050000 -0300" stop="20260425070000 -0300" channel="0222">
+    <title lang="es">A24 - Lo mejor</title>
+    <desc lang="es">Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.</desc>
+  </programme>
+  <programme start="20260425070000 -0300" stop="20260425140000 -0300" channel="0222">
+    <title lang="es">Vivo el sábado x A24</title>
+    <desc lang="es">Actualidad, información, móviles en vivo, corresponsales en todo el país y en el mundo desde el lugar de los hechos.</desc>
+  </programme>
+  <programme start="20260425140000 -0300" stop="20260425143000 -0300" channel="0222">
+    <title lang="es">A24 Internacional</title>
+    <desc lang="es">Damian Svalzb conduce un espacio que aborda las noticias más destacadas del ámbito internacional. A través de reportajes, entrevistas y análisis, el público podrá informarse al competo sobre la realidad en el mundo.</desc>
+  </programme>
+  <programme start="20260425143000 -0300" stop="20260425150000 -0300" channel="0222">
+    <title lang="es">A24 - Lo mejor</title>
+    <desc lang="es">Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.</desc>
+  </programme>
+  <programme start="20260425150000 -0300" stop="20260425160000 -0300" channel="0222">
+    <title lang="es">Mundo visual</title>
+    <desc lang="es">Programa de turismo, realizado íntegramente en exteriores, que recorre el mundo y que enriquece sus contenidos con los bastos conocimientos que la conductora posee sobre turismo, hotelería y paseos.</desc>
+  </programme>
+  <programme start="20260425160000 -0300" stop="20260425190000 -0300" channel="0222">
+    <title lang="es">El diario de la tarde</title>
+    <desc lang="es">Un programa que aborda la actualidad y las primicias a nivel nacional e internacional. A través del trabajo de periodistas, expertos y reporteros, el público podrá informarse al completo sobre la realidad.</desc>
+  </programme>
+  <programme start="20260425190000 -0300" stop="20260425194500 -0300" channel="0222">
+    <title lang="es">A24 - Lo mejor</title>
+    <desc lang="es">Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.</desc>
+  </programme>
+  <programme start="20260425194500 -0300" stop="20260425220000 -0300" channel="0222">
+    <title lang="es">Indignados</title>
+    <desc lang="es">Informes periodísticos sobre problemáticas de la sociedad argentina.</desc>
+  </programme>
+  <programme start="20260425220000 -0300" stop="20260426000000 -0300" channel="0222">
+    <title lang="es">A24 - Lo mejor</title>
+    <desc lang="es">Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.</desc>
+  </programme>
+  <programme start="20260426000000 -0300" stop="20260426010000 -0300" channel="0222">
+    <title lang="es">A24 - Lo mejor</title>
+    <desc lang="es">Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.</desc>
+  </programme>
+  <programme start="20260426010000 -0300" stop="20260426013000 -0300" channel="0222">
+    <title lang="es">LP Moda</title>
+    <desc lang="es">Leo Paparella muestra, a través de cambios de look, cómo para cada tipo de rostro hay un corte de cabello adecuado y para cada tono de piel hay una coloración que marca el verdadero estilo y personalidad de la mujer o el hombre moderno. El famoso estilista intenta orientar a los televidentes a través de diferentes secciones informativas, lo cual hace de este un excelente magazine de moda y servicios.</desc>
+  </programme>
+  <programme start="20260426013000 -0300" stop="20260426020000 -0300" channel="0222">
+    <title lang="es">Boca es Boca</title>
+    <desc lang="es">Información y actualidad de todo lo que acontece en el mundo Boca. Notas, sorteos, la opinión de la gente y un poquito de humor.</desc>
+  </programme>
+  <programme start="20260426020000 -0300" stop="20260426030000 -0300" channel="0222">
+    <title lang="es">TeveCompras</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de &#x27;Teve Compras&#x27;, los cuales pueden ser adquiridos telefónicamente.</desc>
+  </programme>
+  <programme start="20260426030000 -0300" stop="20260426050000 -0300" channel="0222">
+    <title lang="es">A24 - Lo mejor</title>
+    <desc lang="es">Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.</desc>
+  </programme>
+  <programme start="20260426050000 -0300" stop="20260426060000 -0300" channel="0222">
+    <title lang="es">Mundo visual</title>
+    <desc lang="es">Programa de turismo, realizado íntegramente en exteriores, que recorre el mundo y que enriquece sus contenidos con los bastos conocimientos que la conductora posee sobre turismo, hotelería y paseos.</desc>
+  </programme>
+  <programme start="20260426060000 -0300" stop="20260426070000 -0300" channel="0222">
+    <title lang="es">A24 - Lo mejor</title>
+    <desc lang="es">Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.</desc>
+  </programme>
+  <programme start="20260426070000 -0300" stop="20260426130000 -0300" channel="0222">
+    <title lang="es">Arriba domingo</title>
+    <desc lang="es">Toda la información necesaria para arrancar el día, con un enfoque dinámico y preciso.</desc>
+  </programme>
+  <programme start="20260426130000 -0300" stop="20260426160000 -0300" channel="0222">
+    <title lang="es">Vivo A24</title>
+    <desc lang="es">Disfruta de la mejor información y el análisis de nuestro equipo periodístico.</desc>
+  </programme>
+  <programme start="20260426160000 -0300" stop="20260426193000 -0300" channel="0222">
+    <title lang="es">El diario de la tarde</title>
+    <desc lang="es">Un programa que aborda la actualidad y las primicias a nivel nacional e internacional. A través del trabajo de periodistas, expertos y reporteros, el público podrá informarse al completo sobre la realidad.</desc>
+  </programme>
+  <programme start="20260426193000 -0300" stop="20260426220000 -0300" channel="0222">
+    <title lang="es">Equipo de periodistas</title>
+    <desc lang="es">Un espacio matutino con toda la información acerca de los acontecimientos de la actualidad. Junto a un equipo de periodistas especializados, el público podrá conocer todos los detalles de las novedades exclusivas del día a día.</desc>
+  </programme>
+  <programme start="20260426220000 -0300" stop="20260426230000 -0300" channel="0222">
+    <title lang="es">A24 - Lo mejor</title>
+    <desc lang="es">Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.</desc>
+  </programme>
+  <programme start="20260426230000 -0300" stop="20260427000000 -0300" channel="0222">
+    <title lang="es">Transición 2030: Hacia un país de energías limpias</title>
+    <desc lang="es">Un espacio de conversación con actores indispensables para llevar a nuestro país hacia una matriz de energías limpias.</desc>
+  </programme>
+  <programme start="20260427000000 -0300" stop="20260427010000 -0300" channel="0222">
+    <title lang="es">Luis Novaresio entrevista</title>
+    <desc lang="es">Luis Novaresio realiza importantes entrevistas a las personalidades más destacadas de la actualidad.</desc>
+  </programme>
+  <programme start="20260427010000 -0300" stop="20260427020000 -0300" channel="0222">
+    <title lang="es">A24 - Lo mejor</title>
+    <desc lang="es">Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.</desc>
+  </programme>
+  <programme start="20260427020000 -0300" stop="20260427030000 -0300" channel="0222">
+    <title lang="es">TeveCompras</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de &#x27;Teve Compras&#x27;, los cuales pueden ser adquiridos telefónicamente.</desc>
+  </programme>
+  <programme start="20260427030000 -0300" stop="20260427050000 -0300" channel="0222">
+    <title lang="es">A24 - Lo mejor</title>
+    <desc lang="es">Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.</desc>
+  </programme>
+  <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="0222">
+    <title lang="es">Reporter 910 Radio La Red</title>
+    <desc lang="es">Inicia tus mañanas junto a Eduardo Battaglia, quien se encarga de llevarte la información más actual en materia económica, política, social y deportiva. Comienza el día con buen pie y al tanto del acontecer diario.</desc>
+  </programme>
+  <programme start="20260427060000 -0300" stop="20260427100000 -0300" channel="0222">
+    <title lang="es">Otra mañana</title>
+    <desc lang="es">Un espacio que ofrece al público todos los detalles y noticias exclusivas sobre la realidad social y política argentina. A través de los informes y las entrevistas, el público podrá formar su opinión sobre los acontecimientos de relevancia.</desc>
+  </programme>
+  <programme start="20260427100000 -0300" stop="20260427130000 -0300" channel="0222">
+    <title lang="es">Buen día A24</title>
+    <desc lang="es">El análisis de las noticias más importantes de la jornada.</desc>
+  </programme>
+  <programme start="20260427130000 -0300" stop="20260427143000 -0300" channel="0222">
+    <title lang="es">Arranca la tarde en A24</title>
+    <desc lang="es">Un espacio de actualidad con los análisis de las noticias más importantes de la jornada. El público podrá informarse sobre los acontecimientos más revelantes del día y conocer los informes de los periodistas.</desc>
+  </programme>
+  <programme start="20260427143000 -0300" stop="20260427160000 -0300" channel="0222">
+    <title lang="es">Agenda A24</title>
+    <desc lang="es">Horacio Cabak conduce un espacio que aborda los temas de agenda más destacados.</desc>
+  </programme>
+  <programme start="20260427160000 -0300" stop="20260427170000 -0300" channel="0222">
+    <title lang="es">Hora crítica en A24</title>
+    <desc lang="es">Un espacio con informes y todos los detalles de las novedades exclusivas de la actualidad. La audiencia podrá conocer los acontecimientos de relevancia de la jornada y el análisis de los periodistas al respecto.</desc>
+  </programme>
+  <programme start="20260427170000 -0300" stop="20260427180000 -0300" channel="0222">
+    <title lang="es">H17</title>
+    <desc lang="es">La información más relevante de la jornada en la voz de los especialistas.</desc>
+  </programme>
+  <programme start="20260427180000 -0300" stop="20260427200000 -0300" channel="0222">
+    <title lang="es">El noticiero de A24</title>
+    <desc lang="es">Un espacio de análisis y opinión de las noticias más importantes de la jornada. El público podrá informarse sobre los acontecimientos más relevantes de la actualidad argentina y del mundo.</desc>
+  </programme>
+  <programme start="20260427200000 -0300" stop="20260427210000 -0300" channel="0222">
+    <title lang="es">H 20, información clave</title>
+    <desc lang="es">Un espacio de análisis con todos los detalles de las noticias más importantes de la jornada. La audiencia podrá informarse sobre todos los acontecimientos de la actualidad y conocer la opinión de los periodistas al respecto.</desc>
+  </programme>
+  <programme start="20260427210000 -0300" stop="20260427220000 -0300" channel="0222">
+    <title lang="es">Wifi 24</title>
+    <desc lang="es">Un espacio de análisis y opinión de las noticias más importantes de la jornada. El público podrá conocer todos los detalles sobre los acontecimientos más relevantes y ver los informes preparados por los periodistas.</desc>
+  </programme>
+  <programme start="20260427220000 -0300" stop="20260427230000 -0300" channel="0222">
+    <title lang="es">Noche de noticias A24</title>
+    <desc lang="es">El cierre de la jornada informativa, con todas las novedades y el análisis de las noticias más relevantes del día. Junto al conductor Sergio Lapegüe, el público podrá informarse al completo.</desc>
+  </programme>
+  <programme start="20260427230000 -0300" stop="20260428000000 -0300" channel="0222">
+    <title lang="es">Basta Baby</title>
+    <desc lang="es">Baby Etchecopar conduce un espacio de análisis y opinión sobre los acontecimientos más relevantes. El periodista se reúne con diversos colegas y expertos para ofrecer una mirada única de los hechos diarios en Argentina.</desc>
+  </programme>
+  <programme start="20260428000000 -0300" stop="20260428010000 -0300" channel="0222">
+    <title lang="es">Luis Novaresio entrevista</title>
+    <desc lang="es">Luis Novaresio realiza importantes entrevistas a las personalidades más destacadas de la actualidad.</desc>
+  </programme>
+  <programme start="20260428010000 -0300" stop="20260428020000 -0300" channel="0222">
+    <title lang="es">El valor de tus joyas</title>
+    <desc lang="es">Programa que presenta casos típicos de compra y venta de joyas y alhajas.</desc>
+  </programme>
+  <programme start="20260428020000 -0300" stop="20260428030000 -0300" channel="0222">
+    <title lang="es">TeveCompras</title>
+    <desc lang="es">En este programa informercial, se detalla el funcionamiento de cada uno de los productos que se encuentran a la venta de &#x27;Teve Compras&#x27;, los cuales pueden ser adquiridos telefónicamente.</desc>
+  </programme>
+  <programme start="20260428030000 -0300" stop="20260428050000 -0300" channel="0222">
+    <title lang="es">A24 - Lo mejor</title>
+    <desc lang="es">Espacio en el cual podrás disfrutar y revivir muchos de los contenidos audiovisuales que se emitieron anteriormente pero necesitás volver a verlos. En este segmento se abordan importantes temas de interés general siempre con un toque divertido, objetivo, dinámico y entretenido.</desc>
+  </programme>
+  <programme start="20260428050000 -0300" stop="20260428060000 -0300" channel="0222">
+    <title lang="es">Reporter 910 Radio La Red</title>
+    <desc lang="es">Inicia tus mañanas junto a Eduardo Battaglia, quien se encarga de llevarte la información más actual en materia económica, política, social y deportiva. Comienza el día con buen pie y al tanto del acontecer diario.</desc>
+  </programme>
+  <programme start="20260428060000 -0300" stop="20260428100000 -0300" channel="0222">
+    <title lang="es">Otra mañana</title>
+    <desc lang="es">Un espacio que ofrece al público todos los detalles y noticias exclusivas sobre la realidad social y política argentina. A través de los informes y las entrevistas, el público podrá formar su opinión sobre los acontecimientos de relevancia.</desc>
+  </programme>
+  <programme start="20260428100000 -0300" stop="20260428130000 -0300" channel="0222">
+    <title lang="es">Buen día A24</title>
+    <desc lang="es">El análisis de las noticias más importantes de la jornada.</desc>
+  </programme>
+  <programme start="20260428130000 -0300" stop="20260428143000 -0300" channel="0222">
+    <title lang="es">Arranca la tarde en A24</title>
+    <desc lang="es">Un espacio de actualidad con los análisis de las noticias más importantes de la jornada. El público podrá informarse sobre los acontecimientos más revelantes del día y conocer los informes de los periodistas.</desc>
+  </programme>
+  <programme start="20260428143000 -0300" stop="20260428160000 -0300" channel="0222">
+    <title lang="es">Agenda A24</title>
+    <desc lang="es">Horacio Cabak conduce un espacio que aborda los temas de agenda más destacados.</desc>
+  </programme>
+  <programme start="20260428160000 -0300" stop="20260428170000 -0300" channel="0222">
+    <title lang="es">Hora crítica en A24</title>
+    <desc lang="es">Un espacio con informes y todos los detalles de las novedades exclusivas de la actualidad. La audiencia podrá conocer los acontecimientos de relevancia de la jornada y el análisis de los periodistas al respecto.</desc>
+  </programme>
+  <programme start="20260428170000 -0300" stop="20260428180000 -0300" channel="0222">
+    <title lang="es">H17</title>
+    <desc lang="es">La información más relevante de la jornada en la voz de los especialistas.</desc>
+  </programme>
+  <programme start="20260428180000 -0300" stop="20260428200000 -0300" channel="0222">
+    <title lang="es">El noticiero de A24</title>
+    <desc lang="es">Un espacio de análisis y opinión de las noticias más importantes de la jornada. El público podrá informarse sobre los acontecimientos más relevantes de la actualidad argentina y del mundo.</desc>
+  </programme>
+  <programme start="20260428200000 -0300" stop="20260428210000 -0300" channel="0222">
+    <title lang="es">H 20, información clave</title>
+    <desc lang="es">Un espacio de análisis con todos los detalles de las noticias más importantes de la jornada. La audiencia podrá informarse sobre todos los acontecimientos de la actualidad y conocer la opinión de los periodistas al respecto.</desc>
+  </programme>
+  <programme start="20260428210000 -0300" stop="20260428220000 -0300" channel="0222">
+    <title lang="es">Wifi 24</title>
+    <desc lang="es">Un espacio de análisis y opinión de las noticias más importantes de la jornada. El público podrá conocer todos los detalles sobre los acontecimientos más relevantes y ver los informes preparados por los periodistas.</desc>
+  </programme>
+  <programme start="20260428220000 -0300" stop="20260428230000 -0300" channel="0222">
+    <title lang="es">Noche de noticias A24</title>
+    <desc lang="es">El cierre de la jornada informativa, con todas las novedades y el análisis de las noticias más relevantes del día. Junto al conductor Sergio Lapegüe, el público podrá informarse al completo.</desc>
+  </programme>
+  <programme start="20260428230000 -0300" stop="20260429000000 -0300" channel="0222">
+    <title lang="es">Basta Baby</title>
+    <desc lang="es">Baby Etchecopar conduce un espacio de análisis y opinión sobre los acontecimientos más relevantes. El periodista se reúne con diversos colegas y expertos para ofrecer una mirada única de los hechos diarios en Argentina.</desc>
+  </programme>
+  <programme start="20260429000000 -0300" stop="20260429060000 -0300" channel="0222">
+    <title lang="es">América 24</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260429060000 -0300" stop="20260429120000 -0300" channel="0222">
+    <title lang="es">América 24</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260429120000 -0300" stop="20260429180000 -0300" channel="0222">
+    <title lang="es">América 24</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260429180000 -0300" stop="20260430000000 -0300" channel="0222">
+    <title lang="es">América 24</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260430000000 -0300" stop="20260430005959 -0300" channel="0222">
+    <title lang="es">América 24</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260425010000 -0300" stop="20260425011000 -0300" channel="0808">
+    <title lang="es">A and E</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260425011000 -0300" stop="20260425014000 -0300" channel="0808">
+    <title lang="es">¡Alto! Frontera</title>
+    <desc lang="es">Latinoamérica cuenta con más de 35.000 kilómetros de fronteras que representan los límites geográficos de cada uno de sus países. Pero también constituyen la línea que separa lo legal de lo ilegal. Una línea muy fina que muchos están deseosos de cruzar. No obstante, en cada frontera, muchos hombres y mujeres se mantienen firmes, desde los cuerpos policiales hasta el personal aduanero, con la esperanza de detener a aquellos que intentan saltarse la ley. Los aeropuertos de Chile y Bolivia son un nuevo escenario para el tráfico de drogas y detención de delincuentes.</desc>
+  </programme>
+  <programme start="20260425014000 -0300" stop="20260425021000 -0300" channel="0808">
+    <title lang="es">Cam Alert: captura exitosa</title>
+    <desc lang="es">El periodista Paco Zea presenta los operativos policiales más increíbles y sorprendentes que han sido grabados por las cámaras de los diferentes C5 de México. Escenas de la vida real dignas de una película de acción en las que no saldrán impunes los delincuentes responsables de robos a negocios y a transeúntes, asaltos bancarios, robos a casa habitación y persecuciones de vehículos. Exitosos operativos policiales que se llevan a cabo gracias a los sistemas monitoreo de diferentes estados de la República mexicana.</desc>
+  </programme>
+  <programme start="20260425021000 -0300" stop="20260425024000 -0300" channel="0808">
+    <title lang="es">Cam Alert: captura exitosa</title>
+    <desc lang="es">El periodista Paco Zea presenta los operativos policiales más increíbles y sorprendentes que han sido grabados por las cámaras de los diferentes C5 de México. Escenas de la vida real dignas de una película de acción en las que no saldrán impunes los delincuentes responsables de robos a negocios y a transeúntes, asaltos bancarios, robos a casa habitación y persecuciones de vehículos. Exitosos operativos policiales que se llevan a cabo gracias a los sistemas monitoreo de diferentes estados de la República mexicana.</desc>
+  </programme>
+  <programme start="20260425024000 -0300" stop="20260425031000 -0300" channel="0808">
+    <title lang="es">Cam Alert: captura exitosa</title>
+    <desc lang="es">El periodista Paco Zea presenta los operativos policiales más increíbles y sorprendentes que han sido grabados por las cámaras de los diferentes C5 de México. Escenas de la vida real dignas de una película de acción en las que no saldrán impunes los delincuentes responsables de robos a negocios y a transeúntes, asaltos bancarios, robos a casa habitación y persecuciones de vehículos. Exitosos operativos policiales que se llevan a cabo gracias a los sistemas monitoreo de diferentes estados de la República mexicana.</desc>
+  </programme>
+  <programme start="20260425031000 -0300" stop="20260425033500 -0300" channel="0808">
+    <title lang="es">Cam Alert: captura exitosa</title>
+    <desc lang="es">El periodista Paco Zea presenta los operativos policiales más increíbles y sorprendentes que han sido grabados por las cámaras de los diferentes C5 de México. Escenas de la vida real dignas de una película de acción en las que no saldrán impunes los delincuentes responsables de robos a negocios y a transeúntes, asaltos bancarios, robos a casa habitación y persecuciones de vehículos. Exitosos operativos policiales que se llevan a cabo gracias a los sistemas monitoreo de diferentes estados de la República mexicana.</desc>
+  </programme>
+  <programme start="20260425033500 -0300" stop="20260425040500 -0300" channel="0808">
+    <title lang="es">Cam Alert: captura exitosa</title>
+    <desc lang="es">El periodista Paco Zea presenta los operativos policiales más increíbles y sorprendentes que han sido grabados por las cámaras de los diferentes C5 de México. Escenas de la vida real dignas de una película de acción en las que no saldrán impunes los delincuentes responsables de robos a negocios y a transeúntes, asaltos bancarios, robos a casa habitación y persecuciones de vehículos. Exitosos operativos policiales que se llevan a cabo gracias a los sistemas monitoreo de diferentes estados de la República mexicana.</desc>
+  </programme>
+  <programme start="20260425040500 -0300" stop="20260425043000 -0300" channel="0808">
+    <title lang="es">Cam Alert: captura exitosa</title>
+    <desc lang="es">El periodista Paco Zea presenta los operativos policiales más increíbles y sorprendentes que han sido grabados por las cámaras de los diferentes C5 de México. Escenas de la vida real dignas de una película de acción en las que no saldrán impunes los delincuentes responsables de robos a negocios y a transeúntes, asaltos bancarios, robos a casa habitación y persecuciones de vehículos. Exitosos operativos policiales que se llevan a cabo gracias a los sistemas monitoreo de diferentes estados de la República mexicana.</desc>
+  </programme>
+  <programme start="20260425043000 -0300" stop="20260425045500 -0300" channel="0808">
+    <title lang="es">Cam Alert: captura exitosa</title>
+    <desc lang="es">El periodista Paco Zea presenta los operativos policiales más increíbles y sorprendentes que han sido grabados por las cámaras de los diferentes C5 de México. Escenas de la vida real dignas de una película de acción en las que no saldrán impunes los delincuentes responsables de robos a negocios y a transeúntes, asaltos bancarios, robos a casa habitación y persecuciones de vehículos. Exitosos operativos policiales que se llevan a cabo gracias a los sistemas monitoreo de diferentes estados de la República mexicana.</desc>
+  </programme>
+  <programme start="20260425045500 -0300" stop="20260425052000 -0300" channel="0808">
+    <title lang="es">Cam Alert: captura exitosa</title>
+    <desc lang="es">El periodista Paco Zea presenta los operativos policiales más increíbles y sorprendentes que han sido grabados por las cámaras de los diferentes C5 de México. Escenas de la vida real dignas de una película de acción en las que no saldrán impunes los delincuentes responsables de robos a negocios y a transeúntes, asaltos bancarios, robos a casa habitación y persecuciones de vehículos. Exitosos operativos policiales que se llevan a cabo gracias a los sistemas monitoreo de diferentes estados de la República mexicana.</desc>
+  </programme>
+  <programme start="20260425052000 -0300" stop="20260425054000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260425054000 -0300" stop="20260425060000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260425060000 -0300" stop="20260425062000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260425062000 -0300" stop="20260425064000 -0300" channel="0808">
+    <title lang="es">Patrulla policial • Episodio 138</title>
+    <desc lang="es">Episodio 138 ║ Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260425064000 -0300" stop="20260425070000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260425070000 -0300" stop="20260425072000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260425072000 -0300" stop="20260425074000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260425074000 -0300" stop="20260425080000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260425080000 -0300" stop="20260425082000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260425082000 -0300" stop="20260425084000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260425084000 -0300" stop="20260425090000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260425090000 -0300" stop="20260425100000 -0300" channel="0808">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+  </programme>
+  <programme start="20260425100000 -0300" stop="20260425110000 -0300" channel="0808">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+  </programme>
+  <programme start="20260425110000 -0300" stop="20260425115000 -0300" channel="0808">
+    <title lang="es">Acumuladores compulsivos • Martha - Parte A</title>
+    <desc lang="es">Martha - Parte A ║ Serie documental que explora las vidas de personas que sufren el trastorno de acumulación, mientras psicólogos y organizadores expertos intentan ayudarlos a recuperar el control de sus hogares.</desc>
+  </programme>
+  <programme start="20260425115000 -0300" stop="20260425132000 -0300" channel="0808">
+    <title lang="es">Acumuladores compulsivos • Canada: David and Elizabeth</title>
+    <desc lang="es">Canada: David and Elizabeth ║ Serie documental que explora las vidas de personas que sufren el trastorno de acumulación, mientras psicólogos y organizadores expertos intentan ayudarlos a recuperar el control de sus hogares.</desc>
+  </programme>
+  <programme start="20260425132000 -0300" stop="20260425145500 -0300" channel="0808">
+    <title lang="es">Acumuladores compulsivos • Canada: Coral</title>
+    <desc lang="es">Canada: Coral ║ Serie documental que explora las vidas de personas que sufren el trastorno de acumulación, mientras psicólogos y organizadores expertos intentan ayudarlos a recuperar el control de sus hogares.</desc>
+  </programme>
+  <programme start="20260425145500 -0300" stop="20260425154000 -0300" channel="0808">
+    <title lang="es">Star Trek: Picard • Dos de una</title>
+    <desc lang="es">Dos de una ║ Star Trek: Picard presenta a Sir Patrick Stewart retomando su icónico papel de Jean-Luc Picard, el cual interpretó por siete temporadas en Star Trek: La nueva generación. La serie sigue a este icónico personaje en el siguiente capítulo de su vida.</desc>
+  </programme>
+  <programme start="20260425154000 -0300" stop="20260425163500 -0300" channel="0808">
+    <title lang="es">Star Trek: Picard • Monstruos</title>
+    <desc lang="es">Monstruos ║ Star Trek: Picard presenta a Sir Patrick Stewart retomando su icónico papel de Jean-Luc Picard, el cual interpretó por siete temporadas en Star Trek: La nueva generación. La serie sigue a este icónico personaje en el siguiente capítulo de su vida.</desc>
+  </programme>
+  <programme start="20260425163500 -0300" stop="20260425173000 -0300" channel="0808">
+    <title lang="es">Star Trek: Picard • Misericordia</title>
+    <desc lang="es">Misericordia ║ Star Trek: Picard presenta a Sir Patrick Stewart retomando su icónico papel de Jean-Luc Picard, el cual interpretó por siete temporadas en Star Trek: La nueva generación. La serie sigue a este icónico personaje en el siguiente capítulo de su vida.</desc>
+  </programme>
+  <programme start="20260425173000 -0300" stop="20260425182500 -0300" channel="0808">
+    <title lang="es">Star Trek: Picard • El escondite</title>
+    <desc lang="es">El escondite ║ Star Trek: Picard presenta a Sir Patrick Stewart retomando su icónico papel de Jean-Luc Picard, el cual interpretó por siete temporadas en Star Trek: La nueva generación. La serie sigue a este icónico personaje en el siguiente capítulo de su vida.</desc>
+  </programme>
+  <programme start="20260425182500 -0300" stop="20260425192000 -0300" channel="0808">
+    <title lang="es">Star Trek: Picard • La despedida</title>
+    <desc lang="es">La despedida ║ Star Trek: Picard presenta a Sir Patrick Stewart retomando su icónico papel de Jean-Luc Picard, el cual interpretó por siete temporadas en Star Trek: La nueva generación. La serie sigue a este icónico personaje en el siguiente capítulo de su vida.</desc>
+  </programme>
+  <programme start="20260425192000 -0300" stop="20260425205500 -0300" channel="0808">
+    <title lang="es">Bent</title>
+    <desc lang="es">Danny Gallagher, un detective de narcóticos desacreditado que acaba de salir de la cárcel, busca vengarse de quien manipuló las pruebas y lo acusó de matar a su compañero.</desc>
+  </programme>
+  <programme start="20260425205500 -0300" stop="20260425230000 -0300" channel="0808">
+    <title lang="es">El Hombre Araña</title>
+    <desc lang="es">Cuando Peter Parker es mordido por una araña genéticamente alterada, descubrirá que ha desarrollado una fuerza sobrehumana y la capacidad de trepar por las paredes de hasta los más altos rascacielos. Tras un hecho trágico, él jurará luchar contra el crimen, convirtiéndose en Spider-Man. Muy pronto Peter tendrá que ponerse a prueba al enfrentar a su némesis, el terrible Duende Verde, mientras intenta conquistar a su siempre amada Mary Jane, proteger a los inocentes y entender la enorme responsabilidad que ha adquirido junto a sus nuevos y asombrosos poderes.</desc>
+  </programme>
+  <programme start="20260425230000 -0300" stop="20260426004500 -0300" channel="0808">
+    <title lang="es">Triple xXx: Estado de emergencia</title>
+    <desc lang="es">Darius Stone, un oficial de la marina norteamericana experto en operaciones secretas, y recluido en una prisión para militares, es seleccionado para desmontar una conspiración que pretende asesinar al presidente de los Estados Unidos y que, aparentemente, opera desde las instalaciones de la Casa Blanca.</desc>
+  </programme>
+  <programme start="20260426004500 -0300" stop="20260426011000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Chalecos salvajes</title>
+    <desc lang="es">Chalecos salvajes ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260426011000 -0300" stop="20260426013500 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Fuera de la sartén</title>
+    <desc lang="es">Fuera de la sartén ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260426013500 -0300" stop="20260426015500 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Algunos no me gustan</title>
+    <desc lang="es">Algunos no me gustan ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260426015500 -0300" stop="20260426022000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Temporada Kitsch</title>
+    <desc lang="es">Temporada Kitsch ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260426022000 -0300" stop="20260426024000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • No todo es amor</title>
+    <desc lang="es">No todo es amor ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260426024000 -0300" stop="20260426030000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Yuuup</title>
+    <desc lang="es">Yuuup ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260426030000 -0300" stop="20260426032000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Las Vegas se encogió</title>
+    <desc lang="es">Las Vegas se encogió ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260426032000 -0300" stop="20260426034000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • La codicia</title>
+    <desc lang="es">La codicia ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260426034000 -0300" stop="20260426040000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Por un poco de dinero</title>
+    <desc lang="es">Por un poco de dinero ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260426040000 -0300" stop="20260426042000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Ganancias para las chicas</title>
+    <desc lang="es">Ganancias para las chicas ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260426042000 -0300" stop="20260426062000 -0300" channel="0808">
+    <title lang="es">El Hombre Araña</title>
+    <desc lang="es">Cuando Peter Parker es mordido por una araña genéticamente alterada, descubrirá que ha desarrollado una fuerza sobrehumana y la capacidad de trepar por las paredes de hasta los más altos rascacielos. Tras un hecho trágico, él jurará luchar contra el crimen, convirtiéndose en Spider-Man. Muy pronto Peter tendrá que ponerse a prueba al enfrentar a su némesis, el terrible Duende Verde, mientras intenta conquistar a su siempre amada Mary Jane, proteger a los inocentes y entender la enorme responsabilidad que ha adquirido junto a sus nuevos y asombrosos poderes.</desc>
+  </programme>
+  <programme start="20260426062000 -0300" stop="20260426080000 -0300" channel="0808">
+    <title lang="es">Triple xXx: Estado de emergencia</title>
+    <desc lang="es">Darius Stone, un oficial de la marina norteamericana experto en operaciones secretas, y recluido en una prisión para militares, es seleccionado para desmontar una conspiración que pretende asesinar al presidente de los Estados Unidos y que, aparentemente, opera desde las instalaciones de la Casa Blanca.</desc>
+  </programme>
+  <programme start="20260426080000 -0300" stop="20260426082000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260426082000 -0300" stop="20260426090000 -0300" channel="0808">
+    <title lang="es">Star Trek: Picard • Dos de una</title>
+    <desc lang="es">Dos de una ║ Star Trek: Picard presenta a Sir Patrick Stewart retomando su icónico papel de Jean-Luc Picard, el cual interpretó por siete temporadas en Star Trek: La nueva generación. La serie sigue a este icónico personaje en el siguiente capítulo de su vida.</desc>
+  </programme>
+  <programme start="20260426090000 -0300" stop="20260426100000 -0300" channel="0808">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+  </programme>
+  <programme start="20260426100000 -0300" stop="20260426110000 -0300" channel="0808">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+  </programme>
+  <programme start="20260426110000 -0300" stop="20260426115500 -0300" channel="0808">
+    <title lang="es">Star Trek: Picard • Monstruos</title>
+    <desc lang="es">Monstruos ║ Star Trek: Picard presenta a Sir Patrick Stewart retomando su icónico papel de Jean-Luc Picard, el cual interpretó por siete temporadas en Star Trek: La nueva generación. La serie sigue a este icónico personaje en el siguiente capítulo de su vida.</desc>
+  </programme>
+  <programme start="20260426115500 -0300" stop="20260426125000 -0300" channel="0808">
+    <title lang="es">Star Trek: Picard • Misericordia</title>
+    <desc lang="es">Misericordia ║ Star Trek: Picard presenta a Sir Patrick Stewart retomando su icónico papel de Jean-Luc Picard, el cual interpretó por siete temporadas en Star Trek: La nueva generación. La serie sigue a este icónico personaje en el siguiente capítulo de su vida.</desc>
+  </programme>
+  <programme start="20260426125000 -0300" stop="20260426132000 -0300" channel="0808">
+    <title lang="es">¡Alto! Frontera</title>
+    <desc lang="es">Latinoamérica cuenta con más de 35.000 kilómetros de fronteras que representan los límites geográficos de cada uno de sus países. Pero también constituyen la línea que separa lo legal de lo ilegal. Una línea muy fina que muchos están deseosos de cruzar. No obstante, en cada frontera, muchos hombres y mujeres se mantienen firmes, desde los cuerpos policiales hasta el personal aduanero, con la esperanza de detener a aquellos que intentan saltarse la ley. Los aeropuertos de Chile y Bolivia son un nuevo escenario para el tráfico de drogas y detención de delincuentes.</desc>
+  </programme>
+  <programme start="20260426132000 -0300" stop="20260426135000 -0300" channel="0808">
+    <title lang="es">¡Alto! Frontera</title>
+    <desc lang="es">Latinoamérica cuenta con más de 35.000 kilómetros de fronteras que representan los límites geográficos de cada uno de sus países. Pero también constituyen la línea que separa lo legal de lo ilegal. Una línea muy fina que muchos están deseosos de cruzar. No obstante, en cada frontera, muchos hombres y mujeres se mantienen firmes, desde los cuerpos policiales hasta el personal aduanero, con la esperanza de detener a aquellos que intentan saltarse la ley. Los aeropuertos de Chile y Bolivia son un nuevo escenario para el tráfico de drogas y detención de delincuentes.</desc>
+  </programme>
+  <programme start="20260426135000 -0300" stop="20260426141500 -0300" channel="0808">
+    <title lang="es">¡Alto! Frontera</title>
+    <desc lang="es">Latinoamérica cuenta con más de 35.000 kilómetros de fronteras que representan los límites geográficos de cada uno de sus países. Pero también constituyen la línea que separa lo legal de lo ilegal. Una línea muy fina que muchos están deseosos de cruzar. No obstante, en cada frontera, muchos hombres y mujeres se mantienen firmes, desde los cuerpos policiales hasta el personal aduanero, con la esperanza de detener a aquellos que intentan saltarse la ley. Los aeropuertos de Chile y Bolivia son un nuevo escenario para el tráfico de drogas y detención de delincuentes.</desc>
+  </programme>
+  <programme start="20260426141500 -0300" stop="20260426144500 -0300" channel="0808">
+    <title lang="es">¡Alto! Frontera: Chile</title>
+    <desc lang="es">Sigue de cerca el trabajo de la Policía de Investigaciones, Aduanas y brigadas especializadas del Aeropuerto Internacional Arturo Merino Benítez, en Santiago de Chile. Ellos enfrentan situaciones tan diversas como pasajeros con equipajes adulterados, cargas sospechosas camufladas en envíos industriales o alimenticios, intentos de tráfico de drogas, irregularidades migratorias, deportaciones, documentación falsa y contrabando de mercadería de alto valor.</desc>
+  </programme>
+  <programme start="20260426144500 -0300" stop="20260426151500 -0300" channel="0808">
+    <title lang="es">¡Alto! Frontera: Chile</title>
+    <desc lang="es">Sigue de cerca el trabajo de la Policía de Investigaciones, Aduanas y brigadas especializadas del Aeropuerto Internacional Arturo Merino Benítez, en Santiago de Chile. Ellos enfrentan situaciones tan diversas como pasajeros con equipajes adulterados, cargas sospechosas camufladas en envíos industriales o alimenticios, intentos de tráfico de drogas, irregularidades migratorias, deportaciones, documentación falsa y contrabando de mercadería de alto valor.</desc>
+  </programme>
+  <programme start="20260426151500 -0300" stop="20260426154000 -0300" channel="0808">
+    <title lang="es">Cam Alert: captura exitosa</title>
+    <desc lang="es">El periodista Paco Zea presenta los operativos policiales más increíbles y sorprendentes que han sido grabados por las cámaras de los diferentes C5 de México. Escenas de la vida real dignas de una película de acción en las que no saldrán impunes los delincuentes responsables de robos a negocios y a transeúntes, asaltos bancarios, robos a casa habitación y persecuciones de vehículos. Exitosos operativos policiales que se llevan a cabo gracias a los sistemas monitoreo de diferentes estados de la República mexicana.</desc>
+  </programme>
+  <programme start="20260426154000 -0300" stop="20260426160500 -0300" channel="0808">
+    <title lang="es">Cam Alert: captura exitosa</title>
+    <desc lang="es">El periodista Paco Zea presenta los operativos policiales más increíbles y sorprendentes que han sido grabados por las cámaras de los diferentes C5 de México. Escenas de la vida real dignas de una película de acción en las que no saldrán impunes los delincuentes responsables de robos a negocios y a transeúntes, asaltos bancarios, robos a casa habitación y persecuciones de vehículos. Exitosos operativos policiales que se llevan a cabo gracias a los sistemas monitoreo de diferentes estados de la República mexicana.</desc>
+  </programme>
+  <programme start="20260426160500 -0300" stop="20260426163000 -0300" channel="0808">
+    <title lang="es">Cam Alert: captura exitosa</title>
+    <desc lang="es">El periodista Paco Zea presenta los operativos policiales más increíbles y sorprendentes que han sido grabados por las cámaras de los diferentes C5 de México. Escenas de la vida real dignas de una película de acción en las que no saldrán impunes los delincuentes responsables de robos a negocios y a transeúntes, asaltos bancarios, robos a casa habitación y persecuciones de vehículos. Exitosos operativos policiales que se llevan a cabo gracias a los sistemas monitoreo de diferentes estados de la República mexicana.</desc>
+  </programme>
+  <programme start="20260426163000 -0300" stop="20260426165500 -0300" channel="0808">
+    <title lang="es">Cam Alert: captura exitosa</title>
+    <desc lang="es">El periodista Paco Zea presenta los operativos policiales más increíbles y sorprendentes que han sido grabados por las cámaras de los diferentes C5 de México. Escenas de la vida real dignas de una película de acción en las que no saldrán impunes los delincuentes responsables de robos a negocios y a transeúntes, asaltos bancarios, robos a casa habitación y persecuciones de vehículos. Exitosos operativos policiales que se llevan a cabo gracias a los sistemas monitoreo de diferentes estados de la República mexicana.</desc>
+  </programme>
+  <programme start="20260426165500 -0300" stop="20260426172000 -0300" channel="0808">
+    <title lang="es">Cam Alert: captura exitosa</title>
+    <desc lang="es">El periodista Paco Zea presenta los operativos policiales más increíbles y sorprendentes que han sido grabados por las cámaras de los diferentes C5 de México. Escenas de la vida real dignas de una película de acción en las que no saldrán impunes los delincuentes responsables de robos a negocios y a transeúntes, asaltos bancarios, robos a casa habitación y persecuciones de vehículos. Exitosos operativos policiales que se llevan a cabo gracias a los sistemas monitoreo de diferentes estados de la República mexicana.</desc>
+  </programme>
+  <programme start="20260426172000 -0300" stop="20260426174500 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260426174500 -0300" stop="20260426180500 -0300" channel="0808">
+    <title lang="es">Patrulla policial • Episodio 138</title>
+    <desc lang="es">Episodio 138 ║ Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260426180500 -0300" stop="20260426182500 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260426182500 -0300" stop="20260426184500 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260426184500 -0300" stop="20260426191000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260426191000 -0300" stop="20260426211500 -0300" channel="0808">
+    <title lang="es">El Hombre Araña</title>
+    <desc lang="es">Cuando Peter Parker es mordido por una araña genéticamente alterada, descubrirá que ha desarrollado una fuerza sobrehumana y la capacidad de trepar por las paredes de hasta los más altos rascacielos. Tras un hecho trágico, él jurará luchar contra el crimen, convirtiéndose en Spider-Man. Muy pronto Peter tendrá que ponerse a prueba al enfrentar a su némesis, el terrible Duende Verde, mientras intenta conquistar a su siempre amada Mary Jane, proteger a los inocentes y entender la enorme responsabilidad que ha adquirido junto a sus nuevos y asombrosos poderes.</desc>
+  </programme>
+  <programme start="20260426211500 -0300" stop="20260426230000 -0300" channel="0808">
+    <title lang="es">Triple xXx: Estado de emergencia</title>
+    <desc lang="es">Darius Stone, un oficial de la marina norteamericana experto en operaciones secretas, y recluido en una prisión para militares, es seleccionado para desmontar una conspiración que pretende asesinar al presidente de los Estados Unidos y que, aparentemente, opera desde las instalaciones de la Casa Blanca.</desc>
+  </programme>
+  <programme start="20260426230000 -0300" stop="20260426235000 -0300" channel="0808">
+    <title lang="es">El Chapo</title>
+    <desc lang="es">Historia de Joaquín Guzmán, conocido como &#x27;El Chapo&#x27;, uno de los criminales más infames del mundo. La serie relata sus inicios en 1985 cuando era un miembro de bajo nivel del Cartel de Guadalajara hasta su ascenso al poder y su última caída.</desc>
+  </programme>
+  <programme start="20260426235000 -0300" stop="20260427004000 -0300" channel="0808">
+    <title lang="es">El Chapo</title>
+    <desc lang="es">Historia de Joaquín Guzmán, conocido como &#x27;El Chapo&#x27;, uno de los criminales más infames del mundo. La serie relata sus inicios en 1985 cuando era un miembro de bajo nivel del Cartel de Guadalajara hasta su ascenso al poder y su última caída.</desc>
+  </programme>
+  <programme start="20260427004000 -0300" stop="20260427013000 -0300" channel="0808">
+    <title lang="es">El Chapo</title>
+    <desc lang="es">Historia de Joaquín Guzmán, conocido como &#x27;El Chapo&#x27;, uno de los criminales más infames del mundo. La serie relata sus inicios en 1985 cuando era un miembro de bajo nivel del Cartel de Guadalajara hasta su ascenso al poder y su última caída.</desc>
+  </programme>
+  <programme start="20260427013000 -0300" stop="20260427022000 -0300" channel="0808">
+    <title lang="es">Secretos de Playboy • El juego corporativo</title>
+    <desc lang="es">El juego corporativo ║ Imágenes de archivo y entrevistas exclusivas con personas de todas las facetas del mundo de Playboy, ayudan a desentrañar la glamorosa mitología creada por la marca Playboy durante varias décadas.</desc>
+  </programme>
+  <programme start="20260427022000 -0300" stop="20260427030500 -0300" channel="0808">
+    <title lang="es">Secretos de Playboy • La gran mentira de Playboy</title>
+    <desc lang="es">La gran mentira de Playboy ║ Imágenes de archivo y entrevistas exclusivas con personas de todas las facetas del mundo de Playboy, ayudan a desentrañar la glamorosa mitología creada por la marca Playboy durante varias décadas.</desc>
+  </programme>
+  <programme start="20260427030500 -0300" stop="20260427035000 -0300" channel="0808">
+    <title lang="es">Secretos de Playboy • Pelota de depredadores</title>
+    <desc lang="es">Pelota de depredadores ║ Imágenes de archivo y entrevistas exclusivas con personas de todas las facetas del mundo de Playboy, ayudan a desentrañar la glamorosa mitología creada por la marca Playboy durante varias décadas.</desc>
+  </programme>
+  <programme start="20260427035000 -0300" stop="20260427043500 -0300" channel="0808">
+    <title lang="es">Secretos de Playboy • En la sombra</title>
+    <desc lang="es">En la sombra ║ Imágenes de archivo y entrevistas exclusivas con personas de todas las facetas del mundo de Playboy, ayudan a desentrañar la glamorosa mitología creada por la marca Playboy durante varias décadas.</desc>
+  </programme>
+  <programme start="20260427043500 -0300" stop="20260427045500 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260427045500 -0300" stop="20260427063000 -0300" channel="0808">
+    <title lang="es">Bent</title>
+    <desc lang="es">Danny Gallagher, un detective de narcóticos desacreditado que acaba de salir de la cárcel, busca vengarse de quien manipuló las pruebas y lo acusó de matar a su compañero.</desc>
+  </programme>
+  <programme start="20260427063000 -0300" stop="20260427080000 -0300" channel="0808">
+    <title lang="es">Vendedores de bebés</title>
+    <desc lang="es">Carla es la respetada dueña de una agencia de adopción que ayuda a padres a cumplir su sueño de tener una familia. Sin embargo, detrás de su falsa inocencia, Carla opera un terrible negocio: obtener niños a cualquier precio para venderlos.</desc>
+  </programme>
+  <programme start="20260427080000 -0300" stop="20260427082000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Oferta científica</title>
+    <desc lang="es">Oferta científica ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260427082000 -0300" stop="20260427084000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Un austríaco suelto en Perris</title>
+    <desc lang="es">Un austríaco suelto en Perris ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260427084000 -0300" stop="20260427090000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Nada mal para un día de subastas</title>
+    <desc lang="es">Nada mal para un día de subastas ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260427090000 -0300" stop="20260427100000 -0300" channel="0808">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+  </programme>
+  <programme start="20260427100000 -0300" stop="20260427110000 -0300" channel="0808">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+  </programme>
+  <programme start="20260427110000 -0300" stop="20260427112000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260427112000 -0300" stop="20260427125000 -0300" channel="0808">
+    <title lang="es">Acumuladores compulsivos • Canada: Coral</title>
+    <desc lang="es">Canada: Coral ║ Serie documental que explora las vidas de personas que sufren el trastorno de acumulación, mientras psicólogos y organizadores expertos intentan ayudarlos a recuperar el control de sus hogares.</desc>
+  </programme>
+  <programme start="20260427125000 -0300" stop="20260427134000 -0300" channel="0808">
+    <title lang="es">Asesinato en el motel • Terror nocturno</title>
+    <desc lang="es">Terror nocturno ║ Oscuros secretos y crímenes pasionales que tuvieron lugar tras las puertas cerradas de hostales y moteles. Investigaciones al límite.</desc>
+  </programme>
+  <programme start="20260427134000 -0300" stop="20260427143000 -0300" channel="0808">
+    <title lang="es">Asesinato en el motel • Lobo asesino</title>
+    <desc lang="es">Lobo asesino ║ Oscuros secretos y crímenes pasionales que tuvieron lugar tras las puertas cerradas de hostales y moteles. Investigaciones al límite.</desc>
+  </programme>
+  <programme start="20260427143000 -0300" stop="20260427152500 -0300" channel="0808">
+    <title lang="es">Asesinato en el motel • Tragedia en el municipio</title>
+    <desc lang="es">Tragedia en el municipio ║ Oscuros secretos y crímenes pasionales que tuvieron lugar tras las puertas cerradas de hostales y moteles. Investigaciones al límite.</desc>
+  </programme>
+  <programme start="20260427152500 -0300" stop="20260427161500 -0300" channel="0808">
+    <title lang="es">Palabra de asesino • Frío como hielo: Levi King</title>
+    <desc lang="es">Frío como hielo: Levi King ║ Presenta a delincuentes que actualmente están en prisión mientras describen sus crimenes paso a paso y en detalle. Un viaje a traves de las mentes de los asesinos, una forma de intentar descubrir qué pasa por la cabeza de la gente a la hora de matar.</desc>
+  </programme>
+  <programme start="20260427161500 -0300" stop="20260427170500 -0300" channel="0808">
+    <title lang="es">Palabra de asesino • Amor retorcido: Dena Riley</title>
+    <desc lang="es">Amor retorcido: Dena Riley ║ Presenta a delincuentes que actualmente están en prisión mientras describen sus crimenes paso a paso y en detalle. Un viaje a traves de las mentes de los asesinos, una forma de intentar descubrir qué pasa por la cabeza de la gente a la hora de matar.</desc>
+  </programme>
+  <programme start="20260427170500 -0300" stop="20260427180000 -0300" channel="0808">
+    <title lang="es">Palabra de asesino • Monstruo interno: Robert Lopez</title>
+    <desc lang="es">Monstruo interno: Robert Lopez ║ Presenta a delincuentes que actualmente están en prisión mientras describen sus crimenes paso a paso y en detalle. Un viaje a traves de las mentes de los asesinos, una forma de intentar descubrir qué pasa por la cabeza de la gente a la hora de matar.</desc>
+  </programme>
+  <programme start="20260427180000 -0300" stop="20260427185500 -0300" channel="0808">
+    <title lang="es">Dime cómo me morí • Caer en desgracia</title>
+    <desc lang="es">Caer en desgracia ║ Expertos forenses desentierran pistas clave en restos humanos y escenas del crimen para reconstruir los últimos momentos y las causas de misteriosos homicidios.</desc>
+  </programme>
+  <programme start="20260427185500 -0300" stop="20260427194500 -0300" channel="0808">
+    <title lang="es">Dime cómo me morí • Encerrado</title>
+    <desc lang="es">Encerrado ║ Expertos forenses desentierran pistas clave en restos humanos y escenas del crimen para reconstruir los últimos momentos y las causas de misteriosos homicidios.</desc>
+  </programme>
+  <programme start="20260427194500 -0300" stop="20260427204000 -0300" channel="0808">
+    <title lang="es">Dime cómo me morí • Fuera de alcance</title>
+    <desc lang="es">Fuera de alcance ║ Expertos forenses desentierran pistas clave en restos humanos y escenas del crimen para reconstruir los últimos momentos y las causas de misteriosos homicidios.</desc>
+  </programme>
+  <programme start="20260427204000 -0300" stop="20260427210000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Nada mal para un día de subastas</title>
+    <desc lang="es">Nada mal para un día de subastas ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260427210000 -0300" stop="20260427212500 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Tesoros de Asia</title>
+    <desc lang="es">Tesoros de Asia ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260427212500 -0300" stop="20260427215000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Vestida para ganar</title>
+    <desc lang="es">Vestida para ganar ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260427215000 -0300" stop="20260427221500 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Con estilo propio</title>
+    <desc lang="es">Con estilo propio ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260427221500 -0300" stop="20260427224000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260427224000 -0300" stop="20260427230000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260427230000 -0300" stop="20260427232500 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260427232500 -0300" stop="20260427234500 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260427234500 -0300" stop="20260428001000 -0300" channel="0808">
+    <title lang="es">Ira en el camino • De cero a cien</title>
+    <desc lang="es">De cero a cien ║ Una inmersión profunda en las carreteras estadounidenses, examinando el comportamiento humano extremo, el clima salvaje, accidentes locos y algunos ejemplos bienvenidos de actos de bondad.</desc>
+  </programme>
+  <programme start="20260428001000 -0300" stop="20260428003500 -0300" channel="0808">
+    <title lang="es">Ira en el camino • Sobre hielo delgado</title>
+    <desc lang="es">Sobre hielo delgado ║ Una inmersión profunda en las carreteras estadounidenses, examinando el comportamiento humano extremo, el clima salvaje, accidentes locos y algunos ejemplos bienvenidos de actos de bondad.</desc>
+  </programme>
+  <programme start="20260428003500 -0300" stop="20260428005500 -0300" channel="0808">
+    <title lang="es">Ira en el camino • Demasiado cerca</title>
+    <desc lang="es">Demasiado cerca ║ Una inmersión profunda en las carreteras estadounidenses, examinando el comportamiento humano extremo, el clima salvaje, accidentes locos y algunos ejemplos bienvenidos de actos de bondad.</desc>
+  </programme>
+  <programme start="20260428005500 -0300" stop="20260428012000 -0300" channel="0808">
+    <title lang="es">Ira en el camino • Catástrofe en la atracción de autos</title>
+    <desc lang="es">Catástrofe en la atracción de autos ║ Una inmersión profunda en las carreteras estadounidenses, examinando el comportamiento humano extremo, el clima salvaje, accidentes locos y algunos ejemplos bienvenidos de actos de bondad.</desc>
+  </programme>
+  <programme start="20260428012000 -0300" stop="20260428014500 -0300" channel="0808">
+    <title lang="es">Ira en el camino • Escapada</title>
+    <desc lang="es">Escapada ║ Una inmersión profunda en las carreteras estadounidenses, examinando el comportamiento humano extremo, el clima salvaje, accidentes locos y algunos ejemplos bienvenidos de actos de bondad.</desc>
+  </programme>
+  <programme start="20260428014500 -0300" stop="20260428020500 -0300" channel="0808">
+    <title lang="es">Ira en el camino • Cambio de marcha desastroso</title>
+    <desc lang="es">Cambio de marcha desastroso ║ Una inmersión profunda en las carreteras estadounidenses, examinando el comportamiento humano extremo, el clima salvaje, accidentes locos y algunos ejemplos bienvenidos de actos de bondad.</desc>
+  </programme>
+  <programme start="20260428020500 -0300" stop="20260428023000 -0300" channel="0808">
+    <title lang="es">Ira en el camino • Neumático quemado</title>
+    <desc lang="es">Neumático quemado ║ Una inmersión profunda en las carreteras estadounidenses, examinando el comportamiento humano extremo, el clima salvaje, accidentes locos y algunos ejemplos bienvenidos de actos de bondad.</desc>
+  </programme>
+  <programme start="20260428023000 -0300" stop="20260428025500 -0300" channel="0808">
+    <title lang="es">Ira en el camino • El rápido y el valiente</title>
+    <desc lang="es">El rápido y el valiente ║ Una inmersión profunda en las carreteras estadounidenses, examinando el comportamiento humano extremo, el clima salvaje, accidentes locos y algunos ejemplos bienvenidos de actos de bondad.</desc>
+  </programme>
+  <programme start="20260428025500 -0300" stop="20260428031500 -0300" channel="0808">
+    <title lang="es">Ira en el camino • Héroe de la carretera</title>
+    <desc lang="es">Héroe de la carretera ║ Una inmersión profunda en las carreteras estadounidenses, examinando el comportamiento humano extremo, el clima salvaje, accidentes locos y algunos ejemplos bienvenidos de actos de bondad.</desc>
+  </programme>
+  <programme start="20260428031500 -0300" stop="20260428034000 -0300" channel="0808">
+    <title lang="es">Ira en el camino • Luz roja estruendosa</title>
+    <desc lang="es">Luz roja estruendosa ║ Una inmersión profunda en las carreteras estadounidenses, examinando el comportamiento humano extremo, el clima salvaje, accidentes locos y algunos ejemplos bienvenidos de actos de bondad.</desc>
+  </programme>
+  <programme start="20260428034000 -0300" stop="20260428040000 -0300" channel="0808">
+    <title lang="es">Ira en el camino • En fuga</title>
+    <desc lang="es">En fuga ║ Una inmersión profunda en las carreteras estadounidenses, examinando el comportamiento humano extremo, el clima salvaje, accidentes locos y algunos ejemplos bienvenidos de actos de bondad.</desc>
+  </programme>
+  <programme start="20260428040000 -0300" stop="20260428042500 -0300" channel="0808">
+    <title lang="es">Ira en el camino • Demasiado cerca</title>
+    <desc lang="es">Demasiado cerca ║ Una inmersión profunda en las carreteras estadounidenses, examinando el comportamiento humano extremo, el clima salvaje, accidentes locos y algunos ejemplos bienvenidos de actos de bondad.</desc>
+  </programme>
+  <programme start="20260428042500 -0300" stop="20260428044500 -0300" channel="0808">
+    <title lang="es">Ira en el camino • Catástrofe en la atracción de autos</title>
+    <desc lang="es">Catástrofe en la atracción de autos ║ Una inmersión profunda en las carreteras estadounidenses, examinando el comportamiento humano extremo, el clima salvaje, accidentes locos y algunos ejemplos bienvenidos de actos de bondad.</desc>
+  </programme>
+  <programme start="20260428044500 -0300" stop="20260428051000 -0300" channel="0808">
+    <title lang="es">Clientes en furia • ¡Estás fuera!</title>
+    <desc lang="es">¡Estás fuera! ║ Videos virales e insólitos de discusiones, malos tratos y situaciones extremas protagonizadas por clientes fuera de control en tiendas y restaurantes.</desc>
+  </programme>
+  <programme start="20260428051000 -0300" stop="20260428053000 -0300" channel="0808">
+    <title lang="es">Clientes en furia • Pelea en luna llena</title>
+    <desc lang="es">Pelea en luna llena ║ Videos virales e insólitos de discusiones, malos tratos y situaciones extremas protagonizadas por clientes fuera de control en tiendas y restaurantes.</desc>
+  </programme>
+  <programme start="20260428053000 -0300" stop="20260428055000 -0300" channel="0808">
+    <title lang="es">Clientes en furia • Trasero en el Deli</title>
+    <desc lang="es">Trasero en el Deli ║ Videos virales e insólitos de discusiones, malos tratos y situaciones extremas protagonizadas por clientes fuera de control en tiendas y restaurantes.</desc>
+  </programme>
+  <programme start="20260428055000 -0300" stop="20260428061500 -0300" channel="0808">
+    <title lang="es">Clientes en furia • Hurto en tiendas</title>
+    <desc lang="es">Hurto en tiendas ║ Videos virales e insólitos de discusiones, malos tratos y situaciones extremas protagonizadas por clientes fuera de control en tiendas y restaurantes.</desc>
+  </programme>
+  <programme start="20260428061500 -0300" stop="20260428063500 -0300" channel="0808">
+    <title lang="es">Clientes en furia • Carrera de cerveza</title>
+    <desc lang="es">Carrera de cerveza ║ Videos virales e insólitos de discusiones, malos tratos y situaciones extremas protagonizadas por clientes fuera de control en tiendas y restaurantes.</desc>
+  </programme>
+  <programme start="20260428063500 -0300" stop="20260428065500 -0300" channel="0808">
+    <title lang="es">Clientes en furia • Corte de pelo 911</title>
+    <desc lang="es">Corte de pelo 911 ║ Videos virales e insólitos de discusiones, malos tratos y situaciones extremas protagonizadas por clientes fuera de control en tiendas y restaurantes.</desc>
+  </programme>
+  <programme start="20260428065500 -0300" stop="20260428072000 -0300" channel="0808">
+    <title lang="es">Clientes en furia • Pánico en el restaurante de comida rápida</title>
+    <desc lang="es">Pánico en el restaurante de comida rápida ║ Videos virales e insólitos de discusiones, malos tratos y situaciones extremas protagonizadas por clientes fuera de control en tiendas y restaurantes.</desc>
+  </programme>
+  <programme start="20260428072000 -0300" stop="20260428074000 -0300" channel="0808">
+    <title lang="es">Clientes en furia • Pelea de béisbol</title>
+    <desc lang="es">Pelea de béisbol ║ Videos virales e insólitos de discusiones, malos tratos y situaciones extremas protagonizadas por clientes fuera de control en tiendas y restaurantes.</desc>
+  </programme>
+  <programme start="20260428074000 -0300" stop="20260428080000 -0300" channel="0808">
+    <title lang="es">Clientes en furia • Servicio de labios</title>
+    <desc lang="es">Servicio de labios ║ Videos virales e insólitos de discusiones, malos tratos y situaciones extremas protagonizadas por clientes fuera de control en tiendas y restaurantes.</desc>
+  </programme>
+  <programme start="20260428080000 -0300" stop="20260428082000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Tesoros de Asia</title>
+    <desc lang="es">Tesoros de Asia ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428082000 -0300" stop="20260428090000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • La venganza es un plato que se sirve frío</title>
+    <desc lang="es">La venganza es un plato que se sirve frío ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428090000 -0300" stop="20260428100000 -0300" channel="0808">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+  </programme>
+  <programme start="20260428100000 -0300" stop="20260428110000 -0300" channel="0808">
+    <title lang="es">Infomerciales</title>
+    <desc lang="es">Observa todos los productos electrodomésticos que dominan el mercado actual y que más se adaptan a tus necesidades. Además, conoce cómo obtenerlos de la manera más rápida y sencilla posible.</desc>
+  </programme>
+  <programme start="20260428110000 -0300" stop="20260428123000 -0300" channel="0808">
+    <title lang="es">Acumuladores compulsivos • Christine</title>
+    <desc lang="es">Christine ║ Serie documental que explora las vidas de personas que sufren el trastorno de acumulación, mientras psicólogos y organizadores expertos intentan ayudarlos a recuperar el control de sus hogares.</desc>
+  </programme>
+  <programme start="20260428123000 -0300" stop="20260428125000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Por un poco de dinero</title>
+    <desc lang="es">Por un poco de dinero ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428125000 -0300" stop="20260428131000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Ganancias para las chicas</title>
+    <desc lang="es">Ganancias para las chicas ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428131000 -0300" stop="20260428133000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Brandi y Jarrod se ponen a trabajar</title>
+    <desc lang="es">Brandi y Jarrod se ponen a trabajar ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428133000 -0300" stop="20260428135500 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Vístete para ganar</title>
+    <desc lang="es">Vístete para ganar ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428135500 -0300" stop="20260428141500 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Sr. Agradable</title>
+    <desc lang="es">Sr. Agradable ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428141500 -0300" stop="20260428144000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Las mentiras asoman</title>
+    <desc lang="es">Las mentiras asoman ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428144000 -0300" stop="20260428150000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Día de aprendizajes</title>
+    <desc lang="es">Día de aprendizajes ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428150000 -0300" stop="20260428152500 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Estrategias diferentes</title>
+    <desc lang="es">Estrategias diferentes ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428152500 -0300" stop="20260428154500 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Apoyo frustrado</title>
+    <desc lang="es">Apoyo frustrado ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428154500 -0300" stop="20260428161000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Costo y beneficio</title>
+    <desc lang="es">Costo y beneficio ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428161000 -0300" stop="20260428163000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Lo que se subasta en Montebello no queda en Montebello</title>
+    <desc lang="es">Lo que se subasta en Montebello no queda en Montebello ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428163000 -0300" stop="20260428165500 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • ¿Calidad o cantidad?</title>
+    <desc lang="es">¿Calidad o cantidad? ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428165500 -0300" stop="20260428171500 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Una trama valiosa</title>
+    <desc lang="es">Una trama valiosa ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428171500 -0300" stop="20260428174000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Espejito, espejito</title>
+    <desc lang="es">Espejito, espejito ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428174000 -0300" stop="20260428180000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Terapia de pareja</title>
+    <desc lang="es">Terapia de pareja ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428180000 -0300" stop="20260428182500 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • ¡Rompan esos candados!</title>
+    <desc lang="es">¡Rompan esos candados! ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428182500 -0300" stop="20260428184500 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Kenny oh la la!</title>
+    <desc lang="es">Kenny oh la la! ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428184500 -0300" stop="20260428191000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Regla número 1</title>
+    <desc lang="es">Regla número 1 ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428191000 -0300" stop="20260428193000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Atrapados con salida</title>
+    <desc lang="es">Atrapados con salida ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428193000 -0300" stop="20260428195500 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Juego en el trono</title>
+    <desc lang="es">Juego en el trono ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428195500 -0300" stop="20260428201500 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Máquinas misteriosas</title>
+    <desc lang="es">Máquinas misteriosas ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428201500 -0300" stop="20260428204000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Más grande más sabio</title>
+    <desc lang="es">Más grande más sabio ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428204000 -0300" stop="20260428213000 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • La venganza es un plato que se sirve frío</title>
+    <desc lang="es">La venganza es un plato que se sirve frío ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428213000 -0300" stop="20260428221500 -0300" channel="0808">
+    <title lang="es">¿Quién da má$? • Cheesy Does It!</title>
+    <desc lang="es">Cheesy Does It! ║ Los postores compiten por comprar los contenidos confiscados de unidades de almacenamiento que pueden ser basura o tesoros.</desc>
+  </programme>
+  <programme start="20260428221500 -0300" stop="20260428224000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260428224000 -0300" stop="20260428230000 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260428230000 -0300" stop="20260428232500 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260428232500 -0300" stop="20260428234500 -0300" channel="0808">
+    <title lang="es">Patrulla policial</title>
+    <desc lang="es">Esta serie ofrece a los espectadores acceso directo y sin restricciones a los cuerpos de seguridad. Ya sean redadas de drogas, prostitución, persecuciones a toda velocidad, disputas domésticas, robo de vehículos, violencia entre bandas o simplemente pequeñas infracciones de tráfico, la serie muestra los encuentros diarios entre la policía y los ciudadanos tal y como se producen.</desc>
+  </programme>
+  <programme start="20260428234500 -0300" stop="20260429003500 -0300" channel="0808">
+    <title lang="es">Durmiendo con la muerte • Terrores nocturnos</title>
+    <desc lang="es">Terrores nocturnos ║ Una serie que relata algunos de los asesinatos más extraños y locos en los que alguien se despierta con un cadáver. Con acceso a los principales investigadores, testigos clave y las personas más cercanas a la víctima, la serie descubre los secretos y la verdad detrás de cada retorcido asesinato.</desc>
+  </programme>
+  <programme start="20260429003500 -0300" stop="20260429012000 -0300" channel="0808">
+    <title lang="es">Durmiendo con la muerte • La clave del asesinato</title>
+    <desc lang="es">La clave del asesinato ║ Una serie que relata algunos de los asesinatos más extraños y locos en los que alguien se despierta con un cadáver. Con acceso a los principales investigadores, testigos clave y las personas más cercanas a la víctima, la serie descubre los secretos y la verdad detrás de cada retorcido asesinato.</desc>
+  </programme>
+  <programme start="20260429012000 -0300" stop="20260429072000 -0300" channel="0808">
+    <title lang="es">A and E</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260429072000 -0300" stop="20260429132000 -0300" channel="0808">
+    <title lang="es">A and E</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260429132000 -0300" stop="20260429192000 -0300" channel="0808">
+    <title lang="es">A and E</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260429192000 -0300" stop="20260430005959 -0300" channel="0808">
+    <title lang="es">A and E</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260425070748 -0300" stop="20260425073209 -0300" channel="504">
     <title lang="es">Pesadilla en la calle Elm</title>
   </programme>
   <programme start="20260425073340 -0300" stop="20260425091130 -0300" channel="504">
@@ -11327,11 +12836,8 @@
   <programme start="20260427041657 -0300" stop="20260427055859 -0300" channel="504">
     <title lang="es">La Pequeña Picara</title>
   </programme>
-  <programme start="20260427060040 -0300" stop="20260427062954 -0300" channel="504">
+  <programme start="20260427060040 -0300" stop="20260427070748 -0300" channel="504">
     <title lang="es">Asesinos Con Estilo</title>
-  </programme>
-  <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="531">
-    <title lang="es">Sin información</title>
   </programme>
   <programme start="20260425070000 -0300" stop="20260425080000 -0300" channel="531">
     <title lang="es">Sin información</title>
@@ -11474,7 +12980,7 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="531">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="532">
+  <programme start="20260427060000 -0300" stop="20260427070000 -0300" channel="531">
     <title lang="es">Sin información</title>
   </programme>
   <programme start="20260425070000 -0300" stop="20260425080000 -0300" channel="532">
@@ -11618,10 +13124,10 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="532">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425062954 -0300" stop="20260425065352 -0300" channel="536">
-    <title lang="es">Isla de Lemures - Madagascar</title>
+  <programme start="20260427060000 -0300" stop="20260427070000 -0300" channel="532">
+    <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425065457 -0300" stop="20260425080443 -0300" channel="536">
+  <programme start="20260425070748 -0300" stop="20260425080443 -0300" channel="536">
     <title lang="es">¿Cómo era la Tierra hace 500 millones de años?</title>
   </programme>
   <programme start="20260425080453 -0300" stop="20260425092608 -0300" channel="536">
@@ -11768,13 +13274,10 @@
   <programme start="20260427051056 -0300" stop="20260427061056 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427061056 -0300" stop="20260427062954 -0300" channel="536">
+  <programme start="20260427061056 -0300" stop="20260427070748 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425063012 -0300" stop="20260425065428 -0300" channel="537">
-    <title lang="es">El Super Agente 86</title>
-  </programme>
-  <programme start="20260425065749 -0300" stop="20260425074455 -0300" channel="537">
+  <programme start="20260425070748 -0300" stop="20260425074455 -0300" channel="537">
     <title lang="es">Kojak</title>
   </programme>
   <programme start="20260425074815 -0300" stop="20260425080519 -0300" channel="537">
@@ -11963,11 +13466,11 @@
   <programme start="20260427043753 -0300" stop="20260427053753 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260427053753 -0300" stop="20260427062954 -0300" channel="537">
+  <programme start="20260427053753 -0300" stop="20260427063753 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="538">
-    <title lang="es">Programación Musical</title>
+  <programme start="20260427063753 -0300" stop="20260427070748 -0300" channel="537">
+    <title lang="es">Animotion</title>
   </programme>
   <programme start="20260425070000 -0300" stop="20260425080000 -0300" channel="538">
     <title lang="es">Programación Musical</title>
@@ -12110,10 +13613,10 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="538">
     <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260425062954 -0300" stop="20260425064241 -0300" channel="539">
-    <title lang="es">(1993) - Cazador Citadino</title>
+  <programme start="20260427060000 -0300" stop="20260427070000 -0300" channel="538">
+    <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260425064241 -0300" stop="20260425082700 -0300" channel="539">
+  <programme start="20260425070748 -0300" stop="20260425082700 -0300" channel="539">
     <title lang="es">(2008) - Si Señor</title>
   </programme>
   <programme start="20260425082700 -0300" stop="20260425100326 -0300" channel="539">
@@ -12197,11 +13700,8 @@
   <programme start="20260427042859 -0300" stop="20260427061602 -0300" channel="539">
     <title lang="es">(1990) - Matrimonio por Conveniencia</title>
   </programme>
-  <programme start="20260427061602 -0300" stop="20260427062954 -0300" channel="539">
+  <programme start="20260427061602 -0300" stop="20260427070748 -0300" channel="539">
     <title lang="es">(1999) - Buscando A Eva</title>
-  </programme>
-  <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="567">
-    <title lang="es">MX Classic</title>
   </programme>
   <programme start="20260425070000 -0300" stop="20260425080000 -0300" channel="567">
     <title lang="es">MX Classic</title>
@@ -12344,8 +13844,8 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="567">
     <title lang="es">MX Classic</title>
   </programme>
-  <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="568">
-    <title lang="es">MX Series</title>
+  <programme start="20260427060000 -0300" stop="20260427070000 -0300" channel="567">
+    <title lang="es">MX Classic</title>
   </programme>
   <programme start="20260425070000 -0300" stop="20260425080000 -0300" channel="568">
     <title lang="es">MX Series</title>
@@ -12488,8 +13988,8 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="568">
     <title lang="es">MX Series</title>
   </programme>
-  <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="569">
-    <title lang="es">MX Old</title>
+  <programme start="20260427060000 -0300" stop="20260427070000 -0300" channel="568">
+    <title lang="es">MX Series</title>
   </programme>
   <programme start="20260425070000 -0300" stop="20260425080000 -0300" channel="569">
     <title lang="es">MX Old</title>
@@ -12632,8 +14132,8 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="569">
     <title lang="es">MX Old</title>
   </programme>
-  <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="581">
-    <title lang="es">Zoom back</title>
+  <programme start="20260427060000 -0300" stop="20260427070000 -0300" channel="569">
+    <title lang="es">MX Old</title>
   </programme>
   <programme start="20260425070000 -0300" stop="20260425080000 -0300" channel="581">
     <title lang="es">Zoom back</title>
@@ -12776,8 +14276,8 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="581">
     <title lang="es">Zoom back</title>
   </programme>
-  <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="608">
-    <title lang="es">Sin información</title>
+  <programme start="20260427060000 -0300" stop="20260427070000 -0300" channel="581">
+    <title lang="es">Zoom back</title>
   </programme>
   <programme start="20260425070000 -0300" stop="20260425080000 -0300" channel="608">
     <title lang="es">Sin información</title>
@@ -12920,10 +14420,10 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="608">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425062954 -0300" stop="20260425070000 -0300" channel="663">
-    <title lang="es">Leyendas del Oeste</title>
+  <programme start="20260427060000 -0300" stop="20260427070000 -0300" channel="608">
+    <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425070000 -0300" stop="20260425080000 -0300" channel="663">
+  <programme start="20260425070748 -0300" stop="20260425080000 -0300" channel="663">
     <title lang="es">Cine del Oeste</title>
   </programme>
   <programme start="20260425080000 -0300" stop="20260425120000 -0300" channel="663">
@@ -12956,10 +14456,13 @@
   <programme start="20260426200000 -0300" stop="20260427000000 -0300" channel="663">
     <title lang="es">Noche de Western</title>
   </programme>
-  <programme start="20260427000000 -0300" stop="20260427062954 -0300" channel="663">
+  <programme start="20260427000000 -0300" stop="20260427070000 -0300" channel="663">
     <title lang="es">Leyendas del Oeste</title>
   </programme>
-  <programme start="20260425062954 -0300" stop="20260425080000 -0300" channel="664">
+  <programme start="20260427070000 -0300" stop="20260427070748 -0300" channel="663">
+    <title lang="es">Cine del Oeste</title>
+  </programme>
+  <programme start="20260425070748 -0300" stop="20260425080000 -0300" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
   <programme start="20260425080000 -0300" stop="20260425120000 -0300" channel="664">
@@ -12983,7 +14486,7 @@
   <programme start="20260426170000 -0300" stop="20260426200000 -0300" channel="664">
     <title lang="es">Retro Prime</title>
   </programme>
-  <programme start="20260426200000 -0300" stop="20260427062954 -0300" channel="664">
+  <programme start="20260426200000 -0300" stop="20260427070748 -0300" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
   <programme start="20260425092300 -0300" stop="20260425102300 -0300" channel="66a11a21a79dea0008aa90ca">
@@ -19106,196 +20609,196 @@
     <title lang="es">A Twist of Sand</title>
     <desc lang="es">An ex-submarine captain (Richard Johnson) hunts diamonds in Africa with smugglers and a mystery woman (Honor Blackman).</desc>
   </programme>
-  <programme start="20260424052200 -0300" stop="20260424065900 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260424042200 -0300" stop="20260424055900 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">24 Horas para Vivir</title>
     <desc lang="es">Un vertiginoso asesino, Travis Conrad (Ethan Hawke) a quien se le da una oportunidad para redimirse después de que su jefe lo resucitara temporalmente después de haber sido asesinado en el trabajo.</desc>
   </programme>
-  <programme start="20260424065900 -0300" stop="20260424085400 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260424055900 -0300" stop="20260424075400 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Addicted</title>
   </programme>
-  <programme start="20260424085400 -0300" stop="20260424103200 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260424075400 -0300" stop="20260424093200 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Por amor</title>
   </programme>
-  <programme start="20260424103200 -0300" stop="20260424110200 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260424093200 -0300" stop="20260424100200 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Televenta</title>
   </programme>
-  <programme start="20260424110200 -0300" stop="20260424124600 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260424100200 -0300" stop="20260424114600 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Sin Escape</title>
     <desc lang="es">Jack (Owen Wilson) decide viajar con su familia Annie (Lake Bell), Lucy (Sterling Jerins) y Beeze (Claire Geare) al sureste de Asia. Mientras bajan del avión conocen a un extranjero igual que ellos llamado Hammond (Pierce Brosnan) quien conoce y le da buenas expectativas del país, pero él no sabe que ese país está a punto de pasar por un conflicto armado y ahora ellos deberán correr por sus vidas.</desc>
   </programme>
-  <programme start="20260424124600 -0300" stop="20260424131600 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260424114600 -0300" stop="20260424121600 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Televenta</title>
   </programme>
-  <programme start="20260424131600 -0300" stop="20260424151400 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260424121600 -0300" stop="20260424141400 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Mientras Estés Conmigo</title>
   </programme>
-  <programme start="20260424151400 -0300" stop="20260424154400 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260424141400 -0300" stop="20260424144400 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Televenta</title>
   </programme>
-  <programme start="20260424154400 -0300" stop="20260424172000 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260424144400 -0300" stop="20260424162000 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">7500: Avión Secuestrado</title>
   </programme>
-  <programme start="20260424172000 -0300" stop="20260424185000 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260424162000 -0300" stop="20260424175000 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Conjuro Siniestro</title>
   </programme>
-  <programme start="20260424185000 -0300" stop="20260424202700 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260424175000 -0300" stop="20260424192700 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Criaturas salvajes</title>
   </programme>
-  <programme start="20260424202700 -0300" stop="20260424220400 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260424192700 -0300" stop="20260424210400 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Paddington</title>
   </programme>
-  <programme start="20260424220400 -0300" stop="20260425002100 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260424210400 -0300" stop="20260424232100 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Creed: Corazón de Campeón</title>
     <desc lang="es">Adonis Johnson (Michael B. Jordan) nunca conoció a su famoso padre, el campeón mundial de pesos pesados Apollo Creed, quien murió antes de que él naciera. Aun así, no se puede negar que lleva el boxeo en la sangre, por lo cual Adonis viaja a Filadelfia, el lugar donde se llevó a cabo la legendaria pelea entre Apollo y un duro principiante llamado Rocky Balboa.Una vez llegado a “la ciudad del amor fraternal”, Adonis va a buscar a Rocky (Sylvester Stallone) y le pide que sea su entrenador. A pesar de insistir en que está retirado del mundo de las peleas, Rocky ve en Adonis la misma fuerza y determinación que Apollo, el feroz rival que terminó convirtiéndose en su amigo más cercano. Finalmente, Rocky acepta entrenar al joven luchador a pesar de estar él mismo contra un oponente mucho más letal que cualquiera al que se haya enfrentado en el ring.Con Rocky de su lado, no pasará mucho tiempo hasta que Adonis consiga su oportunidad de competir por un título, pero ¿podrá desarrollar no solo su impulso sino también el corazón de un verdadero luchador antes de entrar al ring?</desc>
   </programme>
-  <programme start="20260425002100 -0300" stop="20260425015800 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260424232100 -0300" stop="20260425005800 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Amor a la Italiana</title>
   </programme>
-  <programme start="20260425015800 -0300" stop="20260425035800 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260425005800 -0300" stop="20260425025800 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Gracia Perpetua, Ltd</title>
   </programme>
-  <programme start="20260425035800 -0300" stop="20260425054800 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260425025800 -0300" stop="20260425044800 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">El protector</title>
   </programme>
-  <programme start="20260425054800 -0300" stop="20260425075000 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260425044800 -0300" stop="20260425065000 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">La ballena</title>
   </programme>
-  <programme start="20260425075000 -0300" stop="20260425092800 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260425065000 -0300" stop="20260425082800 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Lila y Eve</title>
   </programme>
-  <programme start="20260425092800 -0300" stop="20260425104500 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260425082800 -0300" stop="20260425094500 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Las Aventuras de un Cerdito</title>
   </programme>
-  <programme start="20260425104500 -0300" stop="20260425111500 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260425094500 -0300" stop="20260425101500 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Televenta</title>
   </programme>
-  <programme start="20260425111500 -0300" stop="20260425124100 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260425101500 -0300" stop="20260425114100 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Desesperada</title>
   </programme>
-  <programme start="20260425124100 -0300" stop="20260425131100 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260425114100 -0300" stop="20260425121100 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Televenta</title>
   </programme>
-  <programme start="20260425131100 -0300" stop="20260425153900 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260425121100 -0300" stop="20260425143900 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">007: Spectre</title>
   </programme>
-  <programme start="20260425153900 -0300" stop="20260425161000 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260425143900 -0300" stop="20260425151000 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Televenta</title>
   </programme>
-  <programme start="20260425161000 -0300" stop="20260425174600 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260425151000 -0300" stop="20260425164600 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">La Familia Addams 2</title>
   </programme>
-  <programme start="20260425174600 -0300" stop="20260425192700 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260425164600 -0300" stop="20260425182700 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Maestras del Engaño</title>
     <desc lang="es">Dos estafadoras, una de clase baja y la otra de clase baja, se unen para derribar a los hombres sucios y malvados que en algún momento las han despreciado.</desc>
   </programme>
-  <programme start="20260425192700 -0300" stop="20260425212500 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260425182700 -0300" stop="20260425202500 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Robin Hood</title>
   </programme>
-  <programme start="20260425212500 -0300" stop="20260425225100 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260425202500 -0300" stop="20260425215100 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Atrapada En El Fondo Del Mar</title>
     <desc lang="es">Unos días después de Navidad, las medias hermanas Ida (Moa Gammel) y Tuva (Madeleine Martin) deciden hacer una inmersión en una remota costa, pero un deslave deja atrapada a Tuva bajo el agua. Ida regresa a la superficie para descubrir que el mismo desplazamiento de roca ha cubierto todo su equipo dejándolas completamente aisladas sin ninguna posibilidad de pedir ayuda. Mientras se desarrolla la frenética carrera por la supervivencia, Ida se someterá a los imposibles para ayudar a Tuva.</desc>
   </programme>
-  <programme start="20260425225100 -0300" stop="20260426010000 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260425215100 -0300" stop="20260426000000 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Aguas Oscuras</title>
   </programme>
-  <programme start="20260426010000 -0300" stop="20260426023900 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260426000000 -0300" stop="20260426013900 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Vidas Perfectas</title>
   </programme>
-  <programme start="20260426023900 -0300" stop="20260426041500 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260426013900 -0300" stop="20260426031500 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Sobrevivir a la Noche</title>
   </programme>
-  <programme start="20260426041500 -0300" stop="20260426060300 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260426031500 -0300" stop="20260426050300 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">El túnel</title>
   </programme>
-  <programme start="20260426060300 -0300" stop="20260426080800 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260426050300 -0300" stop="20260426070800 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Duro de Cuidar</title>
     <desc lang="es">El mejor agente de protección del mundo Michael Bryce (Ryan Reynolds), está llamado a proteger la vida de su peor enemigo, uno de los sicarios más letales del mundo, Darius Kincaid (Samuel L. Jackson). El implacable guardaespaldas y el asesino manipulador han estado en los opuestos extremos de la bala por años y son lanzados juntos por 24 horas salvajes. Durante su estridente e hilarante aventura desde Inglaterra hasta Holanda, se topan con persecuciones de alta velocidad, extravagantes escapadas de botes y un despiadado dictador de Europa oriental, Vladislav Dukhovich (Gary Oldman), quien está en búsqueda de sangre. Sonia Kincaid (Salma Hayek) se une al caos como la esposa igualmente notoria de Darius.</desc>
   </programme>
-  <programme start="20260426080800 -0300" stop="20260426094100 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260426070800 -0300" stop="20260426084100 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Relic: Herencia Maldita</title>
   </programme>
-  <programme start="20260426094100 -0300" stop="20260426112200 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260426084100 -0300" stop="20260426102200 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">La fuerza de la naturaleza</title>
   </programme>
-  <programme start="20260426112200 -0300" stop="20260426115200 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260426102200 -0300" stop="20260426105200 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Televenta</title>
   </programme>
-  <programme start="20260426115200 -0300" stop="20260426141900 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260426105200 -0300" stop="20260426131900 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Trece vidas</title>
   </programme>
-  <programme start="20260426141900 -0300" stop="20260426144900 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260426131900 -0300" stop="20260426134900 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Televenta</title>
   </programme>
-  <programme start="20260426144900 -0300" stop="20260426164200 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260426134900 -0300" stop="20260426154200 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Tres segundos</title>
   </programme>
-  <programme start="20260426164200 -0300" stop="20260426171300 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260426154200 -0300" stop="20260426161300 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Televenta</title>
   </programme>
-  <programme start="20260426171300 -0300" stop="20260426190600 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260426161300 -0300" stop="20260426180600 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Gringo</title>
   </programme>
-  <programme start="20260426190600 -0300" stop="20260426205500 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260426180600 -0300" stop="20260426195500 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Inconcebible</title>
   </programme>
-  <programme start="20260426205500 -0300" stop="20260426223800 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260426195500 -0300" stop="20260426213800 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">¿Cómo Matar a un Esposo Muerto?</title>
     <desc lang="es">Una mujer, madre de familia, que debe enfrentar a las adversidades de la vida que conlleva a la separación de un hombre poderoso y prepotente que decide arruinarle la vida, aún, después de que ha muerto.</desc>
   </programme>
-  <programme start="20260426223800 -0300" stop="20260427002600 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260426213800 -0300" stop="20260426232600 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">El Pasajero</title>
   </programme>
-  <programme start="20260427002600 -0300" stop="20260427030200 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260426232600 -0300" stop="20260427020200 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">El Renacido</title>
     <desc lang="es">En una expedición a tierras americanas inexploradas, el legendario explorador Hugh Glass (Leonardo DiCaprio) es brutalmente atacado por un oso y es dado por muerto por los miembros de su equipo de caza. En su lucha por sobrevivir, Glass tolera un dolor inimaginable, así como la traición de su confidente John Fitzgerald (Tom Hardy). Su gran voluntad y el amor hacia su familia hacen que Glass haga todo lo posible por sobrevivir a un invierno cruel.</desc>
   </programme>
-  <programme start="20260427030200 -0300" stop="20260427051700 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260427020200 -0300" stop="20260427041700 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Hasta los Huesos</title>
   </programme>
-  <programme start="20260427051700 -0300" stop="20260427071000 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260427041700 -0300" stop="20260427061000 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Los misteriosos asesinatos de Limehouse</title>
   </programme>
-  <programme start="20260427071000 -0300" stop="20260427085100 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260427061000 -0300" stop="20260427075100 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">La venganza perfecta</title>
   </programme>
-  <programme start="20260427085100 -0300" stop="20260427101600 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260427075100 -0300" stop="20260427091600 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Syndrome</title>
   </programme>
-  <programme start="20260427101600 -0300" stop="20260427104700 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260427091600 -0300" stop="20260427094700 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Televenta</title>
   </programme>
-  <programme start="20260427104700 -0300" stop="20260427121400 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260427094700 -0300" stop="20260427111400 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">La Familia Addams</title>
   </programme>
-  <programme start="20260427121400 -0300" stop="20260427124400 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260427111400 -0300" stop="20260427114400 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Televenta</title>
   </programme>
-  <programme start="20260427124400 -0300" stop="20260427143200 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260427114400 -0300" stop="20260427133200 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Bajo el mismo cielo</title>
   </programme>
-  <programme start="20260427143200 -0300" stop="20260427150300 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260427133200 -0300" stop="20260427140300 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Televenta</title>
   </programme>
-  <programme start="20260427150300 -0300" stop="20260427165000 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260427140300 -0300" stop="20260427155000 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">En la playa de Chesil</title>
   </programme>
-  <programme start="20260427165000 -0300" stop="20260427185000 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260427155000 -0300" stop="20260427175000 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Los caballeros</title>
   </programme>
-  <programme start="20260427185000 -0300" stop="20260427204800 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260427175000 -0300" stop="20260427194800 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">En la mira</title>
   </programme>
-  <programme start="20260427204800 -0300" stop="20260427222600 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260427194800 -0300" stop="20260427212600 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Chance</title>
   </programme>
-  <programme start="20260427222600 -0300" stop="20260428001400 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260427212600 -0300" stop="20260427231400 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Dicha</title>
   </programme>
-  <programme start="20260428001400 -0300" stop="20260428021900 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260427231400 -0300" stop="20260428011900 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Ad Astra: Hacia las Estrellas</title>
     <desc lang="es">El astronauta Roy McBride (Brad Pitt) viaja a los bordes exteriores del sistema solar para encontrar a su padre desaparecido y descubrir un misterio que amenaza la supervivencia de nuestro planeta. Su viaje dejará al descubierto secretos que desafían la naturaleza de la existencia humana y nuestro lugar en el cosmos.</desc>
   </programme>
-  <programme start="20260428021900 -0300" stop="20260428041400 -0300" channel="Canal.Cinema.Platino.mx">
+  <programme start="20260428011900 -0300" stop="20260428031400 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Si Solo Pudiera Imaginar</title>
     <desc lang="es">La verdadera e inspiradora historia detrás de la querida y exitosa canción &quot;MercyMe&quot;, que corona la última esperanza para muchos, es un recordatorio apasionante del poder del verdadero perdón.</desc>
   </programme>

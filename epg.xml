@@ -445,6 +445,27 @@
   <channel id="Canal.Cinema.Platino.mx">
     <display-name>Canal Cinema Platino</display-name>
   </channel>
+  <channel id="M+.Estrenos.es">
+    <display-name>M+ Estrenos</display-name>
+  </channel>
+  <channel id="Be.Mad.es">
+    <display-name>Be Mad</display-name>
+  </channel>
+  <channel id="C.Hollywood.es">
+    <display-name>C Hollywood</display-name>
+  </channel>
+  <channel id="XTRM.es">
+    <display-name>XTRM</display-name>
+  </channel>
+  <channel id="Dark.es">
+    <display-name>Dark</display-name>
+  </channel>
+  <channel id="TCM.es">
+    <display-name>TCM</display-name>
+  </channel>
+  <channel id="M+.Clásicos.es">
+    <display-name>M+ Clásicos</display-name>
+  </channel>
   <programme start="20260425000000 -0300" stop="20260425020000 -0300" channel="radio10.ar">
     <title lang="es">La medianoche (Carlos Polimeni)</title>
     <desc lang="es">Cultura, música, reflexiones y una mirada crítica de la realidad.</desc>
@@ -11207,7 +11228,7 @@
     <title lang="es">Mórbido TV</title>
     <desc lang="es">La información de este programa no se encuentra disponible.</desc>
   </programme>
-  <programme start="20260425061352 -0300" stop="20260425073209 -0300" channel="504">
+  <programme start="20260425062021 -0300" stop="20260425073209 -0300" channel="504">
     <title lang="es">Pesadilla en la calle Elm</title>
   </programme>
   <programme start="20260425073340 -0300" stop="20260425091130 -0300" channel="504">
@@ -11282,7 +11303,7 @@
   <programme start="20260427041657 -0300" stop="20260427055859 -0300" channel="504">
     <title lang="es">La Pequeña Picara</title>
   </programme>
-  <programme start="20260427060040 -0300" stop="20260427061352 -0300" channel="504">
+  <programme start="20260427060040 -0300" stop="20260427062021 -0300" channel="504">
     <title lang="es">Asesinos Con Estilo</title>
   </programme>
   <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="531">
@@ -11573,7 +11594,7 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="532">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425061402 -0300" stop="20260425065352 -0300" channel="536">
+  <programme start="20260425062021 -0300" stop="20260425065352 -0300" channel="536">
     <title lang="es">Isla de Lemures - Madagascar</title>
   </programme>
   <programme start="20260425065457 -0300" stop="20260425080443 -0300" channel="536">
@@ -11723,10 +11744,10 @@
   <programme start="20260427051056 -0300" stop="20260427061056 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427061056 -0300" stop="20260427061352 -0300" channel="536">
+  <programme start="20260427061056 -0300" stop="20260427062021 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425061352 -0300" stop="20260425062654 -0300" channel="537">
+  <programme start="20260425062021 -0300" stop="20260425062654 -0300" channel="537">
     <title lang="es">La Dimensión Desconocida</title>
   </programme>
   <programme start="20260425063012 -0300" stop="20260425065428 -0300" channel="537">
@@ -11921,7 +11942,7 @@
   <programme start="20260427043753 -0300" stop="20260427053753 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260427053753 -0300" stop="20260427061352 -0300" channel="537">
+  <programme start="20260427053753 -0300" stop="20260427062021 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
   <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="538">
@@ -12068,7 +12089,7 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="538">
     <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260425061352 -0300" stop="20260425064241 -0300" channel="539">
+  <programme start="20260425062021 -0300" stop="20260425064241 -0300" channel="539">
     <title lang="es">(1993) - Cazador Citadino</title>
   </programme>
   <programme start="20260425064241 -0300" stop="20260425082700 -0300" channel="539">
@@ -12152,8 +12173,11 @@
   <programme start="20260427024114 -0300" stop="20260427042859 -0300" channel="539">
     <title lang="es">(1982) - Que Buena Madre Es Mi Padre</title>
   </programme>
-  <programme start="20260427042859 -0300" stop="20260427061352 -0300" channel="539">
+  <programme start="20260427042859 -0300" stop="20260427061602 -0300" channel="539">
     <title lang="es">(1990) - Matrimonio por Conveniencia</title>
+  </programme>
+  <programme start="20260427061602 -0300" stop="20260427062021 -0300" channel="539">
+    <title lang="es">(1999) - Buscando A Eva</title>
   </programme>
   <programme start="20260425060000 -0300" stop="20260425070000 -0300" channel="567">
     <title lang="es">MX Classic</title>
@@ -12875,7 +12899,7 @@
   <programme start="20260427050000 -0300" stop="20260427060000 -0300" channel="608">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260425061352 -0300" stop="20260425070000 -0300" channel="663">
+  <programme start="20260425062021 -0300" stop="20260425070000 -0300" channel="663">
     <title lang="es">Leyendas del Oeste</title>
   </programme>
   <programme start="20260425070000 -0300" stop="20260425080000 -0300" channel="663">
@@ -12911,10 +12935,10 @@
   <programme start="20260426200000 -0300" stop="20260427000000 -0300" channel="663">
     <title lang="es">Noche de Western</title>
   </programme>
-  <programme start="20260427000000 -0300" stop="20260427061352 -0300" channel="663">
+  <programme start="20260427000000 -0300" stop="20260427062021 -0300" channel="663">
     <title lang="es">Leyendas del Oeste</title>
   </programme>
-  <programme start="20260425061352 -0300" stop="20260425080000 -0300" channel="664">
+  <programme start="20260425062021 -0300" stop="20260425080000 -0300" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
   <programme start="20260425080000 -0300" stop="20260425120000 -0300" channel="664">
@@ -12938,7 +12962,7 @@
   <programme start="20260426170000 -0300" stop="20260426200000 -0300" channel="664">
     <title lang="es">Retro Prime</title>
   </programme>
-  <programme start="20260426200000 -0300" stop="20260427061352 -0300" channel="664">
+  <programme start="20260426200000 -0300" stop="20260427062021 -0300" channel="664">
     <title lang="es">Maratón Retro</title>
   </programme>
   <programme start="20260425092300 -0300" stop="20260425102300 -0300" channel="66a11a21a79dea0008aa90ca">
@@ -19253,5 +19277,1514 @@
   <programme start="20260428021900 -0300" stop="20260428041400 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Si Solo Pudiera Imaginar</title>
     <desc lang="es">La verdadera e inspiradora historia detrás de la querida y exitosa canción &quot;MercyMe&quot;, que corona la última esperanza para muchos, es un recordatorio apasionante del poder del verdadero perdón.</desc>
+  </programme>
+  <programme start="20260424020400 -0300" stop="20260424030000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Steven Spielberg: el rey midas de Hollywood</title>
+    <desc lang="es">Sus obras maestras pueden ser el resultado de sus obsesiones. Este documental se vale de fragmentos de sus películas para revisar su obra y sus influencias y descubrir qué hace tan especial al universo de Steven Spielberg. Además, a través de tres grandes temas (su infancia, América y el Holocausto), ilustra el ascenso de un joven prodigio que comenzó en la televisión antes de convertirse en uno de los cineastas más emblemáticos de las últimas cuatro décadas.</desc>
+  </programme>
+  <programme start="20260424030000 -0300" stop="20260424050800 -0300" channel="M+.Estrenos.es">
+    <title lang="es">The Game</title>
+    <desc lang="es">Un millonario obsesionado por el orden y el control de su rutinaria vida se dispone a celebrar su cumpleaños. Ese mismo día, su hermano le ofrece un regalo muy especial: un juego con el que podrá olvidar la monotonía en la que está inmerso. A partir de entonces, todo degenera en un confuso caos.</desc>
+  </programme>
+  <programme start="20260424050800 -0300" stop="20260424065800 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Los Tortuga</title>
+    <desc lang="es">Nominada a actriz protagonista y revelación en los Premios Goya de 2026.</desc>
+  </programme>
+  <programme start="20260424065800 -0300" stop="20260424082000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">El segundo acto</title>
+    <desc lang="es">El inclasificable Quentin Dupieux (&quot;Increíble pero cierto&quot;) dirige esta hilarante, desenfrenada y magistral comedia metafílmica de enredos en la que se reúnen Léa Seydoux (&quot;La vida de Adèle&quot;), Louis Garrel (&quot;Soñadores&quot;), Vincent Lindon (&quot;Titane&quot;) y Raphaël Quenard (&quot;Yannick&quot;), cuatro grandes estrellas del cine francés.</desc>
+  </programme>
+  <programme start="20260424082000 -0300" stop="20260424100000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Thelma: la venganza nunca ha sido tan dulce</title>
+    <desc lang="es">June Squibb, nominada a un Oscar por su interpretación en &#x27;&#x27;Nebraska&#x27;&#x27;, protagoniza esta cinta de comedia y acción alrededor de una abuela con una misión aparentemente imposible. Completando el reparto, Fred Hechinger (&#x27;&#x27;The White Lotus&#x27;&#x27;) como el abnegado nieto de Thelma, Richard Roundtree (&#x27;&#x27;Las noches rojas de Harlem&#x27;&#x27;) como su cómplice de confianza y Malcolm McDowell (&#x27;&#x27;La naranja mecánica&#x27;&#x27;) en una aparición estelar.</desc>
+  </programme>
+  <programme start="20260424100000 -0300" stop="20260424113700 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Exit 8</title>
+    <desc lang="es">El ganador de la Concha de Plata en San Sebastián 2022 por &quot;Cien flores&quot;, Genki Kawamura, dirige este espeluznante, desasosegante y original &#x27;thriller psicológico&#x27;, basado en el videojuego homónimo de éxito mundial creado por Kotake Create.</desc>
+  </programme>
+  <programme start="20260424113700 -0300" stop="20260424133800 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Rob Peace</title>
+    <desc lang="es">Chiwetel Ejiofor (&quot;12 años de esclavitud&quot;) dirige y protagoniza este drama familiar, basado en hechos reales, en el que un joven prometedor arriesga su futuro para liberar a su padre encarcelado.</desc>
+  </programme>
+  <programme start="20260424133800 -0300" stop="20260424154600 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Los colores del tiempo</title>
+    <desc lang="es">Un viaje entre el pasado y el presente, un luminoso drama emotivo y nostálgico que habla sobre la vida, el arte, la familia y encontrarse a uno mismo.</desc>
+  </programme>
+  <programme start="20260424154600 -0300" stop="20260424160000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Voces en femenino</title>
+    <desc lang="es">Spotify Equal impulsa la igualdad de género en la música con el objetivo de dar mayor visibilidad a mujeres creadoras en España. Una cita a la que han acudido nombres como Nathy Peluso, Luz Casal, Vanesa Martin o Rosario Flores, entre otras muchas.</desc>
+  </programme>
+  <programme start="20260424160000 -0300" stop="20260424175700 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Los Domingos</title>
+    <desc lang="es">Ganadora de cinco premios Goya, incluyendo mejor película, dirección, guion, actriz protagonista y actriz de reparto.</desc>
+  </programme>
+  <programme start="20260424175700 -0300" stop="20260424193800 -0300" channel="M+.Estrenos.es">
+    <title lang="es">El vengador tóxico</title>
+    <desc lang="es">Peter Dinklage (serie &quot;Juego de tronos&quot;) interpreta a un conserje mutante en esta comedia negra de terror que reinventa un clásico de culto homónimo de 1984.</desc>
+  </programme>
+  <programme start="20260424193800 -0300" stop="20260424214400 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Weapons</title>
+    <desc lang="es">Tras la aplaudida &quot;Barbarian&quot;, Zach Cregger nos vuelve a dejar sin palabras con &quot;Weapons&quot;, ganadora del Oscar a la mejor actriz de reparto (Amy Madigan) y la consagración de Cregger como uno de los cineastas de género más prometedores del momento.</desc>
+  </programme>
+  <programme start="20260424214400 -0300" stop="20260424232700 -0300" channel="M+.Estrenos.es">
+    <title lang="es">La ley de Jenny Pen</title>
+    <desc lang="es">&quot;Una de las mejores películas que he visto este año&quot;, según Stephen King.</desc>
+  </programme>
+  <programme start="20260424232700 -0300" stop="20260425005500 -0300" channel="M+.Estrenos.es">
+    <title lang="es">The Last Stop in Yuma County</title>
+    <desc lang="es">Jim Cummings lidera el reparto de este intenso y adictivo &#x27;thriller&#x27; negro, repleto de crimen, violencia y agudos diálogos, ganador del premio a la mejor película en la Sección Órbita del Festival de Sitges de 2023.</desc>
+  </programme>
+  <programme start="20260425005500 -0300" stop="20260425010500 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Supertonta</title>
+    <desc lang="es">Participación en la Sección Semana de la Crítica del Festival de Cannes 2024.</desc>
+  </programme>
+  <programme start="20260425010500 -0300" stop="20260425030000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">The Convert</title>
+    <desc lang="es">Un viaje épico de poder, traición y destino, ambientado en la convulsa Nueva Zelanda del siglo XIX, con Guy Pearce (&quot;The Brutalist&quot;) como protagonista.</desc>
+  </programme>
+  <programme start="20260425030000 -0300" stop="20260425042700 -0300" channel="M+.Estrenos.es">
+    <title lang="es">A toda máquina</title>
+    <desc lang="es">Pio Marmaï (&quot;Los lazos que unen&quot;, Porthos en &quot;Los tres mosqueteros&quot; de Martin Bourboulon) y Eye Haïdara (&quot;El príncipe olvidado&quot;, &quot;C&#x27;est la vie&quot;) protagonizan esta atípica comedia romántica que lleva a los personajes más allá de los clichés habituales del género, explorando las dinámicas de poder y los juegos de seducción con una saludable dosis de humor.</desc>
+  </programme>
+  <programme start="20260425042700 -0300" stop="20260425045200 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Chicken Jazz</title>
+    <desc lang="es">Teo es un extrompetista que trabaja en la pollería que su padre le dejó en herencia. Su vida transcurre monótona lejos de los que fueron sus sueños, hasta que Andrea, su ex, aparece con su antigua trompeta.</desc>
+  </programme>
+  <programme start="20260425045200 -0300" stop="20260425063700 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Amigos imaginarios</title>
+    <desc lang="es">Ryan Reynolds y Cailey Fleming protagonizan esta emotiva aventura mágica para toda la familia escrita y dirigida por John Krasinky en la que una niña de 12 años se embarca en un viaje mágico para reconectar a esos amigos imaginarios olvidados con aquellos niños que les necesitan.</desc>
+  </programme>
+  <programme start="20260425063700 -0300" stop="20260425083000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Relay</title>
+    <desc lang="es">Un tenso e inteligente &#x27;thriller&#x27; sobre el anonimato y la intermediación en la era de Internet que actualiza las grandes películas conspiranoicas de la década de 1970.</desc>
+  </programme>
+  <programme start="20260425083000 -0300" stop="20260425104000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Superman</title>
+    <desc lang="es">&quot;El Hombre de Acero recupera su corazón humano&quot; (The Hollywood Reporter) en este desenfadado y trepidante recomienzo de la historia de Superman.</desc>
+  </programme>
+  <programme start="20260425104000 -0300" stop="20260425122800 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Los lazos que nos unen</title>
+    <desc lang="es">Valeria Bruni Tedeschi (&quot;El capital humano&quot;) y Pio Marmaï (&quot;El acontecimiento&quot;) protagonizan este conmovedor drama sobre la familia y la maternidad no convencional.</desc>
+  </programme>
+  <programme start="20260425122800 -0300" stop="20260425140900 -0300" channel="M+.Estrenos.es">
+    <title lang="es">La batalla de Oslo</title>
+    <desc lang="es">Con un reparto liderado por Bjørn Sundquist y dirigida por Daniel Fahre, esta impactante película bélica noruega basada en hechos reales revive uno de los momentos más cruciales de la Segunda Guerra Mundial. La trama gira en torno al coronel Birger Eriksen, quien, enfrentando la invasión alemana el 9 de abril de 1940, toma una decisión histórica desde la Fortaleza de Oscarsborg que cambia el destino de Noruega al hundir el crucero alemán *Blücher*.</desc>
+  </programme>
+  <programme start="20260425140900 -0300" stop="20260425155000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Contigo, todo</title>
+    <desc lang="es">Laura y Simon son amigos desde la universidad. Con los años, comprenden que lo suyo es más que amistad. ¿Pueden (o deben) arriesgarlo todo por un amor que siempre ha estado ahí?</desc>
+  </programme>
+  <programme start="20260425155000 -0300" stop="20260425160000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Conoce &quot;Los Tigres&quot;, la nueva película de Alberto Rodríguez</title>
+    <desc lang="es">El director Alberto Rodríguez nos comenta todos los detalles de su última película “Los Tigres” junto a sus actores protagonistas, Antonio de la Torre y Bárbara Lennie. En una charla distendida con Cristina Teva conocemos todos los secretos de esta historia sobre dos hermanos que nos introducen en el fascinante y desconocido mundo de los buzos industriales, y cuyo director de fotografía, Pau Esteve, ha sido galardonado con el Premio del Jurado a la Mejor Fotografía en la última edición del Festival de San Sebastián.</desc>
+  </programme>
+  <programme start="20260425160000 -0300" stop="20260425174300 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Frontera</title>
+    <desc lang="es">Mientras la Segunda Guerra Mundial arrasa Europa, un funcionario de aduanas en los Pirineos franquistas se implica en una peligrosa red de ayuda a refugiados judíos. &quot;Frontera&quot; arranca como un thriller histórico y acaba desplegando un drama moral sobre el precio de hacer lo correcto.</desc>
+  </programme>
+  <programme start="20260425174300 -0300" stop="20260425192300 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Un lugar tranquilo: día 1</title>
+    <desc lang="es">Precuela y tercera entrega de &quot;Un lugar tranquilo&quot;, la original saga de películas de &#x27;thriller&#x27; de terror y supervivencia que hizo del silencio en el principal componente del miedo y que se ha convertido en un éxito instantáneo y en un fenómeno cultural.</desc>
+  </programme>
+  <programme start="20260425192300 -0300" stop="20260425213500 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Valor sentimental</title>
+    <desc lang="es">Oscar a la mejor película internacional.</desc>
+  </programme>
+  <programme start="20260425213500 -0300" stop="20260425232700 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Restore Point</title>
+    <desc lang="es">Ambiciosa y apasionante película policial de ciencia ficción, apodada como la &quot;Blade Runner checa&quot;, en la que, en un mundo al límite, la muerte por crimen está erradicada.</desc>
+  </programme>
+  <programme start="20260425232700 -0300" stop="20260425233900 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Donde se quejan los pinos</title>
+    <desc lang="es">Serafín es un hombre mayor, propietario de un terreno forestal en una zona rural. El nuevo plan urbanístico local avanza de forma inexorable y tiene a todos los habitantes convencidos o sometidos. El alcalde, la policía local, e incluso la hija de Serafín intentan convencerlo para que venda sus tierras. Pero Serafín es la única persona que rechaza la deforestación ante unas fuerzas especuladoras que harán todo lo que haga falta para acabar con la última resistencia.</desc>
+  </programme>
+  <programme start="20260425233900 -0300" stop="20260426013600 -0300" channel="M+.Estrenos.es">
+    <title lang="es">El ejecutor</title>
+    <desc lang="es">El veterano detective Seo Do-cheol se embarca en una nueva historia de persecuciones, adrenalina y sentido del humor en esta secuela de &quot;Veteran. Por encima de la ley&quot;, la película más taquillera en Corea del Sur en 2015.</desc>
+  </programme>
+  <programme start="20260426013600 -0300" stop="20260426030300 -0300" channel="M+.Estrenos.es">
+    <title lang="es">¡En bicicleta!</title>
+    <desc lang="es">En esta tierna comedia dramática, llena de encanto y humor, el actor y director francés Mathias Mlekuz recorre la ruta ciclista que su hijo Youri hizo antes de suicidarse.</desc>
+  </programme>
+  <programme start="20260426030300 -0300" stop="20260426040100 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Bruce Lee. Dentro del dragón</title>
+    <desc lang="es">Este documental examina cómo Bruce Lee transformó Hollywood, una industria marcada por los estereotipos raciales.</desc>
+  </programme>
+  <programme start="20260426040100 -0300" stop="20260426041800 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Nena</title>
+    <desc lang="es">Javier Gorrigaramendi tiene el dudoso honor de haber sido el primer chico que rompió el corazón de Ana. Dieciséis años después, él reaparece en su vida. Ana adolescente no quiere abrir la puerta. ¿Qué quiere Ana adulta?</desc>
+  </programme>
+  <programme start="20260426041800 -0300" stop="20260426061500 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Passengers</title>
+    <desc lang="es">La nave estelar Avalon, en viaje de 120 años hacia el planeta colonia de Homestead II, navega en piloto automático con 5.000 pasajeros y 258 tripulantes  en estado de hibernación. James Preston, uno de los pasajeros, despierta del letargo forzado.</desc>
+  </programme>
+  <programme start="20260426061500 -0300" stop="20260426075300 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Juliette en primavera</title>
+    <desc lang="es">El amor, la amistad, el duelo, la separación familiar, la disconformidad vital y la salud mental se abordan en esta fabulosa adaptación de la novela gráfica &quot;Juliette. Los fantasmas regresan en primavera&quot; de Camille Jourdy, quien colaboró en la escritura del guion de la cinta.</desc>
+  </programme>
+  <programme start="20260426075300 -0300" stop="20260426094300 -0300" channel="M+.Estrenos.es">
+    <title lang="es">La primera escuela</title>
+    <desc lang="es">Un delicado drama de época, ambientada a finales del siglo XIX en la campiña francesa, sobre la importancia de la educación, una historia en el que los ideales progresistas de una mujer aguerrida chocan con el conservadurismo rural.</desc>
+  </programme>
+  <programme start="20260426094300 -0300" stop="20260426115300 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Weapons</title>
+    <desc lang="es">Tras la aplaudida &quot;Barbarian&quot;, Zach Cregger nos vuelve a dejar sin palabras con &quot;Weapons&quot;, ganadora del Oscar a la mejor actriz de reparto (Amy Madigan) y la consagración de Cregger como uno de los cineastas de género más prometedores del momento.</desc>
+  </programme>
+  <programme start="20260426115300 -0300" stop="20260426134400 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Un gran viaje atrevido y maravilloso</title>
+    <desc lang="es">¿Qué pasaría si pudieras abrir una puerta y atravesarla para revivir un momento decisivo de tu pasado?, esta es la idea que explora Kogonada (&quot;Despidiendo a Yang&quot;) en &quot;Un gran viaje atrevido y maravillo&quot;, una mezcla de comedia romántica, drama y fantasía protagonizada por unos magneticos Collin Farrel y Margot Robbie.</desc>
+  </programme>
+  <programme start="20260426134400 -0300" stop="20260426160000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Better Man</title>
+    <desc lang="es">La historia de la superestrella del pop Robbie Williams desde su infancia y su ascenso meteórico en la ‘boyband’ Take That, pasando por los comienzos de su carrera en solitario, hasta llegar a su caída y resurgimiento.</desc>
+  </programme>
+  <programme start="20260426160000 -0300" stop="20260426174700 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Adorable</title>
+    <desc lang="es">Un drama intimista y conmovedor, dirigido por Lilja Ingolfsdottir, que nos adentra en la vida de María, una mujer que enfrenta los retos de la maternidad y la ruptura de su matrimonio.</desc>
+  </programme>
+  <programme start="20260426174700 -0300" stop="20260426192100 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Las irresponsables</title>
+    <desc lang="es">En esta comedia desenfrenada, Laia Marull (&quot;Te doy mis ojos&quot;), Àgata Roca (&quot;Felipe y Letizia&quot;) y Betsy Túrnez (&quot;El rey tuerto&quot;) interpretan a tres amigas al borde de un ataque de nervios que, hartas de todo (y de todos), se van metiendo cada vez en más líos cuando deciden dejar salir su versión más irresponsable.</desc>
+  </programme>
+  <programme start="20260426192100 -0300" stop="20260426211500 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Subsuelo</title>
+    <desc lang="es">Tras &quot;La consagración de la primavera&quot;, Fernando Franco dirige este provocador &#x27;thriller&#x27; psicológico, ganador del premio al mejor guion en la Seminci 2025, sobre las consecuencias de un terrible accidente una noche de verano.</desc>
+  </programme>
+  <programme start="20260426211500 -0300" stop="20260426224400 -0300" channel="M+.Estrenos.es">
+    <title lang="es">The Last Showgirl</title>
+    <desc lang="es">La icónica Pamela Anderson estuvo nominada al Globo de Oro por su papel de una &#x27;showgirl&#x27; legendaria que tras 30 años se enfrenta al ocaso definitivo de su carrera en esta película ganadora del Premio Especial del Jurado en San Sebastián.</desc>
+  </programme>
+  <programme start="20260426224400 -0300" stop="20260427010000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">12.12: The Day</title>
+    <desc lang="es">Superproducción dramática, con grandes dosis de acción, que recorre los hechos reales ocurridos tras el asesinato del presidente Park y que condujeron a Corea del Sur a uno de sus periodos más oscuros.</desc>
+  </programme>
+  <programme start="20260427010000 -0300" stop="20260427030000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Magazine Dreams</title>
+    <desc lang="es">En este drama intenso y provocador, la búsqueda incansable de la perfección y las ansías de fama sumergen a Killian Maddox, un culturista &#x27;amateur&#x27;, en una espiral de autodestrucción y soledad.</desc>
+  </programme>
+  <programme start="20260427030000 -0300" stop="20260427033600 -0300" channel="M+.Estrenos.es">
+    <title lang="es">El cine bélico de Boyero</title>
+    <desc lang="es">Cómo ha conseguido el cine bélico mantener la atención de espectadores incondicionales década tras década? ¿Qué títulos son los imprescindibles? ¿Y qué secuencias perdurarán en nuestra memoria? El crítico de cine Carlos Boyero repasa, de la mano de la presentadora Cristina Teva, las claves de un género que ha querido dejar constancia de los conflictos bélicos del siglo XX; y, ya en el siglo XXI, sigue coleccionando imágenes de las guerras que no cesan. Películas como &quot;Salvar al soldado Ryan&quot;, &quot;Apocalypse now&quot;, &quot;Senderos de gloria&quot;, &quot;Black hawk derribado&quot;, &quot;Pearl Harbor&quot;, &quot;1017&quot;, &quot;El puente sobre el río Kwai&quot;, &quot;Los cañones de Navarone&quot;, &quot;La voz de Hind&quot; o &quot;El cazador&quot;, entre otras, saldrán a colación en una distendida conversación entre presentadora y crítico.</desc>
+  </programme>
+  <programme start="20260427033600 -0300" stop="20260427052100 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Transformers One</title>
+    <desc lang="es">Josh Cooley, director de &quot;Toy Story 4&quot; (con la que ganó el Oscar a la mejor película de animación), dirige este trepidante viaje al planeta Cybertron en el que descubriremos cómo empezó la guerra milenaria entre &#x27;autobots&#x27; y &#x27;decepticons&#x27; y cómo dos grandes amigos como Orion Pax y D-16 se convirtieron en Optimus Prime y Megatron.</desc>
+  </programme>
+  <programme start="20260427052100 -0300" stop="20260427070300 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Mi querida ladrona</title>
+    <desc lang="es">Que una cuidadora robe dinero a los ancianos a los que cuida parece, desde cualquier punto de vista, totalmente reprochable. Sin embargo, Robert Guédiguian (&quot;Las nieves del Kilimandjaro&quot;), emblema del drama social francés, consigue darle una vuelta al tema en esta tierna tragicomedia con tintes sociales.</desc>
+  </programme>
+  <programme start="20260427070300 -0300" stop="20260427085000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Problemista</title>
+    <desc lang="es">A24 produce esta colorida comedia de humor absurdo protagonizada por Tilda Swinton (&quot;La habitación de al lado&quot;, &quot;Tenemos que hablar de Kevin&quot;) y por el cómico de &quot;Saturday Night Live&quot; Julio Torres, quien también escribe, dirige y coproduce la cinta.</desc>
+  </programme>
+  <programme start="20260427085000 -0300" stop="20260427103100 -0300" channel="M+.Estrenos.es">
+    <title lang="es">No le digas a mamá que la niñera ha muerto</title>
+    <desc lang="es">&#x27;Remake&#x27; actualizado del clásico de culto homónimo de 1991, protagonizado por Christina Applegate (serie &quot;Matrimonio con hijos&quot;), sobre unos niños, la muerte de su anciana niñera y un cúmulo de responsabilidades adultas repentinas e incapaces de asumir.</desc>
+  </programme>
+  <programme start="20260427103100 -0300" stop="20260427121200 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Contigo, todo</title>
+    <desc lang="es">Laura y Simon son amigos desde la universidad. Con los años, comprenden que lo suyo es más que amistad. ¿Pueden (o deben) arriesgarlo todo por un amor que siempre ha estado ahí?</desc>
+  </programme>
+  <programme start="20260427121200 -0300" stop="20260427135900 -0300" channel="M+.Estrenos.es">
+    <title lang="es">MaXXXine</title>
+    <desc lang="es">Tras el &#x27;slasher&#x27; &quot;X&quot; y su perturbadora precuela &quot;Pearl&quot;, el estudio A24 cierra la trilogía de terror dirigida por el personal Ti West y protagonizada por la reina del grito Mia Goth, que repite su papel como Maxine Minx.</desc>
+  </programme>
+  <programme start="20260427135900 -0300" stop="20260427154700 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Afterburn</title>
+    <desc lang="es">Dave Bautista (saga &quot;Guardianes de la galaxia&quot;) y Olga Kurylenko (&quot;Oblivion&quot;) protagonizan esta aventura de acción postapocalíptica que cuenta con la participación especial de Samuel L. Jackson.</desc>
+  </programme>
+  <programme start="20260427154700 -0300" stop="20260427160000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Mi amiga Eva. Los juegos del amor</title>
+    <desc lang="es">Mi amiga Eva. Los juegos del amor.</desc>
+  </programme>
+  <programme start="20260427160000 -0300" stop="20260427180900 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Monsieur Aznavour</title>
+    <desc lang="es">Tahar Rahim (&quot;El profeta&quot;) se transforma en el gran icono de la canción melódica francesa, Charles Aznavour, en este inspirador &#x27;biopic&#x27; que narra la trayectoría de este artista alejado de los estándares de la época.</desc>
+  </programme>
+  <programme start="20260427180900 -0300" stop="20260427194000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Brides</title>
+    <desc lang="es">Inspirada en hechos reales, esta obra conmovedora sigue a Doe y Muna, dos adolescentes musulmanas británicas que emprenden un viaje desde el Reino Unido hacia Siria en busca de identidad, libertad y propósito.</desc>
+  </programme>
+  <programme start="20260427194000 -0300" stop="20260427212900 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Salve María</title>
+    <desc lang="es">Un tenso y asfixiante &#x27;thriller&#x27; psicológico, ganador del Goya a la mejor actriz revelación (Laura Weissmahr), que explora el lado más terrorífico de la maternidad: el arrepentimiento. Tras más de diez años sin estrenar un largometraje, Mar Coll adapta libremente la novela &quot;Las madres no&quot; de Katixa Agirre en &quot;Salve María&quot;, su tercer largometraje.</desc>
+  </programme>
+  <programme start="20260427212900 -0300" stop="20260427233000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">El oro verde</title>
+    <desc lang="es">Conmovedor y realista &#x27;thriller&#x27; dramático, basado en hechos reales, en el que Alexandra Lamy (&quot;La habitación de las maravillas&quot;) se pone en la piel de Carole Landreauen, una madre que lucha por salvar la vida de su hijo Martin. El joven, un estudiante de antropología, ha sido acusado falsamente de tráfico de drogas y condenado a muerte tras filmar pruebas incriminatorias de la devastación causada por las plantaciones de aceite de palma en Indonesia.</desc>
+  </programme>
+  <programme start="20260423190800 -0300" stop="20260423205700 -0300" channel="Be.Mad.es">
+    <title lang="es">Cincuenta sombras más oscuras</title>
+    <desc lang="es">Asustada por los gustos sexuales de Christian Grey, Ana decide separarse de su lado para comenzar una prometedora carrera profesional. Enamorado, el millonario está dispuesto a todo para conseguir volver con Ana.</desc>
+  </programme>
+  <programme start="20260423205700 -0300" stop="20260423223600 -0300" channel="Be.Mad.es">
+    <title lang="es">Cincuenta sombras liberadas</title>
+    <desc lang="es">Durante su luna de miel, Christian y Anastasia reciben una inquietante videollamada: se ha producido un incendio provocado en Grey Enterprises Holdings y han desaparecido varios archivos personales de Christian.</desc>
+  </programme>
+  <programme start="20260423223600 -0300" stop="20260423231600 -0300" channel="Be.Mad.es">
+    <title lang="es">Sportium Game Show</title>
+    <desc lang="es">Espacio en el que se repasan las mejores estrategias de juego para las diferentes apuestas deportivas.</desc>
+  </programme>
+  <programme start="20260423231600 -0300" stop="20260423234600 -0300" channel="Be.Mad.es">
+    <title lang="es">Love Shopping TV</title>
+    <desc lang="es">Nuevo formato de televenta en la madrugada.</desc>
+  </programme>
+  <programme start="20260423234600 -0300" stop="20260424002000 -0300" channel="Be.Mad.es">
+    <title lang="es">Perdona si te llamo amor</title>
+    <desc lang="es">A pesar de su diferencia de edad, Alex, de 37 años, y Niki, de 17, comienzan una extraña relación en la que el amor y el miedo van de la mano.</desc>
+  </programme>
+  <programme start="20260424002000 -0300" stop="20260424004800 -0300" channel="Be.Mad.es">
+    <title lang="es">Perdona si te llamo amor</title>
+    <desc lang="es">A pesar de su diferencia de edad, Alex, de 37 años, y Niki, de 17, comienzan una extraña relación en la que el amor y el miedo van de la mano.</desc>
+  </programme>
+  <programme start="20260424004800 -0300" stop="20260424013600 -0300" channel="Be.Mad.es">
+    <title lang="es">Sunchaser</title>
+    <desc lang="es">Un oncólogo de prestigio aprende una valiosa lección de humildad y se ve obligado a reexaminar su relación con la medicina y su vida en general.</desc>
+  </programme>
+  <programme start="20260424013600 -0300" stop="20260424013800 -0300" channel="Be.Mad.es">
+    <title lang="es">Mad Movie</title>
+    <desc lang="es">Magazine en el que se presenta la película que se emitirá a continuación.</desc>
+  </programme>
+  <programme start="20260424013800 -0300" stop="20260424014300 -0300" channel="Be.Mad.es">
+    <title lang="es">Mad Movie</title>
+    <desc lang="es">Magazine en el que se presenta la película que se emitirá a continuación.</desc>
+  </programme>
+  <programme start="20260424014300 -0300" stop="20260424014800 -0300" channel="Be.Mad.es">
+    <title lang="es">Mad Movie</title>
+    <desc lang="es">Magazine en el que se presenta la película que se emitirá a continuación.</desc>
+  </programme>
+  <programme start="20260424014800 -0300" stop="20260424015300 -0300" channel="Be.Mad.es">
+    <title lang="es">Mad Movie</title>
+    <desc lang="es">Magazine en el que se presenta la película que se emitirá a continuación.</desc>
+  </programme>
+  <programme start="20260424015300 -0300" stop="20260424035500 -0300" channel="Be.Mad.es">
+    <title lang="es">Speed Racer</title>
+    <desc lang="es">Corriendo a toda velocidad por la pista, dándolo todo alrededor, por encima y a través de la competición. Speed Racer es un corredor nato, nacido para pilotar coches de carreras.</desc>
+  </programme>
+  <programme start="20260424035500 -0300" stop="20260424063000 -0300" channel="Be.Mad.es">
+    <title lang="es">Moto GP</title>
+    <desc lang="es">Máxima competición mundial de motociclismo. De divide en tres categorías: MotoGP, Moto2 y Moto3.</desc>
+  </programme>
+  <programme start="20260424063000 -0300" stop="20260424080000 -0300" channel="Be.Mad.es">
+    <title lang="es">Con su propia justicia</title>
+    <desc lang="es">Cuando un abogado pierde su primer caso y ve que está a punto de ser despedido, su sentido de la justicia cambia y decide pasarse al otro lado, apropiándose del ilegal negocio de una cliente.</desc>
+  </programme>
+  <programme start="20260424080000 -0300" stop="20260424080500 -0300" channel="Be.Mad.es">
+    <title lang="es">Mad Movie</title>
+    <desc lang="es">Magazine en el que se presenta la película que se emitirá a continuación.</desc>
+  </programme>
+  <programme start="20260424080500 -0300" stop="20260424081000 -0300" channel="Be.Mad.es">
+    <title lang="es">Mad Movie</title>
+    <desc lang="es">Magazine en el que se presenta la película que se emitirá a continuación.</desc>
+  </programme>
+  <programme start="20260424081000 -0300" stop="20260424110000 -0300" channel="Be.Mad.es">
+    <title lang="es">Moto GP</title>
+    <desc lang="es">Máxima competición mundial de motociclismo. De divide en tres categorías: MotoGP, Moto2 y Moto3.</desc>
+  </programme>
+  <programme start="20260424110000 -0300" stop="20260424133100 -0300" channel="Be.Mad.es">
+    <title lang="es">22 Balas</title>
+    <desc lang="es">Un ex mafioso que lleva años retirado es atacado y dado por muerto tras recibir 22 balas, pero tras sobrevivir milagrosamente, inicia su venganza.</desc>
+  </programme>
+  <programme start="20260424133100 -0300" stop="20260424154600 -0300" channel="Be.Mad.es">
+    <title lang="es">Conan el bárbaro</title>
+    <desc lang="es">Conan se verá forzado a aprender el verdadero camino de la fuerza cuando Khalam Zym, un guerrero, decide reunificar los trozos de una máscara maldita con poder para subyugar el mundo entero.</desc>
+  </programme>
+  <programme start="20260424154600 -0300" stop="20260424173400 -0300" channel="Be.Mad.es">
+    <title lang="es">Tomiris</title>
+    <desc lang="es">Tomiris, reina de los Masagetas, fue una espléndida mujer, inteligente y gran estratega, que unió a las tribus de Asia Central, al este del mar Caspio. Su leyenda como hábil guerrera fue recogida por el historiador griego Heródoto.</desc>
+  </programme>
+  <programme start="20260424173400 -0300" stop="20260424190900 -0300" channel="Be.Mad.es">
+    <title lang="es">Jumper</title>
+    <desc lang="es">David tiene el poder de teletransportarse a cualquier lugar desde que nació. Este don lo ha utilizado para beneficio propio y pensando que era único, hasta que conoce a otra persona que también lo puede hacer y empieza a peligrar su vida.</desc>
+  </programme>
+  <programme start="20260424190900 -0300" stop="20260424203800 -0300" channel="Be.Mad.es">
+    <title lang="es">Bobby Z</title>
+    <desc lang="es">El antiguo marine Tim Kearny está en prisión. Para obtener la libertad tiene que complacer a un agente de la Agencia Antidroga Norteamericana y hacerse pasar por el capo Bobby Z, muerto recientemente.</desc>
+  </programme>
+  <programme start="20260424203800 -0300" stop="20260424220500 -0300" channel="Be.Mad.es">
+    <title lang="es">La noche de los desaparecidos</title>
+    <desc lang="es">Un profesor inicia una exhaustiva búsqueda tras descubrir que su hijo ha sido secuestrado durante un desfile de Halloween.</desc>
+  </programme>
+  <programme start="20260424220500 -0300" stop="20260424224500 -0300" channel="Be.Mad.es">
+    <title lang="es">Sportium Game Show</title>
+    <desc lang="es">Espacio en el que se repasan las mejores estrategias de juego para las diferentes apuestas deportivas.</desc>
+  </programme>
+  <programme start="20260424224500 -0300" stop="20260424231500 -0300" channel="Be.Mad.es">
+    <title lang="es">Love Shopping TV</title>
+    <desc lang="es">Nuevo formato de televenta en la madrugada.</desc>
+  </programme>
+  <programme start="20260424231500 -0300" stop="20260424233500 -0300" channel="Be.Mad.es">
+    <title lang="es">R.I.P.D. Departamento de Policía Mortal</title>
+    <desc lang="es">Nick Walter es asesinado durante una misión como agente de policía. Cuando muere descubre el &#x27;Departamento de Policía Mortal&#x27; en el que consigue un trabajo como captor de almas demoníacas.</desc>
+  </programme>
+  <programme start="20260424233500 -0300" stop="20260425001600 -0300" channel="Be.Mad.es">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.</desc>
+  </programme>
+  <programme start="20260425001600 -0300" stop="20260425001900 -0300" channel="Be.Mad.es">
+    <title lang="es">Mad Movie</title>
+    <desc lang="es">Magazine de presentación al cine.</desc>
+  </programme>
+  <programme start="20260425001900 -0300" stop="20260425003900 -0300" channel="Be.Mad.es">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.</desc>
+  </programme>
+  <programme start="20260425003900 -0300" stop="20260425004100 -0300" channel="Be.Mad.es">
+    <title lang="es">Mad Movie</title>
+    <desc lang="es">Magazine en el que se presenta la película que se emitirá a continuación.</desc>
+  </programme>
+  <programme start="20260425004100 -0300" stop="20260425004600 -0300" channel="Be.Mad.es">
+    <title lang="es">Mad Movie</title>
+    <desc lang="es">Magazine en el que se presenta la película que se emitirá a continuación.</desc>
+  </programme>
+  <programme start="20260425004600 -0300" stop="20260425005100 -0300" channel="Be.Mad.es">
+    <title lang="es">Mad Movie</title>
+    <desc lang="es">Magazine en el que se presenta la película que se emitirá a continuación.</desc>
+  </programme>
+  <programme start="20260425005100 -0300" stop="20260425021600 -0300" channel="Be.Mad.es">
+    <title lang="es">El agente</title>
+    <desc lang="es">En el año 2030, el mundo se encuentra en un estado permanente de recesión económica y se enfrenta a graves problemas medioambientales, así que todos aquellos ciudadanos que son improductivos son exiliados a una colonia.</desc>
+  </programme>
+  <programme start="20260425021600 -0300" stop="20260425050000 -0300" channel="Be.Mad.es">
+    <title lang="es">Alejandro el Magno</title>
+    <desc lang="es">Película biográfica que sigue la vida y aventuras de Alejandro Magno, rey de Macedonia, conquistador del imperio persa y uno de los líderes militares más importantes del mundo antiguo.</desc>
+  </programme>
+  <programme start="20260425050000 -0300" stop="20260425063000 -0300" channel="Be.Mad.es">
+    <title lang="es">Moto GP</title>
+    <desc lang="es">Máxima competición mundial de motociclismo. De divide en tres categorías: MotoGP, Moto2 y Moto3.</desc>
+  </programme>
+  <programme start="20260425063000 -0300" stop="20260425070300 -0300" channel="Be.Mad.es">
+    <title lang="es">Ángel nieto, cuatro vidas: ´episodio 1</title>
+    <desc lang="es">sin descripción.</desc>
+  </programme>
+  <programme start="20260425070300 -0300" stop="20260425074000 -0300" channel="Be.Mad.es">
+    <title lang="es">Ángel nieto, cuatro vidas: ´episodio 2</title>
+    <desc lang="es">sin descripción.</desc>
+  </programme>
+  <programme start="20260425074000 -0300" stop="20260425095500 -0300" channel="Be.Mad.es">
+    <title lang="es">Moto GP</title>
+    <desc lang="es">Máxima competición mundial de motociclismo. De divide en tres categorías: MotoGP, Moto2 y Moto3.</desc>
+  </programme>
+  <programme start="20260425095500 -0300" stop="20260425120400 -0300" channel="Be.Mad.es">
+    <title lang="es">Blade Runner</title>
+    <desc lang="es">Deckard es un blade runner que ha de perseguir y acabar con cuatro replicantes que llevaron a cabo el secuestro de una nave en el espacio y ahora regresan a la Tierra para encontrar a su creador.</desc>
+  </programme>
+  <programme start="20260425120400 -0300" stop="20260425145500 -0300" channel="Be.Mad.es">
+    <title lang="es">Papillon</title>
+    <desc lang="es">Condenado a cadena perpetua por un crimen que afirma no haber cometido, Henri Charrière es enviado al exilio en las colonias penitenciarias de la Guayana francesa y la isla del Diablo.</desc>
+  </programme>
+  <programme start="20260425145500 -0300" stop="20260425172000 -0300" channel="Be.Mad.es">
+    <title lang="es">Licencia para matar</title>
+    <desc lang="es">Jonathan Hemlock es un profesor de historia del arte que, anteriormente, llevaba una peligrosa doble vida como asesino a sueldo para una organización secreta internacional.</desc>
+  </programme>
+  <programme start="20260425172000 -0300" stop="20260425190500 -0300" channel="Be.Mad.es">
+    <title lang="es">El justiciero de la ciudad</title>
+    <desc lang="es">Paul Kersey se venga del ataque que sufren su mujer y su hija persiguiendo a todos los delincuentes de la ciudad de Nueva York.</desc>
+  </programme>
+  <programme start="20260425190500 -0300" stop="20260425203400 -0300" channel="Be.Mad.es">
+    <title lang="es">Joe Kidd</title>
+    <desc lang="es">Un adinerado aristócrata estadounidense llamado Frank Harlam contrata los servicios de un pistolero vagabundo, Joe Kidd, para que acabe con un grupo de bandidos mexicanos, a las órdenes de Luis Charma.</desc>
+  </programme>
+  <programme start="20260425203400 -0300" stop="20260425220100 -0300" channel="Be.Mad.es">
+    <title lang="es">Otra vuelta de tuerca</title>
+    <desc lang="es">Tras abandonar el seminario jesuíta de Loiola, Roberto, por mediación del párroco de su pueblo, encuentra trabajo como preceptor de dos niños huérfanos, sobrinos del conde de Etxebarria.</desc>
+  </programme>
+  <programme start="20260425220100 -0300" stop="20260425224100 -0300" channel="Be.Mad.es">
+    <title lang="es">Sportium Game Show</title>
+    <desc lang="es">Espacio en el que se repasan las mejores estrategias de juego para las diferentes apuestas deportivas.</desc>
+  </programme>
+  <programme start="20260425224100 -0300" stop="20260425231100 -0300" channel="Be.Mad.es">
+    <title lang="es">Love Shopping TV</title>
+    <desc lang="es">Nuevo formato de televenta en la madrugada.</desc>
+  </programme>
+  <programme start="20260425231100 -0300" stop="20260425235400 -0300" channel="Be.Mad.es">
+    <title lang="es">Reglas de compromiso</title>
+    <desc lang="es">El coronel Childers se enfrenta a un consejo de guerra tras una misión en Yemen. Para su defensa, acude a un antiguo camarada al que salvó la vida.</desc>
+  </programme>
+  <programme start="20260425235400 -0300" stop="20260426005500 -0300" channel="Be.Mad.es">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.</desc>
+  </programme>
+  <programme start="20260426005500 -0300" stop="20260426011500 -0300" channel="Be.Mad.es">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.</desc>
+  </programme>
+  <programme start="20260426011500 -0300" stop="20260426014000 -0300" channel="Be.Mad.es">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.</desc>
+  </programme>
+  <programme start="20260426014000 -0300" stop="20260426014800 -0300" channel="Be.Mad.es">
+    <title lang="es">Mad Movie</title>
+    <desc lang="es">Magazine de presentación al cine.</desc>
+  </programme>
+  <programme start="20260426014800 -0300" stop="20260426015300 -0300" channel="Be.Mad.es">
+    <title lang="es">Mad Movie</title>
+    <desc lang="es">Magazine de presentación al cine.</desc>
+  </programme>
+  <programme start="20260426015300 -0300" stop="20260426031900 -0300" channel="Be.Mad.es">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.</desc>
+  </programme>
+  <programme start="20260426031900 -0300" stop="20260426045800 -0300" channel="Be.Mad.es">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.</desc>
+  </programme>
+  <programme start="20260426045800 -0300" stop="20260426065800 -0300" channel="Be.Mad.es">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.</desc>
+  </programme>
+  <programme start="20260426065800 -0300" stop="20260426083600 -0300" channel="Be.Mad.es">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.</desc>
+  </programme>
+  <programme start="20260426083600 -0300" stop="20260426103000 -0300" channel="Be.Mad.es">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.</desc>
+  </programme>
+  <programme start="20260426103000 -0300" stop="20260426123900 -0300" channel="Be.Mad.es">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.</desc>
+  </programme>
+  <programme start="20260426123900 -0300" stop="20260426142300 -0300" channel="Be.Mad.es">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.</desc>
+  </programme>
+  <programme start="20260426142300 -0300" stop="20260426155900 -0300" channel="Be.Mad.es">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.</desc>
+  </programme>
+  <programme start="20260426155900 -0300" stop="20260426172500 -0300" channel="Be.Mad.es">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.</desc>
+  </programme>
+  <programme start="20260426172500 -0300" stop="20260426185400 -0300" channel="Be.Mad.es">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.</desc>
+  </programme>
+  <programme start="20260426185400 -0300" stop="20260426202600 -0300" channel="Be.Mad.es">
+    <title lang="es">Cine</title>
+    <desc lang="es">Emisión de una película.</desc>
+  </programme>
+  <programme start="20260423224700 -0300" stop="20260424003200 -0300" channel="C.Hollywood.es">
+    <title lang="es">Depredador 2</title>
+    <desc lang="es">La policía de Los Ángeles enfrenta a un extraterrestre con habilidades de camaleón, que usa la ciudad como terreno de caza.</desc>
+  </programme>
+  <programme start="20260424003200 -0300" stop="20260424015600 -0300" channel="C.Hollywood.es">
+    <title lang="es">Hasta que la ley nos separe</title>
+    <desc lang="es">Dos abogados rivales especializados en divorcios se enamoran.</desc>
+  </programme>
+  <programme start="20260424015600 -0300" stop="20260424040100 -0300" channel="C.Hollywood.es">
+    <title lang="es">El club de los poetas muertos</title>
+    <desc lang="es">Un optimista y anti-ortodoxo profesor produce una revolución educativa en sus estudiantes, al emplear métodos poco convencionales para enseñar. Sus consejos significarán un cambio radical en la vida de dos de sus alumnos.</desc>
+  </programme>
+  <programme start="20260424040100 -0300" stop="20260424060100 -0300" channel="C.Hollywood.es">
+    <title lang="es">Pánico nuclear</title>
+    <desc lang="es">El analista de la CIA Jack Ryan debe enfrentarse a un grupo de neonazis que ha conseguido una cabeza nuclear norteamericana para hacerla explotar durante la Super Bowl, en Baltimore. Al partido asiste el presidente de Estados Unidos.  El realizador y guionista Phil Alden Robinson (&quot;Campo de sueños&quot;) fue el encargado de llevar a la pantalla una nueva entrega de las aventuras de Jack Ryan, que anteriormente habían encarnado Alec Baldwin (&quot;A la caza del octubre rojo&quot;) y Harrison Ford (&quot;Juego de patriotas&quot; y &quot;Peligro inminente&quot;). El célebre personaje de Tom Clancy, que trabaja para la CIA en los tiempos de la Guerra Fría entre estadounidenses y soviéticos, fue encarnado en esta ocasión por un actor más joven, Ben Affleck, una de las nuevas estrellas de Hollywood tras éxitos como &quot;Pearl Harbor&quot; o &quot;El indomable Will Hunting&quot;.</desc>
+  </programme>
+  <programme start="20260424060100 -0300" stop="20260424074200 -0300" channel="C.Hollywood.es">
+    <title lang="es">Payback</title>
+    <desc lang="es">Porter, un criminal que resulta baleado por su esposa y su amigo después de un robo, sobrevive y está determinado a vengarse de su amigo.</desc>
+  </programme>
+  <programme start="20260424074200 -0300" stop="20260424090700 -0300" channel="C.Hollywood.es">
+    <title lang="es">Aterriza como puedas</title>
+    <desc lang="es">Un clásico de la comedia de todos los tiempos. Una extraña intoxicación alimentaria afecta a la mayoría de pasajeros de un vuelo. El ex piloto Ted Striker tendrá que asumir el mando y poner orden en un avión lleno de situaciones surrealistas.</desc>
+  </programme>
+  <programme start="20260424090700 -0300" stop="20260424091600 -0300" channel="C.Hollywood.es">
+    <title lang="es">TikTak Cine</title>
+    <desc lang="es">Leigh Whannell es uno de los nombres clave del terror contemporáneo, un cineasta que ha sabido combinar nervio comercial y mirada de autor.</desc>
+  </programme>
+  <programme start="20260424091600 -0300" stop="20260424111900 -0300" channel="C.Hollywood.es">
+    <title lang="es">Por siempre jamás</title>
+    <desc lang="es">Revisión del clásico cuento en el que una moderna e independiente &#x27;Cenicienta&#x27; no está dispuesta a esperar a que el príncipe acuda a rescatarla.</desc>
+  </programme>
+  <programme start="20260424111900 -0300" stop="20260424130600 -0300" channel="C.Hollywood.es">
+    <title lang="es">La momia. La tumba del emperador Dragón</title>
+    <desc lang="es">En el Lejano Oriente, Alex O&#x27;Connell, el hijo de los famosos cazadores de momias Rick y Evy O&#x27;Connell, desentierra la momia del primer emperador de Qin. Una entidad que cambia de forma al ser maldecido por una bruja hace siglos.</desc>
+  </programme>
+  <programme start="20260424130600 -0300" stop="20260424151000 -0300" channel="C.Hollywood.es">
+    <title lang="es">Indiana Jones y el reino de la calavera de cristal</title>
+    <desc lang="es">Indiana Jones y Mutt buscan un cráneo de cristal en Perú, enfrentándose a soviéticos que también desean hallar la misteriosa reliquia.</desc>
+  </programme>
+  <programme start="20260424151000 -0300" stop="20260424165000 -0300" channel="C.Hollywood.es">
+    <title lang="es">Seis días y siete noches</title>
+    <desc lang="es">Una ambiciosa editora de una revista de Nueva York accede a cubrir un reportaje en una isla tropical. Junto con un rudo piloto emprenden el vuelo, pero sufren un accidente y van a parar a una isla deshabitada.</desc>
+  </programme>
+  <programme start="20260424165000 -0300" stop="20260424170000 -0300" channel="C.Hollywood.es">
+    <title lang="es">TikTak Cine</title>
+    <desc lang="es">Guillermo del Toro es uno de los grandes autores del cine contemporáneo, un cineasta que ha hecho de los monstruos su seña de identidad y de la fantasía un espejo oscuro de nuestra realidad.</desc>
+  </programme>
+  <programme start="20260424170000 -0300" stop="20260424191700 -0300" channel="C.Hollywood.es">
+    <title lang="es">Peligro inminente</title>
+    <desc lang="es">Jack Ryan investiga el asesinato de un amigo íntimo del presidente y descubre que la victima tenía tratos con un cartel colombiano de la droga.</desc>
+  </programme>
+  <programme start="20260424191700 -0300" stop="20260424192700 -0300" channel="C.Hollywood.es">
+    <title lang="es">TikTak Cine</title>
+    <desc lang="es">Elegancia, carisma y acción: Pierce Brosnan redefinió a James Bond y sigue conquistando la pantalla con personajes que combinan sofisticación y fuerza. Un icono que nunca pasa de moda.</desc>
+  </programme>
+  <programme start="20260424192700 -0300" stop="20260424211600 -0300" channel="C.Hollywood.es">
+    <title lang="es">Armas de mujer</title>
+    <desc lang="es">Tess McGill, una avispada secretaria de Staten Island, está decidida a utilizar su inteligencia y su talento para ascender desde el puesto de secretaria hasta los más altos escalones del negocio de la Bolsa de Nueva York.</desc>
+  </programme>
+  <programme start="20260424211600 -0300" stop="20260424230400 -0300" channel="C.Hollywood.es">
+    <title lang="es">Mr. Deeds</title>
+    <desc lang="es">La apacible y sencilla vida de Deeds da un giro inesperado cuando un pariente lejano le deja una herencia de cuarenta mil millones de dólares.</desc>
+  </programme>
+  <programme start="20260424230400 -0300" stop="20260425003800 -0300" channel="C.Hollywood.es">
+    <title lang="es">Seis días y siete noches</title>
+    <desc lang="es">Una ambiciosa editora de una revista de Nueva York accede a cubrir un reportaje en una isla tropical. Junto con un rudo piloto emprenden el vuelo, pero sufren un accidente y van a parar a una isla deshabitada.</desc>
+  </programme>
+  <programme start="20260425003800 -0300" stop="20260425022500 -0300" channel="C.Hollywood.es">
+    <title lang="es">Bumblebee</title>
+    <desc lang="es">En 1987, Charlie encuentra en un depósito lo que parece ser un Volkswagen amarillo corriente. Sin embargo, mientras lo restaura, se transforma en Bumblebee, un pequeño &quot;autobot&quot; que ha sido enviado con el fin de establecer una base para los de su especie.</desc>
+  </programme>
+  <programme start="20260425022500 -0300" stop="20260425034500 -0300" channel="C.Hollywood.es">
+    <title lang="es">Aterriza como puedas 2</title>
+    <desc lang="es">Ted Striker escapa de un hospital mental para convertirse en polizón en la primera nave espacial de pasajeros, donde tiene que superar dudas acerca de sí mismo y tomar los mandos de la nave cuando la tripulación es asesinada por un computador.</desc>
+  </programme>
+  <programme start="20260425034500 -0300" stop="20260425053400 -0300" channel="C.Hollywood.es">
+    <title lang="es">Astérix y Obélix: Misión Cleopatra</title>
+    <desc lang="es">En el año 52 a. C., la reina de Egipto, Cleopatra, hace una apuesta con el emperador de Roma, Julio César: si ella consigue construir un castillo en el desierto en tres meses, él reconocerá que el pueblo egipcio es el más grande de todos.</desc>
+  </programme>
+  <programme start="20260425053400 -0300" stop="20260425070800 -0300" channel="C.Hollywood.es">
+    <title lang="es">Hop, rebelde sin Pascua</title>
+    <desc lang="es">Un vago desempleado hiere accidentalmente al Conejito de Pascua y no le queda más remedio que acogerle mientras se recupera.</desc>
+  </programme>
+  <programme start="20260425070800 -0300" stop="20260425094400 -0300" channel="C.Hollywood.es">
+    <title lang="es">Transformers: La era de la extinción</title>
+    <desc lang="es">El Gobierno de Estados Unidos está utilizando la tecnología rescatada en el asedio de Chicago para desarrollar sus propios Transformers. Mientras tanto, un mecánico inventor encuentra un Marmon semi-trailer y descubre que es Optimus Prime.</desc>
+  </programme>
+  <programme start="20260425094400 -0300" stop="20260425095400 -0300" channel="C.Hollywood.es">
+    <title lang="es">TikTak Cine</title>
+    <desc lang="es">Quentin Taratino, el creador de un estilo visual reconocible al instante.</desc>
+  </programme>
+  <programme start="20260425095400 -0300" stop="20260425113100 -0300" channel="C.Hollywood.es">
+    <title lang="es">Venganza</title>
+    <desc lang="es">Bryan Mills, un agente jubilado de la CIA y de las Fuerzas Especiales, vuela a Paris a rescatar a su hija Kim de una organización criminal albanokosovar que se dedica a secuestrar mujeres para una red de trata.</desc>
+  </programme>
+  <programme start="20260425113100 -0300" stop="20260425130500 -0300" channel="C.Hollywood.es">
+    <title lang="es">Venganza: Conexión Estambul</title>
+    <desc lang="es">Prepárate para esta edición sin clasificación de Venganza: Conexión Estambul con todavía más acción y suspense.</desc>
+  </programme>
+  <programme start="20260425130500 -0300" stop="20260425145400 -0300" channel="C.Hollywood.es">
+    <title lang="es">V3nganza</title>
+    <desc lang="es">Cuando le intentan atribuir el asesinato de una persona cercana, Bryan Mills (Liam Neeson) se ve obligado a recurrir a sus habilidades especiales una última vez para encontrar al verdadero asesino y consumar su venganza.</desc>
+  </programme>
+  <programme start="20260425145400 -0300" stop="20260425165100 -0300" channel="C.Hollywood.es">
+    <title lang="es">El día de mañana</title>
+    <desc lang="es">El calentamiento global ha provocado el inicio de una nueva glaciación: tornados que asolan Los Ángeles, un monstruoso maremoto que arrasa Nueva York y el descenso brutal de la temperatura que atrapa todo el hemisferio norte bajo el hielo. Un climatólogo (Dennis Quaid) y su hijo (Jake Gyllenhaal), junto con otros supervivientes, deberán defenderse del enemigo más feroz: ¡la madre naturaleza!</desc>
+  </programme>
+  <programme start="20260425165100 -0300" stop="20260425170200 -0300" channel="C.Hollywood.es">
+    <title lang="es">TikTak Cine</title>
+    <desc lang="es">Sereno, magnético y letal: el actor canadiense que revolucionó la ciencia ficción con Matrix y reinventó la acción con John Wick. Un intérprete capaz de convertir cada papel en una experiencia épica.</desc>
+  </programme>
+  <programme start="20260425170200 -0300" stop="20260425184900 -0300" channel="C.Hollywood.es">
+    <title lang="es">Yo, robot</title>
+    <desc lang="es">En el año 2035, los robots son parte de la vida cotidiana. Cuando la confianza en ellos se rompe, solo un hombre contra todo el sistema lo ve venir.</desc>
+  </programme>
+  <programme start="20260425184900 -0300" stop="20260425190000 -0300" channel="C.Hollywood.es">
+    <title lang="es">TikTak Cine</title>
+    <desc lang="es">Actor, director y narrador nato, Mel Gibson no solo hace películas, también crea experiencias que se graban en la memoria.</desc>
+  </programme>
+  <programme start="20260425190000 -0300" stop="20260425213700 -0300" channel="C.Hollywood.es">
+    <title lang="es">Salvar al soldado Ryan</title>
+    <desc lang="es">Durante la invasión de Normandía en plena Segunda Guerra Mundial, un grupo de soldados americanos asume su última gran misión: arriesgar sus vidas para encontrar y devolver a casa al soldado James Ryan.</desc>
+  </programme>
+  <programme start="20260425213700 -0300" stop="20260425232400 -0300" channel="C.Hollywood.es">
+    <title lang="es">Un día inolvidable</title>
+    <desc lang="es">Una madre soltera acosada y un padre irresponsable toman turnos para cuidar de sus hijos mientras el otro trabaja, pero una serie de malentendidos y desgracias hace necesario que se junten para poder superar el día.</desc>
+  </programme>
+  <programme start="20260425232400 -0300" stop="20260426005300 -0300" channel="C.Hollywood.es">
+    <title lang="es">Noche loca</title>
+    <desc lang="es">Una pareja común, en el lugar justo, en la noche equivocada. Un caso de confusiones desencadena los eventos más desopilantes, que incluyen hasta policías y ladrones, todo en una noche romántica.</desc>
+  </programme>
+  <programme start="20260426005300 -0300" stop="20260426024400 -0300" channel="C.Hollywood.es">
+    <title lang="es">American Gigolo</title>
+    <desc lang="es">Julian es un hombre de 30 años, atractivo e inteligente que utiliza sus cualidades para vivir de la prostitución. Un día acepta pasar 2 horas con una pareja. Pero, al otro día, la mujer aparece asesinada y las sospechas recaen en él.</desc>
+  </programme>
+  <programme start="20260426024400 -0300" stop="20260426043100 -0300" channel="C.Hollywood.es">
+    <title lang="es">Astérix y Obélix contra César</title>
+    <desc lang="es">Una aldea gala resiste al invasor romano gracias a la poción mágica del druida, que confiere al que la bebe una fuerza sobrehumana. Para someterlos, César envía a Detritus, un agente especializado en sembrar la discordia a su paso.</desc>
+  </programme>
+  <programme start="20260426043100 -0300" stop="20260426062300 -0300" channel="C.Hollywood.es">
+    <title lang="es">Como locos... a por el oro</title>
+    <desc lang="es">Finn y Tess son una pareja recién divorciada cuyo romance renace al encontrar una pista sobre un tesoro antiguo perdido en el fondo del mar. El problema es que Finn y Tess no son los únicos interesados en encontrar esta fortuna.</desc>
+  </programme>
+  <programme start="20260426062300 -0300" stop="20260426075000 -0300" channel="C.Hollywood.es">
+    <title lang="es">Kung Fu Panda</title>
+    <desc lang="es">El panda Po es un aprendiz en un restaurante que sueña con pelear junto a las grandes estrellas del &#x27;kung fu&#x27;. Gracias a un giro del destino, Po será el elegido para cumplir con una profecía.</desc>
+  </programme>
+  <programme start="20260426075000 -0300" stop="20260426091300 -0300" channel="C.Hollywood.es">
+    <title lang="es">Kung Fu Panda 2</title>
+    <desc lang="es">Po y sus amigos luchan para impedir que un villano pavo real conquiste China con una nueva arma mortal, pero el Guerrero Dragón debe aceptar su pasado.</desc>
+  </programme>
+  <programme start="20260426091300 -0300" stop="20260426092200 -0300" channel="C.Hollywood.es">
+    <title lang="es">TikTak Cine</title>
+    <desc lang="es">Actor versátil, divertido y eternamente joven, el polifacético Paul Rudd sigue demostrando que la acción también puede tener mucho humor.</desc>
+  </programme>
+  <programme start="20260426092200 -0300" stop="20260426105400 -0300" channel="C.Hollywood.es">
+    <title lang="es">Kung Fu Panda 3</title>
+    <desc lang="es">Po debe entrenar a un pueblo de torpes pandas amantes de la diversión para derrotar a un villano sobrenatural que amenaza con destruir el Kung Fu.</desc>
+  </programme>
+  <programme start="20260426105400 -0300" stop="20260426125500 -0300" channel="C.Hollywood.es">
+    <title lang="es">La momia</title>
+    <desc lang="es">Una egiptóloga contrata a un apuesto legionario para que la lleve a la Ciudad Perdida, donde descubren las ruinas de una antigua tumba y liberarán una maldición encerrada en una momia, perteneciente a un sacerdote que fue momificado vivo por traidor.</desc>
+  </programme>
+  <programme start="20260426125500 -0300" stop="20260426150400 -0300" channel="C.Hollywood.es">
+    <title lang="es">El regreso de la momia</title>
+    <desc lang="es">Regresa la momia de Imhotep, y en esta ocasión su poder destructivo se enfrenta a otra fuerza del mal: el Rey Escorpión. Rich y Evie emprenderán una frenética carrera para salvar al mundo y a su hijo.</desc>
+  </programme>
+  <programme start="20260426150400 -0300" stop="20260426164800 -0300" channel="C.Hollywood.es">
+    <title lang="es">La momia. La tumba del emperador Dragón</title>
+    <desc lang="es">En el Lejano Oriente, Alex O&#x27;Connell, el hijo de los famosos cazadores de momias Rick y Evy O&#x27;Connell, desentierra la momia del primer emperador de Qin. Una entidad que cambia de forma al ser maldecido por una bruja hace siglos.</desc>
+  </programme>
+  <programme start="20260426164800 -0300" stop="20260426170000 -0300" channel="C.Hollywood.es">
+    <title lang="es">TikTak Cine</title>
+    <desc lang="es">M. Night Shyamalan, el maestro del giro inesperado.</desc>
+  </programme>
+  <programme start="20260426170000 -0300" stop="20260426182700 -0300" channel="C.Hollywood.es">
+    <title lang="es">El Rey Escorpión</title>
+    <desc lang="es">Mathayus quiere vengar la muerte de su hermano a manos del Señor de la Guerra Memnon. Por lo que acepta ser contratado para acabar con su hechicera.</desc>
+  </programme>
+  <programme start="20260426182700 -0300" stop="20260426183800 -0300" channel="C.Hollywood.es">
+    <title lang="es">TikTak Cine</title>
+    <desc lang="es">Jon Bernthal no interpreta personajes, los vive. Cada golpe, cada mirada, cada silencio lo confirman como uno de los actores más auténticos del cine de acción.</desc>
+  </programme>
+  <programme start="20260426183800 -0300" stop="20260426202300 -0300" channel="C.Hollywood.es">
+    <title lang="es">Free Guy</title>
+    <desc lang="es">Un cajero de un banco se da cuenta de que Free City no es la ciudad que creía y que en realidad él es un personaje dentro de un brutal videojuego.</desc>
+  </programme>
+  <programme start="20260426202300 -0300" stop="20260426215100 -0300" channel="C.Hollywood.es">
+    <title lang="es">Top Secret</title>
+    <desc lang="es">Una estrella del rock llega a un festival de la RDA, esto es parte de un plan para que el Alto Mando de Alemania Oriental unifique las dos Alemanias.</desc>
+  </programme>
+  <programme start="20260426215100 -0300" stop="20260426232500 -0300" channel="C.Hollywood.es">
+    <title lang="es">La madre del novio</title>
+    <desc lang="es">Charlotte &#x27;Charlie&#x27; cree que por fin ha encontrado al hombre de sus sueños en Kevin pero descubre que Viola, su madre, es una pesadilla.</desc>
+  </programme>
+  <programme start="20260426232500 -0300" stop="20260427012000 -0300" channel="C.Hollywood.es">
+    <title lang="es">Frida</title>
+    <desc lang="es">Narra la vida de la controvertida pintora mexicana Frida Kahlo, que tuvo una vida digna de leyenda y una impactante carrera artística. Todo un personaje para el mundo del que, en esta película, podemos conocer algunas claves.</desc>
+  </programme>
+  <programme start="20260427012000 -0300" stop="20260427031300 -0300" channel="C.Hollywood.es">
+    <title lang="es">American Beauty</title>
+    <desc lang="es">Lester Burnham, un cuarentón en crisis, cansado de su trabajo y de su matrimonio, despierta de su letargo cuando conoce a la amiga de su hija, a la que intentará impresionar a toda costa.</desc>
+  </programme>
+  <programme start="20260427031300 -0300" stop="20260427045100 -0300" channel="C.Hollywood.es">
+    <title lang="es">La madre del novio</title>
+    <desc lang="es">Charlotte &#x27;Charlie&#x27; cree que por fin ha encontrado al hombre de sus sueños en Kevin pero descubre que Viola, su madre, es una pesadilla.</desc>
+  </programme>
+  <programme start="20260427045100 -0300" stop="20260427074400 -0300" channel="C.Hollywood.es">
+    <title lang="es">Pearl Harbor</title>
+    <desc lang="es">Dos jóvenes pilotos de la base militar estadounidense de Pearl Harbor ven peligrar su amistad por la presencia de la atractiva enfermera Evelyn.</desc>
+  </programme>
+  <programme start="20260427074400 -0300" stop="20260427094000 -0300" channel="C.Hollywood.es">
+    <title lang="es">El día de mañana</title>
+    <desc lang="es">El calentamiento global ha provocado el inicio de una nueva glaciación: tornados que asolan Los Ángeles, un monstruoso maremoto que arrasa Nueva York y el descenso brutal de la temperatura que atrapa todo el hemisferio norte bajo el hielo. Un climatólogo (Dennis Quaid) y su hijo (Jake Gyllenhaal), junto con otros supervivientes, deberán defenderse del enemigo más feroz: ¡la madre naturaleza!</desc>
+  </programme>
+  <programme start="20260427094000 -0300" stop="20260427094900 -0300" channel="C.Hollywood.es">
+    <title lang="es">TikTak Cine</title>
+    <desc lang="es">Imponente y camaleónico: Josh Brolin ha dado vida a héroes, villanos y personajes complejos, desde Thanos hasta Sicario, consolidándose como una leyenda del cine moderno.</desc>
+  </programme>
+  <programme start="20260427094900 -0300" stop="20260427113300 -0300" channel="C.Hollywood.es">
+    <title lang="es">Una novia para dos</title>
+    <desc lang="es">Un joven se encuentra entre la lealtad hacia un amigo y la atracción que siente por su ex novia.</desc>
+  </programme>
+  <programme start="20260427113300 -0300" stop="20260427133200 -0300" channel="C.Hollywood.es">
+    <title lang="es">El equipo A</title>
+    <desc lang="es">Un grupo de veteranos de la guerra de Irak limpia su nombre ante los militares EE.UU., quienes sospechan que los cuatro hombres cometieron un delito por el que se les incrimina.</desc>
+  </programme>
+  <programme start="20260427133200 -0300" stop="20260427151500 -0300" channel="C.Hollywood.es">
+    <title lang="es">Hora punta</title>
+    <desc lang="es">Un sensato policía de Hong Kong y un imprudente detective de Los Ángeles trabajan juntos para rescatar a la hija de un diplomático chino.</desc>
+  </programme>
+  <programme start="20260427151500 -0300" stop="20260427165000 -0300" channel="C.Hollywood.es">
+    <title lang="es">La jungla: Un buen día para morir</title>
+    <desc lang="es">Una vez más, John McClane se encuentra en el sitio equivocado en el momento menos oportuno. En esta ocasión, el lugar es Moscú, a donde viaja para averiguar el paradero de su hijo, Jack, que en su momento se alejó de él.</desc>
+  </programme>
+  <programme start="20260427165000 -0300" stop="20260427170000 -0300" channel="C.Hollywood.es">
+    <title lang="es">TikTak Cine</title>
+    <desc lang="es">TikTak Cine, el programa para los amantes del cine, con información de los últimos estrenos en salas cinematográficas.</desc>
+  </programme>
+  <programme start="20260427170000 -0300" stop="20260427183500 -0300" channel="C.Hollywood.es">
+    <title lang="es">Objetivo: Londres</title>
+    <desc lang="es">Mike Banning viaja a Londres con el presidente de los Estados Unidos para asistir al funeral del Primer Ministro británico y, otra vez, tiene que salvarlo a él y, de paso, al mundo.</desc>
+  </programme>
+  <programme start="20260427183500 -0300" stop="20260427184600 -0300" channel="C.Hollywood.es">
+    <title lang="es">TikTak Cine</title>
+    <desc lang="es">Actor versátil, fan confeso del cine de acción y dueño de una presencia magnética, Rami Malek no grita: sus personajes susurran… y el público escucha.</desc>
+  </programme>
+  <programme start="20260427184600 -0300" stop="20260427203600 -0300" channel="C.Hollywood.es">
+    <title lang="es">Alien, el 8º pasajero</title>
+    <desc lang="es">Una nave espacial responde a una señal SOS que viene de un planeta vecino, donde un miembro del grupo es infectado por parásito alien letal, y de regreso a la nave, el parásito escapa e inicia un juego letal del gato y el ratón con la tripulación.</desc>
+  </programme>
+  <programme start="20260423192122 -0300" stop="20260423200647 -0300" channel="XTRM.es">
+    <title lang="es">Comando de élite</title>
+    <desc lang="es">Mick e Ivan se unen para poder superar la dura prueba a la que se ven sometidos, ya que se sucede un imprevisto tras otro.</desc>
+  </programme>
+  <programme start="20260423200647 -0300" stop="20260423213333 -0300" channel="XTRM.es">
+    <title lang="es">La brecha</title>
+    <desc lang="es">Cuando un gusano alienígena comienza a eliminar a los tripulantes de un transbordador, Clay y Noah, del equipo de limpieza, se convierten en la última oportunidad para la humanidad.</desc>
+  </programme>
+  <programme start="20260423213333 -0300" stop="20260423221945 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
+  </programme>
+  <programme start="20260423221945 -0300" stop="20260423231322 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
+  </programme>
+  <programme start="20260423231322 -0300" stop="20260423235227 -0300" channel="XTRM.es">
+    <title lang="es">Flashpoint</title>
+    <desc lang="es">Un adolescente llevará su ira hacia un amigo demasiado lejos.</desc>
+  </programme>
+  <programme start="20260423235227 -0300" stop="20260424003744 -0300" channel="XTRM.es">
+    <title lang="es">Flashpoint</title>
+    <desc lang="es">El equipo acaba en una persecución a alta velocidad después de que unos padres biológicos quieran recuperar a su bebé de su familia adoptiva.</desc>
+  </programme>
+  <programme start="20260424003744 -0300" stop="20260424012134 -0300" channel="XTRM.es">
+    <title lang="es">Transporter</title>
+    <desc lang="es">Frank es sospechoso de haber asesinado a un antiguo cliente, así que se verá envuelto en una peligrosa misión para descubrir la verdad y limpiar su nombre.</desc>
+  </programme>
+  <programme start="20260424012134 -0300" stop="20260424020544 -0300" channel="XTRM.es">
+    <title lang="es">Transporter</title>
+    <desc lang="es">Frank ha sido contratado para trasladar un caballo de carreras pura sangre desde su establo de Kentucky hasta la prestigiosa pista de Belmont Stakes en Nueva York. El caballo tiene un valor de diez millones de dólares.</desc>
+  </programme>
+  <programme start="20260424020544 -0300" stop="20260424024404 -0300" channel="XTRM.es">
+    <title lang="es">Negociador</title>
+    <desc lang="es">Chacur descubre que el secuestrador, Santa Cruz, está en otro lugar reteniendo a policías como rehenes. Mientras ella negocia, Menck captura a Santa Cruz, convencido de que está implicado en la muerte de Sophia.</desc>
+  </programme>
+  <programme start="20260424024404 -0300" stop="20260424040817 -0300" channel="XTRM.es">
+    <title lang="es">Beta Test</title>
+    <desc lang="es">El campeón de videojuegos Max Troy descubre que los eventos de un nuevo videojuego se están reflejando en el mundo real.</desc>
+  </programme>
+  <programme start="20260424040817 -0300" stop="20260424045352 -0300" channel="XTRM.es">
+    <title lang="es">Flashpoint</title>
+    <desc lang="es">El equipo busca a un hombre que evitó que dos traficantes de drogas destrozaran un restaurante local.</desc>
+  </programme>
+  <programme start="20260424045352 -0300" stop="20260424054453 -0300" channel="XTRM.es">
+    <title lang="es">Flashpoint</title>
+    <desc lang="es">Una joven llamada Rachel trata de atracar una gasolinera llevándose a tres rehenes en el proceso. Después de que éstos sean rescatados, Rachel suplica que salven a su hijo de un lugar llamado &quot;la granja&quot;.</desc>
+  </programme>
+  <programme start="20260424054453 -0300" stop="20260424063642 -0300" channel="XTRM.es">
+    <title lang="es">Transporter</title>
+    <desc lang="es">Mientras Frank espera una entrega en un aparcamiento de Toronto es víctima de una serie de circunstancias extrañas que provocan su detención y encarcelamiento acusado de un crimen que no ha cometido.</desc>
+  </programme>
+  <programme start="20260424063642 -0300" stop="20260424073341 -0300" channel="XTRM.es">
+    <title lang="es">Transporter</title>
+    <desc lang="es">Frank debe transportar un millón de euros desde París a Marsella y llegar antes que otros dos profesionales que tienen el mismo paquete y destino.</desc>
+  </programme>
+  <programme start="20260424073341 -0300" stop="20260424082622 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
+  </programme>
+  <programme start="20260424082622 -0300" stop="20260424092337 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
+  </programme>
+  <programme start="20260424092337 -0300" stop="20260424111444 -0300" channel="XTRM.es">
+    <title lang="es">Hostage</title>
+    <desc lang="es">Destrozado por una situación con rehenes que se saldó con la muerte de una joven madre y su hijo, Jeff Talley, negociador de la policía de Los Ángeles, abandona la ciudad para ocupar un cargo de menor entidad como jefe de policía.</desc>
+  </programme>
+  <programme start="20260424111444 -0300" stop="20260424125004 -0300" channel="XTRM.es">
+    <title lang="es">Perseguido</title>
+    <desc lang="es">Ben Keats es un alto ejecutivo feliz en su trabajo, pero eso no es suficiente para que Vincent Palmer, un cazatalentos que recluta personal para importantes compañías, cese en su intento de hacerle cambiar de opinión.</desc>
+  </programme>
+  <programme start="20260424125004 -0300" stop="20260424141837 -0300" channel="XTRM.es">
+    <title lang="es">Icarus</title>
+    <desc lang="es">Ícarus es la historia de un antiguo asesino del KGB, que tras trabajar también como agente libre en América decide empezar de cero.</desc>
+  </programme>
+  <programme start="20260424141837 -0300" stop="20260424160932 -0300" channel="XTRM.es">
+    <title lang="es">Diamante 13</title>
+    <desc lang="es">Mat trabaja en la división n° 13 de la policía criminal. Personaje duro y solitario, hace ya tiempo que ha perdido la esperanza de que la vida pueda ser distinta. Hasta que Frank, su amigo del alma, lo llama para proponerle un plan.</desc>
+  </programme>
+  <programme start="20260424160932 -0300" stop="20260424175142 -0300" channel="XTRM.es">
+    <title lang="es">Actos de violencia</title>
+    <desc lang="es">Cuando su prometida es secuestrada por traficantes de personas, Roman y sus hermanos exmilitares intentan salvarla antes de que sea demasiado tarde. Roman formará equipo con Avery, un policía que investiga el tráfico de personas.</desc>
+  </programme>
+  <programme start="20260424175142 -0300" stop="20260424192627 -0300" channel="XTRM.es">
+    <title lang="es">The Quest (En busca de la ciudad perdida)</title>
+    <desc lang="es">Chris Dubois es un delincuente callejero que, huyendo de la policía, acaba en una remota ciudad perdida del Tíbet, secuestrado y vendido como esclavo a unos piratas.</desc>
+  </programme>
+  <programme start="20260424192627 -0300" stop="20260424210405 -0300" channel="XTRM.es">
+    <title lang="es">Furia</title>
+    <desc lang="es">Lee Gunner, un veterano de guerra se ve obligado a regresar a un mundo de violencia y desesperación cuando sus hijos son secuestrados por una peligrosa banda de narcotraficantes.</desc>
+  </programme>
+  <programme start="20260424210405 -0300" stop="20260424214932 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
+  </programme>
+  <programme start="20260424214932 -0300" stop="20260424223651 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
+  </programme>
+  <programme start="20260424223651 -0300" stop="20260424232234 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
+  </programme>
+  <programme start="20260424232234 -0300" stop="20260425000800 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
+  </programme>
+  <programme start="20260425000800 -0300" stop="20260425015054 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
+  </programme>
+  <programme start="20260425015054 -0300" stop="20260425022927 -0300" channel="XTRM.es">
+    <title lang="es">5 días para la medianoche</title>
+    <desc lang="es">Dado que el material del futuro afirma que J.T. va a morir en una discoteca local, decide irse del pueblo antes de que llegue el supuesto día de su muerte.</desc>
+  </programme>
+  <programme start="20260425022927 -0300" stop="20260425041629 -0300" channel="XTRM.es">
+    <title lang="es">Danger close: La batalla de Long Tan</title>
+    <desc lang="es">En agosto de 1966, durante la Guerra de Vietnam, 108 jóvenes e inexpertos soldados australianos y neozelandeses, bajo el mando del comandante Harry Smith, tendrán que hacer frente al ataque de un despiadado enemigo que supera las 2.500 unidades.</desc>
+  </programme>
+  <programme start="20260425041629 -0300" stop="20260425054714 -0300" channel="XTRM.es">
+    <title lang="es">Desaparecido en Venice Beach</title>
+    <desc lang="es">Boddy, el querido perro del investigador privado Steve Ford, es secuestrado por una banda de narcotraficantes. A cambio de su liberación, Ford debe recuperar un alijo de droga robado a los propios criminales.</desc>
+  </programme>
+  <programme start="20260425054714 -0300" stop="20260425071945 -0300" channel="XTRM.es">
+    <title lang="es">Animal Factory</title>
+    <desc lang="es">Drama penitenciario basado en la novela The Animal Factory del escritor Edward Bunker es la segunda película como director de Steve Buscemi.</desc>
+  </programme>
+  <programme start="20260425071945 -0300" stop="20260425090540 -0300" channel="XTRM.es">
+    <title lang="es">Caza al mal</title>
+    <desc lang="es">Un oficial de policía de narcóticos y un genio criminal deberán apartar su rivalidad y unir esfuerzos para enfrentarse a una red de drogas subterránea que asalta la ciudad.</desc>
+  </programme>
+  <programme start="20260425090540 -0300" stop="20260425104442 -0300" channel="XTRM.es">
+    <title lang="es">El último disparo</title>
+    <desc lang="es">Will decide pasar unas vacaciones con su familia en una cabaña en el bosque. Mientras están de caza, Will y su hijo Danny son testigos de un intento de asesinato.</desc>
+  </programme>
+  <programme start="20260425104442 -0300" stop="20260425122756 -0300" channel="XTRM.es">
+    <title lang="es">El último desafío</title>
+    <desc lang="es">Ray Owens deja su trabajo como policía en Los Ángeles y se traslada a una ciudad fronteriza para llevar una vida más tranquila. Pero la paz termina cuando un peligroso narcotraficante se fuga de la cárcel y se dirige a México.</desc>
+  </programme>
+  <programme start="20260425122756 -0300" stop="20260425140011 -0300" channel="XTRM.es">
+    <title lang="es">Lealtad rota</title>
+    <desc lang="es">El jefe de una familia del crimen es asesinado. Su hijo Grant está dispuesto a arrasarlo todo para vengar su muerte. Su mejor amigo, Ray Rose, un agente federal, le acompañará para evitar que su ansia de venganza acabe en autodestrucción.</desc>
+  </programme>
+  <programme start="20260425140011 -0300" stop="20260425160243 -0300" channel="XTRM.es">
+    <title lang="es">Kickboxer: Contrataque</title>
+    <desc lang="es">Kurt Sloane, el campeón de artes marciales mixtas, es secuestrado por un poderoso gángster y encarcelado en Tailandia por un asesinato que cometió dos años antes para vengar a su hermano.</desc>
+  </programme>
+  <programme start="20260425160243 -0300" stop="20260425175031 -0300" channel="XTRM.es">
+    <title lang="es">Soldado de fortuna</title>
+    <desc lang="es">Alain Lefevre ve truncados todos sus planes y se ve obligado a huir y formar parte de una violenta Legión. Cuando su ex jefe descubre su paradero, Alain se da cuenta de que tiene que enfrentarse a él.</desc>
+  </programme>
+  <programme start="20260425175031 -0300" stop="20260425192451 -0300" channel="XTRM.es">
+    <title lang="es">El engaño</title>
+    <desc lang="es">El detective Mike Santini está de vacaciones con su familia en las Bahamas cuando se da cuenta de que Eddie Meyers, un fugitivo de la justicia, también está allí. Éste puede ser la clave para resolver un caso muy importante de Santini.</desc>
+  </programme>
+  <programme start="20260425192451 -0300" stop="20260425205631 -0300" channel="XTRM.es">
+    <title lang="es">Rambo: Last Blood</title>
+    <desc lang="es">Hace diez años que John Rambo vive retirado en su rancho de Arizona, intentado superar las heridas psicológicas que le ha dejado la guerra y cuidando de su sobrina Gabriela.</desc>
+  </programme>
+  <programme start="20260425205631 -0300" stop="20260425214248 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
+  </programme>
+  <programme start="20260425214248 -0300" stop="20260425222834 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
+  </programme>
+  <programme start="20260425222834 -0300" stop="20260425231433 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
+  </programme>
+  <programme start="20260425231433 -0300" stop="20260426001736 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La brigada especial de autopistas se enfrenta constantemente a traficantes, fugitivos, secuestradores... mientras luchan contra el crimen intentando mantener el orden.</desc>
+  </programme>
+  <programme start="20260426001736 -0300" stop="20260426013611 -0300" channel="XTRM.es">
+    <title lang="es">Cazador de demonios</title>
+    <desc lang="es">En un pequeño pueblo de la Norteamérica profunda hace aparición un vetusto demonio, provocando una serie de muertes terribles. La agente del FBI Evelyn Pierce y el cazador de demonios Jebediah Woodley se alían para detenerlo.</desc>
+  </programme>
+  <programme start="20260426013611 -0300" stop="20260426030432 -0300" channel="XTRM.es">
+    <title lang="es">La tumba del rey maldito</title>
+    <desc lang="es">Tres aventureros escapan del temible Pozo Fantasma de Jingjue, pero no salen ilesos: se infectan con una enfermedad mortal. Para salvarse, deben encontrar una perla escondida en la tumba del Rey Xian.</desc>
+  </programme>
+  <programme start="20260426030432 -0300" stop="20260426055459 -0300" channel="XTRM.es">
+    <title lang="es">La Tierra errante II</title>
+    <desc lang="es">Tras descubrir que el Sol se está apagando, se decide impulsar la Tierra hacia un nuevo sistema solar y evitar la extinción. Un grupo de valientes astronautas acepta la peligrosa misión.</desc>
+  </programme>
+  <programme start="20260426055459 -0300" stop="20260426072819 -0300" channel="XTRM.es">
+    <title lang="es">Triple amenaza</title>
+    <desc lang="es">Se ha puesto precio a la cabeza de la hija de un multimillonario que tiene la intención de acabar con el mayor sindicato del crimen de la ciudad. Un equipo de mercenarios retirados deberán enfrentarse a asesinos profesionales.</desc>
+  </programme>
+  <programme start="20260426072819 -0300" stop="20260426091539 -0300" channel="XTRM.es">
+    <title lang="es">Los elegidos (The Boondock Saints)</title>
+    <desc lang="es">Dos hermanos católicos irlandeses, se convierten en héroes tras acabar con dos miembros de la mafia rusa. Ambos creen que Dios les ha encomendado la misión de eliminar el mal de la humanidad.</desc>
+  </programme>
+  <programme start="20260426091539 -0300" stop="20260426104639 -0300" channel="XTRM.es">
+    <title lang="es">The Prince</title>
+    <desc lang="es">Tras la desaparición de su hija, Paul regresa a la ciudad para buscarla. En el pasado ha sido un mafioso, así que sus viejos enemigos están deseando verlo, entre ellos Omar, que pretende ajustar cuentas con Paul.</desc>
+  </programme>
+  <programme start="20260426104639 -0300" stop="20260426122229 -0300" channel="XTRM.es">
+    <title lang="es">Reprisal</title>
+    <desc lang="es">Jacob es el director de un banco y lleva una vida ordenada. Sin embargo, todo cambio cuando su sucursal sufre un atraco. A partir de ese momento vive afligido por la pérdida de su empleo.</desc>
+  </programme>
+  <programme start="20260426122229 -0300" stop="20260426135651 -0300" channel="XTRM.es">
+    <title lang="es">Hércules. El origen de la leyenda</title>
+    <desc lang="es">Hércules, un joven griego, no sabe que el destino le tiene reservada la mayor acción heroica de todos los tiempos. Cuando este destino se le revela, tendrá que elegir entre su verdadero amor o combatir.</desc>
+  </programme>
+  <programme start="20260426135651 -0300" stop="20260426154736 -0300" channel="XTRM.es">
+    <title lang="es">El jaguar</title>
+    <desc lang="es">Perrin es un seductor, gracioso, siempre dispuesto a cometer alguna estafa. Pero una noche conoce a Campana, intérprete del indio Wanú y su vida cambia a partir de entonces.</desc>
+  </programme>
+  <programme start="20260426154736 -0300" stop="20260426175037 -0300" channel="XTRM.es">
+    <title lang="es">El sustituto</title>
+    <desc lang="es">La violencia, la droga y las armas inundan el instituto Columbus, en el que una profesora es atacada por uno de sus alumnos. Su novio es un soldado que se hace pasar por el profesor sustituto.</desc>
+  </programme>
+  <programme start="20260426175037 -0300" stop="20260426192821 -0300" channel="XTRM.es">
+    <title lang="es">Los mercenarios 2</title>
+    <desc lang="es">El nuevo encargo que recibe Barney Ross y su equipo parece fácil en un principio. Pero cuando uno de los suyos es asesinado, el objetivo toma un giro y sólo desearán consumar la venganza.</desc>
+  </programme>
+  <programme start="20260423190221 -0300" stop="20260423215309 -0300" channel="Dark.es">
+    <title lang="es">Sirens vol.5</title>
+    <desc lang="es">Contenido para adultos.</desc>
+  </programme>
+  <programme start="20260423215309 -0300" stop="20260423234635 -0300" channel="Dark.es">
+    <title lang="es">The Sex Therapist vol.6</title>
+    <desc lang="es">Victoria es una terapeuta sexual y de pareja que lucha por encontrar relaciones significativas en su propia vida. Se obsesiona con el marido de una de sus clientas y decide traspasar todos los límites.</desc>
+  </programme>
+  <programme start="20260423234635 -0300" stop="20260423235919 -0300" channel="Dark.es">
+    <title lang="es">Plus qu&#x27;une amitié</title>
+    <desc lang="es">Cine para adultos.</desc>
+  </programme>
+  <programme start="20260423235919 -0300" stop="20260424032457 -0300" channel="Dark.es">
+    <title lang="es">Luxure - My Wife&#x27;s Unleashed</title>
+    <desc lang="es">El placer solo vale la pena si se comparte.</desc>
+  </programme>
+  <programme start="20260424032457 -0300" stop="20260424044548 -0300" channel="Dark.es">
+    <title lang="es">The Banshee Chapter</title>
+    <desc lang="es">Anne Roland, una joven periodista, sigue el misterioso rastro dejado por un amigo desaparecido que había estado experimentando con químicos que alteraban la mente.</desc>
+  </programme>
+  <programme start="20260424044548 -0300" stop="20260424061505 -0300" channel="Dark.es">
+    <title lang="es">Shock</title>
+    <desc lang="es">Dora, su marido Bruno, y Marco, hijo del primer matrimonio de ella, van a la casa de campo que era del matrimonio antes de que ella cayera en una profunda crisis a causa del supuesto suicidio de él.</desc>
+  </programme>
+  <programme start="20260424061505 -0300" stop="20260424073524 -0300" channel="Dark.es">
+    <title lang="es">Galaxia del terror</title>
+    <desc lang="es">Una nave se estrella en un peligroso planeta. Una misión de rescate acude en su búsqueda pero sacar a los supervivientes de allí será una odisea.</desc>
+  </programme>
+  <programme start="20260424073524 -0300" stop="20260424090032 -0300" channel="Dark.es">
+    <title lang="es">Breathing Room</title>
+    <desc lang="es">Una joven aparece de repente en una extraña habitación junto a 12 personas más. Forma parte de un juego, en el que deben encontrar las piezas de un puzzle en una misteriosa caja.</desc>
+  </programme>
+  <programme start="20260424090032 -0300" stop="20260424102529 -0300" channel="Dark.es">
+    <title lang="es">Saw VI</title>
+    <desc lang="es">El agente especial Strahm está muerto y el detective Hoffman se ha erigido como único heredero del legado de Jigsaw. Sin embargo, cuando el FBI estrecha el círculo en torno a él, Hoffman se ve obligad.</desc>
+  </programme>
+  <programme start="20260424102529 -0300" stop="20260424120301 -0300" channel="Dark.es">
+    <title lang="es">El otro</title>
+    <desc lang="es">A mediados de los años treinta, dos hermanos gemelos viven con su abuela en un pueblo. Son muy diferentes y se verán enfrentados por una terrible rivalidad.</desc>
+  </programme>
+  <programme start="20260424120301 -0300" stop="20260424133735 -0300" channel="Dark.es">
+    <title lang="es">Gothika</title>
+    <desc lang="es">La doctora Miranda Grey, una exitosa psicóloga criminal, se despierta una mañana y descubre que la peor de sus pesadillas se ha hecho realidad: se ha convertido en una paciente de la propia institución mental donde trabaja.</desc>
+  </programme>
+  <programme start="20260424133735 -0300" stop="20260424151627 -0300" channel="Dark.es">
+    <title lang="es">Señales</title>
+    <desc lang="es">Después de morir su mujer Graham, un pastor protestante, decide dejar de ejercer. Un día sus hijos ven unos círculos extraños en sus campos, poco a poco descubren que se trata de un fenómeno mundial.</desc>
+  </programme>
+  <programme start="20260424151627 -0300" stop="20260424170035 -0300" channel="Dark.es">
+    <title lang="es">De naturaleza violenta</title>
+    <desc lang="es">Bajo las ruinas de la torre de vigilancia del bosque, yace el cadáver de Johnny, un espíritu vengativo que resucita cuando un grupo de jóvenes se lleva el medallón encontrado en la torre.</desc>
+  </programme>
+  <programme start="20260424170035 -0300" stop="20260424190129 -0300" channel="Dark.es">
+    <title lang="es">Satan&#x27;s Slaves: Communion</title>
+    <desc lang="es">Varios años después de que lograran salvarse de un terrible accidente en el que perdieron a su madre y al pequeño Ian, Rini y sus hermanos menores, Toni y Bondi, y su padre viven en un edificio.</desc>
+  </programme>
+  <programme start="20260424190129 -0300" stop="20260424234723 -0300" channel="Dark.es">
+    <title lang="es">Thr3e #10</title>
+    <desc lang="es">Estas parejas disfrutan de una vida sexual plena, pero para ellas, mantener el deseo implica invitar a una tercera persona a sus encuentros íntimos.</desc>
+  </programme>
+  <programme start="20260424234723 -0300" stop="20260425000027 -0300" channel="Dark.es">
+    <title lang="es">Aimer ou renoncer</title>
+    <desc lang="es">Cine para adultos.</desc>
+  </programme>
+  <programme start="20260425000027 -0300" stop="20260425031301 -0300" channel="Dark.es">
+    <title lang="es">The Sex Therapist vol.6</title>
+    <desc lang="es">Victoria es una terapeuta sexual y de pareja que lucha por encontrar relaciones significativas en su propia vida. Se obsesiona con el marido de una de sus clientas y decide traspasar todos los límites.</desc>
+  </programme>
+  <programme start="20260425031301 -0300" stop="20260425043440 -0300" channel="Dark.es">
+    <title lang="es">El ejército de las tinieblas</title>
+    <desc lang="es">Las fuerzas del mal ejercen su reinado en la Edad Media. Valerosos caballeros se disponen a entrar en desigual batalla, mientras que los atemorizados campesinos se refugian tras los muros del castillo.</desc>
+  </programme>
+  <programme start="20260425043440 -0300" stop="20260425055724 -0300" channel="Dark.es">
+    <title lang="es">Parallel Minds</title>
+    <desc lang="es">La firma de tecnología Red-Eye está a punto de desarrollar una revolucionaria lente de contacto capaz de grabar el pensamiento humano para replicar recuerdos.</desc>
+  </programme>
+  <programme start="20260425055724 -0300" stop="20260425073540 -0300" channel="Dark.es">
+    <title lang="es">Halloween II</title>
+    <desc lang="es">A Myers, tras el intento de asesinato de su hermana, le entran más ganas de matar siendo más peligroso y malvado que nunca.</desc>
+  </programme>
+  <programme start="20260425073540 -0300" stop="20260425090900 -0300" channel="Dark.es">
+    <title lang="es">Clown</title>
+    <desc lang="es">Un adorable padre decide disfrazarse de payaso para dar una sorpresa a su hijo, pero el traje está maldito y convierte en un asesino al que lo usa.</desc>
+  </programme>
+  <programme start="20260425090900 -0300" stop="20260425104330 -0300" channel="Dark.es">
+    <title lang="es">Un hombre lobo americano en Londres</title>
+    <desc lang="es">Dos estudiantes universitarios viajan de América a Londres para visitar Reino Unido. Una vez allí son atacados por un hombre lobo. Uno de ellos muere, pero el otro comienza a tener visiones extrañas.</desc>
+  </programme>
+  <programme start="20260425104330 -0300" stop="20260425120519 -0300" channel="Dark.es">
+    <title lang="es">The Vigil</title>
+    <desc lang="es">Yakob, un joven sin dinero que acaba de abandonar una comunidad judía ortodoxa, acepta trabajar como &#x27;guardián&#x27; o &#x27;shomer&#x27; para su antiguo clan. Su función consiste en vigilar el cadáver de un miembro de la comunidad fallecido.</desc>
+  </programme>
+  <programme start="20260425120519 -0300" stop="20260425141457 -0300" channel="Dark.es">
+    <title lang="es">The Empty Man: El mensajero del último día</title>
+    <desc lang="es">El expolicía James Lasombra acude en ayuda de su amiga Nora cuando la hija de esta, Amanda, desaparece dejando un mensaje escrito con sangre en el baño que dice: &quot;Empty Man me obligó a hacerlo&quot;.</desc>
+  </programme>
+  <programme start="20260425141457 -0300" stop="20260425154014 -0300" channel="Dark.es">
+    <title lang="es">The Possession (El origen del mal)</title>
+    <desc lang="es">La pequeña Emily y su padre compran una caja. A partir de ese momento, empiezan a ocurrir cosas muy extrañas. El padre sospecha de la caja y visita a un rabino que le dice que contiene un espíritu demoníaco.</desc>
+  </programme>
+  <programme start="20260425154014 -0300" stop="20260425171903 -0300" channel="Dark.es">
+    <title lang="es">Aterrados</title>
+    <desc lang="es">Cuando comienzan a producirse extraños sucesos en un barrio de Buenos Aires, un investigador de lo paranormal, su colega y un expolicía deciden investigar.</desc>
+  </programme>
+  <programme start="20260425171903 -0300" stop="20260425190116 -0300" channel="Dark.es">
+    <title lang="es">Lobos de Arga</title>
+    <desc lang="es">Tomás regresa a su pueblo sin saber que piensan sacrificarlo para acabar con la maldición que transforma a los varones de su familia en hombres lobo.</desc>
+  </programme>
+  <programme start="20260425190116 -0300" stop="20260425204518 -0300" channel="Dark.es">
+    <title lang="es">Couture</title>
+    <desc lang="es">Clara Mia, Christy White, Kelly Collins, Clémence Audiard y Diana Lawrence son exhibicionistas. Les encanta deambular por las calles, vestidas con lencería elegante o simplemente con medias de nylon y tacones altos.</desc>
+  </programme>
+  <programme start="20260425204518 -0300" stop="20260425233539 -0300" channel="Dark.es">
+    <title lang="es">Thr3e #10</title>
+    <desc lang="es">Estas parejas disfrutan de una vida sexual plena, pero para ellas, mantener el deseo implica invitar a una tercera persona a sus encuentros íntimos.</desc>
+  </programme>
+  <programme start="20260425233539 -0300" stop="20260426000012 -0300" channel="Dark.es">
+    <title lang="es">Un Moment D&#x27;égarement</title>
+    <desc lang="es">Contenido para adultos.</desc>
+  </programme>
+  <programme start="20260426000012 -0300" stop="20260426025842 -0300" channel="Dark.es">
+    <title lang="es">Sirens vol.5</title>
+    <desc lang="es">Contenido para adultos.</desc>
+  </programme>
+  <programme start="20260426025842 -0300" stop="20260426043044 -0300" channel="Dark.es">
+    <title lang="es">Un hombre lobo americano en Londres</title>
+    <desc lang="es">Dos estudiantes universitarios viajan de América a Londres para visitar Reino Unido. Una vez allí son atacados por un hombre lobo. Uno de ellos muere, pero el otro comienza a tener visiones extrañas.</desc>
+  </programme>
+  <programme start="20260426043044 -0300" stop="20260426060123 -0300" channel="Dark.es">
+    <title lang="es">La noche de los demonios</title>
+    <desc lang="es">Durante una fiesta de Halloween, la policía interrumpe la celebración y sella la mansión donde se está haciendo. Un grupo de jóvenes decide esconderse y seguir la diversión el resto de la noche.</desc>
+  </programme>
+  <programme start="20260426060123 -0300" stop="20260426073717 -0300" channel="Dark.es">
+    <title lang="es">Toc Toc</title>
+    <desc lang="es">Evan es un padre de familia felizmente casado, pero su vida perfecta se va al traste cuando deja entrar en su casa a dos atractivas jóvenes extraviadas y entra en un aparentemente inocente juego de seducción.</desc>
+  </programme>
+  <programme start="20260426073717 -0300" stop="20260426090346 -0300" channel="Dark.es">
+    <title lang="es">Leprechaun: La noche del duende</title>
+    <desc lang="es">Dan O&#x27;Grady vuelve de Irlanda con una bolsa de oro y le explica a su mujer que se la ha robado a un duende. Ella no se lo cree, pero al abrir una de las maletas, sale de ella el duende.</desc>
+  </programme>
+  <programme start="20260426090346 -0300" stop="20260426110849 -0300" channel="Dark.es">
+    <title lang="es">Hereditary</title>
+    <desc lang="es">Una familia queda devastada tras la muerte de la abuela y matriarca. Especialmente Charlie -su nieta favorita- una niña solitaria que apenas se relaciona con la gente que le rodea.</desc>
+  </programme>
+  <programme start="20260426110849 -0300" stop="20260426124435 -0300" channel="Dark.es">
+    <title lang="es">Black Phone</title>
+    <desc lang="es">En Colorado, en los años 70, Finney Shaw, un chico tímido de 13 años, es secuestrado por un asesino de niños y encerrado en un sótano. Allí empieza a recibir llamadas desde un teléfono desconectado de las víctimas anteriores del asesino.</desc>
+  </programme>
+  <programme start="20260426124435 -0300" stop="20260426140939 -0300" channel="Dark.es">
+    <title lang="es">Curvature</title>
+    <desc lang="es">Helen trata de sobrellevar la muerte de su marido, un científico que se suicidó cuando estaba acabando la construcción de una máquina del tiempo.</desc>
+  </programme>
+  <programme start="20260426140939 -0300" stop="20260426153949 -0300" channel="Dark.es">
+    <title lang="es">Viejos</title>
+    <desc lang="es">Mario traslada a su padre a vivir con su familia debido a la ola de calor, pero la actitud de este es agresiva y difícil. Sin embargo, no es el único anciano que se comporta así.</desc>
+  </programme>
+  <programme start="20260426153949 -0300" stop="20260426173118 -0300" channel="Dark.es">
+    <title lang="es">Crímenes del futuro</title>
+    <desc lang="es">La especie humana evoluciona y se adapta a un entorno sintético, el cuerpo es sometido a nuevas transformaciones y mutaciones. El artista Saul exhibe las metamorfósis de sus órganos en performances de vanguardia.</desc>
+  </programme>
+  <programme start="20260426173118 -0300" stop="20260426190231 -0300" channel="Dark.es">
+    <title lang="es">Mamá te quiere</title>
+    <desc lang="es">Una joven con problemas de salud vive con su madre, quien, además de cuidarla, la educa en casa. Cuando llega el momento de irse a la universidad, una serie de acontecimientos hacen que la chica sospeche de su propia progenitora.</desc>
+  </programme>
+  <programme start="20260423191628 -0300" stop="20260423205538 -0300" channel="TCM.es">
+    <title lang="es">Encadenados</title>
+    <desc lang="es">El espía John Huberman es condenado a veinte años de prisión, una vez demostrada su colaboración con los nazis.</desc>
+  </programme>
+  <programme start="20260423205538 -0300" stop="20260423231856 -0300" channel="TCM.es">
+    <title lang="es">Triángulo de la Tristeza</title>
+    <desc lang="es">Esta sátira extrema que lleva a los límites a un grupo de multimillonarios en un caótico crucero fue la segunda Palma de Oro del sueco Ruben Östlund.</desc>
+  </programme>
+  <programme start="20260423231856 -0300" stop="20260424011457 -0300" channel="TCM.es">
+    <title lang="es">Los vividores</title>
+    <desc lang="es">Western sobre un oportunista sin oficio ni beneficio que con la ayuda de su amante, una mujer adicta al opio, monta un prostíbulo en una próspera ciudad minera.</desc>
+  </programme>
+  <programme start="20260424011457 -0300" stop="20260424031631 -0300" channel="TCM.es">
+    <title lang="es">El compromiso</title>
+    <desc lang="es">Eddie es un hombre que tiene todo lo que quiere hasta que intenta suicidarse en su coche y eso le hace sopesar toda su vida.</desc>
+  </programme>
+  <programme start="20260424031631 -0300" stop="20260424044629 -0300" channel="TCM.es">
+    <title lang="es">Tokyo Godfathers</title>
+    <desc lang="es">Tras encontrar un bebé abandonado en Nochebuena, tres indigentes buscan a los padres de la pequeña viviendo un montón de aventuras por el camino.</desc>
+  </programme>
+  <programme start="20260424044629 -0300" stop="20260424062709 -0300" channel="TCM.es">
+    <title lang="es">Paulina</title>
+    <desc lang="es">Paulina deja su exitosa carrera de abogada para ejercer de maestra en un barrio conflictivo. Tras sufrir una agresión y, pese a la oposición de su familia, decide continuar su labor social.</desc>
+  </programme>
+  <programme start="20260424062709 -0300" stop="20260424083444 -0300" channel="TCM.es">
+    <title lang="es">Entre copas</title>
+    <desc lang="es">El viaje de dos amigos en crisis por el valle de Santa Ynez les hace analizar su vida y su futuro mientras se entregan a los placeres del buen vino.</desc>
+  </programme>
+  <programme start="20260424083444 -0300" stop="20260424105205 -0300" channel="TCM.es">
+    <title lang="es">Algunos hombres buenos</title>
+    <desc lang="es">Un joven abogado de la Marina, inexperto pero con un gran talento, debe defender a dos marines acusados del asesinato de un compañero. Durante el complicado juicio, pondrá en juego su carrera por descubrir la verdad.</desc>
+  </programme>
+  <programme start="20260424105205 -0300" stop="20260424130427 -0300" channel="TCM.es">
+    <title lang="es">El príncipe de las mareas</title>
+    <desc lang="es">Tom Wingo no ha superado los traumas de su infancia. Cuando su hermana intenta suicidarse, viaja a Nueva York para estar a su lado y para conocer a su psiquiatra, la Dra. Lowenstein que quiere ahondar en el pasado de ambos.</desc>
+  </programme>
+  <programme start="20260424130427 -0300" stop="20260424151939 -0300" channel="TCM.es">
+    <title lang="es">Como un torrente</title>
+    <desc lang="es">Dave Hirsh es un escritor que, acabada la Guerra, vuelve a su pueblo para enfrentarse a su pasado.</desc>
+  </programme>
+  <programme start="20260424151939 -0300" stop="20260424170028 -0300" channel="TCM.es">
+    <title lang="es">Matilda</title>
+    <desc lang="es">Matilda Wormwood es una niña extraordinaria, pero la ignorancia de sus padres les impide ver las capacidades de su hija.</desc>
+  </programme>
+  <programme start="20260424170028 -0300" stop="20260424195430 -0300" channel="TCM.es">
+    <title lang="es">El padrino</title>
+    <desc lang="es">Don Vito Corleone, capo de una de las mafias más poderosas de Nueva York, no quiere entrar en el negocio de la droga. Los Tattaglia, una mafia enemiga, tratarán de eliminarlo a él y a toda su familia.</desc>
+  </programme>
+  <programme start="20260424195430 -0300" stop="20260424215153 -0300" channel="TCM.es">
+    <title lang="es">La red social</title>
+    <desc lang="es">En 2003, Mark Zuckerberg, un brillante alumno de Harvard, empieza a desarrollar una nueva idea de programación informática. Pronto, su pequeño proyecto se convirtió en una revolucionaria red social: Facebook.</desc>
+  </programme>
+  <programme start="20260424215153 -0300" stop="20260424232502 -0300" channel="TCM.es">
+    <title lang="es">La carta</title>
+    <desc lang="es">Una noche, una mujer asesina a balazos a un viejo amigo a la entrada de su casa. Ella afirma que fue en defensa propia ya que él intentó violarla. El caso parece estar cerrado hasta que aparece una compremetedora carta.</desc>
+  </programme>
+  <programme start="20260424232502 -0300" stop="20260425010608 -0300" channel="TCM.es">
+    <title lang="es">Falso culpable</title>
+    <desc lang="es">La verdadera historia de un hombre inocente que es confundido con un criminal.</desc>
+  </programme>
+  <programme start="20260425010608 -0300" stop="20260425025300 -0300" channel="TCM.es">
+    <title lang="es">Crimen perfecto</title>
+    <desc lang="es">Una antigua estrella del tenis traza un plan para asesinar a su esposa. En un principio parece el plan perfecto. Pero las cosas no acaban saliendo como él había imaginado.</desc>
+  </programme>
+  <programme start="20260425025300 -0300" stop="20260425031900 -0300" channel="TCM.es">
+    <title lang="es">Regreso a Viridiana</title>
+    <desc lang="es">Corto-documental que recuerda la película de Luis Buñuel, Viridiana (1961), de la mano de una mujer que participó en la grabación de la película. Monique Roumette evoca la figura de Buñuel y el resto del equipo.</desc>
+  </programme>
+  <programme start="20260425031900 -0300" stop="20260425053400 -0300" channel="TCM.es">
+    <title lang="es">Levando anclas</title>
+    <desc lang="es">Joe y Clarence son dos jóvenes marineros de permiso en la ciudad de Los Ángeles. Ambos aprovechan su descanso como una oportunidad para relajarse.</desc>
+  </programme>
+  <programme start="20260425053400 -0300" stop="20260425065800 -0300" channel="TCM.es">
+    <title lang="es">Polyester</title>
+    <desc lang="es">Francine, un ama de casa, trata de mantenerse cuerda dentro de su familia disfuncional. Su vida se vuelve más brillante cuando conoce a Todd Tomorrow.</desc>
+  </programme>
+  <programme start="20260425065800 -0300" stop="20260425084900 -0300" channel="TCM.es">
+    <title lang="es">Christine</title>
+    <desc lang="es">Arnie, un chico tímido y acomplejado, decide comprar un Plymouth del 58, al que bautiza como Christine. El joven dedica todo su tiempo a restaurar el coche, pero éste tiene vida propia y se vengará de todos los que lastimen a su dueño.</desc>
+  </programme>
+  <programme start="20260425084900 -0300" stop="20260425104000 -0300" channel="TCM.es">
+    <title lang="es">Brigada 21</title>
+    <desc lang="es">Un policía de carácter temperamental recurre a métodos más implacables para obtener información de cualquier sospechoso de un crimen.</desc>
+  </programme>
+  <programme start="20260425104000 -0300" stop="20260425122600 -0300" channel="TCM.es">
+    <title lang="es">La boda de mi mejor amigo</title>
+    <desc lang="es">Julianne Potter y Michael O&#x27;Neal fueron pareja en el instituto y, desde que rompieron, han mantenido una gran amistad. Pero cuando éste anuncia que va a casarse, Julianne se da cuenta de que lo que siente no es sólo amistad.</desc>
+  </programme>
+  <programme start="20260425122600 -0300" stop="20260425151500 -0300" channel="TCM.es">
+    <title lang="es">Los mejores años de nuestra vida</title>
+    <desc lang="es">Un grupo de soldados norteamericanos supervivientes a la Segunda Guerra Mundial regresan a su país al finalizar la contienda. Pero, aunque al principio se les trata como héroes, no tardarán en verse marginados.</desc>
+  </programme>
+  <programme start="20260425151500 -0300" stop="20260425170000 -0300" channel="TCM.es">
+    <title lang="es">Lost in translation</title>
+    <desc lang="es">Bob Harris, un famoso actor, está en medio de una carrera en decadencia. Por eso, cuando le ofrecen un trabajo en Tokio, acepta rápidamente, pero la comunicación no va a ser nada fácil.</desc>
+  </programme>
+  <programme start="20260425170000 -0300" stop="20260425202100 -0300" channel="TCM.es">
+    <title lang="es">El Padrino II</title>
+    <desc lang="es">La saga de los Corleone continúa, en este caso tratando la elección de Michael Corleone como jefe de los negocios familiares.</desc>
+  </programme>
+  <programme start="20260425202100 -0300" stop="20260425220500 -0300" channel="TCM.es">
+    <title lang="es">Misterioso asesinato en Manhattan</title>
+    <desc lang="es">Carol y Larry son una pareja neoyorkina de intensa vida cultural. En su edificio vive un matrimonio mayor con el que llegan a intimar, pero Carol intuye que la mujer ha sido asesinada por su marido.</desc>
+  </programme>
+  <programme start="20260425220500 -0300" stop="20260426013000 -0300" channel="TCM.es">
+    <title lang="es">El submarino</title>
+    <desc lang="es">Durante la II Guerra Mundial, un submarino alemán parte del puerto francés de La Rochelle con el objetivo de hundir el mayor número de navíos mercantes británicos posible.</desc>
+  </programme>
+  <programme start="20260426013000 -0300" stop="20260426033800 -0300" channel="TCM.es">
+    <title lang="es">Million Dollar Baby</title>
+    <desc lang="es">Frankie Dunn ha entrenado y representado a los mejores púgiles durante su dilatada carrera en los cuadriláteros. La lección más importante que ha enseñado es el lema: &#x27;por encima de todo, protégete primero a ti mismo&#x27;.</desc>
+  </programme>
+  <programme start="20260426033800 -0300" stop="20260426045300 -0300" channel="TCM.es">
+    <title lang="es">Sacristán: delantera de gallinero</title>
+    <desc lang="es">Documental que realiza un repaso por la vida y trayectoria del actor español José Sacristán. Desde el día de su nacimiento, observamos su participación en películas, obras y proyectos.</desc>
+  </programme>
+  <programme start="20260426045300 -0300" stop="20260426064400 -0300" channel="TCM.es">
+    <title lang="es">Cazador Blanco, Corazón Negro</title>
+    <desc lang="es">John Wilson es un famoso director de cine que decide realizar su nueva película en África. Sin embargo, la captura de un elefante se convierte en una obsesión tan grande que pone en peligro el rodaje.</desc>
+  </programme>
+  <programme start="20260426064400 -0300" stop="20260426084300 -0300" channel="TCM.es">
+    <title lang="es">Safe</title>
+    <desc lang="es">Carol White parece tenerlo todo en la vida: un buen marido, una casa de ensueño. Lo único que le falta es confianza.</desc>
+  </programme>
+  <programme start="20260426084300 -0300" stop="20260426104100 -0300" channel="TCM.es">
+    <title lang="es">Cinema Paradiso</title>
+    <desc lang="es">Toto regresa a su pueblo natal para asistir al entierro de Alfredo, quien fue como un padre para él. Al reencontrarse con su madre y otros viejos amigos, rememora su niñez y juventud y cómo Alfredo le enseñó a amar la vida y el cine.</desc>
+  </programme>
+  <programme start="20260426104100 -0300" stop="20260426133700 -0300" channel="TCM.es">
+    <title lang="es">El padrino</title>
+    <desc lang="es">Don Vito Corleone, capo de una de las mafias más poderosas de Nueva York, no quiere entrar en el negocio de la droga. Los Tattaglia, una mafia enemiga, tratarán de eliminarlo a él y a toda su familia.</desc>
+  </programme>
+  <programme start="20260426133700 -0300" stop="20260426170000 -0300" channel="TCM.es">
+    <title lang="es">El Padrino II</title>
+    <desc lang="es">La saga de los Corleone continúa, en este caso tratando la elección de Michael Corleone como jefe de los negocios familiares.</desc>
+  </programme>
+  <programme start="20260426170000 -0300" stop="20260426193900 -0300" channel="TCM.es">
+    <title lang="es">El Padrino de Mario Puzo. Epílogo: La muerte de Michael Corleone</title>
+    <desc lang="es">Nuevo montaje de &quot;El padrino. Parte III&quot;. A sus sesenta años, Michael Corleone es el patriarca de la familia. Respetado y temido al mismo tiempo, está dominado por dos obsesiones.</desc>
+  </programme>
+  <programme start="20260424010600 -0300" stop="20260424024900 -0300" channel="M+.Clásicos.es">
+    <title lang="es">El espejo roto</title>
+    <desc lang="es">Esta adaptación de una de las novelas de misterio clásicas de Agatha Christie cuenta con un elenco impresionante. Angela Lansbury, Elizabeth Taylor, Rock Hudson, Kim Novak o Tony Curtis son solo algunos de los nombres más destacados de la película, dirigida por Guy Hamilton (&#x27;&#x27;James Bond contra Goldfinger&#x27;&#x27;).</desc>
+  </programme>
+  <programme start="20260424024900 -0300" stop="20260424033000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">El peregrino</title>
+    <desc lang="es">Este aclamado cortometraje de comedia, dirigido y escrito por el legendario Charlie Chaplin, que combina ingenio,  humor y crítica social en una trama única en la que Chaplin interpreta a un preso fugitivo que, tras robar la ropa de un ministro para reemplazar su uniforme de prisión, es confundido con el nuevo párroco.</desc>
+  </programme>
+  <programme start="20260424033000 -0300" stop="20260424060000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Becket</title>
+    <desc lang="es">La amistad entre un monarca y su primer ministro protagonizan este drama histórico protagonizado magistralmente por Richard Burton y Peter O&#x27;Toole.</desc>
+  </programme>
+  <programme start="20260424060000 -0300" stop="20260424081500 -0300" channel="M+.Clásicos.es">
+    <title lang="es">El león en invierno</title>
+    <desc lang="es">Un drama histórico centrado en la figura de Enrique II de Inglaterra que es, a la vez, un hermoso fresco que recrea el siglo XII con exactitud, a base de una atmósfera opresiva y de la violencia propia de la época.</desc>
+  </programme>
+  <programme start="20260424081500 -0300" stop="20260424103000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Enrique V</title>
+    <desc lang="es">Una discusión entre el rey de Francia y el rey Enrique V de Inglaterra acaba en una declaración de guerra. Enrique V, con la ayuda del capitán Fluellen, reúne a su ejército e invade Francia, a pesar de que las tropas francesas superan con creces al aguerrido ejército inglés. La guerra culminará en la célebre Batalla de Agincourt pero a lo largo del camino, el joven rey Enrique deberá hacer frente tanto a la baja moral de sus hombres como a sus propias dudas internas.</desc>
+  </programme>
+  <programme start="20260424103000 -0300" stop="20260424130000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">La decisión de Sophie</title>
+    <desc lang="es">Verano de 1947. Tras haber pasado su servicio militar en los marines, un joven aspirante a escritor, llamado Stingo, llega a Nueva York. Se refugia en Brooklyn, en una simpática casita, convertida en pensión de familia, que responde al extraño nombre de El Palacio Rosa. Stingo empieza a escribir su novela, pero su plácida y penosa soledad se ve turbada a los pocos minutos por los ruidos de una pareja haciendo el amor en la habitación de arriba. Stingo conocerá a estos amantes y quedará prendado por la amabilidad y simpatía de ambos. Ella, Sophie Zawistowska es una hermosa emigrante polaca católica. Él, Nathan Landau, un brillante intelectual judío. Poco a poco, Stingo se hace el mejor amigo de los dos amantes, iniciando así una curiosa relación triangular. El escritor va conociendo poco a poco a sus nuevos amigos. Sophie, hija de un ilustre profesor polaco antijudío fue enviada, pese a todo, por su condición de católica, al campo de concentración de Auschwitz.</desc>
+  </programme>
+  <programme start="20260424130000 -0300" stop="20260424133200 -0300" channel="M+.Clásicos.es">
+    <title lang="es">El lejano Oeste de Boyero</title>
+    <desc lang="es">En Movistar Plus+ rendimos homenaje al wéstern o ‘cine del Oeste’ con una acción especial con canal efímero dedicado a este género de espíritu genuino. Y como preludio a este homenaje, un programa especial en el que la presentadora Cristina Teva entrevista al crítico de cine Carlos Boyero, amante del género. Mientras se pasean por diferentes localizaciones que recrean un poblado del lejano Oeste, desgranan las claves del wéstern (su épica, los personajes, la violencia como característica esencial, la realidad del wéstern en el siglo XXI), además de recordar y comentar los títulos y directores más destacados del género de cine estadounidense por excelencia.</desc>
+  </programme>
+  <programme start="20260424133200 -0300" stop="20260424153000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">La balada de Cable Hogue</title>
+    <desc lang="es">Un pionero del oeste, buscador de oro, Cable Hogue, es abandonado por sus compañeros en medio del desierto, tras robarle el caballo, las provisiones, el agua y el arma. En estas difíciles circunstancias, y cuando está a punto de perecer, el casual descubrimiento de un manantial de agua le salva de la muerte, a la vez que significa el comienzo de un negocio: Compra el minúsculo terreno que rodea al manantial y un banquero le presta el resto del dinero que afianzará la empresa. Cable Hogue monta junto al manantial una parada de diligencias en la que abastece de agua a caballos y pasajeros poniendo los precios a su antojo. Es el único pozo de agua en muchas millas a la redonda y el único lugar capaz de ofrecer al viajero agua abundante y otras comodidades, por lo que es codiciado por muchos.</desc>
+  </programme>
+  <programme start="20260424153000 -0300" stop="20260424154000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Yo siempre a veces</title>
+  </programme>
+  <programme start="20260424154000 -0300" stop="20260424170000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Kim Novak&#x27;s Vertigo</title>
+    <desc lang="es">El retrato definitivo de una estrella de Hollywood tremendamente independiente que decidió dejarlo todo para vivir según sus propias reglas. Guiado por sus propias palabras, el documental realiza un conmovedor recorrido por el arte, la identidad y la búsqueda de autenticidad a la sombra de uno de los papeles más icónicos del cine.</desc>
+  </programme>
+  <programme start="20260424170000 -0300" stop="20260424184000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Sospecha</title>
+    <desc lang="es">Un atractivo vividor coincide en el tren con una joven ingenua que acabará teniendo que pagarle el billete. Más adelante, vuelven a encontrarse en una fiesta y, tras un breve romance, ella decide casarse con él, a pesar de la oposición de su padre. Considerada por todos, incluida su familia, una solterona, está empeñada en demostrarles que alguien la puede amar.</desc>
+  </programme>
+  <programme start="20260424184000 -0300" stop="20260424184900 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Yo siempre a veces</title>
+  </programme>
+  <programme start="20260424184900 -0300" stop="20260424205900 -0300" channel="M+.Clásicos.es">
+    <title lang="es">La cruz de hierro</title>
+    <desc lang="es">Península de Tamán, 1943. Los ejércitos alemanes se retiran. El regimiento que dirige el coronel Brandt lleva un nuevo comandante de batallón, un aristócrata prusiano que está dispuesto a obtener la Cruz de Hierro, codiciado símbolo de valentía.</desc>
+  </programme>
+  <programme start="20260424205900 -0300" stop="20260424223800 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Viaje alucinante</title>
+    <desc lang="es">Un científico soviético, el profesor Jan Benes (Jean Del Val), escapado de su país, llega a Estados Unidos con información vital sobre los procesos de reducción de la materia. La FDMC (Fuerzas Disuasorias de Miniaturización Combinadas) es un organismo secreto del gobierno norteamericano, que posee la tecnología para reducir la materia, aunque esta técnica adolece de un grave problema: la materia reducida recupera su tamaño original al cabo de un tiempo, tiempo de miniaturización que se acorta a medida que el objeto se reduce a un tamaño más pequeño.</desc>
+  </programme>
+  <programme start="20260424223800 -0300" stop="20260424235100 -0300" channel="M+.Clásicos.es">
+    <title lang="es">La quimera del oro</title>
+    <desc lang="es">Una de las grandes obras maestras del cine y la primera comedia rodada por Chaplin para la productora United Artist, creada por él mismo. Esta versión sonora, con la voz en off de Chaplin, fue candidata al Oscar a la mejor banda sonora y mejor sonido en 1943.</desc>
+  </programme>
+  <programme start="20260424235100 -0300" stop="20260425014200 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Starman, el hombre de las estrellas</title>
+    <desc lang="es">Jeff Bridges da vida a un extraterrestre de un lejano planeta que aprende lo que significa estar enamorado. Cuando su nave es abatida en Wisconsin, Starman llega al recóndito refugio de una joven y desconsolada viuda, Jenny Hayden, y adopta la forma de su marido fallecido. El extraterrestre convence a Jenny para que le lleve hasta Arizona, diciéndole que si no es rescatado por la nave nodriza en el plazo de tres días, él morirá.</desc>
+  </programme>
+  <programme start="20260425014200 -0300" stop="20260425024500 -0300" channel="M+.Clásicos.es">
+    <title lang="es">El malvado Zaroff</title>
+    <desc lang="es">En una remota isla, cubierta de oscuras selvas y rodeada de acantilados, habita un noble ruso que se dedica a socorrer a los náufragos de barcos que él mismo hunde, con el fin de que les sirvan de presas en una sangrienta cacería humana que pretende organizar.</desc>
+  </programme>
+  <programme start="20260425024500 -0300" stop="20260425044500 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Ciudadano Kane</title>
+    <desc lang="es">Un potente financiero estadounidense, Charles Foster Kane, dueño de una importante cadena de periódicos, de una red de emisoras de radio, de dos sindicatos y de un inimaginable emporio de riquezas, muere en su fabuloso castillo de estilo oriental, llamado Xanadú. La última palabra que pronuncia al expirar es Rosebud. El país entero y la prensa en general quedan intrigadísimos por saber el significado de esta palabra.</desc>
+  </programme>
+  <programme start="20260425044500 -0300" stop="20260425065400 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Monsieur Verdoux</title>
+    <desc lang="es">Charles Chaplin dirige y protagoniza esta comedia negra sobre la vida y milagros de un moderno barbazul, dedicado a asesinar a sus esposas a cambio de su dinero. &quot;Monsieur Verdoux&quot;, basada en una idea original de Orson Welles, supuso un cambio radical con respecto a las comedias alegres que hasta entonces le caracterizaban.</desc>
+  </programme>
+  <programme start="20260425065400 -0300" stop="20260425082400 -0300" channel="M+.Clásicos.es">
+    <title lang="es">La dama de Shanghai</title>
+    <desc lang="es">Michael O&#x27;Hara conoce a Elsa, una hermosa rubia que pasea en un carruaje tirado por caballos en Central Park. Cuando tres forajidos atacan el carruaje, Michael la rescata y la acompaña hasta su casa. Michael le cuenta que es de profesión marino y se entera que Elsa y su esposo, el famoso abogado defensor criminalista Arthur Bannister, acaban de llegar a la ciudad de Nueva York provenientes de Shanghái. Se encuentran de paso hacia San Francisco por el Canal de Panamá. Michael, atraído por la belleza de Elsa acepta enrolarse como marinero en el yate de Bannister.</desc>
+  </programme>
+  <programme start="20260425082400 -0300" stop="20260425095400 -0300" channel="M+.Clásicos.es">
+    <title lang="es">El cuarto mandamiento</title>
+    <desc lang="es">Los Amberson constituyen una poderosa familia estadounidense. El matrimonio sólo tiene una hija, Isabel (Dolores Costello), en la que ha puesto los ojos Eugenio Morgan (Joseph Cotten), pretendiente que fue rechazado por el ridículo que hizo al tratar de organizar una serenata en honor de la joven heredera. Morgan, avergonzado, abandona la ciudad y no regresa hasta pasados 20 años, en el transcurso de los cuales ha llegado a amasar una inmensa fortuna, gracias a sus intervenciones en la industria del automóvil. Cuando vuelve, lo hace acompañado de una chica muy bella, llamada Lucy (Anne Baxter), hija suya. Por su parte, Isabel tiene también un hijo, Jorge (Tim Holt), y su esposo, Wilburn Minafer (Don Dillaway), hombre honesto y trabajador, ha mimado demasiado al niño y éste es odiado por todo el mundo. A Jorge le interesa Lucy, pero acoge con reservas a Morgan y prefiere no seguir con la muchacha.</desc>
+  </programme>
+  <programme start="20260425095400 -0300" stop="20260425113400 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Sospecha</title>
+    <desc lang="es">Un atractivo vividor coincide en el tren con una joven ingenua que acabará teniendo que pagarle el billete. Más adelante, vuelven a encontrarse en una fiesta y, tras un breve romance, ella decide casarse con él, a pesar de la oposición de su padre. Considerada por todos, incluida su familia, una solterona, está empeñada en demostrarles que alguien la puede amar.</desc>
+  </programme>
+  <programme start="20260425113400 -0300" stop="20260425132300 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Robin y Marian</title>
+    <desc lang="es">Desilusionados por los años que perdieron luchando como cruzados en Tierra Santa, Robin Hood, 18 años más viejo que cuando se enfrentó por primera vez al `Sheriff´ de Nottingham, y su amigo, Little John, regresan a Inglaterra y a su bosque de Sherwood, y ven que las cosas han cambiado mucho: Lady Marian, aburrida de esperarle, ha ingresado en un convento y ahora es la madre abadesa experta en pócimas que alivian el dolor, y el rey Ricardo Corazón de León se ha vuelto un lunático. Los viejos amigos de antaño ahora apenas se reconocen, como sucede cuando Little John y Robin Hood se tropiezan, por casualidad, con Will Scarlet y el Hermano Tuck. Ahora son un grupo de desplazados en un tiempo que ya no es el suyo. Así, los años de la aventura parecen haber acabado para Robin, pero cuando el señor de Nottingham vuelve a amenazar Sherwood, se dan cuenta de que todo puede volver a ser como antes, por lo que reúne otra vez a sus fieles amigos para que luchen junto a él con la bravura de antaño.</desc>
+  </programme>
+  <programme start="20260425132300 -0300" stop="20260425150900 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Contra el imperio de la droga</title>
+    <desc lang="es">Dos detectives de narcóticos de Nueva York, Jimmy &quot;Popeye&quot; Doyle y Buddy Russo, duros y mal hablados, se topan por casualidad, en un bar, con una reunión de sospechosos relacionados con el tráfico de drogas. El primero, que confía en su olfato, sospecha que una confitería de Brooklyn está implicada y convence a su jefe para intervenir la línea telefónica. A partir de aquí deciden seguir la pista de Sal Boca y su mujer Angie, la pareja que regenta el negocio, que resulta ser una tapadera para introducir en la ciudad una gran cantidad de droga procedente de Francia.</desc>
+  </programme>
+  <programme start="20260425150900 -0300" stop="20260425170000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Perdición</title>
+    <desc lang="es">Los Ángeles, años 40. Es madrugada y un coche se detiene frente a las oficinas de una compañía de seguros. Walter Neff sale del vehículo, está gravemente herido y, a duras penas, consigue llegar hasta su oficina. Haciendo acopio de sus últimas fuerzas, Walter comienza a narrar, en un dictáfono, una sórdida historia de cómo conoció a Phyllips Dietrichson y de que pérfida manera esta mujer le llevó a dar muerte a su marido. Walter Neff era un honesto agente de seguros que, por motivos de su profesión entra en contacto con el Sr. Dietrichson, al que su fría y calculadora esposa Phyllips anima a hacerse un seguro de vida. Walter queda fascinado por Phyllips a la que visita varias veces en ausencia del Sr. Dietrichson y pronto la pareja planea cometer el crimen perfecto y quedarse con la cuantiosa suma del seguro.</desc>
+  </programme>
+  <programme start="20260425170000 -0300" stop="20260425183600 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Asalto a la comisaría del distrito 13</title>
+    <desc lang="es">Cuando seis miembros de los Street Thunder mueren en una encerrona policial, el resto de la banda jura vengarse. Mientras, un agente novato recibe su primer destino en la comisaría del distrito 13, que está siendo trasladada a un nuevo edificio. Nada parece que vaya a enturbiar la paz del lugar hasta la llegada de un furgón que custodia a un famoso criminal que ha de pasar la noche en la comisaría. Por el momento en ella solo quedan cuatro personas: este policía novato, encargado de cerrarla definitivamente, y dos secretarias a los que pronto se unirán, entre otros, el padre de una chica asesinada por dicha banda.</desc>
+  </programme>
+  <programme start="20260425183600 -0300" stop="20260425184600 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Yo siempre a veces</title>
+  </programme>
+  <programme start="20260425184600 -0300" stop="20260425205100 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Tarde de perros</title>
+    <desc lang="es">En uno de los días más calurosos del verano, Sonny, un individuo inofensivo e intrascendente de la sociedad decide junto a dos inexperimentados delincuentes, robar en una sucursal de banco de Brooklyn para conseguir el dinero necesario para la operación de cambio de sexo de su amante. Sin embargo, un golpe aparentemente fácil se convierte en una auténtica pesadilla cuando parece que todo empieza a torcerse para estos ladronzuelos de poca monta. La policía, la gente e incluso las cámaras de televisión se agolpan en la puerta esperando el desenlace del atraco. Durante el encierro, Sonny reflexiona sobre su vida, sobre lo que ha tenido que renunciar y sobre los cambios que se le avecinan.</desc>
+  </programme>
+  <programme start="20260425205100 -0300" stop="20260425233700 -0300" channel="M+.Clásicos.es">
+    <title lang="es">El bueno, el feo y el malo</title>
+    <desc lang="es">Durante la Guerra Civil americana, la noticia de que una fortuna ha sido robada y escondida en el Lejano Oeste llega a oídos de dos pistoleros. Uno de ellos es un vaquero solitario y taciturno llamado Joe; el otro, un bandido mexicano de nombre Tuco; y, por si eran pocos, se les une un cazarrecompensas sin escrúpulos apodado Sentencia. Los tres personajes, enemigos entre sí, intentan localizar el cuantioso tesoro escondido en la tumba de un cementerio que ninguno de los tres truhanes puede localizar sin la ayuda de los otros dos. Uno sabe en qué cementerio; el otro en qué tumba y el tercero pretende averiguarlo siguiéndolos. De esta forma, los tres hombres colaboran en apariencia, pero está bien claro que al final intentarán eliminarse mutuamente. Las traiciones estarán a la orden del día.</desc>
+  </programme>
+  <programme start="20260425233700 -0300" stop="20260426011600 -0300" channel="M+.Clásicos.es">
+    <title lang="es">El fotógrafo del pánico</title>
+    <desc lang="es">Cuando Mark era sólo un niño, su padre le sometía a terribles experiencias para filmarlas y analizarlas. Esto causó un importante trauma en Mark, que se ha convertido en un joven fotógrafo con un tenebroso objetivo: asesinar a mujeres para poder filmar su agonía.</desc>
+  </programme>
+  <programme start="20260426011600 -0300" stop="20260426023700 -0300" channel="M+.Clásicos.es">
+    <title lang="es">This is Spinal Tap</title>
+    <desc lang="es">Marty DiBergi, un tipo regordete con barba y gorra que hace documentales, se presenta ante la cámara y anuncia las motivaciones que le han llevado a rodar su &quot;rockumental&quot;: &quot;en 1966, fui a Greenwich Village, en Nueva York, a un club nocturno de &#x27;rock&#x27; llamado &quot;El Plátano Eléctrico&quot;. No se molesten en buscarlo, ya no existe. Pero esa noche escuché a un grupo que, para mí, cambió la definición de &quot;rock &#x27;n&#x27; roll&quot;. Recuerdo el impacto que me causó su exuberancia, su energía pura y su puntualidad&quot;. Era el ahora legendario grupo británico &quot;Spinal Tap&quot;.</desc>
+  </programme>
+  <programme start="20260426023700 -0300" stop="20260426025000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Panahi: el cineasta liberado</title>
+    <desc lang="es">Ante el estreno de “Un simple accidente” en M+, y tras llevarse la Palma de Oro a la mejor película en la última edición del Festival de Cannes, el cineasta iraní conversa con Cristina Teva profundizando en su cine y en todas las dificultades a las que se enfrenta en su país para poder rodar. En una charla desde el Festival de San Sebastián, Panahi nos cuenta el impacto de su encarcelación en su trabajo, mientras recordamos otros títulos del director con los que ha obtenido gran reconocimiento en todos los festivales internacionales de cine en los que ha participado.</desc>
+  </programme>
+  <programme start="20260426025000 -0300" stop="20260426045300 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Mayor Dundee</title>
+    <desc lang="es">El Fuerte Benlin, en Nuevo México, es arrasado por las bandas de Sierra Charriba, un indio rebelde que se refugia en México después de cometer sus asaltos en territorio de la Unión. En la última incursión ha tomado como rehenes a tres niños de las cercanías de Fuerte Benlin. El mayor Amos Charles Dundee, oficial al mando de un fuerte prisión, desoyendo los consejos de sus compañeros y a las órdenes de sus superiores, se dispone a perseguir a Sierra Charriba, y para ello propone a los Confederados que se encuentran prisioneros en el fuerte procurar su liberación si se unen a él en su persecución de los indios en territorio Mexicano. El grupo está mandado por el propio Dundee  y por el capitán Benjamin Tyreen, que fue su compañero en la academia militar pero que ahora se odian a muerte. Comienza la operación y pronto el grupo deberá dividirse para hacer frente a las escaramuzas de los indios y a la presión de las tropas francesas que operan en México apoyando al emperador Maximiliano.</desc>
+  </programme>
+  <programme start="20260426045300 -0300" stop="20260426064500 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Los demonios</title>
+    <desc lang="es">La película narra los célebres hechos de Loudon que terminaron en la destrucción de las murallas de la ciudad y la quema del clérigo Grandier, ya adaptados al cine por el polaco Kawalerowicz 11 años antes. La historia está basada principalmente en un texto de Aldous Huxley, historia que supo aprovechar Ken Russell para desplegar toda su artillería visual y sonora.</desc>
+  </programme>
+  <programme start="20260426064500 -0300" stop="20260426091500 -0300" channel="M+.Clásicos.es">
+    <title lang="es">La decisión de Sophie</title>
+    <desc lang="es">Verano de 1947. Tras haber pasado su servicio militar en los marines, un joven aspirante a escritor, llamado Stingo, llega a Nueva York. Se refugia en Brooklyn, en una simpática casita, convertida en pensión de familia, que responde al extraño nombre de El Palacio Rosa. Stingo empieza a escribir su novela, pero su plácida y penosa soledad se ve turbada a los pocos minutos por los ruidos de una pareja haciendo el amor en la habitación de arriba. Stingo conocerá a estos amantes y quedará prendado por la amabilidad y simpatía de ambos. Ella, Sophie Zawistowska es una hermosa emigrante polaca católica. Él, Nathan Landau, un brillante intelectual judío. Poco a poco, Stingo se hace el mejor amigo de los dos amantes, iniciando así una curiosa relación triangular. El escritor va conociendo poco a poco a sus nuevos amigos. Sophie, hija de un ilustre profesor polaco antijudío fue enviada, pese a todo, por su condición de católica, al campo de concentración de Auschwitz.</desc>
+  </programme>
+  <programme start="20260426091500 -0300" stop="20260426103800 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Una mujer de París</title>
+    <desc lang="es">Charles Chaplin cambia la comedia por el drama en esta película en la que denuncia la hipocresía y los prejuicios morales a través de la historia de una sencilla joven (Edna Purviance) y su vida y amores en un París bohemio y libertino.</desc>
+  </programme>
+  <programme start="20260426103800 -0300" stop="20260426120800 -0300" channel="M+.Clásicos.es">
+    <title lang="es">La quimera del oro</title>
+    <desc lang="es">Una de las grandes obras maestras del cine y la primera comedia rodada por Chaplin para la productora United Artist, creada por él mismo.</desc>
+  </programme>
+  <programme start="20260426120800 -0300" stop="20260426132400 -0300" channel="M+.Clásicos.es">
+    <title lang="es">El circo</title>
+    <desc lang="es">Un largometraje maldito para Charles Chaplin no sólo por los continuos accidentes que convirtieron su filmación en un auténtico infierno, sino por el relativo éxito comercial de la cinta, algo que no impidió que cosechara un Oscar (aunque realmente se tratase de un premio honorífico al genial cineasta por su incontestable aportación al séptimo arte).</desc>
+  </programme>
+  <programme start="20260426132400 -0300" stop="20260426145200 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Luces de la ciudad</title>
+    <desc lang="es">En la frontera del cine sonoro, Charles Chaplin dirigió en 1931 esta tierna historia de amor, no exenta de una cierta amargura y tristeza.</desc>
+  </programme>
+  <programme start="20260426145200 -0300" stop="20260426170000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">El gran dictador</title>
+    <desc lang="es">Uno de los clásicos indiscutibles de la historia del cine y la primera película hablada que dirigió Charles Chaplin, en la que encarna a los dos protagonistas. Esta hilarante sátira política, que estuvo prohibida durante cuarenta años en España, estuvo acompañado de grandes complicaciones en pleno clima prebélico.</desc>
+  </programme>
+  <programme start="20260426170000 -0300" stop="20260426183000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Tiempos modernos</title>
+    <desc lang="es">Una demoledora y feroz crítica a la sociedad industrial dirigida e interpretada por un imaginativo y corrosivo Charles Chaplin.</desc>
+  </programme>
+  <programme start="20260426183000 -0300" stop="20260426185400 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Un día de juerga</title>
+    <desc lang="es">Una nueva entrega de las alocadas aventuras de Charles Chaplin, esta vez disfrutando de un apacible día de campo pero lleno de enredos e imprevistos.</desc>
+  </programme>
+  <programme start="20260426185400 -0300" stop="20260426193800 -0300" channel="M+.Clásicos.es">
+    <title lang="es">El peregrino</title>
+    <desc lang="es">Este aclamado cortometraje de comedia, dirigido y escrito por el legendario Charlie Chaplin, que combina ingenio,  humor y crítica social en una trama única en la que Chaplin interpreta a un preso fugitivo que, tras robar la ropa de un ministro para reemplazar su uniforme de prisión, es confundido con el nuevo párroco.</desc>
+  </programme>
+  <programme start="20260426193800 -0300" stop="20260426203200 -0300" channel="M+.Clásicos.es">
+    <title lang="es">El chico</title>
+    <desc lang="es">Una de las grandes obras maestras del gran Charles Chaplin, humor inteligente, gags muy brillantes y mucha emotividad.</desc>
+  </programme>
+  <programme start="20260426203200 -0300" stop="20260426205700 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Día de paga</title>
+    <desc lang="es">Uno de los cortos más conocidos y apreciados de Chaplin, en el que aflora más que nunca un sentimiento de sólida y coherente reivindicación social.</desc>
+  </programme>
+  <programme start="20260426205700 -0300" stop="20260426212600 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Vacaciones</title>
+    <desc lang="es">Charlie Chaplin dirige, produce y escribe esta comedia muda de 1921 en la que interpreta dos roles: el Vagabundo y el Marido Despistado. La trama se desarrolla en un exclusivo resort donde el Vagabundo causa estragos en un campo de golf al robar pelotas, desencadenando confusiones entre los golfistas. Paralelamente, una esposa decide dejar a su acaudalado marido debido a sus problemas con la bebida.</desc>
+  </programme>
+  <programme start="20260426212600 -0300" stop="20260426215800 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Al sol</title>
+    <desc lang="es">Dirigida y protagonizada por el legendario Charlie Chaplin, esta comedia despliega el ingenio y talento del actor, esta vez como un ayudante de granja.</desc>
+  </programme>
+  <programme start="20260426215800 -0300" stop="20260426223300 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Vida de perro</title>
+    <desc lang="es">Dirigida, escrita y producida por el legendario Charles Chaplin, esta comedia entrañable nos presenta al icónico personaje de Charlot, interpretado por Chaplin, en una de sus aventuras más conmovedoras. Charlot es un vagabundo que se hace amigo de Scraps, un perro callejero. Juntos, enfrentan las dificultades de la vida en la ciudad, buscando comida y refugio mientras sueñan con un futuro mejor.</desc>
+  </programme>
+  <programme start="20260426223300 -0300" stop="20260426231400 -0300" channel="M+.Clásicos.es">
+    <title lang="es">¡Armas al hombro!</title>
+    <desc lang="es">Sutil parodia antibelicista, protagonizada y dirigida por Charles Chaplin, ambientada en plena Primera Guerra Mundial.</desc>
+  </programme>
+  <programme start="20260426231400 -0300" stop="20260427012100 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Qué bello es vivir</title>
+    <desc lang="es">Con un inigualable James Stewart como protagonista, &quot;Qué bello es vivir&quot;, dirigida por el célebre Frank Capra, se ha convertido con el paso de los años en uno de los mayores clásicos de la Navidad, un auténtico canto a la vida y a la bondad y, sobre todo, una de las mejores películas de la historia del cine.</desc>
+  </programme>
+  <programme start="20260427012100 -0300" stop="20260427030500 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Un hombre y una mujer</title>
+    <desc lang="es">Como cada domingo, Anne Gauthier, una mujer de unos 30 años, y Jean-Louis Duroc, un hombre de su edad, visitan a sus respectivos hijos. Anne ha perdido el tren, y Jean-Louis se ofrece a llevarla a París, en su coche. Ambos hablan de sus hijos y del día que han pasado en Deauville; pero Anne habla sobre todo de su marido. Y habla con tal pasión de él, que su imagen parece estar entre ellos. Sin embargo, Jean-Louis se sorprende cuando Anne le revela que su marido murió en un estúpido accidente durante el rodaje de una película. Durante las semanas siguientes, Jean-Louis, que es piloto de coches de carreras, está obsesionado por la mujer que ha conocido. Por fin se decide a llamar a Anne para llevarla a Deauville el fin de semana siguiente. Ese domingo transcurre  en una especial atmósfera para ese hombre y esa mujer, a quienes sus propios hijos parecen aproximar todavía más. De vuelta a la ciudad, sus manos se encuentran, a la vez que Anne pide a Jean-Louis que le hable de su mujer.</desc>
+  </programme>
+  <programme start="20260427030500 -0300" stop="20260427044800 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Mamma Roma</title>
+    <desc lang="es">Nominada al León de Oro del Festival de Venecia y ganadora del premio a la mejor actriz para Anna Magnani, Mamma Roma es el segundo largometraje del italiano Pier Paolo Pasolini. La historia es un drama social en torno a la figura de una prostituta llamada Mamma Roma, una mujer que sueña con una vida mejor tanto para ella como para su hijo, Ettore, quien no termina de acepta el pasado de la madre.</desc>
+  </programme>
+  <programme start="20260427044800 -0300" stop="20260427074700 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Apocalypse Now: Final Cut</title>
+    <desc lang="es">En plena guerra de Vietnam, el capitán Willard recibe la orden de internarse en Camboya y asesinar al renegado coronel Kurtz.</desc>
+  </programme>
+  <programme start="20260427074700 -0300" stop="20260427100000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">El señor de los anillos</title>
+    <desc lang="es">El hobbit Frodo hereda un anillo que resulta ser el Anillo Único, el instrumento de poder absoluto que permitiría a Sauron, el Señor Oscuro, gobernar la Tierra Media y esclavizar a todos sus pueblos. Para evitarlo, Frodo y su leal Comunidad, compuesta por hobbits, hombres, un mago, un enano y un elfo, deben destruirlo arrojándolo al Monte del Destino. Este viaje significa adentrarse en el territorio gobernado por Sauron. Pero no sólo se van a enfrentar a peligros externos, sino también a disputas internas y al poder corruptor del Anillo. El curso del futuro está unido al destino de la Comunidad.</desc>
+  </programme>
+  <programme start="20260427100000 -0300" stop="20260427114800 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Robin y Marian</title>
+    <desc lang="es">Desilusionados por los años que perdieron luchando como cruzados en Tierra Santa, Robin Hood, 18 años más viejo que cuando se enfrentó por primera vez al `Sheriff´ de Nottingham, y su amigo, Little John, regresan a Inglaterra y a su bosque de Sherwood, y ven que las cosas han cambiado mucho: Lady Marian, aburrida de esperarle, ha ingresado en un convento y ahora es la madre abadesa experta en pócimas que alivian el dolor, y el rey Ricardo Corazón de León se ha vuelto un lunático. Los viejos amigos de antaño ahora apenas se reconocen, como sucede cuando Little John y Robin Hood se tropiezan, por casualidad, con Will Scarlet y el Hermano Tuck. Ahora son un grupo de desplazados en un tiempo que ya no es el suyo. Así, los años de la aventura parecen haber acabado para Robin, pero cuando el señor de Nottingham vuelve a amenazar Sherwood, se dan cuenta de que todo puede volver a ser como antes, por lo que reúne otra vez a sus fieles amigos para que luchen junto a él con la bravura de antaño.</desc>
+  </programme>
+  <programme start="20260427114800 -0300" stop="20260427133500 -0300" channel="M+.Clásicos.es">
+    <title lang="es">El espejo roto</title>
+    <desc lang="es">Esta adaptación de una de las novelas de misterio clásicas de Agatha Christie cuenta con un elenco impresionante. Angela Lansbury, Elizabeth Taylor, Rock Hudson, Kim Novak o Tony Curtis son solo algunos de los nombres más destacados de la película, dirigida por Guy Hamilton (&#x27;&#x27;James Bond contra Goldfinger&#x27;&#x27;).</desc>
+  </programme>
+  <programme start="20260427133500 -0300" stop="20260427151000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Bugsy Malone, nieto de Al Capone</title>
+    <desc lang="es">Película de gánsteres protagonizada enteramente por niños. La historia cuenta cómo el joven Bugsy Malone acabará siendo un gran capo de la Mafia en la Nueva York de los años 20. En esta divertida película las pistolas no disparan balas, sino nata.</desc>
+  </programme>
+  <programme start="20260427151000 -0300" stop="20260427164600 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Veracruz</title>
+    <desc lang="es">Poco después de la Guerra de Secesión americana, un montón de aventureros que no consiguieron aclimatarse a los tiempos de paz, cruzan la frontera y se marchan a México en busca de fortuna, donde las tropas rebeldes de Juárez luchan contra las del emperador Maximiliano (George Macready).</desc>
+  </programme>
+  <programme start="20260427164600 -0300" stop="20260427170000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Voces en femenino</title>
+    <desc lang="es">Spotify Equal impulsa la igualdad de género en la música con el objetivo de dar mayor visibilidad a mujeres creadoras en España. Una cita a la que han acudido nombres como Nathy Peluso, Luz Casal, Vanesa Martin o Rosario Flores, entre otras muchas.</desc>
+  </programme>
+  <programme start="20260427170000 -0300" stop="20260427185500 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Desayuno con diamantes</title>
+    <desc lang="es">Holly Golightly es una chica de vida aparentemente alegre pero de alma triste que después de mucha búsqueda infructuosa terminará encontrando el amor donde menos se lo espera, en su propia escalera.</desc>
+  </programme>
+  <programme start="20260427185500 -0300" stop="20260427205000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Quadrophenia</title>
+    <desc lang="es">Londres, 1965. Al igual que los jóvenes de su edad, Jimmy odia todo lo que le rodea. Sólo cuando está con sus amigos y escucha a los &quot;Who&quot; y a los &quot;Rolling Stones&quot; se siente realmente libre.</desc>
+  </programme>
+  <programme start="20260427205000 -0300" stop="20260427230200 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Cuentos de Tokio</title>
+    <desc lang="es">Una pareja mayor decide viajar a Tokio para visitar a sus hijos, uno de ellos convertido en el médico de su barrio, después de que las guerras civiles de Japón los hubieran separado. Pero las cosas habrán cambiado bastante y sentirán el abismo que reina tanto entre las generaciones como entre los habitantes del campo y entre los de la ciudad.</desc>
   </programme>
 </tv>

@@ -87,6 +87,10 @@ EXTERNAL_SOURCES = [
     {
         "url": "https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz",
         "ids": ["Canal.Cinema.Platino.mx"]
+    },
+    {
+        "url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
+        "ids": ["M+.Estrenos.es", "M+ Accion.es", "Be.Mad.es", "C.Hollywood.es", "XTRM.es", "Dark.es", "TCM.es", "M+.Clásicos.es"]
     }
    
 ]

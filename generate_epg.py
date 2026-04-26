@@ -72,11 +72,16 @@ EXTERNAL_SOURCES = [
     {
         "url": "https://i.mjh.nz/Plex/us.xml",
         "ids": ["5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a", "5e20b730f2f8d5003d739db7-6876f76054325376973fd314", "5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3", 
-                "5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c"]
+                "5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c", "5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5"]
     },
     {
         "url": "https://i.mjh.nz/Plex/mx.xml",
-        "ids": ["608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb", "608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3", "608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5"]
+        "ids": ["608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb", "608049aefa2b8ae93c2c3a63-6684374320f405b792a3b6b3", "608049aefa2b8ae93c2c3a63-66843a1f20f405b792a3b6b5", 
+                "608049aefa2b8ae93c2c3a63-6685abbe59703916799193a7", "608049aefa2b8ae93c2c3a63-668434f6a017b7e51aeb28d3"]
+    },
+    {
+        "url": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/es.xml",
+        "ids": ["643054b1fc3be59477853717-66840a26cd6f1d3940941155", "643054b1fc3be59477853717-6683fcdf702b9db9f8177252", "643054b1fc3be59477853717-66841b30702b9db9f8177258"]
     },
     {
         "url": "https://raw.githubusercontent.com/luisms123/tdt/refs/heads/master/guiacanales.xml",
@@ -97,8 +102,12 @@ EXTERNAL_SOURCES = [
     {
         "url": "https://github.com/HelmerLuzo/RakutenTV_HL/raw/refs/heads/main/epg/RakutenTV.xml.gz",
         "ids": ["that-s-80s", "that-s-90s00s", "that-s-rock", "filmrise-sci-fi-es", "sci-fi-rakuten-tv", "action-rakuten-tv", "thriller-rakuten-tv", "fifa-plus-es-new"]
+    },
+        {
+        "url": "https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz",
+        "ids": ["sangre-fria"]
     }
-   
+
 ]
 
 TIMEZONE = "America/Argentina/Buenos_Aires"

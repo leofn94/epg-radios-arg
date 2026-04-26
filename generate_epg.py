@@ -57,22 +57,23 @@ EXTERNAL_SOURCES = [
     },
     {
         "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml",
-        "ids": ["ESBC4100004J1", "ESBC400003YM", "ES3400004SS", "ESBA3300024AJ", "ES300029LP", "ES3000288I", "ES300002Y6", "ES300003D4","0860", "ESBC1700004PX", "ES300006QJ","ESBC2700003T8", "ES2600013H4", 
-                "ESBC400001QQ","ESBD800001RJ", "ESBC40000248", "ES2200003DA","ES2300005G7","ESBC2700002LO", "ESBD80000288"]
+        "ids": ["ESBC4100004J1", "ESBC400003YM", "ES3400004SS", "ESBA3300024AJ", "ES300029LP", "ES3000288I", "ESBC1700004PX", "ESBC2700003T8", "ES2600013H4"]
     },
     {
         "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml",
-        "ids": ["USBB3200016HO", "US3000005RS", "USBA370000104", "USBB320000647", "USBB3200007AK", "USBD350002623", "USBD3300022QK", "USBD3500008IJ","USBD35000149S", "USBD35000180U", "US2600019IC","USBD1200009JI", 
-                "US2200001IY", "USAJ3504704A","USBB4400017N3", "US5000053YV", "USBC36000073J","USAJ3504502A", "US15000032I", "USBD7000017L","US1900002QK", "US1800014CG", "USBD12000255B", "US4000033L"]
+        "ids": ["US3000005RS", "USBA370000104", "USBD350002623", "USBD3500008IJ","USBD35000149S", "USBD35000180U", "US2600019IC","USBD1200009JI", 
+                "US2200001IY", "USAJ3504704A","USBB4400017N3", "US5000053YV", "USAJ3504502A", "US1900002QK", "US1800014CG", "USBD12000255B", "US4000033L"]
     },
     {
         "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml",
-        "ids": ["GB2300005ML", "GBBD4900001RG", "GBBD1900009UD", "GBBC2100002HP", "GB500007VM", "GBAJ40003642", "GB4000008O5"]
+        "ids": ["GB2300005ML", "GBBD4900001RG", "GBBD1900009UD", "GBBC2100002HP", "GB500007VM"]
     },
     {
         "url": "https://i.mjh.nz/Plex/us.xml",
         "ids": ["5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a", "5e20b730f2f8d5003d739db7-6876f76054325376973fd314", "5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3", 
-                "5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c", "5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5"]
+                "5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c", "5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5", "5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a",
+               "5e20b730f2f8d5003d739db7-688006e7015fe7e375a1a0ac", "5e20b730f2f8d5003d739db7-6889430a3b7708975e7c07e3", "5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf",
+               "5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf", "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc791", "5e20b730f2f8d5003d739db7-671a924b79fce6628115432c"]
     },
     {
         "url": "https://i.mjh.nz/Plex/mx.xml",
@@ -81,7 +82,9 @@ EXTERNAL_SOURCES = [
     },
     {
         "url": "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/es.xml",
-        "ids": ["643054b1fc3be59477853717-66840a26cd6f1d3940941155", "643054b1fc3be59477853717-6683fcdf702b9db9f8177252", "643054b1fc3be59477853717-66841b30702b9db9f8177258"]
+        "ids": ["643054b1fc3be59477853717-66840a26cd6f1d3940941155", "643054b1fc3be59477853717-6683fcdf702b9db9f8177252", "643054b1fc3be59477853717-66841b30702b9db9f8177258",
+               "643054b1fc3be59477853717-692235265cbe620c1f9b6bc7","643054b1fc3be59477853717-692234015028288613484a8a","643054b1fc3be59477853717-6922322350fe592fd6d5b7e6",
+                "643054b1fc3be59477853717-66840253cd6f1d394094114f","643054b1fc3be59477853717-6490e17c18a55242eea95991","643054b1fc3be59477853717-668420c2cd6f1d3940941157"]
     },
     {
         "url": "https://raw.githubusercontent.com/luisms123/tdt/refs/heads/master/guiacanales.xml",
@@ -101,7 +104,8 @@ EXTERNAL_SOURCES = [
     },
     {
         "url": "https://github.com/HelmerLuzo/RakutenTV_HL/raw/refs/heads/main/epg/RakutenTV.xml.gz",
-        "ids": ["that-s-80s", "that-s-90s00s", "that-s-rock", "filmrise-sci-fi-es", "sci-fi-rakuten-tv", "action-rakuten-tv", "thriller-rakuten-tv", "fifa-plus-es-new"]
+        "ids": ["that-s-80s", "that-s-90s00s", "that-s-rock", "filmrise-sci-fi-es", "sci-fi-rakuten-tv", "action-rakuten-tv", "thriller-rakuten-tv", "fifa-plus-es-new", "cine-western-es",
+               "grjngo-es","stingray-remember-the-80-s", ]
     },
         {
         "url": "https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz",

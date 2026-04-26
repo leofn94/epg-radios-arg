@@ -286,6 +286,9 @@
   <channel id="ES2600013H4">
     <display-name>Películas Top - Rakuten TV</display-name>
   </channel>
+  <channel id="ESBC40000248">
+    <display-name>Action Movie Channel</display-name>
+  </channel>
   <channel id="US3000005RS">
     <display-name>Noticias Telemundo Ahora</display-name>
   </channel>
@@ -456,6 +459,9 @@
   </channel>
   <channel id="M+.Estrenos.es">
     <display-name>M+ Estrenos</display-name>
+  </channel>
+  <channel id="M+.Acción.es">
+    <display-name>M+ Acción</display-name>
   </channel>
   <channel id="Be.Mad.es">
     <display-name>Be Mad</display-name>
@@ -10507,7 +10513,7 @@
     <title lang="es">A and E</title>
     <desc lang="es">La información de este programa no se encuentra disponible.</desc>
   </programme>
-  <programme start="20260426073828 -0300" stop="20260426083105 -0300" channel="504">
+  <programme start="20260426080402 -0300" stop="20260426083105 -0300" channel="504">
     <title lang="es">Las Cronicas de Riddick</title>
   </programme>
   <programme start="20260426083329 -0300" stop="20260426101202 -0300" channel="504">
@@ -10585,11 +10591,8 @@
   <programme start="20260428040519 -0300" stop="20260428064107 -0300" channel="504">
     <title lang="es">Robin Hood</title>
   </programme>
-  <programme start="20260428064305 -0300" stop="20260428073828 -0300" channel="504">
+  <programme start="20260428064305 -0300" stop="20260428080402 -0300" channel="504">
     <title lang="es">Escuela De Rock</title>
-  </programme>
-  <programme start="20260426070000 -0300" stop="20260426080000 -0300" channel="531">
-    <title lang="es">Sin información</title>
   </programme>
   <programme start="20260426080000 -0300" stop="20260426090000 -0300" channel="531">
     <title lang="es">Sin información</title>
@@ -10732,7 +10735,7 @@
   <programme start="20260428060000 -0300" stop="20260428070000 -0300" channel="531">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260426070000 -0300" stop="20260426080000 -0300" channel="532">
+  <programme start="20260428070000 -0300" stop="20260428080000 -0300" channel="531">
     <title lang="es">Sin información</title>
   </programme>
   <programme start="20260426080000 -0300" stop="20260426090000 -0300" channel="532">
@@ -10876,7 +10879,10 @@
   <programme start="20260428060000 -0300" stop="20260428070000 -0300" channel="532">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260426073828 -0300" stop="20260426081458 -0300" channel="536">
+  <programme start="20260428070000 -0300" stop="20260428080000 -0300" channel="532">
+    <title lang="es">Sin información</title>
+  </programme>
+  <programme start="20260426080402 -0300" stop="20260426081458 -0300" channel="536">
     <title lang="es">Yo Soy Alí</title>
   </programme>
   <programme start="20260426081508 -0300" stop="20260426085805 -0300" channel="536">
@@ -10891,139 +10897,136 @@
   <programme start="20260426111751 -0300" stop="20260426120243 -0300" channel="536">
     <title lang="es">Este líquido es demasiado peligroso para transportarlo</title>
   </programme>
-  <programme start="20260426120251 -0300" stop="20260426133816 -0300" channel="536">
+  <programme start="20260426120809 -0300" stop="20260426125302 -0300" channel="536">
+    <title lang="es">Este líquido es demasiado peligroso para transportarlo</title>
+  </programme>
+  <programme start="20260426125310 -0300" stop="20260426142834 -0300" channel="536">
     <title lang="es">El Papa Francisco, Un Hombre De Palabra</title>
   </programme>
-  <programme start="20260426133829 -0300" stop="20260426142629 -0300" channel="536">
+  <programme start="20260426142848 -0300" stop="20260426151647 -0300" channel="536">
     <title lang="es">Mitos del Congo - Regiones más misteriosas y peligrosas de la Tierra - Gorilas</title>
   </programme>
-  <programme start="20260426142734 -0300" stop="20260426151116 -0300" channel="536">
+  <programme start="20260426151752 -0300" stop="20260426160134 -0300" channel="536">
     <title lang="es">Cosmos - El futuro en otros mundos</title>
   </programme>
-  <programme start="20260426151126 -0300" stop="20260426162901 -0300" channel="536">
+  <programme start="20260426160144 -0300" stop="20260426171919 -0300" channel="536">
     <title lang="es">DESCUBIERTO un EXTRAÑO sistema estelar Alienígena con 6 Planetas Habitables</title>
   </programme>
-  <programme start="20260426163003 -0300" stop="20260426171343 -0300" channel="536">
+  <programme start="20260426172022 -0300" stop="20260426180402 -0300" channel="536">
     <title lang="es">Jerusalem</title>
   </programme>
-  <programme start="20260426171353 -0300" stop="20260426193038 -0300" channel="536">
+  <programme start="20260426180412 -0300" stop="20260426202056 -0300" channel="536">
     <title lang="es">El gran reseteo</title>
   </programme>
-  <programme start="20260426193051 -0300" stop="20260426204253 -0300" channel="536">
+  <programme start="20260426202109 -0300" stop="20260426213312 -0300" channel="536">
     <title lang="es">Un Viaje INCREÍBLE A Los Descubrimientos Más HERMOSOS Del Universo Por JAMES WEBB</title>
   </programme>
-  <programme start="20260426204325 -0300" stop="20260426220514 -0300" channel="536">
+  <programme start="20260426213343 -0300" stop="20260426225532 -0300" channel="536">
     <title lang="es">Elefantes</title>
   </programme>
-  <programme start="20260426220522 -0300" stop="20260426225802 -0300" channel="536">
+  <programme start="20260426225540 -0300" stop="20260426234820 -0300" channel="536">
     <title lang="es">Aguas Tranquilas</title>
   </programme>
-  <programme start="20260426225817 -0300" stop="20260427001731 -0300" channel="536">
+  <programme start="20260426234836 -0300" stop="20260427010749 -0300" channel="536">
     <title lang="es">¿Cómo era la Tierra en la Era de los Insectos Gigantes?</title>
   </programme>
-  <programme start="20260427001741 -0300" stop="20260427005939 -0300" channel="536">
+  <programme start="20260427010759 -0300" stop="20260427014958 -0300" channel="536">
     <title lang="es">En Busca de Aliens - El Misterio del Puma Punku Revelado</title>
   </programme>
-  <programme start="20260427005949 -0300" stop="20260427014219 -0300" channel="536">
+  <programme start="20260427015008 -0300" stop="20260427023237 -0300" channel="536">
     <title lang="es">Animal 1x02</title>
   </programme>
-  <programme start="20260427014240 -0300" stop="20260427022727 -0300" channel="536">
+  <programme start="20260427023258 -0300" stop="20260427031745 -0300" channel="536">
     <title lang="es">Mercurio y Venus</title>
   </programme>
-  <programme start="20260427022727 -0300" stop="20260427032727 -0300" channel="536">
+  <programme start="20260427031745 -0300" stop="20260427041745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427032727 -0300" stop="20260427042727 -0300" channel="536">
+  <programme start="20260427041745 -0300" stop="20260427051745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427042727 -0300" stop="20260427052727 -0300" channel="536">
+  <programme start="20260427051745 -0300" stop="20260427061745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427052727 -0300" stop="20260427062727 -0300" channel="536">
+  <programme start="20260427061745 -0300" stop="20260427071745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427062727 -0300" stop="20260427072727 -0300" channel="536">
+  <programme start="20260427071745 -0300" stop="20260427081745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427072727 -0300" stop="20260427082727 -0300" channel="536">
+  <programme start="20260427081745 -0300" stop="20260427091745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427082727 -0300" stop="20260427092727 -0300" channel="536">
+  <programme start="20260427091745 -0300" stop="20260427101745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427092727 -0300" stop="20260427102727 -0300" channel="536">
+  <programme start="20260427101745 -0300" stop="20260427111745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427102727 -0300" stop="20260427112727 -0300" channel="536">
+  <programme start="20260427111745 -0300" stop="20260427121745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427112727 -0300" stop="20260427122727 -0300" channel="536">
+  <programme start="20260427121745 -0300" stop="20260427131745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427122727 -0300" stop="20260427132727 -0300" channel="536">
+  <programme start="20260427131745 -0300" stop="20260427141745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427132727 -0300" stop="20260427142727 -0300" channel="536">
+  <programme start="20260427141745 -0300" stop="20260427151745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427142727 -0300" stop="20260427152727 -0300" channel="536">
+  <programme start="20260427151745 -0300" stop="20260427161745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427152727 -0300" stop="20260427162727 -0300" channel="536">
+  <programme start="20260427161745 -0300" stop="20260427171745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427162727 -0300" stop="20260427172727 -0300" channel="536">
+  <programme start="20260427171745 -0300" stop="20260427181745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427172727 -0300" stop="20260427182727 -0300" channel="536">
+  <programme start="20260427181745 -0300" stop="20260427191745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427182727 -0300" stop="20260427192727 -0300" channel="536">
+  <programme start="20260427191745 -0300" stop="20260427201745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427192727 -0300" stop="20260427202727 -0300" channel="536">
+  <programme start="20260427201745 -0300" stop="20260427211745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427202727 -0300" stop="20260427212727 -0300" channel="536">
+  <programme start="20260427211745 -0300" stop="20260427221745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427212727 -0300" stop="20260427222727 -0300" channel="536">
+  <programme start="20260427221745 -0300" stop="20260427231745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427222727 -0300" stop="20260427232727 -0300" channel="536">
+  <programme start="20260427231745 -0300" stop="20260428001745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260427232727 -0300" stop="20260428002727 -0300" channel="536">
+  <programme start="20260428001745 -0300" stop="20260428011745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260428002727 -0300" stop="20260428012727 -0300" channel="536">
+  <programme start="20260428011745 -0300" stop="20260428021745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260428012727 -0300" stop="20260428022727 -0300" channel="536">
+  <programme start="20260428021745 -0300" stop="20260428031745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260428022727 -0300" stop="20260428032727 -0300" channel="536">
+  <programme start="20260428031745 -0300" stop="20260428041745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260428032727 -0300" stop="20260428042727 -0300" channel="536">
+  <programme start="20260428041745 -0300" stop="20260428051745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260428042727 -0300" stop="20260428052727 -0300" channel="536">
+  <programme start="20260428051745 -0300" stop="20260428061745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260428052727 -0300" stop="20260428062727 -0300" channel="536">
+  <programme start="20260428061745 -0300" stop="20260428071745 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260428062727 -0300" stop="20260428072727 -0300" channel="536">
+  <programme start="20260428071745 -0300" stop="20260428080402 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260428072727 -0300" stop="20260428073828 -0300" channel="536">
-    <title lang="es">Sin información</title>
-  </programme>
-  <programme start="20260426073828 -0300" stop="20260426075918 -0300" channel="537">
-    <title lang="es">Kojak</title>
-  </programme>
-  <programme start="20260426080239 -0300" stop="20260426081024 -0300" channel="537">
+  <programme start="20260426080402 -0300" stop="20260426081024 -0300" channel="537">
     <title lang="es">Los Tres Chiflados</title>
   </programme>
   <programme start="20260426081024 -0300" stop="20260426082724 -0300" channel="537">
@@ -11077,143 +11080,287 @@
   <programme start="20260426103134 -0300" stop="20260426103832 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
+  <programme start="20260426124530 -0300" stop="20260426125240 -0300" channel="537">
+    <title lang="es">La Pequeña Lulú</title>
+  </programme>
+  <programme start="20260426125240 -0300" stop="20260426130015 -0300" channel="537">
+    <title lang="es">La Pequeña Lulú</title>
+  </programme>
+  <programme start="20260426130015 -0300" stop="20260426130724 -0300" channel="537">
+    <title lang="es">La Pequeña Lulú</title>
+  </programme>
+  <programme start="20260426131044 -0300" stop="20260426133602 -0300" channel="537">
+    <title lang="es">Los Picapiedras</title>
+  </programme>
+  <programme start="20260426133922 -0300" stop="20260426140118 -0300" channel="537">
+    <title lang="es">Los Supersónicos</title>
+  </programme>
+  <programme start="20260426140439 -0300" stop="20260426141020 -0300" channel="537">
+    <title lang="es">Popeye, El Marino</title>
+  </programme>
+  <programme start="20260426141020 -0300" stop="20260426141600 -0300" channel="537">
+    <title lang="es">Popeye, El Marino</title>
+  </programme>
+  <programme start="20260426141600 -0300" stop="20260426142142 -0300" channel="537">
+    <title lang="es">Popeye, El Marino</title>
+  </programme>
+  <programme start="20260426142142 -0300" stop="20260426142721 -0300" channel="537">
+    <title lang="es">Popeye, El Marino</title>
+  </programme>
+  <programme start="20260426142721 -0300" stop="20260426143303 -0300" channel="537">
+    <title lang="es">Popeye, El Marino</title>
+  </programme>
+  <programme start="20260426143623 -0300" stop="20260426144227 -0300" channel="537">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20260426144227 -0300" stop="20260426144843 -0300" channel="537">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20260426144843 -0300" stop="20260426145529 -0300" channel="537">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20260426145529 -0300" stop="20260426150153 -0300" channel="537">
+    <title lang="es">Tom y Jerry</title>
+  </programme>
+  <programme start="20260426150513 -0300" stop="20260426152858 -0300" channel="537">
+    <title lang="es">Rugrats</title>
+  </programme>
+  <programme start="20260426153219 -0300" stop="20260426155556 -0300" channel="537">
+    <title lang="es">¡Oye Arnold!</title>
+  </programme>
+  <programme start="20260426155917 -0300" stop="20260426161026 -0300" channel="537">
+    <title lang="es">Baby Looney Tunes</title>
+  </programme>
+  <programme start="20260426161026 -0300" stop="20260426162139 -0300" channel="537">
+    <title lang="es">Baby Looney Tunes</title>
+  </programme>
+  <programme start="20260426162500 -0300" stop="20260426164743 -0300" channel="537">
+    <title lang="es">Las Sombrías Aventuras
+de Billy y Mandy</title>
+  </programme>
+  <programme start="20260426164743 -0300" stop="20260426171029 -0300" channel="537">
+    <title lang="es">Las Sombrías Aventuras
+de Billy y Mandy</title>
+  </programme>
+  <programme start="20260426171029 -0300" stop="20260426173330 -0300" channel="537">
+    <title lang="es">Las Sombrías Aventuras
+de Billy y Mandy</title>
+  </programme>
+  <programme start="20260426173650 -0300" stop="20260426180011 -0300" channel="537">
+    <title lang="es">Candy</title>
+  </programme>
+  <programme start="20260426180331 -0300" stop="20260426182512 -0300" channel="537">
+    <title lang="es">Angel, La Niña de las Flores</title>
+  </programme>
+  <programme start="20260426182833 -0300" stop="20260426185134 -0300" channel="537">
+    <title lang="es">Denver, El Último Dinosaurio</title>
+  </programme>
+  <programme start="20260426185134 -0300" stop="20260426191328 -0300" channel="537">
+    <title lang="es">Denver, El Último Dinosaurio</title>
+  </programme>
+  <programme start="20260426191648 -0300" stop="20260426193643 -0300" channel="537">
+    <title lang="es">Chicho Terremoto</title>
+  </programme>
+  <programme start="20260426194003 -0300" stop="20260426200207 -0300" channel="537">
+    <title lang="es">El Laboratorio de Dexter</title>
+  </programme>
+  <programme start="20260426200527 -0300" stop="20260426203007 -0300" channel="537">
+    <title lang="es">Dragon Ball</title>
+  </programme>
+  <programme start="20260426203328 -0300" stop="20260426205830 -0300" channel="537">
+    <title lang="es">Sakura Card Captors</title>
+  </programme>
+  <programme start="20260426210150 -0300" stop="20260426212314 -0300" channel="537">
+    <title lang="es">X.Men</title>
+  </programme>
+  <programme start="20260426212314 -0300" stop="20260426214437 -0300" channel="537">
+    <title lang="es">X.Men</title>
+  </programme>
+  <programme start="20260426214437 -0300" stop="20260426220558 -0300" channel="537">
+    <title lang="es">X.Men</title>
+  </programme>
+  <programme start="20260426220919 -0300" stop="20260426223007 -0300" channel="537">
+    <title lang="es">Ren y Stimpy</title>
+  </programme>
+  <programme start="20260426223007 -0300" stop="20260426225044 -0300" channel="537">
+    <title lang="es">Ren y Stimpy</title>
+  </programme>
+  <programme start="20260426225044 -0300" stop="20260426230754 -0300" channel="537">
+    <title lang="es">Ren y Stimpy</title>
+  </programme>
+  <programme start="20260426231114 -0300" stop="20260426233524 -0300" channel="537">
+    <title lang="es">Sailor Moon</title>
+  </programme>
+  <programme start="20260426233844 -0300" stop="20260427000238 -0300" channel="537">
+    <title lang="es">Robotech</title>
+  </programme>
+  <programme start="20260427000238 -0300" stop="20260427002702 -0300" channel="537">
+    <title lang="es">Robotech</title>
+  </programme>
+  <programme start="20260427003023 -0300" stop="20260427005309 -0300" channel="537">
+    <title lang="es">Cuentos de la Cripta</title>
+  </programme>
+  <programme start="20260427005629 -0300" stop="20260427011934 -0300" channel="537">
+    <title lang="es">Dinosaurios</title>
+  </programme>
+  <programme start="20260427012255 -0300" stop="20260427021110 -0300" channel="537">
+    <title lang="es">Automan</title>
+  </programme>
+  <programme start="20260427021430 -0300" stop="20260427024002 -0300" channel="537">
+    <title lang="es">Capitán Escarlata</title>
+  </programme>
+  <programme start="20260427024323 -0300" stop="20260427033056 -0300" channel="537">
+    <title lang="es">Thunderbirds</title>
+  </programme>
+  <programme start="20260427033416 -0300" stop="20260427042504 -0300" channel="537">
+    <title lang="es">Viajes a las Estrellas</title>
+  </programme>
+  <programme start="20260427042824 -0300" stop="20260427045316 -0300" channel="537">
+    <title lang="es">Sledge Hammer</title>
+  </programme>
+  <programme start="20260427045636 -0300" stop="20260427054522 -0300" channel="537">
+    <title lang="es">La Isla de la Fantasía</title>
+  </programme>
+  <programme start="20260427054842 -0300" stop="20260427061425 -0300" channel="537">
+    <title lang="es">La Dimensión Desconocida</title>
+  </programme>
+  <programme start="20260427061746 -0300" stop="20260427064220 -0300" channel="537">
+    <title lang="es">El Super Agente 86</title>
+  </programme>
+  <programme start="20260427064541 -0300" stop="20260427073255 -0300" channel="537">
+    <title lang="es">Kojak</title>
+  </programme>
+  <programme start="20260427073615 -0300" stop="20260427075348 -0300" channel="537">
+    <title lang="es">Los Tres Chiflados</title>
+  </programme>
+  <programme start="20260427075348 -0300" stop="20260427080949 -0300" channel="537">
+    <title lang="es">Los Tres Chiflados</title>
+  </programme>
+  <programme start="20260427080949 -0300" stop="20260427082533 -0300" channel="537">
+    <title lang="es">Los Tres Chiflados</title>
+  </programme>
+  <programme start="20260427082854 -0300" stop="20260427083522 -0300" channel="537">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20260427083522 -0300" stop="20260427084251 -0300" channel="537">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20260427084251 -0300" stop="20260427085001 -0300" channel="537">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20260427085001 -0300" stop="20260427085714 -0300" channel="537">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20260427085714 -0300" stop="20260427090409 -0300" channel="537">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20260427090409 -0300" stop="20260427091159 -0300" channel="537">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20260427091159 -0300" stop="20260427091858 -0300" channel="537">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20260427091858 -0300" stop="20260427092537 -0300" channel="537">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20260427092537 -0300" stop="20260427093313 -0300" channel="537">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20260427093313 -0300" stop="20260427094037 -0300" channel="537">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20260427094037 -0300" stop="20260427094712 -0300" channel="537">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20260427094712 -0300" stop="20260427095417 -0300" channel="537">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20260427095417 -0300" stop="20260427100106 -0300" channel="537">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20260427100106 -0300" stop="20260427100826 -0300" channel="537">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20260427100826 -0300" stop="20260427101525 -0300" channel="537">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20260427101525 -0300" stop="20260427102223 -0300" channel="537">
+    <title lang="es">Looney Tunes</title>
+  </programme>
   <programme start="20260426103832 -0300" stop="20260426113832 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
   <programme start="20260426113832 -0300" stop="20260426123832 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260426123832 -0300" stop="20260426133832 -0300" channel="537">
+  <programme start="20260426123832 -0300" stop="20260426124530 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260426133832 -0300" stop="20260426143832 -0300" channel="537">
+  <programme start="20260427102223 -0300" stop="20260427112223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260426143832 -0300" stop="20260426153832 -0300" channel="537">
+  <programme start="20260427112223 -0300" stop="20260427122223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260426153832 -0300" stop="20260426163832 -0300" channel="537">
+  <programme start="20260427122223 -0300" stop="20260427132223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260426163832 -0300" stop="20260426173832 -0300" channel="537">
+  <programme start="20260427132223 -0300" stop="20260427142223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260426173832 -0300" stop="20260426183832 -0300" channel="537">
+  <programme start="20260427142223 -0300" stop="20260427152223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260426183832 -0300" stop="20260426193832 -0300" channel="537">
+  <programme start="20260427152223 -0300" stop="20260427162223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260426193832 -0300" stop="20260426203832 -0300" channel="537">
+  <programme start="20260427162223 -0300" stop="20260427172223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260426203832 -0300" stop="20260426213832 -0300" channel="537">
+  <programme start="20260427172223 -0300" stop="20260427182223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260426213832 -0300" stop="20260426223832 -0300" channel="537">
+  <programme start="20260427182223 -0300" stop="20260427192223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260426223832 -0300" stop="20260426233832 -0300" channel="537">
+  <programme start="20260427192223 -0300" stop="20260427202223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260426233832 -0300" stop="20260427003832 -0300" channel="537">
+  <programme start="20260427202223 -0300" stop="20260427212223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260427003832 -0300" stop="20260427013832 -0300" channel="537">
+  <programme start="20260427212223 -0300" stop="20260427222223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260427013832 -0300" stop="20260427023832 -0300" channel="537">
+  <programme start="20260427222223 -0300" stop="20260427232223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260427023832 -0300" stop="20260427033832 -0300" channel="537">
+  <programme start="20260427232223 -0300" stop="20260428002223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260427033832 -0300" stop="20260427043832 -0300" channel="537">
+  <programme start="20260428002223 -0300" stop="20260428012223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260427043832 -0300" stop="20260427053832 -0300" channel="537">
+  <programme start="20260428012223 -0300" stop="20260428022223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260427053832 -0300" stop="20260427063832 -0300" channel="537">
+  <programme start="20260428022223 -0300" stop="20260428032223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260427063832 -0300" stop="20260427073832 -0300" channel="537">
+  <programme start="20260428032223 -0300" stop="20260428042223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260427073832 -0300" stop="20260427083832 -0300" channel="537">
+  <programme start="20260428042223 -0300" stop="20260428052223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260427083832 -0300" stop="20260427093832 -0300" channel="537">
+  <programme start="20260428052223 -0300" stop="20260428062223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260427093832 -0300" stop="20260427103832 -0300" channel="537">
+  <programme start="20260428062223 -0300" stop="20260428072223 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260427103832 -0300" stop="20260427113832 -0300" channel="537">
+  <programme start="20260428072223 -0300" stop="20260428080402 -0300" channel="537">
     <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260427113832 -0300" stop="20260427123832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260427123832 -0300" stop="20260427133832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260427133832 -0300" stop="20260427143832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260427143832 -0300" stop="20260427153832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260427153832 -0300" stop="20260427163832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260427163832 -0300" stop="20260427173832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260427173832 -0300" stop="20260427183832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260427183832 -0300" stop="20260427193832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260427193832 -0300" stop="20260427203832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260427203832 -0300" stop="20260427213832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260427213832 -0300" stop="20260427223832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260427223832 -0300" stop="20260427233832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260427233832 -0300" stop="20260428003832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260428003832 -0300" stop="20260428013832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260428013832 -0300" stop="20260428023832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260428023832 -0300" stop="20260428033832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260428033832 -0300" stop="20260428043832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260428043832 -0300" stop="20260428053832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260428053832 -0300" stop="20260428063832 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260428063832 -0300" stop="20260428073828 -0300" channel="537">
-    <title lang="es">Animotion</title>
-  </programme>
-  <programme start="20260426070000 -0300" stop="20260426080000 -0300" channel="538">
-    <title lang="es">Programación Musical</title>
   </programme>
   <programme start="20260426080000 -0300" stop="20260426090000 -0300" channel="538">
     <title lang="es">Programación Musical</title>
@@ -11356,10 +11503,10 @@
   <programme start="20260428060000 -0300" stop="20260428070000 -0300" channel="538">
     <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260426073828 -0300" stop="20260426074904 -0300" channel="539">
-    <title lang="es">(1994) - Y Dónde Está El Policía 33 1-3</title>
+  <programme start="20260428070000 -0300" stop="20260428080000 -0300" channel="538">
+    <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260426074904 -0300" stop="20260426095416 -0300" channel="539">
+  <programme start="20260426080402 -0300" stop="20260426095416 -0300" channel="539">
     <title lang="es">(1993) - Papá Por Siempre</title>
   </programme>
   <programme start="20260426113146 -0300" stop="20260426130018 -0300" channel="539">
@@ -11440,7 +11587,7 @@
   <programme start="20260428054650 -0300" stop="20260428071013 -0300" channel="539">
     <title lang="es">(1991) - Destinos Opuestos</title>
   </programme>
-  <programme start="20260428071013 -0300" stop="20260428073828 -0300" channel="539">
+  <programme start="20260428071013 -0300" stop="20260428080402 -0300" channel="539">
     <title lang="es">(2006) - Pequeña Miss Sunshine</title>
   </programme>
   <programme start="20260426095416 -0300" stop="20260426105416 -0300" channel="539">
@@ -11448,9 +11595,6 @@
   </programme>
   <programme start="20260426105416 -0300" stop="20260426113146 -0300" channel="539">
     <title lang="es">Rewind</title>
-  </programme>
-  <programme start="20260426070000 -0300" stop="20260426080000 -0300" channel="567">
-    <title lang="es">MX Classic</title>
   </programme>
   <programme start="20260426080000 -0300" stop="20260426090000 -0300" channel="567">
     <title lang="es">MX Classic</title>
@@ -11593,8 +11737,8 @@
   <programme start="20260428060000 -0300" stop="20260428070000 -0300" channel="567">
     <title lang="es">MX Classic</title>
   </programme>
-  <programme start="20260426070000 -0300" stop="20260426080000 -0300" channel="568">
-    <title lang="es">MX Series</title>
+  <programme start="20260428070000 -0300" stop="20260428080000 -0300" channel="567">
+    <title lang="es">MX Classic</title>
   </programme>
   <programme start="20260426080000 -0300" stop="20260426090000 -0300" channel="568">
     <title lang="es">MX Series</title>
@@ -11737,8 +11881,8 @@
   <programme start="20260428060000 -0300" stop="20260428070000 -0300" channel="568">
     <title lang="es">MX Series</title>
   </programme>
-  <programme start="20260426070000 -0300" stop="20260426080000 -0300" channel="569">
-    <title lang="es">MX Old</title>
+  <programme start="20260428070000 -0300" stop="20260428080000 -0300" channel="568">
+    <title lang="es">MX Series</title>
   </programme>
   <programme start="20260426080000 -0300" stop="20260426090000 -0300" channel="569">
     <title lang="es">MX Old</title>
@@ -11881,8 +12025,8 @@
   <programme start="20260428060000 -0300" stop="20260428070000 -0300" channel="569">
     <title lang="es">MX Old</title>
   </programme>
-  <programme start="20260426070000 -0300" stop="20260426080000 -0300" channel="581">
-    <title lang="es">Zoom back</title>
+  <programme start="20260428070000 -0300" stop="20260428080000 -0300" channel="569">
+    <title lang="es">MX Old</title>
   </programme>
   <programme start="20260426080000 -0300" stop="20260426090000 -0300" channel="581">
     <title lang="es">Zoom back</title>
@@ -12025,8 +12169,8 @@
   <programme start="20260428060000 -0300" stop="20260428070000 -0300" channel="581">
     <title lang="es">Zoom back</title>
   </programme>
-  <programme start="20260426070000 -0300" stop="20260426080000 -0300" channel="608">
-    <title lang="es">Sin información</title>
+  <programme start="20260428070000 -0300" stop="20260428080000 -0300" channel="581">
+    <title lang="es">Zoom back</title>
   </programme>
   <programme start="20260426080000 -0300" stop="20260426090000 -0300" channel="608">
     <title lang="es">Sin información</title>
@@ -12169,10 +12313,10 @@
   <programme start="20260428060000 -0300" stop="20260428070000 -0300" channel="608">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260426073828 -0300" stop="20260426080000 -0300" channel="663">
-    <title lang="es">Cine del Oeste</title>
+  <programme start="20260428070000 -0300" stop="20260428080000 -0300" channel="608">
+    <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260426080000 -0300" stop="20260426120000 -0300" channel="663">
+  <programme start="20260426080402 -0300" stop="20260426120000 -0300" channel="663">
     <title lang="es">Matiné del Oeste</title>
   </programme>
   <programme start="20260426120000 -0300" stop="20260426170000 -0300" channel="663">
@@ -12223,13 +12367,13 @@
   <programme start="20260428060000 -0300" stop="20260428070000 -0300" channel="663">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260428070000 -0300" stop="20260428073828 -0300" channel="663">
+  <programme start="20260428070000 -0300" stop="20260428080000 -0300" channel="663">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260426073828 -0300" stop="20260426080000 -0300" channel="664">
-    <title lang="es">Maratón Retro</title>
+  <programme start="20260428080000 -0300" stop="20260428080402 -0300" channel="663">
+    <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260426080000 -0300" stop="20260426120000 -0300" channel="664">
+  <programme start="20260426080402 -0300" stop="20260426120000 -0300" channel="664">
     <title lang="es">Retro Matiné</title>
   </programme>
   <programme start="20260426120000 -0300" stop="20260426170000 -0300" channel="664">
@@ -12283,7 +12427,10 @@
   <programme start="20260428060000 -0300" stop="20260428070000 -0300" channel="664">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260428070000 -0300" stop="20260428073828 -0300" channel="664">
+  <programme start="20260428070000 -0300" stop="20260428080000 -0300" channel="664">
+    <title lang="es">Sin información</title>
+  </programme>
+  <programme start="20260428080000 -0300" stop="20260428080402 -0300" channel="664">
     <title lang="es">Sin información</title>
   </programme>
   <programme start="20260426102300 -0300" stop="20260426112300 -0300" channel="66a11a21a79dea0008aa90ca">
@@ -15145,6 +15292,22 @@
   <programme start="20260426155705 -0300" stop="20260426180441 -0300" channel="ES2600013H4">
     <title lang="es">El Forastero (The Outsider)</title>
     <desc lang="es">Montana, finales del siglo XIX. El poderoso ganadero Fergus Hunter hace y deshace a su antojo en el condado. Decidido a comprar las tierras de unos colonos Amish pasará de la extorsión al asesinato.</desc>
+  </programme>
+  <programme start="20260426102331 -0300" stop="20260426122857 -0300" channel="ESBC40000248">
+    <title lang="es">Camp Hell Spanish Dub</title>
+    <desc lang="es">Al final de cada verano, los niños de una comunidad cristiana de Nueva Jersey asisten a Camp Hope. Juntos viajan a lo profundo del bosque, lejos de cualquier distracción mundana. Aquí a los niños se les enseñan los caminos del Señor, los peligros de la carne y se asustan con los cuentos del diablo.</desc>
+  </programme>
+  <programme start="20260426122857 -0300" stop="20260426142927 -0300" channel="ESBC40000248">
+    <title lang="es">Chances</title>
+    <desc lang="es">A young lovestruck couple in Nevada find themselves in a troublesome situation when their spotted pasts are revealed through a mistaken online identity.</desc>
+  </programme>
+  <programme start="20260426142927 -0300" stop="20260426161143 -0300" channel="ESBC40000248">
+    <title lang="es">Los misterios de Fixer Upper</title>
+    <desc lang="es">Shannon es la encargada de restaurar una mansión victoriana. Las renovaciones van perfectamente hasta que el jefe del banco local es encontrado muerto.</desc>
+  </programme>
+  <programme start="20260426161143 -0300" stop="20260426180321 -0300" channel="ESBC40000248">
+    <title lang="es">Circle Spanish Dub</title>
+    <desc lang="es">En este emocionante thriller, el FBI se une a los alguaciles estadounidenses en la búsqueda de un sociópata fugitivo, James Bennett, después de que comete una serie de asesinatos meticulosamente planeados. Para complicar aún más las cosas, se enteran de que Bennet se dirige a la casa de su infancia, donde un grupo de estudiantes graduados estudian su entorno para escribir su tesis.</desc>
   </programme>
   <programme start="20260426110000 -0300" stop="20260426113000 -0300" channel="US3000005RS">
     <title lang="es">Las noticias de la semana AHORA</title>
@@ -19893,6 +20056,234 @@
   <programme start="20260428214100 -0300" stop="20260429001700 -0300" channel="M+.Estrenos.es">
     <title lang="es">Corazones rotos</title>
     <desc lang="es">El actor, guionista y director francés Gilles Lellouche (&quot;El gran baño&quot;) dirige y coescribe esta mezcla de drama romántico y &#x27;thriller&#x27; criminal presentada en el Festival de Cannes de 2024.</desc>
+  </programme>
+  <programme start="20260425013700 -0300" stop="20260425030000 -0300" channel="M+.Acción.es">
+    <title lang="es">The Purge: La noche de las bestias</title>
+    <desc lang="es">EE.UU., año 2022. La sociedad es próspera, la tasa de paro es prácticamente nula y el índice de delincuencia es el menor de todos los tiempos. Esta época de bonanza y bienestar social tiene su origen en la instauración de &#x27;La purga&#x27; según la cual una noche al año se permite cualquier actividad criminal... incluso el asesinato. La familia Sandin, tras prestar auxilio a un hombre que huye de unos atacantes, verá cómo este año &#x27;La purga&#x27; se introduce en su casa y amenaza sus propias vidas.</desc>
+  </programme>
+  <programme start="20260425030000 -0300" stop="20260425050300 -0300" channel="M+.Acción.es">
+    <title lang="es">Asesinato en 8 mm</title>
+    <desc lang="es">El director Joel Schumacher, nominado al Oso de oro en el Festival de Berlín por esta cinta, hace un retrato del ser humano a través de sus miedos e inseguridades. Protagonizada por Nicolas Cage, la película cuenta también con las interpretaciones de Joaquin Phoenix -que da vida a Max-, James Gandolfini, Anthony Helad, Chris Bauer y Catherine Keener.</desc>
+  </programme>
+  <programme start="20260425050300 -0300" stop="20260425070000 -0300" channel="M+.Acción.es">
+    <title lang="es">Última noche en el Soho</title>
+    <desc lang="es">Edgar Wright (&quot;Baby Driver&quot;) firma el &#x27;thriller&#x27; psicológico más colorido y fascinante de 2021, con unas entregadísimas Thomasin McKenzie (&quot;Jojo Rabbit&quot;) y Anya Taylor-Joy sumidas en una espiral de viajes temporales, luces de neón, sangre y glamur. En definitiva, &quot;cine que mola, y además mucho&quot; (&quot;El Mundo&quot;).</desc>
+  </programme>
+  <programme start="20260425070000 -0300" stop="20260425084800 -0300" channel="M+.Acción.es">
+    <title lang="es">El último Boy Scout</title>
+    <desc lang="es">Joe Hallenbeck, un exagente de los Servicios Secretos de Estados Unidos que ahora trabaja como detective privado, recibe un trabajo: encargarse de la protección de Cory, una conocida &#x27;stripper&#x27; de la ciudad.</desc>
+  </programme>
+  <programme start="20260425084800 -0300" stop="20260425111400 -0300" channel="M+.Acción.es">
+    <title lang="es">Minority Report</title>
+    <desc lang="es">En el año 2054 el crimen ha sido erradicado en Washington, D.C. El futuro se puede predecir y los culpables son condenados antes de que cometan su delito gracias a la unidad de elite de Pre-Crimen.</desc>
+  </programme>
+  <programme start="20260425111400 -0300" stop="20260425132000 -0300" channel="M+.Acción.es">
+    <title lang="es">El especialista</title>
+    <desc lang="es">El director que comenzó su carrera en Hollywood como doble de acción de Brad Pitt en &quot;El club de la lucha&quot;, David Leitch (&quot;Bullet Train&quot;), dirige esta comedia de acción, inspirada en sus propias experiencias, en la que Ryan Gosling interpreta a una de esas personas a las que pagan por encajar los golpes de otros: los especialistas.</desc>
+  </programme>
+  <programme start="20260425132000 -0300" stop="20260425151000 -0300" channel="M+.Acción.es">
+    <title lang="es">Asalto al distrito 13</title>
+    <desc lang="es">Ethan Hawke, Laurence Fishburne, Gabriel Byrne, Maria Bello, Drea de Matteo, John Leguizamo y Brian Dennehy encabezan el reparto de este &#x27;thriller&#x27; policíaco, &#x27;remake&#x27; de &quot;Asalto a la comisaría del distrito 13&quot; (John Carpenter, 1976).</desc>
+  </programme>
+  <programme start="20260425151000 -0300" stop="20260425170000 -0300" channel="M+.Acción.es">
+    <title lang="es">Asalto al tren Pelham 1 2 3</title>
+    <desc lang="es">Walter Garber supervisor del Metro de Nueva York, tiene que afrontar el caos provocado por el secuestro de un vagón por una banda armada. La banda amenaza con ejecutar a los pasajeros si, en el plazo de una hora, no se les paga un alto rescate. Garber utiliza sus conocimientos del sistema subterráneo para intentar salvar a los rehenes.</desc>
+  </programme>
+  <programme start="20260425170000 -0300" stop="20260425194500 -0300" channel="M+.Acción.es">
+    <title lang="es">Django desencadenado</title>
+    <desc lang="es">El esclavo Django, bajo la promesa de ganarse la libertad, se une al doctor King Schultz, un cazarrecompensas, para capturar a los criminales más buscados  del sur de Estados Unidos: los hermanos Brittle.</desc>
+  </programme>
+  <programme start="20260425194500 -0300" stop="20260425194800 -0300" channel="M+.Acción.es">
+    <title lang="es">Por cien millones</title>
+    <desc lang="es">Los protagonistas y el director de ‘Por cien millones’ hablan del tono y explican cómo abordan la realidad de lo que ocurrió, desde el respeto, dando como resultado una serie que cabalga entre el drama y la comedia.</desc>
+  </programme>
+  <programme start="20260425194800 -0300" stop="20260425212300 -0300" channel="M+.Acción.es">
+    <title lang="es">Mad Max, salvajes de autopista</title>
+    <desc lang="es">En un futuro cercano, en una Australia postapocalíptica, la sociedad se encuentra en una decadencia total y las bandas callejeras son las que imponen su ley, mientras un escuadrón policial intenta contener a los cada vez más numerosos grupos armados que atacan las carreteras.</desc>
+  </programme>
+  <programme start="20260425212300 -0300" stop="20260425225900 -0300" channel="M+.Acción.es">
+    <title lang="es">Mad Max II: El guerrero de la carretera</title>
+    <desc lang="es">Max, un héroe solitario, exoficial de la Patrulla Central de Carretera, viaja por el despoblado interior de Australia en una interminable búsqueda de gasolina, el bien más escaso y codiciado de este mundo postapocalíptico. También van tras ella los violentos guerreros de Humungus, cuyo lema es &quot;¿para qué tomar prisioneros si se les puede eliminar?&quot;.</desc>
+  </programme>
+  <programme start="20260425225900 -0300" stop="20260425230400 -0300" channel="M+.Acción.es">
+    <title lang="es">Por cien millones</title>
+    <desc lang="es">El director Nacho G. Velilla y los tres actores que interpretan a los secuestradores explican cómo son esos personajes y el rol de cada uno de ellos: el cerebro, interpretado por Raúl Arévalo; el manitas, a quien da vida Vito Sanz; y el torpe, Gabriel Guevara.</desc>
+  </programme>
+  <programme start="20260425230400 -0300" stop="20260426012900 -0300" channel="M+.Acción.es">
+    <title lang="es">Origen</title>
+    <desc lang="es">Dom Cobb es un ladrón hábil, el mejor de todos, un experto en el arte de apropiarse, durante el estado de sueño, de los secretos del subconsciente ajeno. Esta habilidad excepcional lo ha hecho subir su cotización en el traicionero mundo del espionaje corporativo, pero, al mismo tiempo, lo ha convertido en un fugitivo internacional y le ha obligado a sacrificar todo lo que le importaba. Ahora, a Cobb se le ofrece una oportunidad para redimirse, pero solamente si logra lo imposible: la tarea no consiste en robar una idea, sino en insertarla.</desc>
+  </programme>
+  <programme start="20260426012900 -0300" stop="20260426025400 -0300" channel="M+.Acción.es">
+    <title lang="es">Maniac Cop</title>
+    <desc lang="es">Un maníaco asesino comienza a asesinar policías en Nueva York. El principal sospechoso es Jack Forrest, un agente del cuerpo con fama de ser problemático. Sin embargo, cuando su superior, el teniente McCrae, es encontrado muerto, Jack decide ocuparse del caso. Para ello cuenta con la ayuda de su novia y de otro agente que trabaja de incógnito. Entre tanto, alguien sigue asesinando a policías.</desc>
+  </programme>
+  <programme start="20260426025400 -0300" stop="20260426030000 -0300" channel="M+.Acción.es">
+    <title lang="es">Los Tigres</title>
+    <desc lang="es">El equipo técnico de &#x27;Los Tigres&#x27; nos explica la complejidad de una película como esta, rodada en el polo químico de Huelva y con elementos de thriller, drama social y película de aventuras submarinas, a las órdenes del siempre exigente director Alberto Rodríguez.</desc>
+  </programme>
+  <programme start="20260426030000 -0300" stop="20260426044000 -0300" channel="M+.Acción.es">
+    <title lang="es">Kung Fu sion</title>
+    <desc lang="es">Ambientada en el caos de la China prerrevolucionaria, un ladrón de poca monta, Sing (Stephen Chow), aspira a ser uno de los crueles y sofisticados miembros de la Banda del Hacha cuyas actividades ilegales ensombrecen la ciudad.</desc>
+  </programme>
+  <programme start="20260426044000 -0300" stop="20260426045500 -0300" channel="M+.Acción.es">
+    <title lang="es">El canto de un gorrión</title>
+    <desc lang="es">Ganador del Oscar Estudiantil de Oro 2025 en la categoria de mejor cortometraje de animación.</desc>
+  </programme>
+  <programme start="20260426045500 -0300" stop="20260426065700 -0300" channel="M+.Acción.es">
+    <title lang="es">Liga de la Justicia</title>
+    <desc lang="es">Impulsado por su restaurada fe en la humanidad e inspirado por el acto desinteresado de Superman, Bruce Wayne recluta a su nueva aliada, Diana Prince, para enfrentarse a un enemigo aún mayor.</desc>
+  </programme>
+  <programme start="20260426065700 -0300" stop="20260426084700 -0300" channel="M+.Acción.es">
+    <title lang="es">Venom: el último baile</title>
+    <desc lang="es">Tom Hardy da vida por tercera vez al periodista venido a menos Eddie Brock (y a su simbionte) en esta entrega final del &#x27;spin off&#x27; de Spider-Man del Universo propio concebido por Sony Pictures con los personajes más conocidos del Hombre Araña.</desc>
+  </programme>
+  <programme start="20260426084700 -0300" stop="20260426104800 -0300" channel="M+.Acción.es">
+    <title lang="es">El caso Bourne</title>
+    <desc lang="es">Matt Damon da vida por primera vez al agente Jason Bourne en esta primera entrega de la saga de espías que adapta a la gran pantalla los libros del autor estadounidense de novela negra Robert Ludlum.</desc>
+  </programme>
+  <programme start="20260426104800 -0300" stop="20260426123800 -0300" channel="M+.Acción.es">
+    <title lang="es">El mito de Bourne</title>
+    <desc lang="es">Más acción, intriga, persecuciones y suspense en esta segunda entrega de la saga de espías protagonizada por el agente de élite Jason Bourne, al que volvía a dar vida Matt Damon.</desc>
+  </programme>
+  <programme start="20260426123800 -0300" stop="20260426143500 -0300" channel="M+.Acción.es">
+    <title lang="es">El ultimátum de Bourne</title>
+    <desc lang="es">Tras años intentando descubrir la verdad sobre su olvidada identidad como agente secreto, Jason Bourne lee en un periódico inglés un artículo que habla sobre él. Sabiendo que ésta puede ser la clave definitiva para destapar el secreto de su pasado, decide ponerse en contacto con el redactor de la noticia.</desc>
+  </programme>
+  <programme start="20260426143500 -0300" stop="20260426165000 -0300" channel="M+.Acción.es">
+    <title lang="es">El legado de Bourne</title>
+    <desc lang="es">Jeremy Renner da vida al protagonista de este &#x27;spin off&#x27; de la saga Bourne, una cinta que presenta a un nuevo héroe y descubre que hay varios programas de inteligencia y que Treadstone, de la CIA, era simplemente uno de los primeros.</desc>
+  </programme>
+  <programme start="20260426165000 -0300" stop="20260426170000 -0300" channel="M+.Acción.es">
+    <title lang="es">Grano</title>
+    <desc lang="es">Premio del Público al mejor cortometraje en el Festival de Cine Fantástico y de Terror de San Sebastián 2025.</desc>
+  </programme>
+  <programme start="20260426170000 -0300" stop="20260426190500 -0300" channel="M+.Acción.es">
+    <title lang="es">Jason Bourne</title>
+    <desc lang="es">Quinta entrega de la saga de películas protagonizadas por el agente de élite de la CIA Jason Bourne, personaje de ficción creado por el autor estadounidense de novela negra Robert Ludlum. Cronológicamente, la película es secuela directa de &quot;El ultimátum de Bourne&quot; (2007), ya que la película de 2012 &quot;El legado de Bourne&quot; era un &#x27;spin off&#x27; en el que no salía el desmemoriado agente secreto.</desc>
+  </programme>
+  <programme start="20260426190500 -0300" stop="20260426205000 -0300" channel="M+.Acción.es">
+    <title lang="es">Mad Max, más allá de la cúpula del trueno</title>
+    <desc lang="es">Mientras busca al ladrón que lo asaltó en el desierto y le robó su caravana de camellos, Max Rockatansky llega a Negociudad, un enclave gobernado por la cruel Tía Ama. El corazón de esta extraña ciudad es la Cúpula del Trueno, una especie de circo donde se resuelven las diferencias entre ciudadanos y que sirve como divertimento de la población. El código por el que se rigen los combates es sólo uno: dos hombres entran, uno sale.</desc>
+  </programme>
+  <programme start="20260426205000 -0300" stop="20260426224900 -0300" channel="M+.Acción.es">
+    <title lang="es">Mad Max: Furia en la carretera</title>
+    <desc lang="es">Tras la guerra termonuclear que ha convertido a la Tierra en un páramo, el antiguo policía Max Rockatansky, atormentado por los espíritus de aquellos a los que no pudo proteger, se ha convertido en un hombre con un solo instinto: sobrevivir.</desc>
+  </programme>
+  <programme start="20260426224900 -0300" stop="20260427002000 -0300" channel="M+.Acción.es">
+    <title lang="es">Noche de bodas</title>
+    <desc lang="es">Grace acaba de casarse con Alex Le Domas, hijo de una riquísima familia con una tradición bastante original: la noche de bodas, a las 12 en punto, el nuevo miembro de la familia debe participar en un juego.</desc>
+  </programme>
+  <programme start="20260427002000 -0300" stop="20260427015800 -0300" channel="M+.Acción.es">
+    <title lang="es">Razas de noche</title>
+    <desc lang="es">Aaron Boone es un joven atormentado por pesadillas que le trasladan a una ciudad de monstruos y criaturas infernales. En busca de respuestas y tras sufrir algún que otro infortunio, Boone descubre que este lugar, llamado Midian, en realidad existe. Se trata de un terrorífico universo subterráneo con marginadas y ocultas criaturas. No obstante, el joven se sorprenderá del tipo de relación que acabará manteniendo con estos peculiares seres.</desc>
+  </programme>
+  <programme start="20260427015800 -0300" stop="20260427032300 -0300" channel="M+.Acción.es">
+    <title lang="es">Vista virtual</title>
+    <desc lang="es">Basada en el cortometraje &quot;SIGHT&quot; de 2021, este drama de ciencia ficción describe un mundo donde las lentes de contacto inteligentes que ha hechos que hasta las interacciones sociales estén controladas por la tecnología.</desc>
+  </programme>
+  <programme start="20260427032300 -0300" stop="20260427051800 -0300" channel="M+.Acción.es">
+    <title lang="es">Los inmortales</title>
+    <desc lang="es">Connor MacLeod pertenece a una raza de hombres inmortales condenados a batirse en duelo hasta que sólo quede uno. Nacido en las Highlands escocesas en 1518, MacLeod vive ahora en Nueva York.</desc>
+  </programme>
+  <programme start="20260427051800 -0300" stop="20260427073500 -0300" channel="M+.Acción.es">
+    <title lang="es">Enemigos públicos</title>
+    <desc lang="es">Johnny Depp protagoniza esta cinta de cine negro, con la estética y el tratamiento de personajes del director Michael Mann, que narra la historia del legendario bandido de la época de la Gran Depresión John Dillinger, quien se convirtió en el objetivo número uno del incipiente FBI de J. Edgar Hoover y de su mejor agente, Melvin Purvis.</desc>
+  </programme>
+  <programme start="20260427073500 -0300" stop="20260427093000 -0300" channel="M+.Acción.es">
+    <title lang="es">London Calling</title>
+    <desc lang="es">Protagonizada por Josh Duhamel y Jeremy Ray Taylor, esta historia llena de acción y comedia sigue a Tommy Ward, un sicario desafortunado que, tras un trabajo fallido, se ve forzado a huir del Reino Unido. En su nueva vida, termina bajo las órdenes de un jefe criminal que le asigna una tarea inesperada: cuidar y guiar a su hijo Julian. Lo que comienza como una relación llena de tensiones y malentendidos evoluciona hacia una dinámica caótica pero entrañable.</desc>
+  </programme>
+  <programme start="20260427093000 -0300" stop="20260427110400 -0300" channel="M+.Acción.es">
+    <title lang="es">Blindado</title>
+    <desc lang="es">Bill Skarsgård (&quot;It&quot;) interpreta a un ladrón que cae en su propia trampa en este &#x27;remake&#x27; del asfixiante &#x27;thriller&#x27; de Mariano Cohn &quot;4x4&quot;.</desc>
+  </programme>
+  <programme start="20260427110400 -0300" stop="20260427131200 -0300" channel="M+.Acción.es">
+    <title lang="es">The Game</title>
+    <desc lang="es">Un millonario obsesionado por el orden y el control de su rutinaria vida se dispone a celebrar su cumpleaños. Ese mismo día, su hermano le ofrece un regalo muy especial: un juego con el que podrá olvidar la monotonía en la que está inmerso. A partir de entonces, todo degenera en un confuso caos.</desc>
+  </programme>
+  <programme start="20260427131200 -0300" stop="20260427145100 -0300" channel="M+.Acción.es">
+    <title lang="es">Hero de Zhang Yimou</title>
+    <desc lang="es">Entre los años 481 y 221 a.C., China se encuentra dividida en siete reinos y la población lleva décadas de muerte y sufrimiento por culpa de las guerras entre los diferentes territorios. El rey de Qin, obsesionado con conquistar toda China y convertirse en el primer emperador, ha sido el blanco de muchos intentos de asesinato: Espada Rota, Nieve y Cielo han sido los que más se han acercado a lograrlo. Aislado frente a las amenazas, el Rey promete gran poder y audiencia privada a quien derrote a los tres guerreros.</desc>
+  </programme>
+  <programme start="20260427145100 -0300" stop="20260427170000 -0300" channel="M+.Acción.es">
+    <title lang="es">Conan, el bárbaro</title>
+    <desc lang="es">En una oscura época dominada por el poder de la espada y la brujería, los secuaces de Thulsa Doom, líder de un cruel ejército de guerreros que domina Aquilonia, entran en una aldea de Cimmeria asesinando a todos sus habitantes, excepto a los niños, que son hechos prisioneros. Uno de ellos, Conan, contempla con sus propios ojos como Thulsa Doom mata a sus padres.</desc>
+  </programme>
+  <programme start="20260427170000 -0300" stop="20260427185500 -0300" channel="M+.Acción.es">
+    <title lang="es">Passengers</title>
+    <desc lang="es">La nave estelar Avalon, en viaje de 120 años hacia el planeta colonia de Homestead II, navega en piloto automático con 5.000 pasajeros y 258 tripulantes  en estado de hibernación. James Preston, uno de los pasajeros, despierta del letargo forzado.</desc>
+  </programme>
+  <programme start="20260427185500 -0300" stop="20260427190200 -0300" channel="M+.Acción.es">
+    <title lang="es">Por cien millones</title>
+    <desc lang="es">Los protagonistas y el director de la serie explican los motivos por los cuales recomiendan ver &quot;‘Por cien millones&quot;.</desc>
+  </programme>
+  <programme start="20260427190200 -0300" stop="20260427211600 -0300" channel="M+.Acción.es">
+    <title lang="es">Terminator 2: El juicio final</title>
+    <desc lang="es">Sarah Connor está internada en un psiquiátrico por sus advertencias sobre el negro futuro de la humanidad. Mientras, su hijo John ha quedado al cuidado del Estado. Desde el futuro, las máquinas envían un nuevo Terminator para eliminar a John Connor antes de que se convierta en el líder de la resistencia.</desc>
+  </programme>
+  <programme start="20260427211600 -0300" stop="20260427230300 -0300" channel="M+.Acción.es">
+    <title lang="es">Sé lo que hicisteis el último verano</title>
+    <desc lang="es">Primera entrega de esta segunda trilogía rejuvenecida de la clásica saga terror homónima de la década de 1990, basada en la novela de Lois Duncan.</desc>
+  </programme>
+  <programme start="20260427230300 -0300" stop="20260428003600 -0300" channel="M+.Acción.es">
+    <title lang="es">Cosecha sangrienta</title>
+    <desc lang="es">Un payaso homicida (o más), adolescentes asesinados al más puro estilo &#x27;slasher&#x27;, un campo de maíz, una fábrica abandonada, un pequeño pueblo perdido en mitad de la nada... ¿qué más se puede pedir? Solo un sofá y unas palomitas.</desc>
+  </programme>
+  <programme start="20260428003600 -0300" stop="20260428023300 -0300" channel="M+.Acción.es">
+    <title lang="es">El Desafío. The Walk</title>
+    <desc lang="es">París, 1973. El joven Philippe Petit, autoproclamado equilibrista, se gana la vida actuando en la calle, siempre en busca del lugar perfecto para tender su cable. Cuando en una revista encuentra una fotografía de las Torres Gemelas del World Trade Center -aún no acabadas-, las convierte en su máximo sueño de funambulista.</desc>
+  </programme>
+  <programme start="20260428023300 -0300" stop="20260428030000 -0300" channel="M+.Acción.es">
+    <title lang="es">Por cien millones</title>
+    <desc lang="es">El director, los protagonistas y el equipo de la serie explican cómo surgió la idea, los desafíos a la hora de abordar una historia basada en hechos reales, y los detalles de la producción de &quot;Por cien millones&quot;.</desc>
+  </programme>
+  <programme start="20260428030000 -0300" stop="20260428045000 -0300" channel="M+.Acción.es">
+    <title lang="es">Partisanos</title>
+    <desc lang="es">Un trepidante &#x27;thriller&#x27; de espionaje, basado en hechos reales, ambientado durante la ocupación nazi de Polonia en la Segunda Guerra Mundial. Krystyna Skarbek, una valiente espía polaca al servicio de los británicos se infiltra en territorio enemigo para realizar misiones clandestinas que podrían cambiar el rumbo de la guerra.</desc>
+  </programme>
+  <programme start="20260428045000 -0300" stop="20260428061500 -0300" channel="M+.Acción.es">
+    <title lang="es">Mamá y papá</title>
+    <desc lang="es">Una mañana, una madre abandona su coche sobre las vías del tren con la sillita de su hijo (y su hijo) dentro. Poco después, la familia de la adolescente Carly escucha la noticia del atropello del niño mientras comparte un típicamente tenso desayuno familiar.</desc>
+  </programme>
+  <programme start="20260428061500 -0300" stop="20260428071500 -0300" channel="M+.Acción.es">
+    <title lang="es">Nicolas Cage: el genio de Hollywood</title>
+    <desc lang="es">Nicolas Cage es uno de los actores más icónicos y versátiles de Hollywood. Este documental ofrece un retrato íntimo del intérprete, mostrando los obstáculos que ha superado a lo largo de su arriesgada e impredecible carrera.</desc>
+  </programme>
+  <programme start="20260428071500 -0300" stop="20260428085000 -0300" channel="M+.Acción.es">
+    <title lang="es">Gravity</title>
+    <desc lang="es">La doctora Ryan Stone, una brillante ingeniera especializada en medicina, realiza su primera misión en un transbordador acompañada por el veterano astronauta Matt Kowalsky, al mando de su último vuelo antes de retirarse. En un paseo espacial, aparentemente de rutina, se desencadena el desastre: su transbordador queda destruido, dejando a Stone y a Kowalsky completamente solos, unidos el uno al otro y dando vueltas en la oscuridad.</desc>
+  </programme>
+  <programme start="20260428085000 -0300" stop="20260428113500 -0300" channel="M+.Acción.es">
+    <title lang="es">Django desencadenado</title>
+    <desc lang="es">El esclavo Django, bajo la promesa de ganarse la libertad, se une al doctor King Schultz, un cazarrecompensas, para capturar a los criminales más buscados  del sur de Estados Unidos: los hermanos Brittle.</desc>
+  </programme>
+  <programme start="20260428113500 -0300" stop="20260428140500 -0300" channel="M+.Acción.es">
+    <title lang="es">Origen</title>
+    <desc lang="es">Dom Cobb es un ladrón hábil, el mejor de todos, un experto en el arte de apropiarse, durante el estado de sueño, de los secretos del subconsciente ajeno. Esta habilidad excepcional lo ha hecho subir su cotización en el traicionero mundo del espionaje corporativo, pero, al mismo tiempo, lo ha convertido en un fugitivo internacional y le ha obligado a sacrificar todo lo que le importaba. Ahora, a Cobb se le ofrece una oportunidad para redimirse, pero solamente si logra lo imposible: la tarea no consiste en robar una idea, sino en insertarla.</desc>
+  </programme>
+  <programme start="20260428140500 -0300" stop="20260428164000 -0300" channel="M+.Acción.es">
+    <title lang="es">Dune</title>
+    <desc lang="es">La historia de Paul Atreides, un joven brillante que ha nacido con un destino más grande que él mismo. En esta epopeya, deberá viajar al planeta más peligroso del universo para asegurar el futuro de su familia y de su gente.</desc>
+  </programme>
+  <programme start="20260428164000 -0300" stop="20260428170000 -0300" channel="M+.Acción.es">
+    <title lang="es">Panahi: el cineasta liberado</title>
+    <desc lang="es">Ante el estreno de “Un simple accidente” en M+, y tras llevarse la Palma de Oro a la mejor película en la última edición del Festival de Cannes, el cineasta iraní conversa con Cristina Teva profundizando en su cine y en todas las dificultades a las que se enfrenta en su país para poder rodar. En una charla desde el Festival de San Sebastián, Panahi nos cuenta el impacto de su encarcelación en su trabajo, mientras recordamos otros títulos del director con los que ha obtenido gran reconocimiento en todos los festivales internacionales de cine en los que ha participado.</desc>
+  </programme>
+  <programme start="20260428170000 -0300" stop="20260428190100 -0300" channel="M+.Acción.es">
+    <title lang="es">Venganza bajo cero</title>
+    <desc lang="es">Nels Coxman, un tranquilo hombre de familia, responsable de mantener libres de nieve las carreteras del turístico pueblo de Kehoe (Colorado), debe identificar el cuerpo de su hijo, que ha sido encontrado muerto por sobredosis de heroína.</desc>
+  </programme>
+  <programme start="20260428190100 -0300" stop="20260428210600 -0300" channel="M+.Acción.es">
+    <title lang="es">El especialista</title>
+    <desc lang="es">El director que comenzó su carrera en Hollywood como doble de acción de Brad Pitt en &quot;El club de la lucha&quot;, David Leitch (&quot;Bullet Train&quot;), dirige esta comedia de acción, inspirada en sus propias experiencias, en la que Ryan Gosling interpreta a una de esas personas a las que pagan por encajar los golpes de otros: los especialistas.</desc>
+  </programme>
+  <programme start="20260428210600 -0300" stop="20260428223600 -0300" channel="M+.Acción.es">
+    <title lang="es">Contacto sangriento</title>
+    <desc lang="es">Frank es un soldado americano que trabaja eventualmente para la CIA y que se ve involucrado en un torneo de &quot;kumite&quot; en Hong Kong. Se trata de una competición ilegal de `kickboxing´ pero con la particularidad de que los luchadores combaten a muerte. Frank, que ha sido instruido por el japonés Tanaka desde que era adolescente, está deseando combatir para honrar a su maestro.</desc>
+  </programme>
+  <programme start="20260428223600 -0300" stop="20260429001600 -0300" channel="M+.Acción.es">
+    <title lang="es">Fight or Flight</title>
+    <desc lang="es">Josh Hartnett (&quot;La trampa&quot;) interpreta a un sicario atrapado en un vuelo repleto de sicarios, turbulencias y violencia en este desternillante &#x27;thriller&#x27; de acción al estilo de &quot;Bullet Train&quot;.</desc>
   </programme>
   <programme start="20260424190900 -0300" stop="20260424203800 -0300" channel="Be.Mad.es">
     <title lang="es">Bobby Z</title>

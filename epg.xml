@@ -157,6 +157,15 @@
   <channel id="0851">
     <display-name>Film and Arts • Feed 1</display-name>
   </channel>
+  <channel id="0432">
+    <display-name>DSports 2 • América Latina</display-name>
+  </channel>
+  <channel id="0433">
+    <display-name>DSports Plus • América Latina</display-name>
+  </channel>
+  <channel id="0927">
+    <display-name>DeporTV • Argentina</display-name>
+  </channel>
   <channel id="504">
     <display-name>FMH Movies</display-name>
   </channel>
@@ -19633,10 +19642,755 @@
     <title lang="es">Film and Arts</title>
     <desc lang="es">La información de este programa no se encuentra disponible.</desc>
   </programme>
-  <programme start="20260503192811 -0300" stop="20260503203334 -0300" channel="504">
-    <title lang="es">Jack Reacher</title>
+  <programme start="20260503010000 -0300" stop="20260503013000 -0300" channel="0432">
+    <title lang="es">DSports 2</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
   </programme>
-  <programme start="20260503203515 -0300" stop="20260503222543 -0300" channel="504">
+  <programme start="20260503013000 -0300" stop="20260503060000 -0300" channel="0432">
+    <title lang="es">PFL • PFL Belfast</title>
+    <desc lang="es">PFL Belfast ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503060000 -0300" stop="20260503070000 -0300" channel="0432">
+    <title lang="es">UAE Tour Men</title>
+    <desc lang="es">Lo mejor de la octava edición del UAE Tour, única carrera del UCI WorldTour en Oriente Medio. El recorrido lo integran siete etapas: dos totalmente llanas, dos con presencia de dunas y pequeñas subidas, una contrarreloj individual de 12 kilómetros y las dos llegadas en alto a Jebel Hafeet y Jebel Mobrah.</desc>
+  </programme>
+  <programme start="20260503070000 -0300" stop="20260503071500 -0300" channel="0432">
+    <title lang="es">Filler - Euroliga • Justin Anderson</title>
+    <desc lang="es">Justin Anderson ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503071500 -0300" stop="20260503084500 -0300" channel="0432">
+    <title lang="es">World Aquatics Diving World Cup • Beijing Super Final: Men&#x27;s 10m Platform</title>
+    <desc lang="es">Beijing Super Final: Men&#x27;s 10m Platform ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503084500 -0300" stop="20260503090000 -0300" channel="0432">
+    <title lang="es">Todo en 15 • LSB - Ferro campeón</title>
+    <desc lang="es">LSB - Ferro campeón ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503090000 -0300" stop="20260503110000 -0300" channel="0432">
+    <title lang="es">UCI Mountain Bike World Series • South Korea: Day</title>
+    <desc lang="es">South Korea: Day ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503110000 -0300" stop="20260503120000 -0300" channel="0432">
+    <title lang="es">Paris-Roubaix</title>
+    <desc lang="es">Vive las emociones de la edición número 123 de esta competencia de ciclismo de ruta profesional que, en esta ocasión, comprende una distancia total de 258,3 kilómetros.</desc>
+  </programme>
+  <programme start="20260503120000 -0300" stop="20260503123000 -0300" channel="0432">
+    <title lang="es">Strade Bianche Women</title>
+    <desc lang="es">Vive lo más emocionante de la carrera ciclista Gran Fondo Strade Bianche en su edición 2026. La competencia se caracteriza por la alternancia de tramos asfaltados y sin asfaltar en el singular paisaje de las Crete Senesi. Durante la competición, 8.500 participantes están listos para desafiarse en las mismas carreteras que los profesionales.</desc>
+  </programme>
+  <programme start="20260503123000 -0300" stop="20260503125500 -0300" channel="0432">
+    <title lang="es">DSports historias • Manu Ginóbili, The Last Dance en la selección</title>
+    <desc lang="es">Manu Ginóbili, The Last Dance en la selección ║ Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos.</desc>
+  </programme>
+  <programme start="20260503125500 -0300" stop="20260503150000 -0300" channel="0432">
+    <title lang="es">Italian Men&#x27;s Volleyball League • Civitanova vs Perugia, Final</title>
+    <desc lang="es">Civitanova vs Perugia, Final ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503150000 -0300" stop="20260503153000 -0300" channel="0432">
+    <title lang="es">Hilos • Pau Gasol</title>
+    <desc lang="es">Pau Gasol ║ Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
+  </programme>
+  <programme start="20260503153000 -0300" stop="20260503160000 -0300" channel="0432">
+    <title lang="es">Strade Bianche Women</title>
+    <desc lang="es">Vive lo más emocionante de la carrera ciclista Gran Fondo Strade Bianche en su edición 2026. La competencia se caracteriza por la alternancia de tramos asfaltados y sin asfaltar en el singular paisaje de las Crete Senesi. Durante la competición, 8.500 participantes están listos para desafiarse en las mismas carreteras que los profesionales.</desc>
+  </programme>
+  <programme start="20260503160000 -0300" stop="20260503163000 -0300" channel="0432">
+    <title lang="es">FISE World Series • Round 1: Macau</title>
+    <desc lang="es">Round 1: Macau ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503163000 -0300" stop="20260503165000 -0300" channel="0432">
+    <title lang="es">DSports historias • Batacazos Sudamericana 2024</title>
+    <desc lang="es">Batacazos Sudamericana 2024 ║ Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos.</desc>
+  </programme>
+  <programme start="20260503165000 -0300" stop="20260503190000 -0300" channel="0432">
+    <title lang="es">CONMEBOL Sub-17 Femenino • Perú vs Venezuela</title>
+    <desc lang="es">Perú vs Venezuela ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503190000 -0300" stop="20260503193000 -0300" channel="0432">
+    <title lang="es">DSports historias • Batacazos en los mundiales - Qatar 2022</title>
+    <desc lang="es">Batacazos en los mundiales - Qatar 2022 ║ Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos.</desc>
+  </programme>
+  <programme start="20260503193000 -0300" stop="20260503195000 -0300" channel="0432">
+    <title lang="es">Hilos • Ibrahimovic</title>
+    <desc lang="es">Ibrahimovic ║ Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
+  </programme>
+  <programme start="20260503195000 -0300" stop="20260503220000 -0300" channel="0432">
+    <title lang="es">CONMEBOL Sub-17 Femenino • Paraguay vs Colombia</title>
+    <desc lang="es">Paraguay vs Colombia ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503220000 -0300" stop="20260503223000 -0300" channel="0432">
+    <title lang="es">Milan - San Remo Men</title>
+    <desc lang="es">Disfruta de esta prestigiosa carrera, un evento destacado de la UCI WorldTour que conecta Milán con la costa de Liguria, marcando el inicio de las más esperadas.</desc>
+  </programme>
+  <programme start="20260503223000 -0300" stop="20260504003000 -0300" channel="0432">
+    <title lang="es">Italian Men&#x27;s Volleyball League • Civitanova vs Perugia, Final</title>
+    <desc lang="es">Civitanova vs Perugia, Final ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260504003000 -0300" stop="20260504010000 -0300" channel="0432">
+    <title lang="es">EuroLiga rivalidades • Estambul</title>
+    <desc lang="es">Estambul ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260504010000 -0300" stop="20260504060000 -0300" channel="0432">
+    <title lang="es">PFL • Sioux Falls</title>
+    <desc lang="es">Sioux Falls ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260504060000 -0300" stop="20260504080000 -0300" channel="0432">
+    <title lang="es">EuroLeague • Valencia Basket vs Panathinaikos, Juego Playoffs, Roig Arena</title>
+    <desc lang="es">Valencia Basket vs Panathinaikos, Juego Playoffs, Roig Arena ║ Vive los partidos de la 26º edición de la EuroLiga de básquet, la máxima competición de clubes de Europa.</desc>
+  </programme>
+  <programme start="20260504080000 -0300" stop="20260504083000 -0300" channel="0432">
+    <title lang="es">La Fleche Wallone</title>
+    <desc lang="es">Sigue las emociones de esta competencia clásica ciclista que se disputa durante la primavera europea en Bélgica.</desc>
+  </programme>
+  <programme start="20260504083000 -0300" stop="20260504103000 -0300" channel="0432">
+    <title lang="es">Itzulia Basque Country • Etapa 6</title>
+    <desc lang="es">Etapa 6 ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260504103000 -0300" stop="20260504110000 -0300" channel="0432">
+    <title lang="es">Hilos • Pau Gasol</title>
+    <desc lang="es">Pau Gasol ║ Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
+  </programme>
+  <programme start="20260504110000 -0300" stop="20260504130000 -0300" channel="0432">
+    <title lang="es">Italian Men&#x27;s Volleyball League • Civitanova vs Perugia, Final</title>
+    <desc lang="es">Civitanova vs Perugia, Final ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260504130000 -0300" stop="20260504140000 -0300" channel="0432">
+    <title lang="es">Paris-Roubaix</title>
+    <desc lang="es">Vive las emociones de la edición número 123 de esta competencia de ciclismo de ruta profesional que, en esta ocasión, comprende una distancia total de 258,3 kilómetros.</desc>
+  </programme>
+  <programme start="20260504140000 -0300" stop="20260504160000 -0300" channel="0432">
+    <title lang="es">EuroLeague • Real Madrid vs Hapoel Tel-Aviv, Juego Playoffs, Movistar Arena</title>
+    <desc lang="es">Real Madrid vs Hapoel Tel-Aviv, Juego Playoffs, Movistar Arena ║ Vive los partidos de la 26º edición de la EuroLiga de básquet, la máxima competición de clubes de Europa.</desc>
+  </programme>
+  <programme start="20260504160000 -0300" stop="20260504163000 -0300" channel="0432">
+    <title lang="es">World Strongest Man</title>
+    <desc lang="es">Cobertura de las jornadas en el marco de una competencia internacional de strongman.</desc>
+  </programme>
+  <programme start="20260504163000 -0300" stop="20260504170000 -0300" channel="0432">
+    <title lang="es">Hilos • Allen Iverson</title>
+    <desc lang="es">Allen Iverson ║ Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
+  </programme>
+  <programme start="20260504170000 -0300" stop="20260504190000 -0300" channel="0432">
+    <title lang="es">Italian Men&#x27;s Volleyball League • Civitanova vs Perugia, Final</title>
+    <desc lang="es">Civitanova vs Perugia, Final ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260504190000 -0300" stop="20260504210000 -0300" channel="0432">
+    <title lang="es">EuroLeague • Fenerbahçe vs Zalgiris Kaunas, Juego Playoffs, Ulker Spor ve Etkinlik Salonu</title>
+    <desc lang="es">Fenerbahçe vs Zalgiris Kaunas, Juego Playoffs, Ulker Spor ve Etkinlik Salonu ║ Vive los partidos de la 26º edición de la EuroLiga de básquet, la máxima competición de clubes de Europa.</desc>
+  </programme>
+  <programme start="20260504210000 -0300" stop="20260504213000 -0300" channel="0432">
+    <title lang="es">DCSHA</title>
+    <desc lang="es">Un pograma que aborda y analiza los hechos más destacados del mundo del ciclismo. A través del espacio, el público amante del deporte podrá informarse sobre competencias, eventos, carreras y mucho más junto a un equipo de expertos.</desc>
+  </programme>
+  <programme start="20260504213000 -0300" stop="20260504230000 -0300" channel="0432">
+    <title lang="es">World Aquatics Diving World Cup • Beijing Super Final: Men&#x27;s 10m Platform</title>
+    <desc lang="es">Beijing Super Final: Men&#x27;s 10m Platform ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260504230000 -0300" stop="20260505000000 -0300" channel="0432">
+    <title lang="es">Paris-Roubaix</title>
+    <desc lang="es">Vive las emociones de la edición número 123 de esta competencia de ciclismo de ruta profesional que, en esta ocasión, comprende una distancia total de 258,3 kilómetros.</desc>
+  </programme>
+  <programme start="20260505000000 -0300" stop="20260505003000 -0300" channel="0432">
+    <title lang="es">DCSHA</title>
+    <desc lang="es">Un pograma que aborda y analiza los hechos más destacados del mundo del ciclismo. A través del espacio, el público amante del deporte podrá informarse sobre competencias, eventos, carreras y mucho más junto a un equipo de expertos.</desc>
+  </programme>
+  <programme start="20260505003000 -0300" stop="20260505010000 -0300" channel="0432">
+    <title lang="es">World Strongest Man</title>
+    <desc lang="es">Cobertura de las jornadas en el marco de una competencia internacional de strongman.</desc>
+  </programme>
+  <programme start="20260505010000 -0300" stop="20260505020000 -0300" channel="0432">
+    <title lang="es">TCR South America - Highlights • Interlagos</title>
+    <desc lang="es">Interlagos ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260505020000 -0300" stop="20260505060000 -0300" channel="0432">
+    <title lang="es">ONE • Friday Fight 152</title>
+    <desc lang="es">Friday Fight 152 ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260505060000 -0300" stop="20260505080000 -0300" channel="0432">
+    <title lang="es">EuroLeague • Olympiacos vs Mónaco, Juego Playoffs, Peace and Friendship Stadium</title>
+    <desc lang="es">Olympiacos vs Mónaco, Juego Playoffs, Peace and Friendship Stadium ║ Vive los partidos de la 26º edición de la EuroLiga de básquet, la máxima competición de clubes de Europa.</desc>
+  </programme>
+  <programme start="20260505080000 -0300" stop="20260505083000 -0300" channel="0432">
+    <title lang="es">Strade Bianche Women</title>
+    <desc lang="es">Vive lo más emocionante de la carrera ciclista Gran Fondo Strade Bianche en su edición 2026. La competencia se caracteriza por la alternancia de tramos asfaltados y sin asfaltar en el singular paisaje de las Crete Senesi. Durante la competición, 8.500 participantes están listos para desafiarse en las mismas carreteras que los profesionales.</desc>
+  </programme>
+  <programme start="20260505083000 -0300" stop="20260505103000 -0300" channel="0432">
+    <title lang="es">UCI Mountain Bike World Series • South Korea: Day</title>
+    <desc lang="es">South Korea: Day ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260505103000 -0300" stop="20260505113000 -0300" channel="0432">
+    <title lang="es">UAE Tour Men</title>
+    <desc lang="es">Lo mejor de la octava edición del UAE Tour, única carrera del UCI WorldTour en Oriente Medio. El recorrido lo integran siete etapas: dos totalmente llanas, dos con presencia de dunas y pequeñas subidas, una contrarreloj individual de 12 kilómetros y las dos llegadas en alto a Jebel Hafeet y Jebel Mobrah.</desc>
+  </programme>
+  <programme start="20260505113000 -0300" stop="20260505120000 -0300" channel="0432">
+    <title lang="es">Milan - San Remo Men</title>
+    <desc lang="es">Disfruta de esta prestigiosa carrera, un evento destacado de la UCI WorldTour que conecta Milán con la costa de Liguria, marcando el inicio de las más esperadas.</desc>
+  </programme>
+  <programme start="20260505120000 -0300" stop="20260505123000 -0300" channel="0432">
+    <title lang="es">DCSHA</title>
+    <desc lang="es">Un pograma que aborda y analiza los hechos más destacados del mundo del ciclismo. A través del espacio, el público amante del deporte podrá informarse sobre competencias, eventos, carreras y mucho más junto a un equipo de expertos.</desc>
+  </programme>
+  <programme start="20260505123000 -0300" stop="20260505125500 -0300" channel="0432">
+    <title lang="es">DSports historias • Manu Ginóbili, The Last Dance en la selección</title>
+    <desc lang="es">Manu Ginóbili, The Last Dance en la selección ║ Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos.</desc>
+  </programme>
+  <programme start="20260505125500 -0300" stop="20260505150000 -0300" channel="0432">
+    <title lang="es">EuroLeague • Hapoel Tel-Aviv vs Real Madrid, Juego Playoffs, Drive in Arena</title>
+    <desc lang="es">Hapoel Tel-Aviv vs Real Madrid, Juego Playoffs, Drive in Arena ║ Vive los partidos de la 26º edición de la EuroLiga de básquet, la máxima competición de clubes de Europa.</desc>
+  </programme>
+  <programme start="20260505150000 -0300" stop="20260505153000 -0300" channel="0432">
+    <title lang="es">EuroLiga rivalidades • Belgrado</title>
+    <desc lang="es">Belgrado ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260505153000 -0300" stop="20260505160000 -0300" channel="0432">
+    <title lang="es">La Fleche Wallone</title>
+    <desc lang="es">Sigue las emociones de esta competencia clásica ciclista que se disputa durante la primavera europea en Bélgica.</desc>
+  </programme>
+  <programme start="20260505160000 -0300" stop="20260505163000 -0300" channel="0432">
+    <title lang="es">World Strongest Man</title>
+    <desc lang="es">Cobertura de las jornadas en el marco de una competencia internacional de strongman.</desc>
+  </programme>
+  <programme start="20260505163000 -0300" stop="20260505170000 -0300" channel="0432">
+    <title lang="es">Hilos • Pau Gasol</title>
+    <desc lang="es">Pau Gasol ║ Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
+  </programme>
+  <programme start="20260505170000 -0300" stop="20260505190000 -0300" channel="0432">
+    <title lang="es">EuroLeague • Mónaco vs Olympiacos, Juego Playoffs, Salle Gaston Medecin</title>
+    <desc lang="es">Mónaco vs Olympiacos, Juego Playoffs, Salle Gaston Medecin ║ Vive los partidos de la 26º edición de la EuroLiga de básquet, la máxima competición de clubes de Europa.</desc>
+  </programme>
+  <programme start="20260505190000 -0300" stop="20260505210000 -0300" channel="0432">
+    <title lang="es">EuroLeague • Hapoel Tel-Aviv vs Real Madrid, Juego Playoffs, Drive in Arena</title>
+    <desc lang="es">Hapoel Tel-Aviv vs Real Madrid, Juego Playoffs, Drive in Arena ║ Vive los partidos de la 26º edición de la EuroLiga de básquet, la máxima competición de clubes de Europa.</desc>
+  </programme>
+  <programme start="20260505210000 -0300" stop="20260505220000 -0300" channel="0432">
+    <title lang="es">DSports Fight - Lo mejor</title>
+    <desc lang="es">Revive lo mejor de DSports Fight.</desc>
+  </programme>
+  <programme start="20260505220000 -0300" stop="20260506000000 -0300" channel="0432">
+    <title lang="es">EuroLeague • Mónaco vs Olympiacos, Juego Playoffs, Salle Gaston Medecin</title>
+    <desc lang="es">Mónaco vs Olympiacos, Juego Playoffs, Salle Gaston Medecin ║ Vive los partidos de la 26º edición de la EuroLiga de básquet, la máxima competición de clubes de Europa.</desc>
+  </programme>
+  <programme start="20260506000000 -0300" stop="20260506003000 -0300" channel="0432">
+    <title lang="es">Milano - Torino</title>
+    <desc lang="es">Vive toda la emoción de la clásica carrera italiana de ciclismo Milano Torino en su edición del 2026. La Clásica más antigua del mundo tomará la salida desde Rho y concluirá, tras 174 km, en Superga.</desc>
+  </programme>
+  <programme start="20260506003000 -0300" stop="20260506010000 -0300" channel="0432">
+    <title lang="es">World Strongest Man</title>
+    <desc lang="es">Cobertura de las jornadas en el marco de una competencia internacional de strongman.</desc>
+  </programme>
+  <programme start="20260506010000 -0300" stop="20260506070000 -0300" channel="0432">
+    <title lang="es">DSports 2</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260506070000 -0300" stop="20260506130000 -0300" channel="0432">
+    <title lang="es">DSports 2</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260506130000 -0300" stop="20260506190000 -0300" channel="0432">
+    <title lang="es">DSports 2</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260506190000 -0300" stop="20260507010000 -0300" channel="0432">
+    <title lang="es">DSports 2</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260507010000 -0300" stop="20260507070000 -0300" channel="0432">
+    <title lang="es">DSports 2</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260507070000 -0300" stop="20260507130000 -0300" channel="0432">
+    <title lang="es">DSports 2</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260507130000 -0300" stop="20260507190000 -0300" channel="0432">
+    <title lang="es">DSports 2</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260507190000 -0300" stop="20260508005959 -0300" channel="0432">
+    <title lang="es">DSports 2</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503010000 -0300" stop="20260503020000 -0300" channel="0433">
+    <title lang="es">DSports noticias</title>
+    <desc lang="es">Todas las novedades y la información de la actualidad deportiva.</desc>
+  </programme>
+  <programme start="20260503020000 -0300" stop="20260503030000 -0300" channel="0433">
+    <title lang="es">D Selección</title>
+    <desc lang="es">Sergio Goycochea y un equipo de expertos, repasan el presente deportivo de las selecciones nacionales que disputan las Eliminatorias Sudamericanas para el Mundial de Estados Unidos, México y Canadá 2026. El presentador y sus compañeros reflexionan sobre cada combinado nacional, las figuras de hoy y siempre, los jóvenes que prometen ser leyendas y todo lo relacionado con cada equipo en la competencia.</desc>
+  </programme>
+  <programme start="20260503030000 -0300" stop="20260503033000 -0300" channel="0433">
+    <title lang="es">DSports historias • Generación Colombia - Objetivo Italia 90</title>
+    <desc lang="es">Generación Colombia - Objetivo Italia 90 ║ Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos.</desc>
+  </programme>
+  <programme start="20260503033000 -0300" stop="20260503040000 -0300" channel="0433">
+    <title lang="es">FIFA WC - Stories from the Cities • Atlanta</title>
+    <desc lang="es">Atlanta ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503040000 -0300" stop="20260503060000 -0300" channel="0433">
+    <title lang="es">Serie A - Femenina • Roma vs Ternana</title>
+    <desc lang="es">Roma vs Ternana ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503060000 -0300" stop="20260503080000 -0300" channel="0433">
+    <title lang="es">LaLiga • Valencia vs Atl. de Madrid, Fecha 34, Estadio Mestalla</title>
+    <desc lang="es">Valencia vs Atl. de Madrid, Fecha 34, Estadio Mestalla ║ Vive los partidos de la 95º edición de la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+  </programme>
+  <programme start="20260503080000 -0300" stop="20260503083000 -0300" channel="0433">
+    <title lang="es">DSports historias • Goleadas en los mundiales - Lionel Messi</title>
+    <desc lang="es">Goleadas en los mundiales - Lionel Messi ║ Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos.</desc>
+  </programme>
+  <programme start="20260503083000 -0300" stop="20260503090000 -0300" channel="0433">
+    <title lang="es">Hilos • Ibrahimovic</title>
+    <desc lang="es">Ibrahimovic ║ Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
+  </programme>
+  <programme start="20260503090000 -0300" stop="20260503110000 -0300" channel="0433">
+    <title lang="es">CONMEBOL Sub-17 Femenino • Perú vs Brasil</title>
+    <desc lang="es">Perú vs Brasil ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503110000 -0300" stop="20260503113000 -0300" channel="0433">
+    <title lang="es">Hilos • Mundial - Maradona en el &#x27;94</title>
+    <desc lang="es">Mundial - Maradona en el &#x27;94 ║ Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
+  </programme>
+  <programme start="20260503113000 -0300" stop="20260503114000 -0300" channel="0433">
+    <title lang="es">DSports historias • Simplemente Diego - El pelusa de la paternal</title>
+    <desc lang="es">Simplemente Diego - El pelusa de la paternal ║ Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos.</desc>
+  </programme>
+  <programme start="20260503114000 -0300" stop="20260503134500 -0300" channel="0433">
+    <title lang="es">Eredivisie Femenina • Hera vs PSV</title>
+    <desc lang="es">Hera vs PSV ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503134500 -0300" stop="20260503140000 -0300" channel="0433">
+    <title lang="es">Hilos • Bilardo</title>
+    <desc lang="es">Bilardo ║ Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
+  </programme>
+  <programme start="20260503140000 -0300" stop="20260503160000 -0300" channel="0433">
+    <title lang="es">Fútbol: Copa Sudamericana • Millonarios FC vs São Paulo , Fecha Grupo C, Estadio El Campín</title>
+    <desc lang="es">Millonarios FC vs São Paulo , Fecha Grupo C, Estadio El Campín ║ Disfruta de los emocionantes encuentros de la Copa Sudamericana, donde los clubes del continente buscan dejar su huella en la historia del fútbol.</desc>
+  </programme>
+  <programme start="20260503160000 -0300" stop="20260503163000 -0300" channel="0433">
+    <title lang="es">Coppa Italia Highlights • Preview Show - Semifinal - Vuelta</title>
+    <desc lang="es">Preview Show - Semifinal - Vuelta ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503163000 -0300" stop="20260503165000 -0300" channel="0433">
+    <title lang="es">Hilos • Ibrahimovic</title>
+    <desc lang="es">Ibrahimovic ║ Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
+  </programme>
+  <programme start="20260503165000 -0300" stop="20260503190000 -0300" channel="0433">
+    <title lang="es">CONMEBOL Sub-17 Femenino • Brasil vs Ecuador</title>
+    <desc lang="es">Brasil vs Ecuador ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503190000 -0300" stop="20260503193000 -0300" channel="0433">
+    <title lang="es">FIFA WC - Stories from the Cities • Toronto</title>
+    <desc lang="es">Toronto ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503193000 -0300" stop="20260503195000 -0300" channel="0433">
+    <title lang="es">DSports historias • Batacazos Sudamericana 2024</title>
+    <desc lang="es">Batacazos Sudamericana 2024 ║ Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos.</desc>
+  </programme>
+  <programme start="20260503195000 -0300" stop="20260503220000 -0300" channel="0433">
+    <title lang="es">CONMEBOL Sub-17 Femenino • Chile vs Argentina</title>
+    <desc lang="es">Chile vs Argentina ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503220000 -0300" stop="20260503223000 -0300" channel="0433">
+    <title lang="es">DSports historias • Siempre Messi - Los mundiales de Lionel</title>
+    <desc lang="es">Siempre Messi - Los mundiales de Lionel ║ Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos.</desc>
+  </programme>
+  <programme start="20260503223000 -0300" stop="20260504003000 -0300" channel="0433">
+    <title lang="es">Eredivisie Femenina • Hera vs PSV</title>
+    <desc lang="es">Hera vs PSV ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260504003000 -0300" stop="20260504013000 -0300" channel="0433">
+    <title lang="es">DSports noticias</title>
+    <desc lang="es">Todas las novedades y la información de la actualidad deportiva.</desc>
+  </programme>
+  <programme start="20260504013000 -0300" stop="20260504020000 -0300" channel="0433">
+    <title lang="es">Hilos • Promesas mundialistas</title>
+    <desc lang="es">Promesas mundialistas ║ Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
+  </programme>
+  <programme start="20260504020000 -0300" stop="20260504040000 -0300" channel="0433">
+    <title lang="es">LaLiga • Espanyol vs Real Madrid, Fecha 34, Estadio RCDE Stadium</title>
+    <desc lang="es">Espanyol vs Real Madrid, Fecha 34, Estadio RCDE Stadium ║ Vive los partidos de la 95º edición de la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+  </programme>
+  <programme start="20260504040000 -0300" stop="20260504060000 -0300" channel="0433">
+    <title lang="es">CONMEBOL Sub-17 Femenino • Paraguay vs Colombia</title>
+    <desc lang="es">Paraguay vs Colombia ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260504060000 -0300" stop="20260504080000 -0300" channel="0433">
+    <title lang="es">LaLiga • Osasuna vs Barcelona, Fecha 34, Estadio El Sadar</title>
+    <desc lang="es">Osasuna vs Barcelona, Fecha 34, Estadio El Sadar ║ Vive los partidos de la 95º edición de la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+  </programme>
+  <programme start="20260504080000 -0300" stop="20260504083000 -0300" channel="0433">
+    <title lang="es">DSports historias • Goleadas en los mundiales - Cristiano Ronaldo</title>
+    <desc lang="es">Goleadas en los mundiales - Cristiano Ronaldo ║ Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos.</desc>
+  </programme>
+  <programme start="20260504083000 -0300" stop="20260504090000 -0300" channel="0433">
+    <title lang="es">Hilos • Enzo Fernández y Julián Alvarez</title>
+    <desc lang="es">Enzo Fernández y Julián Alvarez ║ Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
+  </programme>
+  <programme start="20260504090000 -0300" stop="20260504110000 -0300" channel="0433">
+    <title lang="es">CONMEBOL Sub-17 Femenino • Chile vs Argentina</title>
+    <desc lang="es">Chile vs Argentina ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260504110000 -0300" stop="20260504113000 -0300" channel="0433">
+    <title lang="es">Hilos • Promesas mundialistas</title>
+    <desc lang="es">Promesas mundialistas ║ Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
+  </programme>
+  <programme start="20260504113000 -0300" stop="20260504133000 -0300" channel="0433">
+    <title lang="es">LaLiga Clásicos • Barcelona vs Real Madrid - 02/04/2016</title>
+    <desc lang="es">Barcelona vs Real Madrid - 02/04/2016 ║ Un programa que presenta los enfrentamientos clásicos más emocionantes disputados en LaLiga. A través del espacio, el público podrá revivir diversos partidos así como las jugadas, goles y atajadas más sorprendentes.</desc>
+  </programme>
+  <programme start="20260504133000 -0300" stop="20260504140000 -0300" channel="0433">
+    <title lang="es">FIFA WC - Stories from the Cities • Seattle</title>
+    <desc lang="es">Seattle ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260504140000 -0300" stop="20260504160000 -0300" channel="0433">
+    <title lang="es">Fútbol: Copa Sudamericana • Dep. Recoleta vs Dep. Cuenca , Fecha Grupo D, Estadio Roque Battilana</title>
+    <desc lang="es">Dep. Recoleta vs Dep. Cuenca , Fecha Grupo D, Estadio Roque Battilana ║ Disfruta de los emocionantes encuentros de la Copa Sudamericana, donde los clubes del continente buscan dejar su huella en la historia del fútbol.</desc>
+  </programme>
+  <programme start="20260504160000 -0300" stop="20260504163000 -0300" channel="0433">
+    <title lang="es">Hilos • Enzo Francescoli</title>
+    <desc lang="es">Enzo Francescoli ║ Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
+  </programme>
+  <programme start="20260504163000 -0300" stop="20260504183000 -0300" channel="0433">
+    <title lang="es">LaLiga • Espanyol vs Real Madrid, Fecha 34, Estadio RCDE Stadium</title>
+    <desc lang="es">Espanyol vs Real Madrid, Fecha 34, Estadio RCDE Stadium ║ Vive los partidos de la 95º edición de la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+  </programme>
+  <programme start="20260504183000 -0300" stop="20260504190000 -0300" channel="0433">
+    <title lang="es">DSports historias • Batacazos en los mundiales - Qatar 2022</title>
+    <desc lang="es">Batacazos en los mundiales - Qatar 2022 ║ Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos.</desc>
+  </programme>
+  <programme start="20260504190000 -0300" stop="20260504193000 -0300" channel="0433">
+    <title lang="es">FIFA WC - Stories from the Cities • Houston</title>
+    <desc lang="es">Houston ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260504193000 -0300" stop="20260504200000 -0300" channel="0433">
+    <title lang="es">DSports historias • Goleadas en los mundiales - Lionel Messi</title>
+    <desc lang="es">Goleadas en los mundiales - Lionel Messi ║ Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos.</desc>
+  </programme>
+  <programme start="20260504200000 -0300" stop="20260504220000 -0300" channel="0433">
+    <title lang="es">LaLiga • Dep. Alavés vs Ath. Bilbao, Fecha 34, Estadio Mendizorroza</title>
+    <desc lang="es">Dep. Alavés vs Ath. Bilbao, Fecha 34, Estadio Mendizorroza ║ Vive los partidos de la 95º edición de la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+  </programme>
+  <programme start="20260504220000 -0300" stop="20260505000000 -0300" channel="0433">
+    <title lang="es">LaLiga • Betis vs Real Oviedo, Fecha 34, Estadio Benito Villamarín</title>
+    <desc lang="es">Betis vs Real Oviedo, Fecha 34, Estadio Benito Villamarín ║ Vive los partidos de la 95º edición de la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+  </programme>
+  <programme start="20260505000000 -0300" stop="20260505010000 -0300" channel="0433">
+    <title lang="es">Magazine CONMEBOL Sudamericana • Fecha 3</title>
+    <desc lang="es">Fecha 3 ║ Mira todos los detalles sobre los partidos de fútbol que son parte de la CONMEBOL Sudamericana 2026.</desc>
+  </programme>
+  <programme start="20260505010000 -0300" stop="20260505023000 -0300" channel="0433">
+    <title lang="es">Fútbol total</title>
+    <desc lang="es">Espacio de debate con la mejor información de cada jornada de las principales ligas de fútbol.</desc>
+  </programme>
+  <programme start="20260505023000 -0300" stop="20260505030000 -0300" channel="0433">
+    <title lang="es">Todo en 30 • 2LaLiga - Valencia vs Atl. de Madrid</title>
+    <desc lang="es">2LaLiga - Valencia vs Atl. de Madrid ║ Repasamos los eventos más importantes del fútbol, básquet, tenis y todos los deportes en treinta minutos.</desc>
+  </programme>
+  <programme start="20260505030000 -0300" stop="20260505033000 -0300" channel="0433">
+    <title lang="es">DSports historias • Goleadores en las Copas del Mundo</title>
+    <desc lang="es">Goleadores en las Copas del Mundo ║ Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos.</desc>
+  </programme>
+  <programme start="20260505033000 -0300" stop="20260505040000 -0300" channel="0433">
+    <title lang="es">FIFA WC - Stories from the Cities • Monterrey</title>
+    <desc lang="es">Monterrey ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260505040000 -0300" stop="20260505060000 -0300" channel="0433">
+    <title lang="es">CONMEBOL Sub-17 Femenino • Perú vs Venezuela</title>
+    <desc lang="es">Perú vs Venezuela ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260505060000 -0300" stop="20260505080000 -0300" channel="0433">
+    <title lang="es">LaLiga • Espanyol vs Real Madrid, Fecha 34, Estadio RCDE Stadium</title>
+    <desc lang="es">Espanyol vs Real Madrid, Fecha 34, Estadio RCDE Stadium ║ Vive los partidos de la 95º edición de la máxima competición profesional de fútbol en España, en la cual participan 20 equipos en formato de liga.</desc>
+  </programme>
+  <programme start="20260505080000 -0300" stop="20260505083000 -0300" channel="0433">
+    <title lang="es">Todo en 30 • 2LaLiga - Valencia vs Atl. de Madrid</title>
+    <desc lang="es">2LaLiga - Valencia vs Atl. de Madrid ║ Repasamos los eventos más importantes del fútbol, básquet, tenis y todos los deportes en treinta minutos.</desc>
+  </programme>
+  <programme start="20260505083000 -0300" stop="20260505090000 -0300" channel="0433">
+    <title lang="es">Hilos • Zinedine Zidane</title>
+    <desc lang="es">Zinedine Zidane ║ Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
+  </programme>
+  <programme start="20260505090000 -0300" stop="20260505110000 -0300" channel="0433">
+    <title lang="es">CONMEBOL Sub-17 Femenino • Brasil vs Ecuador</title>
+    <desc lang="es">Brasil vs Ecuador ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260505110000 -0300" stop="20260505113000 -0300" channel="0433">
+    <title lang="es">Hilos • Ibrahimovic</title>
+    <desc lang="es">Ibrahimovic ║ Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
+  </programme>
+  <programme start="20260505113000 -0300" stop="20260505133000 -0300" channel="0433">
+    <title lang="es">LaLiga Clásicos • Real Madrid vs Barcelona - 23/04/2017</title>
+    <desc lang="es">Real Madrid vs Barcelona - 23/04/2017 ║ Un programa que presenta los enfrentamientos clásicos más emocionantes disputados en LaLiga. A través del espacio, el público podrá revivir diversos partidos así como las jugadas, goles y atajadas más sorprendentes.</desc>
+  </programme>
+  <programme start="20260505133000 -0300" stop="20260505140000 -0300" channel="0433">
+    <title lang="es">FIFA WC - Stories from the Cities • Los Ángeles</title>
+    <desc lang="es">Los Ángeles ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260505140000 -0300" stop="20260505143000 -0300" channel="0433">
+    <title lang="es">DSports historias • Messi vs Cristiano, Liga - Copas 2013/Parte 1</title>
+    <desc lang="es">Messi vs Cristiano, Liga - Copas 2013/Parte 1 ║ Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos.</desc>
+  </programme>
+  <programme start="20260505143000 -0300" stop="20260505144000 -0300" channel="0433">
+    <title lang="es">Filler - Euroliga • Justin Anderson</title>
+    <desc lang="es">Justin Anderson ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260505144000 -0300" stop="20260505164500 -0300" channel="0433">
+    <title lang="es">EuroLeague • Mónaco vs Olympiacos, Juego Playoffs, Salle Gaston Medecin</title>
+    <desc lang="es">Mónaco vs Olympiacos, Juego Playoffs, Salle Gaston Medecin ║ Vive los partidos de la 26º edición de la EuroLiga de básquet, la máxima competición de clubes de Europa.</desc>
+  </programme>
+  <programme start="20260505164500 -0300" stop="20260505170000 -0300" channel="0433">
+    <title lang="es">Filler - Euroliga • Shane Larkin</title>
+    <desc lang="es">Shane Larkin ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260505170000 -0300" stop="20260505180000 -0300" channel="0433">
+    <title lang="es">Magazine CONMEBOL Sudamericana • Fecha 3</title>
+    <desc lang="es">Fecha 3 ║ Mira todos los detalles sobre los partidos de fútbol que son parte de la CONMEBOL Sudamericana 2026.</desc>
+  </programme>
+  <programme start="20260505180000 -0300" stop="20260505183000 -0300" channel="0433">
+    <title lang="es">Todo en 30 • 2LaLiga - Osasuna vs Barcelona</title>
+    <desc lang="es">2LaLiga - Osasuna vs Barcelona ║ Repasamos los eventos más importantes del fútbol, básquet, tenis y todos los deportes en treinta minutos.</desc>
+  </programme>
+  <programme start="20260505183000 -0300" stop="20260505200000 -0300" channel="0433">
+    <title lang="es">Fútbol total</title>
+    <desc lang="es">Espacio de debate con la mejor información de cada jornada de las principales ligas de fútbol.</desc>
+  </programme>
+  <programme start="20260505200000 -0300" stop="20260505203000 -0300" channel="0433">
+    <title lang="es">FIFA WC - Stories from the Cities • San Francisco Bay Area</title>
+    <desc lang="es">San Francisco Bay Area ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260505203000 -0300" stop="20260505210000 -0300" channel="0433">
+    <title lang="es">Hilos • Andrés Iniesta</title>
+    <desc lang="es">Andrés Iniesta ║ Juan Pablo Varsky recorre los perfiles e historias de las grandes figuras del deporte mundial.</desc>
+  </programme>
+  <programme start="20260505210000 -0300" stop="20260505213000 -0300" channel="0433">
+    <title lang="es">Coppa Italia Highlights • Preview Show - Semifinal - Vuelta</title>
+    <desc lang="es">Preview Show - Semifinal - Vuelta ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260505213000 -0300" stop="20260505233000 -0300" channel="0433">
+    <title lang="es">Serie A - Femenina • Roma vs Ternana</title>
+    <desc lang="es">Roma vs Ternana ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260505233000 -0300" stop="20260506000000 -0300" channel="0433">
+    <title lang="es">DSports historias • Cristiano vs Messi, Temporada 7</title>
+    <desc lang="es">Cristiano vs Messi, Temporada 7 ║ Ciclo que repasa las grandes gestas del deporte y los sucesos más gloriosos.</desc>
+  </programme>
+  <programme start="20260506000000 -0300" stop="20260506013000 -0300" channel="0433">
+    <title lang="es">Fútbol total</title>
+    <desc lang="es">Espacio de debate con la mejor información de cada jornada de las principales ligas de fútbol.</desc>
+  </programme>
+  <programme start="20260506013000 -0300" stop="20260506073000 -0300" channel="0433">
+    <title lang="es">DSports Plus</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260506073000 -0300" stop="20260506133000 -0300" channel="0433">
+    <title lang="es">DSports Plus</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260506133000 -0300" stop="20260506193000 -0300" channel="0433">
+    <title lang="es">DSports Plus</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260506193000 -0300" stop="20260507013000 -0300" channel="0433">
+    <title lang="es">DSports Plus</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260507013000 -0300" stop="20260507073000 -0300" channel="0433">
+    <title lang="es">DSports Plus</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260507073000 -0300" stop="20260507133000 -0300" channel="0433">
+    <title lang="es">DSports Plus</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260507133000 -0300" stop="20260507193000 -0300" channel="0433">
+    <title lang="es">DSports Plus</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260507193000 -0300" stop="20260508005959 -0300" channel="0433">
+    <title lang="es">DSports Plus</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503010000 -0300" stop="20260503070000 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503070000 -0300" stop="20260503080000 -0300" channel="0927">
+    <title lang="es">Llave a la eternidad • Germán Pezzella</title>
+    <desc lang="es">Germán Pezzella ║ La periodista Sofi Martínez viaja por el mundo para encontrarse con los campeones de Qatar 2022. Los jugadores abren la puerta para dialogar sobre la preparación emocional y la mentalidad que les permitió alcanzar la gloria e ingresar en la eternidad.</desc>
+  </programme>
+  <programme start="20260503080000 -0300" stop="20260503083000 -0300" channel="0927">
+    <title lang="es">Tiempo fuera • Femebal</title>
+    <desc lang="es">Femebal ║ Entrevistas con jugadores, entrenadores y referentes del handball. Tips, análisis y debates.</desc>
+  </programme>
+  <programme start="20260503083000 -0300" stop="20260503090000 -0300" channel="0927">
+    <title lang="es">Abriendo pista</title>
+    <desc lang="es">Lo mejor del rally y el deporte de motor a lo largo y a lo ancho de la República Argentina. Además, perfiles de corredores de varias provincias del país, así como también una extensa cobertura del Campeonato Argentino de Navegación .</desc>
+  </programme>
+  <programme start="20260503090000 -0300" stop="20260503100000 -0300" channel="0927">
+    <title lang="es">DeporTV Central • Entrevistas Prg 1</title>
+    <desc lang="es">Entrevistas Prg 1 ║ El nuevo informativo polideportivo con el equipo de especialistas de la señal, con la información y el análisis de sus respectivos deportes.</desc>
+  </programme>
+  <programme start="20260503100000 -0300" stop="20260503110000 -0300" channel="0927">
+    <title lang="es">Sale X3</title>
+    <desc lang="es">Un programa que aborda lo más destacado del ámbito del paddle junto a Fernando Carlos.</desc>
+  </programme>
+  <programme start="20260503110000 -0300" stop="20260503130000 -0300" channel="0927">
+    <title lang="es">Torneo Metropolitano de Handball - LHD • River Plate vs Ferro, Fecha 6</title>
+    <desc lang="es">River Plate vs Ferro, Fecha 6 ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503130000 -0300" stop="20260503140000 -0300" channel="0927">
+    <title lang="es">DeporTV Central • Entrevistas Prg 2</title>
+    <desc lang="es">Entrevistas Prg 2 ║ El nuevo informativo polideportivo con el equipo de especialistas de la señal, con la información y el análisis de sus respectivos deportes.</desc>
+  </programme>
+  <programme start="20260503140000 -0300" stop="20260503143000 -0300" channel="0927">
+    <title lang="es">Tiempo fuera • Atlanta</title>
+    <desc lang="es">Atlanta ║ Entrevistas con jugadores, entrenadores y referentes del handball. Tips, análisis y debates.</desc>
+  </programme>
+  <programme start="20260503143000 -0300" stop="20260503150000 -0300" channel="0927">
+    <title lang="es">Somos futbolistas • Almeyda / Serna</title>
+    <desc lang="es">Almeyda / Serna ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503150000 -0300" stop="20260503151500 -0300" channel="0927">
+    <title lang="es">El Retrovisor</title>
+    <desc lang="es">Espacio musical para recordar los grandes éxitos de décadas pasadas.</desc>
+  </programme>
+  <programme start="20260503151500 -0300" stop="20260503153000 -0300" channel="0927">
+    <title lang="es">El Retrovisor • El doctor Carlos Salvador Bilardo</title>
+    <desc lang="es">El doctor Carlos Salvador Bilardo ║ Espacio musical para recordar los grandes éxitos de décadas pasadas.</desc>
+  </programme>
+  <programme start="20260503153000 -0300" stop="20260503163000 -0300" channel="0927">
+    <title lang="es">Pilotos en primera • Marco Dianda</title>
+    <desc lang="es">Marco Dianda ║ Una propuesta diferente para conocer a fondo la intimidad, historia, presente y futuro de cada uno de los referentes del automovilismo nacional.</desc>
+  </programme>
+  <programme start="20260503163000 -0300" stop="20260503173000 -0300" channel="0927">
+    <title lang="es">DeporTV Textual • Mercedes Paz</title>
+    <desc lang="es">Mercedes Paz ║ Ceci Ruffa se sienta en el estudio a conversar junto a atletas sobre su carrera tanto deportiva como personal.</desc>
+  </programme>
+  <programme start="20260503173000 -0300" stop="20260503180000 -0300" channel="0927">
+    <title lang="es">Abriendo pista</title>
+    <desc lang="es">Lo mejor del rally y el deporte de motor a lo largo y a lo ancho de la República Argentina. Además, perfiles de corredores de varias provincias del país, así como también una extensa cobertura del Campeonato Argentino de Navegación .</desc>
+  </programme>
+  <programme start="20260503180000 -0300" stop="20260503190000 -0300" channel="0927">
+    <title lang="es">DeporTV Central • Entrevistas Prg 2</title>
+    <desc lang="es">Entrevistas Prg 2 ║ El nuevo informativo polideportivo con el equipo de especialistas de la señal, con la información y el análisis de sus respectivos deportes.</desc>
+  </programme>
+  <programme start="20260503190000 -0300" stop="20260503210000 -0300" channel="0927">
+    <title lang="es">Torneo Argentino de Selecciones A Femenino • Final</title>
+    <desc lang="es">Final ║ La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503210000 -0300" stop="20260503220000 -0300" channel="0927">
+    <title lang="es">DeporTV Textual • Noel Barrionuevo</title>
+    <desc lang="es">Noel Barrionuevo ║ Ceci Ruffa se sienta en el estudio a conversar junto a atletas sobre su carrera tanto deportiva como personal.</desc>
+  </programme>
+  <programme start="20260503220000 -0300" stop="20260503230000 -0300" channel="0927">
+    <title lang="es">Llave a la eternidad • Di Maria</title>
+    <desc lang="es">Di Maria ║ La periodista Sofi Martínez viaja por el mundo para encontrarse con los campeones de Qatar 2022. Los jugadores abren la puerta para dialogar sobre la preparación emocional y la mentalidad que les permitió alcanzar la gloria e ingresar en la eternidad.</desc>
+  </programme>
+  <programme start="20260503230000 -0300" stop="20260504000000 -0300" channel="0927">
+    <title lang="es">Pilotos en primera • Marco Dianda</title>
+    <desc lang="es">Marco Dianda ║ Una propuesta diferente para conocer a fondo la intimidad, historia, presente y futuro de cada uno de los referentes del automovilismo nacional.</desc>
+  </programme>
+  <programme start="20260504000000 -0300" stop="20260504060000 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información más completa del mundo de los deportes, con un enfoque analítico y polémico.</desc>
+  </programme>
+  <programme start="20260504060000 -0300" stop="20260504130000 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información más completa del mundo de los deportes, con un enfoque analítico y polémico.</desc>
+  </programme>
+  <programme start="20260504130000 -0300" stop="20260504140000 -0300" channel="0927">
+    <title lang="es">Recta principal</title>
+    <desc lang="es">Disfruta de la previa de las carreras más esperadas directamente desde los autódromos donde se realizan. Además, presentan opiniones y entrevistas de los corresponsales realizadas a los pilotos más destacados, haciendo de este espacio una plataforma informativa dedicada exclusivamente al mundo de las competencias del automovilismo.</desc>
+  </programme>
+  <programme start="20260504140000 -0300" stop="20260504190000 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información más completa del mundo de los deportes, con un enfoque analítico y polémico.</desc>
+  </programme>
+  <programme start="20260504190000 -0300" stop="20260504200000 -0300" channel="0927">
+    <title lang="es">Despistados</title>
+    <desc lang="es">Un espacio para los apasionados del automovilismo en donde recibimos a invitados destacados.</desc>
+  </programme>
+  <programme start="20260504200000 -0300" stop="20260505000000 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información más completa del mundo de los deportes, con un enfoque analítico y polémico.</desc>
+  </programme>
+  <programme start="20260505000000 -0300" stop="20260505010000 -0300" channel="0927">
+    <title lang="es">Despistados</title>
+    <desc lang="es">Un espacio para los apasionados del automovilismo en donde recibimos a invitados destacados.</desc>
+  </programme>
+  <programme start="20260505010000 -0300" stop="20260505020000 -0300" channel="0927">
+    <title lang="es">Recta principal</title>
+    <desc lang="es">Disfruta de la previa de las carreras más esperadas directamente desde los autódromos donde se realizan. Además, presentan opiniones y entrevistas de los corresponsales realizadas a los pilotos más destacados, haciendo de este espacio una plataforma informativa dedicada exclusivamente al mundo de las competencias del automovilismo.</desc>
+  </programme>
+  <programme start="20260505020000 -0300" stop="20260505130000 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información más completa del mundo de los deportes, con un enfoque analítico y polémico.</desc>
+  </programme>
+  <programme start="20260505130000 -0300" stop="20260505140000 -0300" channel="0927">
+    <title lang="es">Recta principal</title>
+    <desc lang="es">Disfruta de la previa de las carreras más esperadas directamente desde los autódromos donde se realizan. Además, presentan opiniones y entrevistas de los corresponsales realizadas a los pilotos más destacados, haciendo de este espacio una plataforma informativa dedicada exclusivamente al mundo de las competencias del automovilismo.</desc>
+  </programme>
+  <programme start="20260505140000 -0300" stop="20260505190000 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información más completa del mundo de los deportes, con un enfoque analítico y polémico.</desc>
+  </programme>
+  <programme start="20260505190000 -0300" stop="20260505200000 -0300" channel="0927">
+    <title lang="es">Despistados</title>
+    <desc lang="es">Un espacio para los apasionados del automovilismo en donde recibimos a invitados destacados.</desc>
+  </programme>
+  <programme start="20260505200000 -0300" stop="20260505203000 -0300" channel="0927">
+    <title lang="es">Abriendo pista</title>
+    <desc lang="es">Lo mejor del rally y el deporte de motor a lo largo y a lo ancho de la República Argentina. Además, perfiles de corredores de varias provincias del país, así como también una extensa cobertura del Campeonato Argentino de Navegación .</desc>
+  </programme>
+  <programme start="20260505203000 -0300" stop="20260505220000 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información más completa del mundo de los deportes, con un enfoque analítico y polémico.</desc>
+  </programme>
+  <programme start="20260505220000 -0300" stop="20260505230000 -0300" channel="0927">
+    <title lang="es">Última vuelta</title>
+    <desc lang="es">Un clásico del automovilismo argentino que te cuenta lo que pasó y sucederá en cada uno de los circuitos de nuestro país, más el clásico debate de la mesa con la conducción de Eduardo Ruiz.</desc>
+  </programme>
+  <programme start="20260505230000 -0300" stop="20260506000000 -0300" channel="0927">
+    <title lang="es">DeporTV Textual</title>
+    <desc lang="es">Ceci Ruffa se sienta en el estudio a conversar junto a atletas sobre su carrera tanto deportiva como personal.</desc>
+  </programme>
+  <programme start="20260506000000 -0300" stop="20260506060000 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260506060000 -0300" stop="20260506120000 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260506120000 -0300" stop="20260506180000 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260506180000 -0300" stop="20260507000000 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260507000000 -0300" stop="20260507060000 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260507060000 -0300" stop="20260507120000 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260507120000 -0300" stop="20260507180000 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260507180000 -0300" stop="20260508000000 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260508000000 -0300" stop="20260508005959 -0300" channel="0927">
+    <title lang="es">DeporTV</title>
+    <desc lang="es">La información de este programa no se encuentra disponible.</desc>
+  </programme>
+  <programme start="20260503204149 -0300" stop="20260503222543 -0300" channel="504">
     <title lang="es">8 Mile </title>
   </programme>
   <programme start="20260503222845 -0300" stop="20260504001731 -0300" channel="504">
@@ -19708,10 +20462,10 @@
   <programme start="20260505163949 -0300" stop="20260505185402 -0300" channel="504">
     <title lang="es">Esfera</title>
   </programme>
-  <programme start="20260505185543 -0300" stop="20260505192811 -0300" channel="504">
+  <programme start="20260505185543 -0300" stop="20260505204149 -0300" channel="504">
     <title lang="es">La Cura Siniestra</title>
   </programme>
-  <programme start="20260503192811 -0300" stop="20260504080000 -0300" channel="531">
+  <programme start="20260503204149 -0300" stop="20260504080000 -0300" channel="531">
     <title lang="es">Maratones EnerGeek</title>
   </programme>
   <programme start="20260504080000 -0300" stop="20260504083000 -0300" channel="531">
@@ -19891,10 +20645,16 @@
   <programme start="20260505180000 -0300" stop="20260505190000 -0300" channel="531">
     <title lang="es">Marmalade Boy</title>
   </programme>
-  <programme start="20260505190000 -0300" stop="20260505192811 -0300" channel="531">
+  <programme start="20260505190000 -0300" stop="20260505200000 -0300" channel="531">
     <title lang="es">Samurai X</title>
   </programme>
-  <programme start="20260503192811 -0300" stop="20260504080000 -0300" channel="532">
+  <programme start="20260505200000 -0300" stop="20260505203000 -0300" channel="531">
+    <title lang="es">La Leyenda del Maestro Espadachin Yaiba</title>
+  </programme>
+  <programme start="20260505203000 -0300" stop="20260505204149 -0300" channel="531">
+    <title lang="es">Los Justicieros</title>
+  </programme>
+  <programme start="20260503204149 -0300" stop="20260504080000 -0300" channel="532">
     <title lang="es">Maratones</title>
   </programme>
   <programme start="20260504080000 -0300" stop="20260504083000 -0300" channel="532">
@@ -20080,16 +20840,19 @@
   <programme start="20260505183000 -0300" stop="20260505190000 -0300" channel="532">
     <title lang="es">ALF</title>
   </programme>
-  <programme start="20260505190000 -0300" stop="20260505192811 -0300" channel="532">
+  <programme start="20260505190000 -0300" stop="20260505193000 -0300" channel="532">
     <title lang="es">Qué Raro</title>
   </programme>
-  <programme start="20260503192811 -0300" stop="20260503194245 -0300" channel="536">
-    <title lang="es">Cosmos - El hombre del billón de mundos</title>
+  <programme start="20260505193000 -0300" stop="20260505200000 -0300" channel="532">
+    <title lang="es">VR Troopers</title>
   </programme>
-  <programme start="20260503194306 -0300" stop="20260503201157 -0300" channel="536">
-    <title lang="es">Planeta Nocturno a Todo Color - El Puma de la Montaña</title>
+  <programme start="20260505200000 -0300" stop="20260505203000 -0300" channel="532">
+    <title lang="es">Beetlejuice</title>
   </programme>
-  <programme start="20260503201212 -0300" stop="20260503213549 -0300" channel="536">
+  <programme start="20260505203000 -0300" stop="20260505204149 -0300" channel="532">
+    <title lang="es">Garfield y sus amigos</title>
+  </programme>
+  <programme start="20260503204149 -0300" stop="20260503213549 -0300" channel="536">
     <title lang="es">Chernobyl</title>
   </programme>
   <programme start="20260503213631 -0300" stop="20260503221125 -0300" channel="536">
@@ -20230,19 +20993,16 @@
   <programme start="20260505173007 -0300" stop="20260505183007 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260505183007 -0300" stop="20260505192811 -0300" channel="536">
+  <programme start="20260505183007 -0300" stop="20260505193007 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260503192811 -0300" stop="20260503194656 -0300" channel="537">
-    <title lang="es">Denver, El Último Dinosaurio</title>
+  <programme start="20260505193007 -0300" stop="20260505203007 -0300" channel="536">
+    <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260503195016 -0300" stop="20260503200946 -0300" channel="537">
-    <title lang="es">Chicho Terremoto</title>
+  <programme start="20260505203007 -0300" stop="20260505204149 -0300" channel="536">
+    <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260503201307 -0300" stop="20260503203503 -0300" channel="537">
-    <title lang="es">El Laboratorio de Dexter</title>
-  </programme>
-  <programme start="20260503203823 -0300" stop="20260503210303 -0300" channel="537">
+  <programme start="20260503204149 -0300" stop="20260503210303 -0300" channel="537">
     <title lang="es">Dragon Ball</title>
   </programme>
   <programme start="20260503210624 -0300" stop="20260503213126 -0300" channel="537">
@@ -20272,43 +21032,43 @@
   <programme start="20260504002227 -0300" stop="20260504004619 -0300" channel="537">
     <title lang="es">Robotech</title>
   </programme>
-  <programme start="20260504004619 -0300" stop="20260504011003 -0300" channel="537">
+  <programme start="20260504004619 -0300" stop="20260504011002 -0300" channel="537">
     <title lang="es">Robotech</title>
   </programme>
-  <programme start="20260504011323 -0300" stop="20260504013529 -0300" channel="537">
+  <programme start="20260504011322 -0300" stop="20260504013528 -0300" channel="537">
     <title lang="es">Cuentos de la Cripta</title>
   </programme>
-  <programme start="20260504013849 -0300" stop="20260504020155 -0300" channel="537">
+  <programme start="20260504013849 -0300" stop="20260504020154 -0300" channel="537">
     <title lang="es">Dinosaurios</title>
   </programme>
-  <programme start="20260504020515 -0300" stop="20260504025331 -0300" channel="537">
+  <programme start="20260504020515 -0300" stop="20260504025330 -0300" channel="537">
     <title lang="es">Automan</title>
   </programme>
-  <programme start="20260504025651 -0300" stop="20260504032303 -0300" channel="537">
+  <programme start="20260504025650 -0300" stop="20260504032303 -0300" channel="537">
     <title lang="es">Capitán Escarlata</title>
   </programme>
-  <programme start="20260504032624 -0300" stop="20260504041330 -0300" channel="537">
+  <programme start="20260504032623 -0300" stop="20260504041329 -0300" channel="537">
     <title lang="es">Thunderbirds</title>
   </programme>
-  <programme start="20260504041650 -0300" stop="20260504050735 -0300" channel="537">
+  <programme start="20260504041649 -0300" stop="20260504050735 -0300" channel="537">
     <title lang="es">Viajes a las Estrellas</title>
   </programme>
-  <programme start="20260504051056 -0300" stop="20260504053454 -0300" channel="537">
+  <programme start="20260504051055 -0300" stop="20260504053454 -0300" channel="537">
     <title lang="es">Sledge Hammer</title>
   </programme>
-  <programme start="20260504053815 -0300" stop="20260504062739 -0300" channel="537">
+  <programme start="20260504053814 -0300" stop="20260504062738 -0300" channel="537">
     <title lang="es">La Isla de la Fantasía</title>
   </programme>
-  <programme start="20260504063059 -0300" stop="20260504065642 -0300" channel="537">
+  <programme start="20260504063058 -0300" stop="20260504065641 -0300" channel="537">
     <title lang="es">La Dimensión Desconocida</title>
   </programme>
-  <programme start="20260504070002 -0300" stop="20260504072419 -0300" channel="537">
+  <programme start="20260504070002 -0300" stop="20260504072418 -0300" channel="537">
     <title lang="es">El Super Agente 86</title>
   </programme>
   <programme start="20260504072739 -0300" stop="20260504081606 -0300" channel="537">
     <title lang="es">Kojak</title>
   </programme>
-  <programme start="20260504081927 -0300" stop="20260504083525 -0300" channel="537">
+  <programme start="20260504081926 -0300" stop="20260504083525 -0300" channel="537">
     <title lang="es">Los Tres Chiflados</title>
   </programme>
   <programme start="20260504083525 -0300" stop="20260504085127 -0300" channel="537">
@@ -20317,155 +21077,155 @@
   <programme start="20260504085127 -0300" stop="20260504090942 -0300" channel="537">
     <title lang="es">Los Tres Chiflados</title>
   </programme>
-  <programme start="20260504091303 -0300" stop="20260504092046 -0300" channel="537">
+  <programme start="20260504091302 -0300" stop="20260504092046 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260504092046 -0300" stop="20260504092804 -0300" channel="537">
+  <programme start="20260504092046 -0300" stop="20260504092803 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260504092804 -0300" stop="20260504093549 -0300" channel="537">
+  <programme start="20260504092803 -0300" stop="20260504093549 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260504093549 -0300" stop="20260504094320 -0300" channel="537">
+  <programme start="20260504093549 -0300" stop="20260504094319 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260504094320 -0300" stop="20260504095040 -0300" channel="537">
+  <programme start="20260504094319 -0300" stop="20260504095039 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260504095040 -0300" stop="20260504095825 -0300" channel="537">
+  <programme start="20260504095039 -0300" stop="20260504095825 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260504095825 -0300" stop="20260504100531 -0300" channel="537">
+  <programme start="20260504095825 -0300" stop="20260504100530 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260504100531 -0300" stop="20260504101241 -0300" channel="537">
+  <programme start="20260504100530 -0300" stop="20260504101240 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260504101241 -0300" stop="20260504101908 -0300" channel="537">
+  <programme start="20260504101240 -0300" stop="20260504101908 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260504101908 -0300" stop="20260504102526 -0300" channel="537">
+  <programme start="20260504101908 -0300" stop="20260504102525 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260504102526 -0300" stop="20260504103225 -0300" channel="537">
+  <programme start="20260504102525 -0300" stop="20260504103225 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260504103225 -0300" stop="20260504103930 -0300" channel="537">
+  <programme start="20260504103225 -0300" stop="20260504103929 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260504103930 -0300" stop="20260504104623 -0300" channel="537">
+  <programme start="20260504103929 -0300" stop="20260504104622 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260504104623 -0300" stop="20260504105303 -0300" channel="537">
+  <programme start="20260504104622 -0300" stop="20260504105303 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
   <programme start="20260504105303 -0300" stop="20260504110059 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260504110059 -0300" stop="20260504110849 -0300" channel="537">
+  <programme start="20260504110059 -0300" stop="20260504110848 -0300" channel="537">
     <title lang="es">Looney Tunes</title>
   </programme>
-  <programme start="20260504110849 -0300" stop="20260504120849 -0300" channel="537">
+  <programme start="20260504110848 -0300" stop="20260504120848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260504120849 -0300" stop="20260504130849 -0300" channel="537">
+  <programme start="20260504120848 -0300" stop="20260504130848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260504130849 -0300" stop="20260504140849 -0300" channel="537">
+  <programme start="20260504130848 -0300" stop="20260504140848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260504140849 -0300" stop="20260504150849 -0300" channel="537">
+  <programme start="20260504140848 -0300" stop="20260504150848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260504150849 -0300" stop="20260504160849 -0300" channel="537">
+  <programme start="20260504150848 -0300" stop="20260504160848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260504160849 -0300" stop="20260504170849 -0300" channel="537">
+  <programme start="20260504160848 -0300" stop="20260504170848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260504170849 -0300" stop="20260504180849 -0300" channel="537">
+  <programme start="20260504170848 -0300" stop="20260504180848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260504180849 -0300" stop="20260504190849 -0300" channel="537">
+  <programme start="20260504180848 -0300" stop="20260504190848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260504190849 -0300" stop="20260504200849 -0300" channel="537">
+  <programme start="20260504190848 -0300" stop="20260504200848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260504200849 -0300" stop="20260504210849 -0300" channel="537">
+  <programme start="20260504200848 -0300" stop="20260504210848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260504210849 -0300" stop="20260504220849 -0300" channel="537">
+  <programme start="20260504210848 -0300" stop="20260504220848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260504220849 -0300" stop="20260504230849 -0300" channel="537">
+  <programme start="20260504220848 -0300" stop="20260504230848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260504230849 -0300" stop="20260505000849 -0300" channel="537">
+  <programme start="20260504230848 -0300" stop="20260505000848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505000849 -0300" stop="20260505010849 -0300" channel="537">
+  <programme start="20260505000848 -0300" stop="20260505010848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505010849 -0300" stop="20260505020849 -0300" channel="537">
+  <programme start="20260505010848 -0300" stop="20260505020848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505020849 -0300" stop="20260505030849 -0300" channel="537">
+  <programme start="20260505020848 -0300" stop="20260505030848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505030849 -0300" stop="20260505040849 -0300" channel="537">
+  <programme start="20260505030848 -0300" stop="20260505040848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505040849 -0300" stop="20260505050849 -0300" channel="537">
+  <programme start="20260505040848 -0300" stop="20260505050848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505050849 -0300" stop="20260505060849 -0300" channel="537">
+  <programme start="20260505050848 -0300" stop="20260505060848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505060849 -0300" stop="20260505070849 -0300" channel="537">
+  <programme start="20260505060848 -0300" stop="20260505070848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505070849 -0300" stop="20260505080849 -0300" channel="537">
+  <programme start="20260505070848 -0300" stop="20260505080848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505080849 -0300" stop="20260505090849 -0300" channel="537">
+  <programme start="20260505080848 -0300" stop="20260505090848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505090849 -0300" stop="20260505100849 -0300" channel="537">
+  <programme start="20260505090848 -0300" stop="20260505100848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505100849 -0300" stop="20260505110849 -0300" channel="537">
+  <programme start="20260505100848 -0300" stop="20260505110848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505110849 -0300" stop="20260505120849 -0300" channel="537">
+  <programme start="20260505110848 -0300" stop="20260505120848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505120849 -0300" stop="20260505130849 -0300" channel="537">
+  <programme start="20260505120848 -0300" stop="20260505130848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505130849 -0300" stop="20260505140849 -0300" channel="537">
+  <programme start="20260505130848 -0300" stop="20260505140848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505140849 -0300" stop="20260505150849 -0300" channel="537">
+  <programme start="20260505140848 -0300" stop="20260505150848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505150849 -0300" stop="20260505160849 -0300" channel="537">
+  <programme start="20260505150848 -0300" stop="20260505160848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505160849 -0300" stop="20260505170849 -0300" channel="537">
+  <programme start="20260505160848 -0300" stop="20260505170848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505170849 -0300" stop="20260505180849 -0300" channel="537">
+  <programme start="20260505170848 -0300" stop="20260505180848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505180849 -0300" stop="20260505190849 -0300" channel="537">
+  <programme start="20260505180848 -0300" stop="20260505190848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260505190849 -0300" stop="20260505192811 -0300" channel="537">
+  <programme start="20260505190848 -0300" stop="20260505200848 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260503190000 -0300" stop="20260503200000 -0300" channel="538">
-    <title lang="es">Programación Musical</title>
+  <programme start="20260505200848 -0300" stop="20260505204149 -0300" channel="537">
+    <title lang="es">Animotion</title>
   </programme>
   <programme start="20260503200000 -0300" stop="20260503210000 -0300" channel="538">
     <title lang="es">Programación Musical</title>
@@ -20608,10 +21368,10 @@
   <programme start="20260505180000 -0300" stop="20260505190000 -0300" channel="538">
     <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260503192811 -0300" stop="20260503201352 -0300" channel="539">
-    <title lang="es">(1997) - La Furia De La Montaña</title>
+  <programme start="20260505190000 -0300" stop="20260505200000 -0300" channel="538">
+    <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260503201352 -0300" stop="20260503214157 -0300" channel="539">
+  <programme start="20260503204149 -0300" stop="20260503214157 -0300" channel="539">
     <title lang="es">(1994) - Justicia Ciega</title>
   </programme>
   <programme start="20260503214157 -0300" stop="20260503231639 -0300" channel="539">
@@ -20635,10 +21395,10 @@
   <programme start="20260504084007 -0300" stop="20260504102629 -0300" channel="539">
     <title lang="es">(1987) - Los Atrevidos</title>
   </programme>
-  <programme start="20260504102629 -0300" stop="20260504121905 -0300" channel="539">
+  <programme start="20260504102629 -0300" stop="20260504121906 -0300" channel="539">
     <title lang="es">(1993) Un día de furia</title>
   </programme>
-  <programme start="20260504121905 -0300" stop="20260504135928 -0300" channel="539">
+  <programme start="20260504121906 -0300" stop="20260504135928 -0300" channel="539">
     <title lang="es">(1966) - Un Millon de Años AC</title>
   </programme>
   <programme start="20260504135928 -0300" stop="20260504164004 -0300" channel="539">
@@ -20683,11 +21443,11 @@
   <programme start="20260505170728 -0300" stop="20260505184352 -0300" channel="539">
     <title lang="es">(2006) - Mercenario De La Justicia</title>
   </programme>
-  <programme start="20260505184352 -0300" stop="20260505192811 -0300" channel="539">
+  <programme start="20260505184352 -0300" stop="20260505202330 -0300" channel="539">
     <title lang="es">(1982) - Rocky 3</title>
   </programme>
-  <programme start="20260503190000 -0300" stop="20260503200000 -0300" channel="567">
-    <title lang="es">MX Classic</title>
+  <programme start="20260505202330 -0300" stop="20260505204149 -0300" channel="539">
+    <title lang="es">(1956) - Tras La Pista De Los Asesinos</title>
   </programme>
   <programme start="20260503200000 -0300" stop="20260503210000 -0300" channel="567">
     <title lang="es">MX Classic</title>
@@ -20830,8 +21590,8 @@
   <programme start="20260505180000 -0300" stop="20260505190000 -0300" channel="567">
     <title lang="es">MX Classic</title>
   </programme>
-  <programme start="20260503190000 -0300" stop="20260503200000 -0300" channel="568">
-    <title lang="es">MX Series</title>
+  <programme start="20260505190000 -0300" stop="20260505200000 -0300" channel="567">
+    <title lang="es">MX Classic</title>
   </programme>
   <programme start="20260503200000 -0300" stop="20260503210000 -0300" channel="568">
     <title lang="es">MX Series</title>
@@ -20974,8 +21734,8 @@
   <programme start="20260505180000 -0300" stop="20260505190000 -0300" channel="568">
     <title lang="es">MX Series</title>
   </programme>
-  <programme start="20260503190000 -0300" stop="20260503200000 -0300" channel="569">
-    <title lang="es">MX Old</title>
+  <programme start="20260505190000 -0300" stop="20260505200000 -0300" channel="568">
+    <title lang="es">MX Series</title>
   </programme>
   <programme start="20260503200000 -0300" stop="20260503210000 -0300" channel="569">
     <title lang="es">MX Old</title>
@@ -21118,8 +21878,8 @@
   <programme start="20260505180000 -0300" stop="20260505190000 -0300" channel="569">
     <title lang="es">MX Old</title>
   </programme>
-  <programme start="20260503190000 -0300" stop="20260503200000 -0300" channel="581">
-    <title lang="es">Zoom back</title>
+  <programme start="20260505190000 -0300" stop="20260505200000 -0300" channel="569">
+    <title lang="es">MX Old</title>
   </programme>
   <programme start="20260503200000 -0300" stop="20260503210000 -0300" channel="581">
     <title lang="es">Zoom back</title>
@@ -21262,8 +22022,8 @@
   <programme start="20260505180000 -0300" stop="20260505190000 -0300" channel="581">
     <title lang="es">Zoom back</title>
   </programme>
-  <programme start="20260503190000 -0300" stop="20260503200000 -0300" channel="608">
-    <title lang="es">Sin información</title>
+  <programme start="20260505190000 -0300" stop="20260505200000 -0300" channel="581">
+    <title lang="es">Zoom back</title>
   </programme>
   <programme start="20260503200000 -0300" stop="20260503210000 -0300" channel="608">
     <title lang="es">Sin información</title>
@@ -21406,7 +22166,7 @@
   <programme start="20260505180000 -0300" stop="20260505190000 -0300" channel="608">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260503190000 -0300" stop="20260503200000 -0300" channel="663">
+  <programme start="20260505190000 -0300" stop="20260505200000 -0300" channel="608">
     <title lang="es">Sin información</title>
   </programme>
   <programme start="20260503200000 -0300" stop="20260503210000 -0300" channel="663">
@@ -21550,7 +22310,7 @@
   <programme start="20260505180000 -0300" stop="20260505190000 -0300" channel="663">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260503190000 -0300" stop="20260503200000 -0300" channel="664">
+  <programme start="20260505190000 -0300" stop="20260505200000 -0300" channel="663">
     <title lang="es">Sin información</title>
   </programme>
   <programme start="20260503200000 -0300" stop="20260503210000 -0300" channel="664">
@@ -21692,6 +22452,9 @@
     <title lang="es">Sin información</title>
   </programme>
   <programme start="20260505180000 -0300" stop="20260505190000 -0300" channel="664">
+    <title lang="es">Sin información</title>
+  </programme>
+  <programme start="20260505190000 -0300" stop="20260505200000 -0300" channel="664">
     <title lang="es">Sin información</title>
   </programme>
   <programme start="20260503212300 -0300" stop="20260503222300 -0300" channel="66a11a21a79dea0008aa90ca">
@@ -29567,70 +30330,6 @@
   <programme start="20260507004000 -0300" stop="20260507021600 -0300" channel="Canal.Cinema.Platino.mx">
     <title lang="es">Jugada salvaje</title>
   </programme>
-  <programme start="20260502024500 -0300" stop="20260502041000 -0300" channel="M+.Estrenos.es">
-    <title lang="es">Mentiroso compulsivo</title>
-    <desc lang="es">Jim Carrey colabora una vez más con el director Tom Shadyac (también han trabajado juntos en &quot;Sigo como Dios&quot; o &quot;Ace Ventura, un detective diferente&quot;) en una interpretación que es todo un homenaje al cómico Jerry Lewis y a los maestros del cine mudo y que le valió una nominación al mejor actor de comedia en los Globos de oro.</desc>
-  </programme>
-  <programme start="20260502041000 -0300" stop="20260502042100 -0300" channel="M+.Estrenos.es">
-    <title lang="es">Caminé a través de la pared</title>
-    <desc lang="es">Premio Movistar Plus+ al mejor cortometraje en el Festival de Alcalá de Henares 2025.</desc>
-  </programme>
-  <programme start="20260502042100 -0300" stop="20260502055200 -0300" channel="M+.Estrenos.es">
-    <title lang="es">El club de los milagros</title>
-    <desc lang="es">La última película de la ganadora del Oscar Maggie Smith (saga de &quot;Harry Potter&quot;) es esta oda a la amistad y la solidaridad que incluye a Kathy Bates (&quot;Misery&quot;, &quot;Matlock&quot;) y Laure Linney (&quot;El show de Truman&quot;, &quot;Puedes contar conmigo&quot;), también, como protagonistas.</desc>
-  </programme>
-  <programme start="20260502055200 -0300" stop="20260502075000 -0300" channel="M+.Estrenos.es">
-    <title lang="es">Soy Nevenka</title>
-    <desc lang="es">En este drama basado en hechos reales, Icíar Bollaín (&quot;Maixabel&quot;) narra la historia de Nevenka Fernández, concejala de Hacienda en el Ayuntamiento de Ponferrada que, en el año 2000, con 24 años, se convirtió en la primera española en llevar a un político influyente y popular ante los tribunales por acoso sexual y laboral.</desc>
-  </programme>
-  <programme start="20260502075000 -0300" stop="20260502100300 -0300" channel="M+.Estrenos.es">
-    <title lang="es">Valor sentimental</title>
-    <desc lang="es">Oscar a la mejor película internacional.</desc>
-  </programme>
-  <programme start="20260502100300 -0300" stop="20260502121100 -0300" channel="M+.Estrenos.es">
-    <title lang="es">Monsieur Aznavour</title>
-    <desc lang="es">Tahar Rahim (&quot;El profeta&quot;) se transforma en el gran icono de la canción melódica francesa, Charles Aznavour, en este inspirador &#x27;biopic&#x27; que narra la trayectoría de este artista alejado de los estándares de la época.</desc>
-  </programme>
-  <programme start="20260502121100 -0300" stop="20260502141100 -0300" channel="M+.Estrenos.es">
-    <title lang="es">Touch</title>
-    <desc lang="es">Basada en el &#x27;bestseller&#x27; islandés de Ólafur Jóhann Ólafsson, esta fascinante y desgarradora historia de amor sigue el emotivo viaje de Kristófer, un viudo que viaja a Japón para reencontrarse con Miko, la hija de un chef japonés de la que se enamoró en Londres en la década de 1960.</desc>
-  </programme>
-  <programme start="20260502141100 -0300" stop="20260502160000 -0300" channel="M+.Estrenos.es">
-    <title lang="es">La primera escuela</title>
-    <desc lang="es">Un delicado drama de época, ambientada a finales del siglo XIX en la campiña francesa, sobre la importancia de la educación, una historia en el que los ideales progresistas de una mujer aguerrida chocan con el conservadurismo rural.</desc>
-  </programme>
-  <programme start="20260502160000 -0300" stop="20260502174700 -0300" channel="M+.Estrenos.es">
-    <title lang="es">Nouvelle Vague</title>
-    <desc lang="es">Richard Linklater dirige esta carta de amor al cine de la Nueva Ola Francesa en &quot;Nouvelle Vague&quot;, una comedia de obligado visionado para cualquier apasionado del séptimo arte.</desc>
-  </programme>
-  <programme start="20260502174700 -0300" stop="20260502175400 -0300" channel="M+.Estrenos.es">
-    <title lang="es">Los Tigres</title>
-    <desc lang="es">&#x27;Los Tigres&#x27; es la novena película de Alberto Rodríguez que  tiene el mundo del buceo profesional como telón de fondo fascinante.</desc>
-  </programme>
-  <programme start="20260502175400 -0300" stop="20260502195200 -0300" channel="M+.Estrenos.es">
-    <title lang="es">Indomables</title>
-    <desc lang="es">Un deslumbrante cartel de jóvenes actores, Jacob Elordi (&quot;Euphoria&quot;, &quot;Saltburn&quot;), Daisy Edgar-Jones (&quot;Normal People&quot;), Will Poulter (&quot;Midsommar&quot;), Diego Calva (&quot;Babylon&quot;), Sasha Calle (&quot;Flash&quot;), encabeza el reparto de este melodrama moderno de múltiples capas en el que sus protagonistas abandonan la inercia de una vida &#x27;normal&#x27;.</desc>
-  </programme>
-  <programme start="20260502195200 -0300" stop="20260502212600 -0300" channel="M+.Estrenos.es">
-    <title lang="es">Coartadas</title>
-    <desc lang="es">&quot;Hemos conseguido una adaptación muy fiel de la película original francesa Alibi.com, pero con mucha más comedia&quot;, así describe su director, Martín Cuervo (&quot;¿Quién es quién?&quot;) esta divertida comedia de enredo protagonizada por Jaime Lorente (&quot;La casa de papel&quot;), Adriana Torrebejano (&quot;Muertos S.L.&quot;), Leo Harlem y Llum Barrera.</desc>
-  </programme>
-  <programme start="20260502212600 -0300" stop="20260502225900 -0300" channel="M+.Estrenos.es">
-    <title lang="es">La historia de Souleymane</title>
-    <desc lang="es">Un drama social, narrado casi como un &#x27;thriller&#x27;, que retrata tres días frenéticos en la vida de un inmigrante guineano en París, un hombre que lucha agónicamente y a contrarreloj por la supervivencia y la dignidad.</desc>
-  </programme>
-  <programme start="20260502225900 -0300" stop="20260503003700 -0300" channel="M+.Estrenos.es">
-    <title lang="es">Por donde pasa el silencio</title>
-    <desc lang="es">Nominada al Goya la mejor dirección novel, la ópera prima de Sandra Romero, basada en su cortometraje homónimo ganador del premio a la mejor dirección en Málaga, es &quot;un drama áspero sobre las dinámicas familiares, la incomunicación, el amor, la toxicidad entre hermanos y la posibilidad de romper el círculo en esos entornos&quot; (Pepa Blanes).</desc>
-  </programme>
-  <programme start="20260503003700 -0300" stop="20260503005900 -0300" channel="M+.Estrenos.es">
-    <title lang="es">Natura Fugit</title>
-    <desc lang="es">Proyecto Corto Movistar Plus+ 2024.</desc>
-  </programme>
-  <programme start="20260503005900 -0300" stop="20260503030000 -0300" channel="M+.Estrenos.es">
-    <title lang="es">Black Rain</title>
-    <desc lang="es">Nick Conklin (Michael Douglas) y Charlie Vincent (Andy Garcia) son dos policías de Nueva York que mientras vigilan una reunión entre miembros de la mafia americana y la Yakuza, mafia japonesa, residente en los Estados Unidos, se ven inmersos en un ajuste de cuentas durante el que uno de los asistentes a la reunión es asesinado. Uno de los responsables y autor de los hechos perteneciente a la Yakuza, Sato (Yûsaku Matsuda), es detenido y deberá ser trasladado a Japón. Para  realizar la, en principio, sencilla misión, Nick y Charlie son asignados como escoltas para trasladar a Sato a tierras niponas y ponerlo en manos de la policía y justicia japonesas. Pero una vez en el aeropuerto son engañados por falsos policías de uniforme y entregan al criminal a las personas equivocadas. Ante tal inesperado desenlace, Nick y Charlie, como todavía son responsables de Sato, deciden enmendar su error en medio de un país diferente, con otras leyes y otra cultura.</desc>
-  </programme>
   <programme start="20260503030000 -0300" stop="20260503044500 -0300" channel="M+.Estrenos.es">
     <title lang="es">Jasón y los argonautas</title>
     <desc lang="es">Las mitológicas aventuras del héroe griego Jasón y su búsqueda del vellocino de oro en una cinta épica convertida en clásico del cine mundial.</desc>
@@ -29815,65 +30514,81 @@
     <title lang="es">Rita</title>
     <desc lang="es">Tras trabajar como actriz para directores de la talla de Julio Medem o Vicente Aranda, Paz Vega se pone delante y detrás de las cámaras en Rita, su debut como directora, por el que estuvo nominada al Goya a la mejor dirección novel.</desc>
   </programme>
-  <programme start="20260502020100 -0300" stop="20260502025500 -0300" channel="M+.Acción.es">
-    <title lang="es">Tom Cruise, de oficio estrella</title>
-    <desc lang="es">Tom Cruise es una metáfora viviente, el más puro ejemplo del hombre americano hecho a sí mismo: un chico pobre y disléxico que pasó por más de quince escuelas en catorce años y ha logrado convertirse en el actor más importante de su generación.</desc>
+  <programme start="20260506003800 -0300" stop="20260506010000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Plancton</title>
+    <desc lang="es">Lluís se ha guardado sus sentimientos dentro durante tanto tiempo que se siente petrificado y tiene miedo al abismo que supondría abrirse. Un vértigo emocional que se ve a través del paisaje:.</desc>
   </programme>
-  <programme start="20260502025500 -0300" stop="20260502045300 -0300" channel="M+.Acción.es">
-    <title lang="es">El ejecutor</title>
-    <desc lang="es">El veterano detective Seo Do-cheol se embarca en una nueva historia de persecuciones, adrenalina y sentido del humor en esta secuela de &quot;Veteran. Por encima de la ley&quot;, la película más taquillera en Corea del Sur en 2015.</desc>
+  <programme start="20260506010000 -0300" stop="20260506030000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Frank Miller&#x27;s Sin City - Ciudad del pecado</title>
+    <desc lang="es">Bienvenidos a la Ciudad del pecado, llena de policías corruptos, atractivas damas y vigilantes desesperados. Unos están buscando venganza, otros, redención, y los hay que buscan ambas cosas.</desc>
   </programme>
-  <programme start="20260502045300 -0300" stop="20260502072800 -0300" channel="M+.Acción.es">
-    <title lang="es">Los Juegos del Hambre: Balada de pájaros cantores y serpientes</title>
-    <desc lang="es">En el Capitolio, Coriolanus Snow, de dieciocho años, se prepara para una oportunidad única: alcanzar la gloria como mentor de los Juegos. La casa de los Snow, antes tan influyente, atraviesa tiempos difíciles, y su destino depende de que Coriolanus consiga superar a sus compañeros en ingenio, estrategia y encanto como mentor del tributo que le sea adjudicado.</desc>
+  <programme start="20260506030000 -0300" stop="20260506044300 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Escalofrío en la noche</title>
+    <desc lang="es">El &#x27;disc-jockey&#x27; de una emisora de radio dedicada al jazz vive una aventura con una de sus más fervientes fans. Cuando ésta descubre que el hombre tiene novia formal y que ella no significó nada, se niega a aceptarlo y revela su psicótica personalidad y sus intenciones homicidas.</desc>
   </programme>
-  <programme start="20260502072800 -0300" stop="20260502095300 -0300" channel="M+.Acción.es">
-    <title lang="es">Origen</title>
-    <desc lang="es">Dom Cobb es un ladrón hábil, el mejor de todos, un experto en el arte de apropiarse, durante el estado de sueño, de los secretos del subconsciente ajeno. Esta habilidad excepcional lo ha hecho subir su cotización en el traicionero mundo del espionaje corporativo, pero, al mismo tiempo, lo ha convertido en un fugitivo internacional y le ha obligado a sacrificar todo lo que le importaba. Ahora, a Cobb se le ofrece una oportunidad para redimirse, pero solamente si logra lo imposible: la tarea no consiste en robar una idea, sino en insertarla.</desc>
+  <programme start="20260506044300 -0300" stop="20260506064100 -0300" channel="M+.Estrenos.es">
+    <title lang="es">The Prosecutor</title>
+    <desc lang="es">Donnie Yen es un exdetective convertido en fiscal que se toma la justicia por su mano en este &#x27;thriller&#x27; de acción sobre la corrupción en el sistema judicial.</desc>
   </programme>
-  <programme start="20260502095300 -0300" stop="20260502120000 -0300" channel="M+.Acción.es">
-    <title lang="es">El especialista</title>
-    <desc lang="es">El director que comenzó su carrera en Hollywood como doble de acción de Brad Pitt en &quot;El club de la lucha&quot;, David Leitch (&quot;Bullet Train&quot;), dirige esta comedia de acción, inspirada en sus propias experiencias, en la que Ryan Gosling interpreta a una de esas personas a las que pagan por encajar los golpes de otros: los especialistas.</desc>
+  <programme start="20260506064100 -0300" stop="20260506081800 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Memorias de un caracol</title>
+    <desc lang="es">Esta joya de la animación para adultos, realizada en &#x27;stop-motion&#x27; con figuras de plastilina, es una conmovedora, cáustica y oscura fábula ganadora del Festival de Annecy, el más prestigioso del cine de animación.</desc>
   </programme>
-  <programme start="20260502120000 -0300" stop="20260502120500 -0300" channel="M+.Acción.es">
-    <title lang="es">Por cien millones</title>
-    <desc lang="es">El talento cuenta detalles curiosos y sorprendentes de la historia que sucedieron en la realidad.</desc>
+  <programme start="20260506081800 -0300" stop="20260506100400 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Peques</title>
+    <desc lang="es">Ilana Glazer (&quot;Broad City&quot;) y la humorista Michelle Buteau protagonizan la ópera prima de la actriz Pamela Adlon (&quot;Californication&quot;) divertida tragicomedia llena de humor irreverente, emotividad y amistad femenina que redefine la comedia romántica.</desc>
   </programme>
-  <programme start="20260502120500 -0300" stop="20260502141800 -0300" channel="M+.Acción.es">
-    <title lang="es">El escuadrón suicida</title>
-    <desc lang="es">Margot Robbie e Idris Elba protagonizan esta adrenalínica décima entrega del Universo Cinematográfico DC sobre los divertidos antihéroes del Escuadrón Suicida, en esta ocasión enviados a la ficticia isla de Corto Maltés para destruir a una peligrosa criatura extraterrestre. Escrita y dirigida por James Gunn (&quot;Guardianes de la galaxia&quot;), la cinta supone un recomienzo o una secuela independiente -según se mire- de &quot;Escuadrón Suicida&quot; (2016).</desc>
+  <programme start="20260506100400 -0300" stop="20260506114800 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Golpes</title>
+    <desc lang="es">Luis Tosar y Jesús Carroza protagonizan &quot;Golpes&quot;, &#x27;thriller&#x27; ambientado en la Sevilla de la década de 1980 con estética de cine quinqui y con el que el guionista Rafael Cobos (&quot;La isla mínima&quot;, serie &quot;Anatomía de un instante&quot;) debuta en la dirección de cine.</desc>
   </programme>
-  <programme start="20260502141800 -0300" stop="20260502144700 -0300" channel="M+.Acción.es">
-    <title lang="es">¡No patinar!</title>
-    <desc lang="es">Premio Espiga de Plata al mejor cortometraje internacional en el Festival Seminci 2025.</desc>
+  <programme start="20260506114800 -0300" stop="20260506140900 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Dos forajidos</title>
+    <desc lang="es">Alec Baldwin (&quot;La caza del octubre rojo&quot;) protagoniza este &#x27;western&#x27; dirigido por Joel Souza (&quot;Mientras la ciudad duerme&quot;) ambientado en el Oeste de 1880. La película sigue la huida de Harland Rust, un forajido que rescata a su joven nieto tras ser condenado a la horca por un asesinato accidental, y emprende con él una peligrosa fuga hacia la frontera.</desc>
   </programme>
-  <programme start="20260502144700 -0300" stop="20260502165300 -0300" channel="M+.Acción.es">
-    <title lang="es">The Town: Ciudad de ladrones</title>
-    <desc lang="es">Mientras planifica su siguiente golpe, Doug MacRay, un atracador de bancos de Boston, tiene que esforzarse por controlar sus sentimientos hacia Claire, la directora de uno de los bancos que atracó. Al mismo tiempo, debe intentar esquivar al agente del FBI Frawley, que le sigue los pasos, y controlar a su &#x27;compañero de trabajo&#x27; Jem, quien, a pesar de su temperamento voluble y peligroso, es como un hermano para Doug.</desc>
+  <programme start="20260506140900 -0300" stop="20260506154600 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Exit 8</title>
+    <desc lang="es">El ganador de la Concha de Plata en San Sebastián 2022 por &quot;Cien flores&quot;, Genki Kawamura, dirige este espeluznante, desasosegante y original &#x27;thriller psicológico&#x27;, basado en el videojuego homónimo de éxito mundial creado por Kotake Create.</desc>
   </programme>
-  <programme start="20260502165300 -0300" stop="20260502170000 -0300" channel="M+.Acción.es">
-    <title lang="es">Por cien millones</title>
-    <desc lang="es">El talento principal y el director de la serie cuentan qué sabían de Quini y el suceso real de su secuestro antes de trabajar en &quot;Por cien millones&quot;.</desc>
+  <programme start="20260506154600 -0300" stop="20260506160000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Mi amiga Eva. Los juegos del amor</title>
+    <desc lang="es">Mi amiga Eva. Los juegos del amor.</desc>
   </programme>
-  <programme start="20260502170000 -0300" stop="20260502185300 -0300" channel="M+.Acción.es">
-    <title lang="es">Demolition Man</title>
-    <desc lang="es">En 1996, un criminal llamado Simon Phoenix se atrinchera con rehenes en un edificio de Los Ángeles. El sargento John Spartan, conocido como &#x27;Demolition Man&#x27;, consigue atraparlo tras un arriesgado ataque que acaba con la destrucción del inmueble y con todos los rehenes muertos. Por este motivo, ambos son condenados a ser congelados.</desc>
+  <programme start="20260506160000 -0300" stop="20260506174000 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Esa cosa con alas</title>
+    <desc lang="es">Benedict Cumberbatch (serie &quot;Sherlock&quot;) protagoniza esta impecable adaptación al cine de la novela &quot;El duelo es esa cosa con alas&quot; de Max Porter, una historia sobre la catarsis que supone un duelo y la gestión de esa pérdida.</desc>
   </programme>
-  <programme start="20260502185300 -0300" stop="20260502203700 -0300" channel="M+.Acción.es">
-    <title lang="es">Asesinato en la Casa Blanca</title>
-    <desc lang="es">Ha ocurrido un asesinato en la Casa Blanca. Encargan el caso al detective Harlan Regis pero una vez dentro se da cuenta del peligro que corre.</desc>
+  <programme start="20260506174000 -0300" stop="20260506194500 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Monsieur Aznavour</title>
+    <desc lang="es">Tahar Rahim (&quot;El profeta&quot;) se transforma en el gran icono de la canción melódica francesa, Charles Aznavour, en este inspirador &#x27;biopic&#x27; que narra la trayectoría de este artista alejado de los estándares de la época.</desc>
   </programme>
-  <programme start="20260502203700 -0300" stop="20260502220700 -0300" channel="M+.Acción.es">
-    <title lang="es">Una muerte silenciosa</title>
-    <desc lang="es">Intrincado &#x27;thriller&#x27; policial, ambientado en una remota zona rural de la gélida Patagonia argentina, en el que las muertes no se limitan a lo accidental y los secretos, las culpas y los pecados implican incluso a aquellos que son inocentes.</desc>
+  <programme start="20260506194500 -0300" stop="20260506212200 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Contigo, todo</title>
+    <desc lang="es">Laura y Simon son amigos desde la universidad. Con los años, comprenden que lo suyo es más que amistad. ¿Pueden (o deben) arriesgarlo todo por un amor que siempre ha estado ahí?</desc>
   </programme>
-  <programme start="20260502220700 -0300" stop="20260502234400 -0300" channel="M+.Acción.es">
-    <title lang="es">Kung Fu sion</title>
-    <desc lang="es">Ambientada en el caos de la China prerrevolucionaria, un ladrón de poca monta, Sing (Stephen Chow), aspira a ser uno de los crueles y sofisticados miembros de la Banda del Hacha cuyas actividades ilegales ensombrecen la ciudad.</desc>
+  <programme start="20260506212200 -0300" stop="20260506230100 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Problemas de familia</title>
+    <desc lang="es">Colm Meaney (&quot;Café irlandés&quot;) y Paul Reiser (&quot;Mad About You&quot;) son dos desconocidos primos lejanos, uno irlandés y otro estadounidense, en esta tierna comedia irlandesa en la que los estereotipos juegan un divertido papel.</desc>
   </programme>
-  <programme start="20260502234400 -0300" stop="20260503014300 -0300" channel="M+.Acción.es">
-    <title lang="es">Cloud</title>
-    <desc lang="es">Yoshii, un joven que se dedica a la reventa de productos por Internet, se encuentra en el centro de una serie de misteriosos sucesos que ponen en peligro su vida.</desc>
+  <programme start="20260506230100 -0300" stop="20260506233100 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Casi Septiembre</title>
+    <desc lang="es">Sigue a Alejandra, una joven que vive todo el año con su familia en un camping resort. La historia explora su lucha contra el miedo al abandono, especialmente cuando un nuevo romance con un turista madrileño saca a la superficie estas inseguridades.</desc>
+  </programme>
+  <programme start="20260506233100 -0300" stop="20260506233600 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Baile con la Muerte</title>
+    <desc lang="es">Cortometraje preseleccionado para los Goya 2026 en la categoría de mejor cortometraje de animación.</desc>
+  </programme>
+  <programme start="20260506233600 -0300" stop="20260506235300 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Más allá del silencio</title>
+    <desc lang="es">Cortometraje preseleccionado para los Oscar 2026 en la categoría de mejor cortometraje de ficción.</desc>
+  </programme>
+  <programme start="20260506235300 -0300" stop="20260507000100 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Cabeza hueca</title>
+    <desc lang="es">Colin, un alumno despistado, se evade en sus pensamientos durante una clase de matemáticas, rodeado de divertidos personajes que le reconfortan. Cuando se le llama a la pizarra, permanece atrapado en su sueño. De una lágrima brota uno de los amigos imaginarios de Colin, que le guía por las maravillas del mundo exterior, señalándole toda su belleza y sus fascinantes detalles. Esto da a Colin la fuerza y la esperanza para volver en sí.</desc>
+  </programme>
+  <programme start="20260507000100 -0300" stop="20260507005600 -0300" channel="M+.Estrenos.es">
+    <title lang="es">Oliver Stone: el outsider</title>
+    <desc lang="es">Con su cine, Oliver Stone ha retratado las luces y sombras de Estados Unidos. Este documental no solo recorre la trayectoria del célebre director, sino que también ofrece un retrato de su tiempo y de un país en conflicto consigo mismo.</desc>
   </programme>
   <programme start="20260503014300 -0300" stop="20260503025500 -0300" channel="M+.Acción.es">
     <title lang="es">El guerrero de la venganza</title>
@@ -30035,69 +30750,65 @@
     <title lang="es">Asesinato en la Casa Blanca</title>
     <desc lang="es">Ha ocurrido un asesinato en la Casa Blanca. Encargan el caso al detective Harlan Regis pero una vez dentro se da cuenta del peligro que corre.</desc>
   </programme>
-  <programme start="20260501194600 -0300" stop="20260501213500 -0300" channel="Be.Mad.es">
-    <title lang="es">Ni una palabra</title>
-    <desc lang="es">Nathan R. Conrad es un prestigioso psiquiatra que, tras pedírselo un compañero, accede a visitar a una chica con graves trastornos. Pero este caso irá más allá cuando su familia se ve implicada agravando la situación.</desc>
+  <programme start="20260505225300 -0300" stop="20260506013000 -0300" channel="M+.Acción.es">
+    <title lang="es">Blade Runner 2049</title>
+    <desc lang="es">Tras la rebelión de los replicantes -humanos creados por bioingeniería para ser utilizados como mano de obra esclava- y la prohibición a Tyrell Corporation de seguir con su fabricación, el empresario Niander Wallace adquirió lo que quedaba de Tyrell Corp. y creó una nueva línea de replicantes mucho más obedientes. Ahora, en el año 2049, los viejos modelos Nexus 8 que continúan con vida están siendo &#x27;retirados&#x27;. Los que les persiguen aún reciben el nombre de Blade Runner.</desc>
   </programme>
-  <programme start="20260501213500 -0300" stop="20260501221500 -0300" channel="Be.Mad.es">
-    <title lang="es">Sportium Game Show</title>
-    <desc lang="es">Espacio en el que se repasan las mejores estrategias de juego para las diferentes apuestas deportivas.</desc>
+  <programme start="20260506013000 -0300" stop="20260506030000 -0300" channel="M+.Acción.es">
+    <title lang="es">The Last Stop in Yuma County</title>
+    <desc lang="es">Jim Cummings lidera el reparto de este intenso y adictivo &#x27;thriller&#x27; negro, repleto de crimen, violencia y agudos diálogos, ganador del premio a la mejor película en la Sección Órbita del Festival de Sitges de 2023.</desc>
   </programme>
-  <programme start="20260501221500 -0300" stop="20260501224500 -0300" channel="Be.Mad.es">
-    <title lang="es">Love Shopping TV</title>
-    <desc lang="es">Nuevo formato de televenta en la madrugada.</desc>
+  <programme start="20260506030000 -0300" stop="20260506043500 -0300" channel="M+.Acción.es">
+    <title lang="es">La torre oscura</title>
+    <desc lang="es">Una torre se alza en el centro del Universo, protegiéndonos de la oscuridad. Se dice que la mente de un niño puede derribarla.</desc>
   </programme>
-  <programme start="20260501224500 -0300" stop="20260502003700 -0300" channel="Be.Mad.es">
-    <title lang="es">50 sombras de Grey</title>
-    <desc lang="es">La vida de la estudiante de literatura Anastasia Steele cambia para siempre cuando conoce al atractivo pero atormentado multimillonario Christian Grey.</desc>
+  <programme start="20260506043500 -0300" stop="20260506044500 -0300" channel="M+.Acción.es">
+    <title lang="es">El canto de un gorrión</title>
+    <desc lang="es">Ganador del Oscar Estudiantil de Oro 2025 en la categoria de mejor cortometraje de animación.</desc>
   </programme>
-  <programme start="20260502003700 -0300" stop="20260502003800 -0300" channel="Be.Mad.es">
-    <title lang="es">Mad Movie</title>
-    <desc lang="es">Magazine en el que se presenta la película que se emitirá a continuación.</desc>
+  <programme start="20260506044500 -0300" stop="20260506082900 -0300" channel="M+.Acción.es">
+    <title lang="es">El señor de los anillos: la comunidad del anillo</title>
+    <desc lang="es">El mago Gandalf (Ian McKellen), los hobbits Frodo (Elijah Wood), Sam (Sean Astin), Pippin (Billy Boyd) y Merry (Dominic Monaghan), el elfo Legolas (Orlando Bloom), el enano Gimli (John Rhys-Davies) y los humanos Boromir (Sean Bean) y Trancos (Viggo Mortensen) inician una heroica aventura para destruir el Anillo Único en esta versión extendida de la primera entrega de una saga que cambió el cine fantástico.</desc>
   </programme>
-  <programme start="20260502003800 -0300" stop="20260502003900 -0300" channel="Be.Mad.es">
-    <title lang="es">Mad Movie</title>
-    <desc lang="es">Magazine en el que se presenta la película que se emitirá a continuación.</desc>
+  <programme start="20260506082900 -0300" stop="20260506121900 -0300" channel="M+.Acción.es">
+    <title lang="es">El señor de los anillos: las dos torres</title>
+    <desc lang="es">El cineasta neozelandés Peter Jackson presenta la segunda entrega de una saga que ya forma parte de la historia del cine reciente, basada en los libros de la clásica trilogía de J.R.R. Tolkien, publicada por primera vez en 1954 y considerada el mejor relato de aventuras jamás escrito. El propio Peter Jackson es el encargado del guion en colaboración con Frances Walsh, Stephen Sinclair y Philippa Boyens.</desc>
   </programme>
-  <programme start="20260502003900 -0300" stop="20260502024200 -0300" channel="Be.Mad.es">
-    <title lang="es">Vértigo</title>
-    <desc lang="es">A pesar de estar retirado, John &quot;Scottie&quot; Ferguson decide aceptar el encargo de un viejo amigo suyo de seguir a su bella esposa Madeleine, la cual está convencida de haber sido poseída por un ancestro.</desc>
+  <programme start="20260506121900 -0300" stop="20260506163900 -0300" channel="M+.Acción.es">
+    <title lang="es">El señor de los anillos: el retorno del rey</title>
+    <desc lang="es">Peter Jackson cierra con esta tercera entrega de la saga &quot;El señor de los anillos&quot; su gesta de trasladar a la pantalla grande la mítica trilogía publicada por J.R.R. Tolkien en 1954. El trasfondo de este mundo de fantasía, en el que el Bien y el Mal se representan en términos absolutos, es una epopeya sobre la amistad y la tolerancia, los héroes fortuitos, el destino, la lealtad y la esperanza.</desc>
   </programme>
-  <programme start="20260502024200 -0300" stop="20260502035100 -0300" channel="Be.Mad.es">
-    <title lang="es">Blackout: Sin identidad</title>
-    <desc lang="es">Cain se despierta en un hospital mexicano con amnesia y sin saber quién es. Después de conocer a Anna, y con su ayuda, descubre su identidad: es un agente de la DEA. Pronto se encontrará luchando por su vida.</desc>
+  <programme start="20260506163900 -0300" stop="20260506170000 -0300" channel="M+.Acción.es">
+    <title lang="es">No me da la vida</title>
+    <desc lang="es">Un jueves al mes Lucas, Río y Marcos consiguen jugar al mus en casa de Xabi, el perfecto anfitrión. Parece una partida normal hasta que Xabi les confiesa lo que ha tenido que estar haciendo el último mes.</desc>
   </programme>
-  <programme start="20260502035100 -0300" stop="20260502051700 -0300" channel="Be.Mad.es">
-    <title lang="es">Enemigos (Ecks contra Sever)</title>
-    <desc lang="es">Sever fue en su día una excepcional agente secreta, pero abandonó después de que su hijo fuese asesinado en un ataque organizado por Gant y ha jurado venganza contra él y sus colegas.</desc>
+  <programme start="20260506170000 -0300" stop="20260506184200 -0300" channel="M+.Acción.es">
+    <title lang="es">Sé lo que hicisteis el último verano</title>
+    <desc lang="es">En la noche de fin de curso, después de la celebración, cuatro jóvenes atropellan a un desconocido en la tortuosa carretera de la costa. Temerosos de un escándalo que podría estropearles su brillante futuro, los chicos deciden echar al mar el cadáver y guardar el secreto para siempre. Mientras empujan el cadáver al malecón, creen que el secreto se hunde con él, pero se equivocan. Un año después todos recibirán una nota con un misterioso mensaje: &quot;Sé lo que hicisteis el último verano&quot;.</desc>
   </programme>
-  <programme start="20260502051700 -0300" stop="20260502065700 -0300" channel="Be.Mad.es">
-    <title lang="es">Kick Ass 2: Con un par</title>
-    <desc lang="es">El héroe de secundaria Kick-Ass se une a un grupo de ciudadanos normales en que han decidido combatir el mal en traje. Mientras tanto, Bruma Roja traza un plan de venganza que afectará a todos aquellos que Kick-Ass conoce.</desc>
+  <programme start="20260506184200 -0300" stop="20260506202500 -0300" channel="M+.Acción.es">
+    <title lang="es">Aún sé lo que hicisteis el último verano</title>
+    <desc lang="es">Después de un angustioso verano en el que perdió a algunos de sus mejores amigos en manos del misterioso hombre del garfio, Julie abandona su ciudad para ir a la universidad de Boston, tratando de dejar atrás sus dolorosos recuerdos. Pero una extraña llamada, que le anuncia que es la ganadora de un fin de semana en una isla paradisíaca, volverá a desatar de nuevo el terror.</desc>
   </programme>
-  <programme start="20260502065700 -0300" stop="20260502084600 -0300" channel="Be.Mad.es">
-    <title lang="es">Daredevil</title>
-    <desc lang="es">Cuando al huérfano Matt Murdock le caen residuos radioactivos y se queda ciego, parece que su vida iba a cambiar para siempre. Pero sólo para convertirse en Daredevil, el superhéroe que patrulla en la noche.</desc>
+  <programme start="20260506202500 -0300" stop="20260506221200 -0300" channel="M+.Acción.es">
+    <title lang="es">Sé lo que hicisteis el último verano</title>
+    <desc lang="es">Primera entrega de esta segunda trilogía rejuvenecida de la clásica saga terror homónima de la década de 1990, basada en la novela de Lois Duncan.</desc>
   </programme>
-  <programme start="20260502084600 -0300" stop="20260502102100 -0300" channel="Be.Mad.es">
-    <title lang="es">El niño y el tigre</title>
-    <desc lang="es">Una película de aventuras y fantasía ambientada en los bosques tropicales del Himalaya.</desc>
+  <programme start="20260506221200 -0300" stop="20260506224100 -0300" channel="M+.Acción.es">
+    <title lang="es">Casi Septiembre</title>
+    <desc lang="es">Sigue a Alejandra, una joven que vive todo el año con su familia en un camping resort. La historia explora su lucha contra el miedo al abandono, especialmente cuando un nuevo romance con un turista madrileño saca a la superficie estas inseguridades.</desc>
   </programme>
-  <programme start="20260502102100 -0300" stop="20260502125700 -0300" channel="Be.Mad.es">
-    <title lang="es">La venganza del conde de Montecristo</title>
-    <desc lang="es">Edmundo Dantés vuelve después de un largo viaje para reunirse con su amada, Mercedes y pedirle matrimonio. Pero de pronto es acusado de falsa traición por sus amigos y encerrado en la prisión de If.</desc>
+  <programme start="20260506224100 -0300" stop="20260506224500 -0300" channel="M+.Acción.es">
+    <title lang="es">Baile con la Muerte</title>
+    <desc lang="es">Cortometraje preseleccionado para los Goya 2026 en la categoría de mejor cortometraje de animación.</desc>
   </programme>
-  <programme start="20260502125700 -0300" stop="20260502151900 -0300" channel="Be.Mad.es">
-    <title lang="es">La máscara del Zorro</title>
-    <desc lang="es">Después de veinte años en prisión, Don Diego de la Vega decidirá entrenar a un bandido llamado Alejandro para que encarne al nuevo &quot;Zorro&quot; y se vengue de don Rafael Montoro por todo el dolor causado.</desc>
+  <programme start="20260506224500 -0300" stop="20260506230100 -0300" channel="M+.Acción.es">
+    <title lang="es">Más allá del silencio</title>
+    <desc lang="es">Cortometraje preseleccionado para los Oscar 2026 en la categoría de mejor cortometraje de ficción.</desc>
   </programme>
-  <programme start="20260502151900 -0300" stop="20260502173400 -0300" channel="Be.Mad.es">
-    <title lang="es">La leyenda del Zorro</title>
-    <desc lang="es">Tras una última y heroica hazaña, Antonio de la Vega decide dejar el antifaz del Zorro como le prometió a su bella mujer Elena. Pero cuando es testigo de una nueva injusticia vuelve a actuar.</desc>
-  </programme>
-  <programme start="20260502173400 -0300" stop="20260502190700 -0300" channel="Be.Mad.es">
-    <title lang="es">El bibliotecario: La maldición del cáliz de Judas</title>
-    <desc lang="es">Flynn Carsen, un bibliotecario, viaja a los pantanos de Nueva Orleans en busca del cáliz de Judas, una copa de plata que, según la leyenda, tenía el poder de devolver a la vida al príncipe Drácula.</desc>
+  <programme start="20260506230100 -0300" stop="20260506231500 -0300" channel="M+.Acción.es">
+    <title lang="es">Cabeza hueca</title>
+    <desc lang="es">Colin, un alumno despistado, se evade en sus pensamientos durante una clase de matemáticas, rodeado de divertidos personajes que le reconfortan. Cuando se le llama a la pizarra, permanece atrapado en su sueño. De una lágrima brota uno de los amigos imaginarios de Colin, que le guía por las maravillas del mundo exterior, señalándole toda su belleza y sus fascinantes detalles. Esto da a Colin la fuerza y la esperanza para volver en sí.</desc>
   </programme>
   <programme start="20260502190700 -0300" stop="20260502204200 -0300" channel="Be.Mad.es">
     <title lang="es">El bibliotecario: El mapa del rey Salomón</title>
@@ -30187,125 +30898,107 @@
     <title lang="es">Cincuenta sombras más oscuras</title>
     <desc lang="es">Asustada por los gustos sexuales de Christian Grey, Ana decide separarse de su lado para comenzar una prometedora carrera profesional. Enamorado, el millonario está dispuesto a todo para conseguir volver con Ana.</desc>
   </programme>
-  <programme start="20260503231700 -0300" stop="20260504005500 -0300" channel="Be.Mad.es">
+  <programme start="20260503231700 -0300" stop="20260504003300 -0300" channel="Be.Mad.es">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.</desc>
   </programme>
-  <programme start="20260504005500 -0300" stop="20260504012900 -0300" channel="Be.Mad.es">
-    <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.</desc>
+  <programme start="20260504003300 -0300" stop="20260504003600 -0300" channel="Be.Mad.es">
+    <title lang="es">Mad Movie</title>
   </programme>
-  <programme start="20260504012900 -0300" stop="20260504013200 -0300" channel="Be.Mad.es">
+  <programme start="20260504003600 -0300" stop="20260504004000 -0300" channel="Be.Mad.es">
+    <title lang="es">Mad Movie</title>
+  </programme>
+  <programme start="20260504004000 -0300" stop="20260504004400 -0300" channel="Be.Mad.es">
+    <title lang="es">Mad Movie</title>
+  </programme>
+  <programme start="20260504004400 -0300" stop="20260504022300 -0300" channel="Be.Mad.es">
+    <title lang="es">Luchar o morir</title>
+  </programme>
+  <programme start="20260504022300 -0300" stop="20260504040800 -0300" channel="Be.Mad.es">
+    <title lang="es">El cuaderno de Sara</title>
+  </programme>
+  <programme start="20260504040800 -0300" stop="20260504053500 -0300" channel="Be.Mad.es">
+    <title lang="es">No confíes en nadie</title>
+  </programme>
+  <programme start="20260504053500 -0300" stop="20260504070000 -0300" channel="Be.Mad.es">
+    <title lang="es">Crónica de un engaño</title>
+  </programme>
+  <programme start="20260504070000 -0300" stop="20260504084700 -0300" channel="Be.Mad.es">
+    <title lang="es">El ladrón de palabras</title>
+  </programme>
+  <programme start="20260504084700 -0300" stop="20260504103800 -0300" channel="Be.Mad.es">
+    <title lang="es">La lista</title>
+  </programme>
+  <programme start="20260504103800 -0300" stop="20260504122500 -0300" channel="Be.Mad.es">
+    <title lang="es">Jumper</title>
+  </programme>
+  <programme start="20260504122500 -0300" stop="20260504153800 -0300" channel="Be.Mad.es">
+    <title lang="es">¿Conoces a Joe Black?</title>
+  </programme>
+  <programme start="20260504153800 -0300" stop="20260504173100 -0300" channel="Be.Mad.es">
+    <title lang="es">El secreto de Thomas Crown</title>
+  </programme>
+  <programme start="20260504173100 -0300" stop="20260504190900 -0300" channel="Be.Mad.es">
+    <title lang="es">Comando: El infierno es para los héroes</title>
+  </programme>
+  <programme start="20260504190900 -0300" stop="20260504204300 -0300" channel="Be.Mad.es">
+    <title lang="es">Bobby Z</title>
+  </programme>
+  <programme start="20260504204300 -0300" stop="20260504220700 -0300" channel="Be.Mad.es">
+    <title lang="es">Joe Kidd</title>
+  </programme>
+  <programme start="20260504220700 -0300" stop="20260504224700 -0300" channel="Be.Mad.es">
+    <title lang="es">Sportium Game Show</title>
+  </programme>
+  <programme start="20260504224700 -0300" stop="20260504231700 -0300" channel="Be.Mad.es">
+    <title lang="es">Love Shopping TV</title>
+  </programme>
+  <programme start="20260504231700 -0300" stop="20260505005800 -0300" channel="Be.Mad.es">
+    <title lang="es">La noche de los desaparecidos</title>
+  </programme>
+  <programme start="20260505005800 -0300" stop="20260505010200 -0300" channel="Be.Mad.es">
     <title lang="es">Mad Movie</title>
     <desc lang="es">Magazine de presentación al cine.</desc>
   </programme>
-  <programme start="20260504013200 -0300" stop="20260504025700 -0300" channel="Be.Mad.es">
+  <programme start="20260505010200 -0300" stop="20260505025400 -0300" channel="Be.Mad.es">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.</desc>
   </programme>
-  <programme start="20260504025700 -0300" stop="20260504043500 -0300" channel="Be.Mad.es">
+  <programme start="20260505025400 -0300" stop="20260505042500 -0300" channel="Be.Mad.es">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.</desc>
   </programme>
-  <programme start="20260504043500 -0300" stop="20260504055700 -0300" channel="Be.Mad.es">
+  <programme start="20260505042500 -0300" stop="20260505055600 -0300" channel="Be.Mad.es">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.</desc>
   </programme>
-  <programme start="20260504055700 -0300" stop="20260504071800 -0300" channel="Be.Mad.es">
+  <programme start="20260505055600 -0300" stop="20260505074700 -0300" channel="Be.Mad.es">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.</desc>
   </programme>
-  <programme start="20260504071800 -0300" stop="20260504085900 -0300" channel="Be.Mad.es">
+  <programme start="20260505074700 -0300" stop="20260505102600 -0300" channel="Be.Mad.es">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.</desc>
   </programme>
-  <programme start="20260504085900 -0300" stop="20260504103300 -0300" channel="Be.Mad.es">
+  <programme start="20260505102600 -0300" stop="20260505124200 -0300" channel="Be.Mad.es">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.</desc>
   </programme>
-  <programme start="20260504103300 -0300" stop="20260504120700 -0300" channel="Be.Mad.es">
+  <programme start="20260505124200 -0300" stop="20260505143000 -0300" channel="Be.Mad.es">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.</desc>
   </programme>
-  <programme start="20260504120700 -0300" stop="20260504133800 -0300" channel="Be.Mad.es">
+  <programme start="20260505143000 -0300" stop="20260505170100 -0300" channel="Be.Mad.es">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.</desc>
   </programme>
-  <programme start="20260504133800 -0300" stop="20260504150700 -0300" channel="Be.Mad.es">
+  <programme start="20260505170100 -0300" stop="20260505185100 -0300" channel="Be.Mad.es">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.</desc>
   </programme>
-  <programme start="20260504150700 -0300" stop="20260504164600 -0300" channel="Be.Mad.es">
+  <programme start="20260505185100 -0300" stop="20260505203800 -0300" channel="Be.Mad.es">
     <title lang="es">Cine</title>
     <desc lang="es">Emisión de una película.</desc>
-  </programme>
-  <programme start="20260504164600 -0300" stop="20260504183700 -0300" channel="Be.Mad.es">
-    <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.</desc>
-  </programme>
-  <programme start="20260504183700 -0300" stop="20260504203200 -0300" channel="Be.Mad.es">
-    <title lang="es">Cine</title>
-    <desc lang="es">Emisión de una película.</desc>
-  </programme>
-  <programme start="20260501210600 -0300" stop="20260501223600 -0300" channel="C.Hollywood.es">
-    <title lang="es">Comando</title>
-    <desc lang="es">Arnold vuelve con toda la acción posible en la versión del director de Commando. Secuestran a la hija de un soldado y este hará lo imposible para rescatarla.</desc>
-  </programme>
-  <programme start="20260501223600 -0300" stop="20260501235900 -0300" channel="C.Hollywood.es">
-    <title lang="es">Spy Kids 4: Todo el tiempo del mundo</title>
-    <desc lang="es">Una agente retirada es convocada nuevamente para enfrentar a un maníaco que amenaza con apoderarse del planeta. Los dos hijastros de la espía se unen a ella en su lucha contra el mal, aunque, antes, deberán dejar de lado sus diferencias.</desc>
-  </programme>
-  <programme start="20260501235900 -0300" stop="20260502020200 -0300" channel="C.Hollywood.es">
-    <title lang="es">Creed: La leyenda de Rocky</title>
-    <desc lang="es">Adonis Johnson no conoció a su padre, el campeón de los pesos pesados Apollo Creed, ya que murió antes de que él naciese. Sin embargo, lleva el boxeo en la sangre y viaja a Filadelfia para intentar que Rocky Balboa sea su entrenador.</desc>
-  </programme>
-  <programme start="20260502020200 -0300" stop="20260502040300 -0300" channel="C.Hollywood.es">
-    <title lang="es">Creed II: La leyenda de Rocky</title>
-    <desc lang="es">Adonis Johnson se prepara para un combate contra el hijo de Iván Drago.</desc>
-  </programme>
-  <programme start="20260502040300 -0300" stop="20260502053300 -0300" channel="C.Hollywood.es">
-    <title lang="es">El chico de oro</title>
-    <desc lang="es">Chandler Jarrell, un detective especializado en buscar niños perdidos, tiene la misión de encontrar y proteger a un pequeño budista dotado de poderes mágicos, al que llaman &#x27;El chico de oro&#x27;.</desc>
-  </programme>
-  <programme start="20260502053300 -0300" stop="20260502074800 -0300" channel="C.Hollywood.es">
-    <title lang="es">Transformers</title>
-    <desc lang="es">Cuando la guerra por el Universo entre los Autobots y los Decepticons llega a la Tierra, lo único que separa a los Decepticons del poder es un joven.</desc>
-  </programme>
-  <programme start="20260502074800 -0300" stop="20260502095600 -0300" channel="C.Hollywood.es">
-    <title lang="es">Harry Potter y la orden del Fénix</title>
-    <desc lang="es">Tras burlarse de su advertencia sobre el regreso de Lord Voldemort, Harry y Dumbledore se convierten en el blanco de las autoridades hechiceras.</desc>
-  </programme>
-  <programme start="20260502095600 -0300" stop="20260502100400 -0300" channel="C.Hollywood.es">
-    <title lang="es">TikTak Cine</title>
-    <desc lang="es">Actor versátil, divertido y eternamente joven, el polifacético Paul Rudd sigue demostrando que la acción también puede tener mucho humor.</desc>
-  </programme>
-  <programme start="20260502100400 -0300" stop="20260502123100 -0300" channel="C.Hollywood.es">
-    <title lang="es">Harry Potter y el misterio del príncipe</title>
-    <desc lang="es">Harry inicia su sexto curso en Hogwarts y elegido capitán del equipo de Quidditch. Los entrenamientos, los exámenes y las chicas ocupan todo su tiempo, pero la tranquilidad dura poco: dos alumnos son brutalmente atacados. Dumbledore sabe que se acerca el momento, anunciado por la Profecía, en el que Harry y Voldemort se enfrentarán a muerte. Para debilitar al enemigo, el joven mago cuenta con la ayuda de un viejo libro de pociones perteneciente a un misterioso personaje que se hace llamar el Príncipe Mestizo.</desc>
-  </programme>
-  <programme start="20260502123100 -0300" stop="20260502144900 -0300" channel="C.Hollywood.es">
-    <title lang="es">Harry Potter y las Reliquias de la Muerte - Parte 1</title>
-    <desc lang="es">Mientras Harry, Ron y Hermione corren contra el tiempo y el mal para destruir los Horrocruxes, descubren la existencia de las Reliquias de la Muerte.</desc>
-  </programme>
-  <programme start="20260502144900 -0300" stop="20260502164900 -0300" channel="C.Hollywood.es">
-    <title lang="es">Harry Potter y las Reliquias de la Muerte - Parte 2</title>
-    <desc lang="es">Harry, Ron y Hermione siguen su búsqueda de los tres horrocruxes restantes del Señor Tenebroso, los objetos mágicos responsables de su inmortalidad. Pero a medida que descubren las místicas Reliquias de la Muerte, la batalla final comienza.</desc>
-  </programme>
-  <programme start="20260502164900 -0300" stop="20260502170000 -0300" channel="C.Hollywood.es">
-    <title lang="es">Un día en la Historia de España: 2 de mayo de 1808</title>
-    <desc lang="es">El 2 de mayo de 1808, tras el intento de las tropas francesas de sacar de Madrid a la Familia Real, se desató una protesta multitudinaria.</desc>
-  </programme>
-  <programme start="20260502170000 -0300" stop="20260502184300 -0300" channel="C.Hollywood.es">
-    <title lang="es">Asalto al tren Pelham 1 2 3</title>
-    <desc lang="es">Walter Garber, supervisor del Metro de Nueva York, se enfrentará al caos provocado por el secuestro de un vagón por una banda armada.La banda amenaza con ejecutar a los pasajeros si, en el plazo de una hora, no se les paga un alto rescate.</desc>
-  </programme>
-  <programme start="20260502184300 -0300" stop="20260502185400 -0300" channel="C.Hollywood.es">
-    <title lang="es">TikTak Cine</title>
-    <desc lang="es">Actor, director y narrador nato, Mel Gibson no solo hace películas, también crea experiencias que se graban en la memoria.</desc>
-  </programme>
-  <programme start="20260502185400 -0300" stop="20260502212700 -0300" channel="C.Hollywood.es">
-    <title lang="es">El patriota</title>
-    <desc lang="es">Benjamin Martin, héroe de la guerra en Francia e India, renuncia a la guerra al casarse con una hermosa mujer que le da siete hijos. La pacífica vida que lleva la familia se ve interrumpida al gestarse la rebelión independentista contra Inglaterra.</desc>
   </programme>
   <programme start="20260502212700 -0300" stop="20260502232600 -0300" channel="C.Hollywood.es">
     <title lang="es">Rompedientes 2</title>
@@ -30320,7 +31013,7 @@
     <desc lang="es">En &quot;Río 2.</desc>
   </programme>
   <programme start="20260503023300 -0300" stop="20260503035300 -0300" channel="C.Hollywood.es">
-    <title lang="es">Mascotas</title>
+    <title lang="es">La vida secreta de tus mascotas</title>
     <desc lang="es">La vida de un pequeño perro da un vuelco cuando su dueña decide adoptar a un enorme callejero. Pero cuando sus vidas corren peligro debido a un ejército de mascotas perdidas, ambos perros tendrán que trabajar juntos para llegar sanos y salvos a casa.</desc>
   </programme>
   <programme start="20260503035300 -0300" stop="20260503054600 -0300" channel="C.Hollywood.es">
@@ -30491,81 +31184,65 @@
     <title lang="es">Terminator: Destino oscuro</title>
     <desc lang="es">Sarah Connor deberá luchar junto a Grace, una mujer híbrido entre humano y cyborg, para proteger a Dani de un nuevo y mejorado Terminator, ya que de ella depende la salvación de la raza humana en el futuro.</desc>
   </programme>
-  <programme start="20260501193742 -0300" stop="20260501210517 -0300" channel="XTRM.es">
-    <title lang="es">Jaque mate</title>
-    <desc lang="es">Los caminos de seis personas se cruzan en el asalto a un banco cuidadosamente planeado, pero cualquier movimiento puede alterar el destino.</desc>
+  <programme start="20260505194800 -0300" stop="20260505195800 -0300" channel="C.Hollywood.es">
+    <title lang="es">TikTak Cine</title>
+    <desc lang="es">Actor versátil, fan confeso del cine de acción y dueño de una presencia magnética, Rami Malek no grita: sus personajes susurran… y el público escucha.</desc>
   </programme>
-  <programme start="20260501210517 -0300" stop="20260501214919 -0300" channel="XTRM.es">
-    <title lang="es">Alerta Cobra</title>
-    <desc lang="es">Tras una espectacular persecución, Semir y Alex investigan el intento de secuestro de la familia Brecht.</desc>
+  <programme start="20260505195800 -0300" stop="20260505214800 -0300" channel="C.Hollywood.es">
+    <title lang="es">Alien, el 8º pasajero</title>
+    <desc lang="es">Una nave espacial responde a una señal SOS que viene de un planeta vecino, donde un miembro del grupo es infectado por parásito alien letal, y de regreso a la nave, el parásito escapa e inicia un juego letal del gato y el ratón con la tripulación.</desc>
   </programme>
-  <programme start="20260501214919 -0300" stop="20260501223608 -0300" channel="XTRM.es">
-    <title lang="es">Alerta Cobra</title>
-    <desc lang="es">Semir siempre ha querido pasar más tiempo con su hija Dana, de 15 años, que vive con su madre Nazan y su padrastro Tom. Un día recibe una llamada inesperada: Dana, que está en una escuela de idiomas en Bruselas, dice que se siente amenazada.</desc>
+  <programme start="20260505214800 -0300" stop="20260505235500 -0300" channel="C.Hollywood.es">
+    <title lang="es">Aliens: El regreso</title>
+    <desc lang="es">La sobreviviente de un ataque extraterrestre regresa al planeta LV-426 acompañada por unos marines. Juntos, deberán destruir a un monstruo.</desc>
   </programme>
-  <programme start="20260501223608 -0300" stop="20260501232110 -0300" channel="XTRM.es">
-    <title lang="es">Alerta Cobra</title>
-    <desc lang="es">Lo que iba a ser un fin de semana tranquilo en Nürburgring se convierte en una investigación por asesinato. Bob, amigo de Alex y piloto estrella, es el principal sospechoso.</desc>
+  <programme start="20260505235500 -0300" stop="20260506013700 -0300" channel="C.Hollywood.es">
+    <title lang="es">Diario de una niñera</title>
+    <desc lang="es">Annie empieza a cuidar el hijo de una acomodada familia. Mientras aprende a moverse en un entorno hostil, Annie se enamora de un joven adinerado.</desc>
   </programme>
-  <programme start="20260501232110 -0300" stop="20260502003352 -0300" channel="XTRM.es">
-    <title lang="es">Alerta Cobra</title>
-    <desc lang="es">Una fiesta para Bonrath termina en tragedia: un ataque casi mata a todo el equipo. La pista lleva a Grundmann, un traficante de armas que usa un limpiador para borrar pruebas.</desc>
+  <programme start="20260506013700 -0300" stop="20260506030000 -0300" channel="C.Hollywood.es">
+    <title lang="es">La tribu de los Brady</title>
+    <desc lang="es">Homenaje a la serie de televisión de los 70. La familia Brady, encabezada por Mike y Carol, sigue viviendo en la misma casa y sigue fiel al pasado.</desc>
   </programme>
-  <programme start="20260502003352 -0300" stop="20260502020155 -0300" channel="XTRM.es">
-    <title lang="es">Isolation</title>
-    <desc lang="es">Una pareja pasa unas idílicas vacaciones en las Bahamas, en una isla remota cuando su embarcación es intervenida por unos piratas. El filme está basado en hechos reales.</desc>
+  <programme start="20260506030000 -0300" stop="20260506044600 -0300" channel="C.Hollywood.es">
+    <title lang="es">En busca de Bobby Fischer</title>
+    <desc lang="es">El pequeño Josh tiene verdadera pasión por el ajedrez y quiere convertirse en un nuevo Bobby Fischer, su ídolo.</desc>
   </programme>
-  <programme start="20260502020155 -0300" stop="20260502032539 -0300" channel="XTRM.es">
-    <title lang="es">El ataque del cocadrilo</title>
-    <desc lang="es">Un enorme caimán de 10 metros enloquecido tras comerse una carga de metanfetamina provoca el pánico en un pequeño pueblo de Florida.</desc>
+  <programme start="20260506044600 -0300" stop="20260506063100 -0300" channel="C.Hollywood.es">
+    <title lang="es">La joya del Nilo</title>
+    <desc lang="es">Joan y Jack regresan en una peligrosa caminata para encontrar la “joya” misteriosa.</desc>
   </programme>
-  <programme start="20260502032539 -0300" stop="20260502051336 -0300" channel="XTRM.es">
-    <title lang="es">Speed asesino</title>
-    <desc lang="es">&quot;Vivir rápido, morir joven&quot; es el lema de un grupo de jóvenes que venden speed. La D.E.A. no consigue dar con ellos.</desc>
+  <programme start="20260506063100 -0300" stop="20260506090800 -0300" channel="C.Hollywood.es">
+    <title lang="es">El patriota</title>
+    <desc lang="es">Benjamin Martin, héroe de la guerra en Francia e India, renuncia a la guerra al casarse con una hermosa mujer que le da siete hijos. La pacífica vida que lleva la familia se ve interrumpida al gestarse la rebelión independentista contra Inglaterra.</desc>
   </programme>
-  <programme start="20260502051336 -0300" stop="20260502060456 -0300" channel="XTRM.es">
-    <title lang="es">Operación Jaula</title>
-    <desc lang="es">El detective Mardik Sardagh descubre que Faysal, un amigo de la infancia que perdió a toda su familia cuando solo era un niño, acaba de llegar a Ámsterdam.</desc>
+  <programme start="20260506090800 -0300" stop="20260506111000 -0300" channel="C.Hollywood.es">
+    <title lang="es">Lady Halcón</title>
+    <desc lang="es">En la época medieval, un joven ladrón entabla amistad con un caballero en una misión misteriosa.</desc>
   </programme>
-  <programme start="20260502060456 -0300" stop="20260502065846 -0300" channel="XTRM.es">
-    <title lang="es">Operación Jaula</title>
-    <desc lang="es">Después de la muerte de su compañera Shannon en la explosión del piso utilizado por los terroristas, el detective Mardik Sardagh huye del lugar cuando es confundido con un sospechoso.</desc>
+  <programme start="20260506111000 -0300" stop="20260506111700 -0300" channel="C.Hollywood.es">
+    <title lang="es">TikTak Cine</title>
+    <desc lang="es">Un intérprete magnético capaz de pasar del drama más profundo a la acción más intensa sin perder un ápice de autenticidad.</desc>
   </programme>
-  <programme start="20260502065846 -0300" stop="20260502075614 -0300" channel="XTRM.es">
-    <title lang="es">Operación Jaula</title>
-    <desc lang="es">Un camión irrumpe a gran velocidad en un mercadillo callejero atestado de clientes y comerciantes. Mardik no puede evitar pensar que Faysal está detrás del ataque terrorista.</desc>
+  <programme start="20260506111700 -0300" stop="20260506133300 -0300" channel="C.Hollywood.es">
+    <title lang="es">La Roca</title>
+    <desc lang="es">Unos soldados armados toman como rehenes a 81 turistas que visitan en ese momento Alcatraz. El líder del grupo exige una compensación a los familiares de soldados. Si no se accede a sus demandas, amenaza con lanzar proyectiles sobre San Francisco.</desc>
   </programme>
-  <programme start="20260502075614 -0300" stop="20260502094218 -0300" channel="XTRM.es">
-    <title lang="es">Cash</title>
-    <desc lang="es">Un misterioso maletín cargado de dinero que cayó desde el cielo. Lo que parecía un milagro para Sam y Leslie Phelan que les solucionaría todos sus problemas económicos, resultó ser su peor pesadilla.</desc>
+  <programme start="20260506133300 -0300" stop="20260506152400 -0300" channel="C.Hollywood.es">
+    <title lang="es">El diablo viste de Prada</title>
+    <desc lang="es">En el mundo de la moda, Miranda Priestly es una de las mujeres más exitosas. Millones de lectoras siguen sus recomendaciones, sus empleados la adoran, los diseñadores le temen. Todos la veneran menos Andrea.</desc>
   </programme>
-  <programme start="20260502094218 -0300" stop="20260502110736 -0300" channel="XTRM.es">
-    <title lang="es">Más allá de la ley</title>
-    <desc lang="es">Un hombre busca justicia en una ciudad corrupta. Armado, peligroso, y sin nada que perder, debe enfrentarse a la despiadada mafia local para vengar la muerte de su hijo.</desc>
+  <programme start="20260506152400 -0300" stop="20260506173500 -0300" channel="C.Hollywood.es">
+    <title lang="es">La isla</title>
+    <desc lang="es">En el 2019, un mercenario persigue a dos clones que escaparon tras descubrir su verdadero destino.</desc>
   </programme>
-  <programme start="20260502110736 -0300" stop="20260502123228 -0300" channel="XTRM.es">
-    <title lang="es">Crank: veneno en la sangre</title>
-    <desc lang="es">Chev es un asesino a sueldo de la mafia que quiere dejar el negocio para llevar una vida normal junto a su novia, Eve. Una mañana, Chev recibe un mensaje: ha sido envenenado y sólo le queda una hora de vida.</desc>
+  <programme start="20260506173500 -0300" stop="20260506174500 -0300" channel="C.Hollywood.es">
+    <title lang="es">TikTak Cine</title>
+    <desc lang="es">Con una elegancia natural y una versatilidad magnética, Jude Law domina el thriller y la acción con la misma soltura con la que brilla en el drama más refinado.</desc>
   </programme>
-  <programme start="20260502123228 -0300" stop="20260502141325 -0300" channel="XTRM.es">
-    <title lang="es">Irresistible</title>
-    <desc lang="es">Sophie Hartley está convencida de que está siendo acechada. Ella está cada vez más convencida de que Mara, compañera de trabajo de su marido, quiere a sus hijos, a su marido y su vida.</desc>
-  </programme>
-  <programme start="20260502141325 -0300" stop="20260502155411 -0300" channel="XTRM.es">
-    <title lang="es">Reprisal</title>
-    <desc lang="es">Jacob es el director de un banco y lleva una vida ordenada. Sin embargo, todo cambio cuando su sucursal sufre un atraco. A partir de ese momento vive afligido por la pérdida de su empleo.</desc>
-  </programme>
-  <programme start="20260502155411 -0300" stop="20260502174041 -0300" channel="XTRM.es">
-    <title lang="es">Invasión USA</title>
-    <desc lang="es">Un grupo de terroristas soviéticos planean sembrar el terror en Estados Unidos. Un antiguo agente de la CIA es el único hombre capaz de detenerlos.</desc>
-  </programme>
-  <programme start="20260502174041 -0300" stop="20260502175042 -0300" channel="XTRM.es">
-    <title lang="es">Un día en la Historia de España: 2 de mayo de 1808</title>
-    <desc lang="es">Tras el intento de las tropas francesas de sacar de Madrid a la Familia Real, se desató una protesta de la multitud reunida ante las puertas del palacio.</desc>
-  </programme>
-  <programme start="20260502175042 -0300" stop="20260502191327 -0300" channel="XTRM.es">
-    <title lang="es">Altitud</title>
-    <desc lang="es">La agente del FBI Gretchen Blair vuela rumbo a Washington D.C cuando su compañero de asiento le hace una propuesta inusual.</desc>
+  <programme start="20260506174500 -0300" stop="20260506193900 -0300" channel="C.Hollywood.es">
+    <title lang="es">Godzilla</title>
+    <desc lang="es">Durante unas prospecciones en busca de uranio, se descubre una cueva en la que aparecen unos extraños fósiles y, quizá, algo más. El ingeniero de una central nuclear alerta sobre una anomalía sísmica.</desc>
   </programme>
   <programme start="20260502191327 -0300" stop="20260502210626 -0300" channel="XTRM.es">
     <title lang="es">Volar por los aires</title>
@@ -30715,65 +31392,85 @@
     <title lang="es">Danko: Calor Rojo</title>
     <desc lang="es">Un duro policía ruso, se ve obligado a asociarse con un detective engreído de la policía de Chicago para detener juntos a un peligroso criminal y jefe de una red de traficantes de drogas que mató a su pareja y huyó del país.</desc>
   </programme>
-  <programme start="20260501190005 -0300" stop="20260501213225 -0300" channel="Dark.es">
-    <title lang="es">Raw Sex Only</title>
-    <desc lang="es">Para Clara, Clémence, Matty, Peach, Milan, Candee y Amirah, lo único que importa es el placer. Aquí no hay preliminares, solo sexo puro.</desc>
+  <programme start="20260504193022 -0300" stop="20260504205248 -0300" channel="XTRM.es">
+    <title lang="es">Venganza en la prisión</title>
+    <desc lang="es">Tras un atraco, el policía retirado Jack Stone es encerrado en la cárcel que controla, desde su lujosa celda, el jefe mafioso Balam, el asesino de la mujer de Stone. Jack está dispuesto a todo para vengar su muerte.</desc>
   </programme>
-  <programme start="20260501213225 -0300" stop="20260501234433 -0300" channel="Dark.es">
-    <title lang="es">Anal Deluxe Anthology vol.2</title>
-    <desc lang="es">Para muchas mujeres, el sexo anal sigue siendo una fantasía. Para las actrices de esta antología, es un verdadero arte de vivir. Durante más de 4 horas, podrás admirarlas en las escenas anales más excitantes.</desc>
+  <programme start="20260504205248 -0300" stop="20260504213750 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">Lo que iba a ser un fin de semana tranquilo en Nürburgring se convierte en una investigación por asesinato. Bob, amigo de Alex y piloto estrella, es el principal sospechoso.</desc>
   </programme>
-  <programme start="20260501234433 -0300" stop="20260501235923 -0300" channel="Dark.es">
-    <title lang="es">Dernier frisson avant le départ</title>
-    <desc lang="es">Cine para adultos.</desc>
+  <programme start="20260504213750 -0300" stop="20260504222433 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">Una fiesta para Bonrath termina en tragedia: un ataque casi mata a todo el equipo. La pista lleva a Grundmann, un traficante de armas que usa un limpiador para borrar pruebas.</desc>
   </programme>
-  <programme start="20260501235923 -0300" stop="20260502014625 -0300" channel="Dark.es">
-    <title lang="es">Stunning MILF Threesomes</title>
-    <desc lang="es">Contenido para adultos.</desc>
+  <programme start="20260504222433 -0300" stop="20260504230935 -0300" channel="XTRM.es">
+    <title lang="es">Transporter</title>
+    <desc lang="es">Frank dispone de tan sólo 12 horas para conseguir desactivar un peligroso dispositivo que transporta y que ha sido robado. El chip supone una pieza clave para el desarrollo de un sofisticado armamento.</desc>
   </programme>
-  <programme start="20260502014625 -0300" stop="20260502032728 -0300" channel="Dark.es">
-    <title lang="es">Tuno negro</title>
-    <desc lang="es">Varios estudiantes de la Universidad de Salamanca han sido asesinados brutalmente por un tuno enmascarado. La intención del asesino parece clara, lo peores estudiantes del campus deben morir.</desc>
+  <programme start="20260504230935 -0300" stop="20260505001002 -0300" channel="XTRM.es">
+    <title lang="es">Transporter</title>
+    <desc lang="es">Frank se ve envuelto en una trama de espionaje y corrupción. La vida de Carla está en juego, ya que ha sido secuestrada como rehén hasta que Frank entregue su último paquete: una habilidosa hacker en la que están interesados mafia y DCRI.</desc>
   </programme>
-  <programme start="20260502032728 -0300" stop="20260502044848 -0300" channel="Dark.es">
-    <title lang="es">Don&#x27;t Say Its Name</title>
-    <desc lang="es">Poco después de que Kharis Redwater, una activista nativa antiminería, sea asesinada en un misterioso atropello, comienzan a sucederse unos asesinatos horribles y aparentemente aleatorios.</desc>
+  <programme start="20260505001002 -0300" stop="20260505005935 -0300" channel="XTRM.es">
+    <title lang="es">Flashpoint</title>
+    <desc lang="es">En un edificio de pisos en el que está programada una demolición, un francotirador toma posición, disparando a cualquier cosa que se mueva en la pista central.</desc>
   </programme>
-  <programme start="20260502044848 -0300" stop="20260502060540 -0300" channel="Dark.es">
-    <title lang="es">Blood Conscious</title>
-    <desc lang="es">Una familia afroamericana sobrevive a un tiroteo masivo que podría provenir de fuerzas sobrenaturales.</desc>
+  <programme start="20260505005935 -0300" stop="20260505031723 -0300" channel="XTRM.es">
+    <title lang="es">Marco</title>
+    <desc lang="es">La historia del gánster Marco y de la poderosa familia Adat, que domina la mafia del oro en Kerala.</desc>
   </programme>
-  <programme start="20260502060540 -0300" stop="20260502073429 -0300" channel="Dark.es">
-    <title lang="es">Aquarius</title>
-    <desc lang="es">En un viejo teatro unos actores están ensayando la obra &quot;The Horror Musical&quot;, un drama inspirado en hechos reales relacionados con un sádico asesino: Irving Wallace.</desc>
+  <programme start="20260505031723 -0300" stop="20260505044304 -0300" channel="XTRM.es">
+    <title lang="es">H4Z4RD</title>
+    <desc lang="es">Noah quiere mucho a su novia, a su hija y a su coche, pero tras aceptar un trabajo de conductor se ve envuelto en una aventura que podría costarle la vida, la de su familia o la de su querido coche.</desc>
   </programme>
-  <programme start="20260502073429 -0300" stop="20260502091304 -0300" channel="Dark.es">
-    <title lang="es">The Night</title>
-    <desc lang="es">Una pareja iraní y su hija de un año quedan atrapados en un vetusto hotel donde acontecen extraños fenómenos. A lo largo de una noche que parece no tener fin, deberán enfrentarse a los secretos que se interponen entre ellos.</desc>
+  <programme start="20260505044304 -0300" stop="20260505052630 -0300" channel="XTRM.es">
+    <title lang="es">Negociador</title>
+    <desc lang="es">Menck se somete a un largo interrogatorio para esclarecer la muerte de Sophia. Al salir, descubre un dispositivo bajo el asiento de su coche: es una bomba.</desc>
   </programme>
-  <programme start="20260502091304 -0300" stop="20260502103244 -0300" channel="Dark.es">
-    <title lang="es">Galaxia del terror</title>
-    <desc lang="es">Una nave se estrella en un peligroso planeta. Una misión de rescate acude en su búsqueda pero sacar a los supervivientes de allí será una odisea.</desc>
+  <programme start="20260505052630 -0300" stop="20260505061438 -0300" channel="XTRM.es">
+    <title lang="es">Negociador</title>
+    <desc lang="es">La Mayor Chacur es secuestrada por el Capitán Bismark y llevada a una prisión abandonada. Menck intenta negociar con él, pero Bismark está emocionalmente desestabilizado.</desc>
   </programme>
-  <programme start="20260502103244 -0300" stop="20260502120649 -0300" channel="Dark.es">
-    <title lang="es">Stigmata</title>
-    <desc lang="es">Frankie es una joven con una vida absolutamente corriente hasta que le empiezan a salir estigmas, las señales de la cruz de Cristo.</desc>
+  <programme start="20260505061438 -0300" stop="20260505070306 -0300" channel="XTRM.es">
+    <title lang="es">Transporter</title>
+    <desc lang="es">Frank es sospechoso de haber asesinado a un antiguo cliente, así que se verá envuelto en una peligrosa misión para descubrir la verdad y limpiar su nombre.</desc>
   </programme>
-  <programme start="20260502120649 -0300" stop="20260502140157 -0300" channel="Dark.es">
-    <title lang="es">Tin &amp; Tina</title>
-    <desc lang="es">Con la esperanza de recuperar su fe, el matrimonio de Lola y Adolfo acuden a un convento donde conocen y adoptan a Tin y Tina, dos niños cuyo juegos religiosos macabros serán una obsesión.</desc>
+  <programme start="20260505070306 -0300" stop="20260505075547 -0300" channel="XTRM.es">
+    <title lang="es">Transporter</title>
+    <desc lang="es">Frank ha sido contratado para trasladar un caballo de carreras pura sangre desde su establo de Kentucky hasta la prestigiosa pista de Belmont Stakes en Nueva York. El caballo tiene un valor de diez millones de dólares.</desc>
   </programme>
-  <programme start="20260502140157 -0300" stop="20260502153541 -0300" channel="Dark.es">
-    <title lang="es">No tengas miedo a la oscuridad</title>
-    <desc lang="es">Sally se muda a Rhode Island para vivir con su padre. Su casa es una mansión del s.XIX que está siendo reconstruida y en la cual habitan unas perversas criaturas.</desc>
+  <programme start="20260505075547 -0300" stop="20260505084558 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">La misteriosa muerte de la psicóloga Isabel Frings desata una guerra entre Semir, Alex y el fiscal Sander, un caso que amenaza a todo el equipo.</desc>
   </programme>
-  <programme start="20260502153541 -0300" stop="20260502170655 -0300" channel="Dark.es">
-    <title lang="es">Tucker &amp; Dale contra el mal</title>
-    <desc lang="es">Tucker y Dale son dos amigos que están de vacaciones en una destartalada cabaña de la montaña. Un grupo de unniversitarios, pijos y detestables, los confunden con paletos asesinos de los bosques.</desc>
+  <programme start="20260505084558 -0300" stop="20260505094012 -0300" channel="XTRM.es">
+    <title lang="es">Alerta Cobra</title>
+    <desc lang="es">Semir y Alex tienen pruebas contra el exfiscal Sander por el asesinato de Isabell Frings.</desc>
   </programme>
-  <programme start="20260502170655 -0300" stop="20260502190038 -0300" channel="Dark.es">
-    <title lang="es">Hannibal: el origen del mal</title>
-    <desc lang="es">¿Cuál es el origen de la ira de Hannibal? Cuando era niño, a finales de la II Guerra Mundial, en Europa del Este, tuvo que ser testigo del asesinato de sus padres. Después siguió presenciando muchas más atrocidades.</desc>
+  <programme start="20260505094012 -0300" stop="20260505111933 -0300" channel="XTRM.es">
+    <title lang="es">Diamante 13</title>
+    <desc lang="es">Mat trabaja en la división n° 13 de la policía criminal. Personaje duro y solitario, hace ya tiempo que ha perdido la esperanza de que la vida pueda ser distinta. Hasta que Frank, su amigo del alma, lo llama para proponerle un plan.</desc>
+  </programme>
+  <programme start="20260505111933 -0300" stop="20260505125550 -0300" channel="XTRM.es">
+    <title lang="es">Shadow Wolves</title>
+    <desc lang="es">En la frontera de Arizona y México, un equipo de rastreadores nativos americanos y un agente enviado por la NSA, se unen para cazar a un terrorista que planea vengar la muerte de su familia.</desc>
+  </programme>
+  <programme start="20260505125550 -0300" stop="20260505142709 -0300" channel="XTRM.es">
+    <title lang="es">El hombre del presidente 2 (AKA Justicia infinita)</title>
+    <desc lang="es">Un agente especializado en las misiones más arriesgadas que es enviado por el presidente de los Estados Unidos a localizar a un terrorista del que sospechan que va a detonar una bomba nuclear.</desc>
+  </programme>
+  <programme start="20260505142709 -0300" stop="20260505160953 -0300" channel="XTRM.es">
+    <title lang="es">La brecha</title>
+    <desc lang="es">Cuando un gusano alienígena comienza a eliminar a los tripulantes de un transbordador, Clay y Noah, del equipo de limpieza, se convierten en la última oportunidad para la humanidad.</desc>
+  </programme>
+  <programme start="20260505160953 -0300" stop="20260505175032 -0300" channel="XTRM.es">
+    <title lang="es">En el ojo del huracán</title>
+    <desc lang="es">Hong Kong, 1997. Marcus Ray, agente de la CIA y representante comercial de una firma de ropa en la ciudad, se convierte en el punto de mira de la mafia rusa, que intenta introducir unas mortíferas bombas en el mercado chino.</desc>
+  </programme>
+  <programme start="20260505175032 -0300" stop="20260505192707 -0300" channel="XTRM.es">
+    <title lang="es">El guerrero americano</title>
+    <desc lang="es">Un militar estadounidense experto en operaciones militares y muy hábil en el combate cuerpo a cuerpo descubre una trama conspirativa en Filipinas que implica al mismo ejército.</desc>
   </programme>
   <programme start="20260502190038 -0300" stop="20260502211336 -0300" channel="Dark.es">
     <title lang="es">Bad Girls</title>
@@ -30899,57 +31596,65 @@
     <title lang="es">The Possession (El origen del mal)</title>
     <desc lang="es">La pequeña Emily y su padre compran una caja. A partir de ese momento, empiezan a ocurrir cosas muy extrañas. El padre sospecha de la caja y visita a un rabino que le dice que contiene un espíritu demoníaco.</desc>
   </programme>
-  <programme start="20260501204315 -0300" stop="20260501222420 -0300" channel="TCM.es">
-    <title lang="es">Brigada 21</title>
-    <desc lang="es">Un policía de carácter temperamental recurre a métodos más implacables para obtener información de cualquier sospechoso de un crimen.</desc>
+  <programme start="20260504190142 -0300" stop="20260504211440 -0300" channel="Dark.es">
+    <title lang="es">Mentors</title>
+    <desc lang="es">Lani Rails, Andi Anderson, Armani Black y Nickey Huntsman cuentan con cierta experiencia en la vida y en el sexo, y nada les emociona más que compartir sus conocimientos con hombres más jóvenes.</desc>
   </programme>
-  <programme start="20260501222420 -0300" stop="20260502000955 -0300" channel="TCM.es">
-    <title lang="es">Revenge</title>
-    <desc lang="es">Tres hombres casados ricos se reúnen para su juego de caza anual en el desierto. Pero esta vez, uno de ellos viene acompañado de su amante, una mujer joven y muy atractiva que despierta rápidamente el interés de los otros dos.</desc>
+  <programme start="20260504211440 -0300" stop="20260504230143 -0300" channel="Dark.es">
+    <title lang="es">Château de dames</title>
+    <desc lang="es">La burguesa se acuesta con su marido en el Rolls Royce mientras el chófer los observa.</desc>
   </programme>
-  <programme start="20260502000955 -0300" stop="20260502015759 -0300" channel="TCM.es">
-    <title lang="es">Frenos rotos, coches locos</title>
-    <desc lang="es">Roy y Luke Fuchs son dos hermanos que compiten en la compraventa de coches usados. Roy es un tipo sin escrúpulos y Luke es todo corazón.</desc>
+  <programme start="20260504230143 -0300" stop="20260504232431 -0300" channel="Dark.es">
+    <title lang="es">Service client très privé</title>
+    <desc lang="es">Cine para adultos.</desc>
   </programme>
-  <programme start="20260502015759 -0300" stop="20260502021809 -0300" channel="TCM.es">
-    <title lang="es">Entrevistas TCM</title>
-    <desc lang="es">El canal TCM recoge conversaciones con distintas celebridades sobre el mundo del cine.</desc>
+  <programme start="20260504232431 -0300" stop="20260504235806 -0300" channel="Dark.es">
+    <title lang="es">Prête à tout</title>
+    <desc lang="es">Cine para adultos.</desc>
   </programme>
-  <programme start="20260502021809 -0300" stop="20260502024536 -0300" channel="TCM.es">
-    <title lang="es">Regreso a Viridiana</title>
-    <desc lang="es">Corto-documental que recuerda la película de Luis Buñuel, Viridiana (1961), de la mano de una mujer que participó en la grabación de la película. Monique Roumette evoca la figura de Buñuel y el resto del equipo.</desc>
+  <programme start="20260504235806 -0300" stop="20260505021700 -0300" channel="Dark.es">
+    <title lang="es">Bad Girls</title>
+    <desc lang="es">Puede que Remy Lacroix, Sammm Next Door, Alina López y Blake Blossom no sean santas, pero siempre saben cómo salir airosas de situaciones &quot;complicadas&quot;.</desc>
   </programme>
-  <programme start="20260502024536 -0300" stop="20260502042033 -0300" channel="TCM.es">
-    <title lang="es">El padre</title>
-    <desc lang="es">Un hombre de 80 años mordaz, algo travieso y que tercamente ha decidido vivir solo, rechaza todos y cada uno de los cuidadores que su hija Anne intenta contratar para que le ayuden en casa.</desc>
+  <programme start="20260505021700 -0300" stop="20260505033331 -0300" channel="Dark.es">
+    <title lang="es">Ghoulies</title>
+    <desc lang="es">Después de heredar una vieja mansión, Jonathan Graves y su prometida Rebecca deciden invitar a todos sus amigos a una suntuosa fiesta de inauguración. Para animar el ambiente, Jonathan decide improvisar una especie de rito satánico.</desc>
   </programme>
-  <programme start="20260502042033 -0300" stop="20260502060128 -0300" channel="TCM.es">
-    <title lang="es">La reina</title>
-    <desc lang="es">Después del accidente en que fallece la princesa Diana, se suceden las consecuencias en el ámbito político. La Reina Isabel y el primer ministro, Tony Blaiir, se ponen en contacto para decretar el duelo en todo el país.</desc>
+  <programme start="20260505033331 -0300" stop="20260505045634 -0300" channel="Dark.es">
+    <title lang="es">Aquella casa al lado del cementerio</title>
+    <desc lang="es">Un hogar de Nueva Inglaterra se ve salpicado por una serie de asesinatos aterradores, sin que los invitados sepan el espantoso secreto que se esconde en el sótano.</desc>
   </programme>
-  <programme start="20260502060128 -0300" stop="20260502084938 -0300" channel="TCM.es">
-    <title lang="es">Los mejores años de nuestra vida</title>
-    <desc lang="es">Un grupo de soldados norteamericanos supervivientes a la Segunda Guerra Mundial regresan a su país al finalizar la contienda. Pero, aunque al principio se les trata como héroes, no tardarán en verse marginados.</desc>
+  <programme start="20260505045634 -0300" stop="20260505063446 -0300" channel="Dark.es">
+    <title lang="es">The Host</title>
+    <desc lang="es">Una oportunidad inesperada se presenta para Robert Atkinson, un banquero londinense que arriesga todos sus ahorros para dejar su mundana vida atrás y empezar una nueva.</desc>
   </programme>
-  <programme start="20260502084938 -0300" stop="20260502104106 -0300" channel="TCM.es">
-    <title lang="es">Las aventuras de Jeremiah Johnson</title>
-    <desc lang="es">Jeremiah Johnson es un exsoldado de mediados del s. XIX que abandona la ciudad para dirigirse a las montañas, donde aprenderá cómo sobrevivir en un mundo salvaje.</desc>
+  <programme start="20260505063446 -0300" stop="20260505082831 -0300" channel="Dark.es">
+    <title lang="es">Satan&#x27;s Slaves: Communion</title>
+    <desc lang="es">Varios años después de que lograran salvarse de un terrible accidente en el que perdieron a su madre y al pequeño Ian, Rini y sus hermanos menores, Toni y Bondi, y su padre viven en un edificio.</desc>
   </programme>
-  <programme start="20260502104106 -0300" stop="20260502123431 -0300" channel="TCM.es">
-    <title lang="es">Un americano en París</title>
-    <desc lang="es">Musical original y alegre, galardonado con varios Oscars, que cuenta las peripecias amorosas de un bohemio pintor americano en la ciudad francesa.</desc>
+  <programme start="20260505082831 -0300" stop="20260505100313 -0300" channel="Dark.es">
+    <title lang="es">Halloween 3</title>
+    <desc lang="es">Las pesadillas se vuelven realidad cuando un loco fabrica unas máscaras que convierten a los niños en seres diabólicos.</desc>
   </programme>
-  <programme start="20260502123431 -0300" stop="20260502144059 -0300" channel="TCM.es">
-    <title lang="es">Drácula, de Bram Stoker</title>
-    <desc lang="es">En la Edad Media un soldado de Las Cruzadas pierde a su esposa. El dolor es tan intenso, que decide rebelarse contra Dios y hacer un pacto con el diablo, volviéndose inmortal, solitario y cruel.</desc>
+  <programme start="20260505100313 -0300" stop="20260505114456 -0300" channel="Dark.es">
+    <title lang="es">Saw III</title>
+    <desc lang="es">Mientras la policía trata de atrapar a Jigsaw y a su ayudante Amanda, la doctora Lynn Denlon se convierte en la última pieza de su diabólico juego.</desc>
   </programme>
-  <programme start="20260502144059 -0300" stop="20260502170016 -0300" channel="TCM.es">
-    <title lang="es">Muerte en el Nilo</title>
-    <desc lang="es">La mayoría de viajeros que realizan un apacible crucero por el Nilo tienen alguna razón para desear la muerte de la señorita Linnet Ridgeway, una joven y rica heredera.</desc>
+  <programme start="20260505114456 -0300" stop="20260505132542 -0300" channel="Dark.es">
+    <title lang="es">Species (Especie mortal)</title>
+    <desc lang="es">Cuando una bella hembra híbrida humana/alienígena se escapa de un laboratorio de observación, el científico Javier Fich envía a un asesino del gobierno, a un psiquiatra, a una bióloga y a un antropólogo en su búsqueda.</desc>
   </programme>
-  <programme start="20260502170016 -0300" stop="20260502190852 -0300" channel="TCM.es">
-    <title lang="es">Instinto básico</title>
-    <desc lang="es">El Detective Nick curran debe resolver el caso de una estrella de rock que ha sido hallada muerta en su cama. La primera sospechosa es Catherine, una novelista que había sido amante del fallecido.</desc>
+  <programme start="20260505132542 -0300" stop="20260505144937 -0300" channel="Dark.es">
+    <title lang="es">Muñeco diabólico (Child&#x27;s Play)</title>
+    <desc lang="es">Industrias Kaslan ha creado el regalo perfecto: &#x27;Buddi&#x27;, un muñeco que puede controlar todos los dispositivos inteligentes de una casa y garantiza servicio y diversión a toda la familia.</desc>
+  </programme>
+  <programme start="20260505144937 -0300" stop="20260505163308 -0300" channel="Dark.es">
+    <title lang="es">Este cuerpo me sienta de muerte</title>
+    <desc lang="es">A la salida de un partido de rubgy, Millie, una adolescente inadaptada, es atacada por un asesino conocido como &#x27;El Carnicero de Blissfield&#x27;. Durante la agresión, una extraña maldición causa un &#x27;intercambio&#x27;...</desc>
+  </programme>
+  <programme start="20260505163308 -0300" stop="20260505190203 -0300" channel="Dark.es">
+    <title lang="es">La bala de Dios</title>
+    <desc lang="es">Un detective se infiltra en una secta para rescatar a su hija con la ayuda de la única víctima femenina que ha conseguido escapar del culto satánico.</desc>
   </programme>
   <programme start="20260502190852 -0300" stop="20260502204625 -0300" channel="TCM.es">
     <title lang="es">Polar Express (El Expreso Polar)</title>
@@ -31059,57 +31764,57 @@
     <title lang="es">La carta</title>
     <desc lang="es">Una noche, una mujer asesina a balazos a un viejo amigo a la entrada de su casa. Ella afirma que fue en defensa propia ya que él intentó violarla. El caso parece estar cerrado hasta que aparece una compremetedora carta.</desc>
   </programme>
-  <programme start="20260502025500 -0300" stop="20260502045600 -0300" channel="M+.Clásicos.es">
-    <title lang="es">La balada de Cable Hogue</title>
-    <desc lang="es">Un pionero del oeste, buscador de oro, Cable Hogue, es abandonado por sus compañeros en medio del desierto, tras robarle el caballo, las provisiones, el agua y el arma. En estas difíciles circunstancias, y cuando está a punto de perecer, el casual descubrimiento de un manantial de agua le salva de la muerte, a la vez que significa el comienzo de un negocio: Compra el minúsculo terreno que rodea al manantial y un banquero le presta el resto del dinero que afianzará la empresa. Cable Hogue monta junto al manantial una parada de diligencias en la que abastece de agua a caballos y pasajeros poniendo los precios a su antojo. Es el único pozo de agua en muchas millas a la redonda y el único lugar capaz de ofrecer al viajero agua abundante y otras comodidades, por lo que es codiciado por muchos.</desc>
+  <programme start="20260504203257 -0300" stop="20260504221559 -0300" channel="TCM.es">
+    <title lang="es">Secretos compartidos (Prime)</title>
+    <desc lang="es">La vida de una treintañera cambia cuando un joven se enamora de ella. La diferencia de edad le provoca dudas, así que pide consejo a su psicoanalista.</desc>
   </programme>
-  <programme start="20260502045600 -0300" stop="20260502064500 -0300" channel="M+.Clásicos.es">
-    <title lang="es">Principiantes</title>
-    <desc lang="es">Londres, 1958. El joven fotógrafo Colin MacInnes está perdidamente enamorado de Crepe Suzette, una ambiciosa chica que pretende hacerse un hueco en el mundo de los diseñadores de moda.</desc>
+  <programme start="20260504221559 -0300" stop="20260505002554 -0300" channel="TCM.es">
+    <title lang="es">La señora Miniver</title>
+    <desc lang="es">Repaso a la vida de la clase media en una pequeña población de Inglaterra mientras una mujer espera a que su marido y su hijo regresen de la guerra.</desc>
   </programme>
-  <programme start="20260502064500 -0300" stop="20260502085600 -0300" channel="M+.Clásicos.es">
-    <title lang="es">La cruz de hierro</title>
-    <desc lang="es">Península de Tamán, 1943. Los ejércitos alemanes se retiran. El regimiento que dirige el coronel Brandt lleva un nuevo comandante de batallón, un aristócrata prusiano que está dispuesto a obtener la Cruz de Hierro, codiciado símbolo de valentía.</desc>
+  <programme start="20260505002554 -0300" stop="20260505020458 -0300" channel="TCM.es">
+    <title lang="es">Brigada 21</title>
+    <desc lang="es">Un policía de carácter temperamental recurre a métodos más implacables para obtener información de cualquier sospechoso de un crimen.</desc>
   </programme>
-  <programme start="20260502085600 -0300" stop="20260502100400 -0300" channel="M+.Clásicos.es">
-    <title lang="es">El malvado Zaroff</title>
-    <desc lang="es">En una remota isla, cubierta de oscuras selvas y rodeada de acantilados, habita un noble ruso que se dedica a socorrer a los náufragos de barcos que él mismo hunde, con el fin de que les sirvan de presas en una sangrienta cacería humana que pretende organizar.</desc>
+  <programme start="20260505020458 -0300" stop="20260505023741 -0300" channel="TCM.es">
+    <title lang="es">Entrevistas TCM</title>
+    <desc lang="es">El canal TCM recoge conversaciones con distintas celebridades sobre el mundo del cine.</desc>
   </programme>
-  <programme start="20260502100400 -0300" stop="20260502122500 -0300" channel="M+.Clásicos.es">
-    <title lang="es">Excalibur</title>
-    <desc lang="es">Tras la muerte de Uther Pendragon, rey de Inglaterra, su hijo Arturo se convierte en su sucesor al ser el único que consigue liberar la espada mágica de su padre, Excalibur, de la piedra en la que fue incrustada. Arturo se dispone entonces a unificar el país con la ayuda de los Cabaleros de la Mesa Redonda, pero comienzan a surgir traiciones.</desc>
+  <programme start="20260505023741 -0300" stop="20260505024927 -0300" channel="TCM.es">
+    <title lang="es">Entrevistas TCM</title>
+    <desc lang="es">El canal TCM recoge conversaciones con distintas celebridades sobre el mundo del cine.</desc>
   </programme>
-  <programme start="20260502122500 -0300" stop="20260502144400 -0300" channel="M+.Clásicos.es">
-    <title lang="es">El hombre que cayó a la Tierra</title>
-    <desc lang="es">En Nueva York aparece un extraño hombre que destaca por tener un inmenso poder físico y una gran capacidad intelectual.</desc>
+  <programme start="20260505024927 -0300" stop="20260505054410 -0300" channel="TCM.es">
+    <title lang="es">Inland Empire</title>
+    <desc lang="es">Nikki es una actriz casada que recibe una oferta para trabajar en una película dirigida por Kingsley. Su coprotagonista se llama Devon. Nikki interpretará a Sue, mientras que Devon será Billy.</desc>
   </programme>
-  <programme start="20260502144400 -0300" stop="20260502170000 -0300" channel="M+.Clásicos.es">
-    <title lang="es">El señor de los anillos</title>
-    <desc lang="es">El hobbit Frodo hereda un anillo que resulta ser el Anillo Único, el instrumento de poder absoluto que permitiría a Sauron, el Señor Oscuro, gobernar la Tierra Media y esclavizar a todos sus pueblos. Para evitarlo, Frodo y su leal Comunidad, compuesta por hobbits, hombres, un mago, un enano y un elfo, deben destruirlo arrojándolo al Monte del Destino. Este viaje significa adentrarse en el territorio gobernado por Sauron. Pero no sólo se van a enfrentar a peligros externos, sino también a disputas internas y al poder corruptor del Anillo. El curso del futuro está unido al destino de la Comunidad.</desc>
+  <programme start="20260505054410 -0300" stop="20260505074622 -0300" channel="TCM.es">
+    <title lang="es">Carrie</title>
+    <desc lang="es">Carrie es una campesina que decide irse a Chicago, donde se convierte en una famosa actriz. Allí vivirá un amor apasionado con un hombre casado.</desc>
   </programme>
-  <programme start="20260502170000 -0300" stop="20260502184400 -0300" channel="M+.Clásicos.es">
-    <title lang="es">Jasón y los argonautas</title>
-    <desc lang="es">Las mitológicas aventuras del héroe griego Jasón y su búsqueda del vellocino de oro en una cinta épica convertida en clásico del cine mundial.</desc>
+  <programme start="20260505074622 -0300" stop="20260505094201 -0300" channel="TCM.es">
+    <title lang="es">Poltergeist</title>
+    <desc lang="es">La tranquila y gratificante vida de una típica familia estadounidense se ve truncada cuando una serie de sucesos paranormales amenazan la seguridad de su hogar y la de los que habitan en él.</desc>
   </programme>
-  <programme start="20260502184400 -0300" stop="20260502185100 -0300" channel="M+.Clásicos.es">
-    <title lang="es">Los Domingos</title>
-    <desc lang="es">Alauda Ruiz de Azúa cuenta cual es el origen de &#x27;Los Domingos&#x27;, que parte de una historia real de una chica  que planteó a su familia su vocación religiosa. Los actores Patricia López Arnaiz, Blanca Soroa, Miguel Garcés, Nagore Aranburu, Juan Minujín y Mabel Rivera aportan además cómo es trabajar con la directora y cómo desarrollan cada uno de sus personajes.</desc>
+  <programme start="20260505094201 -0300" stop="20260505131505 -0300" channel="TCM.es">
+    <title lang="es">Lawrence de Arabia</title>
+    <desc lang="es">T.E. Lawrence es un conflictivo oficial británico enviado al desierto del Cairo para apoyar a las tropas árabes en su guerra contra los Turcos. Él y su amigo Sherif Alí, pondrán todo su empeño en esta misión.</desc>
   </programme>
-  <programme start="20260502185100 -0300" stop="20260502215500 -0300" channel="M+.Clásicos.es">
-    <title lang="es">Gandhi</title>
-    <desc lang="es">Recién graduado en leyes en Gran Bretaña, el joven indio Mohandas K. Gandhi se traslada en 1893 a Sudáfrica con la intención de ejercer la abogacía. Su estancia en el país africano le sirve para darse cuenta del racismo existente en la sociedad occidental. Defendiendo a sus compatriotas en un estado gobernado por los &#x27;afrikaners&#x27; se convierte en un líder para la comunidad india. En 1915 regresa a la India e inicia su particular lucha contra los colonialistas británicos, generando un movimiento de desobediencia civil que supuso una regeneración y una oportunidad para millones de personas desamparadas en la India.</desc>
+  <programme start="20260505131505 -0300" stop="20260505150523 -0300" channel="TCM.es">
+    <title lang="es">Antes del anochecer</title>
+    <desc lang="es">Celine y Jesse van de vacaciones a Grecia, donde deben afrontar el pasado, el presente y el futuro de su relación.</desc>
   </programme>
-  <programme start="20260502215500 -0300" stop="20260502232200 -0300" channel="M+.Clásicos.es">
-    <title lang="es">Senderos de gloria</title>
-    <desc lang="es">Durante la I Guerra Mundial, el general Mireau acepta la orden de tomar una colina bajo el fuego alemán, con el único objetivo de engrandecer su heroico historial de guerra y pese a saber que se trata de una misión imposible y que sus hombres morirán en el intento. Tras ser testigos de la masacre de sus compañeros, un batallón de soldados franceses se niega a continuar la misión, actitud ante la que el general ordena disparar contra sus propios hombres.</desc>
+  <programme start="20260505150523 -0300" stop="20260505170038 -0300" channel="TCM.es">
+    <title lang="es">A pleno sol</title>
+    <desc lang="es">El señor Greenleaf contrata a un cazafortunas y lo envia a Europa para buscar a su hijo y traerlo de vuelta a casa.</desc>
   </programme>
-  <programme start="20260502232200 -0300" stop="20260503003500 -0300" channel="M+.Clásicos.es">
-    <title lang="es">La mujer pantera</title>
-    <desc lang="es">Oliver Reed (Kent Smith) conoce a Irena Dubrovna (Simone Simon) durante una visita al zoo. Se enamoran y acaban contrayendo matrimonio. Durante el convite, una misteriosa mujer aparece y afirma ser pariente de Irena. Ella comienza desde entonces a comportarse de manera extraña. Por ello, Oliver busca la ayuda de un psiquiatra. Al mismo tiempo, confía sus temores a su amiga Alice (Jane Randolph). Los celos de Irena complicarán aún más la situación.</desc>
+  <programme start="20260505170038 -0300" stop="20260505184531 -0300" channel="TCM.es">
+    <title lang="es">Joe contra el volcán</title>
+    <desc lang="es">Joe Banks es un joven hipocondríaco que tiene una vida monótona y trabaja en una espantosa oficina. Un día, el médico que atiende todas sus enfermedades ficticias le dice que le quedan pocos meses de vida.</desc>
   </programme>
-  <programme start="20260503003500 -0300" stop="20260503021200 -0300" channel="M+.Clásicos.es">
-    <title lang="es">Cuatro moscas sobre terciopelo gris</title>
-    <desc lang="es">Roberto, un joven músico que toca la batería en una banda de rock, se ve atrapado en una intriga criminal. Tras recibir extrañas llamadas telefónicas, se da cuenta de que un hombre lo sigue. Una noche, trata de hablar con su perseguidor, pero en la confusión que sigue lo apuñala sin querer. A pesar de que abandona inmediatamente el escenario del crimen, al día siguiente recibe inexplicablemente unas fotografías del homicidio.</desc>
+  <programme start="20260505184531 -0300" stop="20260505202823 -0300" channel="TCM.es">
+    <title lang="es">Jack Frost</title>
+    <desc lang="es">Un hombre, que no es capaz de mantener sus promesas con su hijo, muere en un accidente de coche. Pero un año más tarde, un muñeco de nieve se convierte en un vínculo especial entre ambos.</desc>
   </programme>
   <programme start="20260503021200 -0300" stop="20260503030500 -0300" channel="M+.Clásicos.es">
     <title lang="es">Catherine Deneuve: a su manera</title>
@@ -31274,6 +31979,59 @@
   <programme start="20260505214300 -0300" stop="20260505233500 -0300" channel="M+.Clásicos.es">
     <title lang="es">El largo Viernes Santo</title>
     <desc lang="es">Harold Shand, un &#x27;gangster&#x27; inglés bien establecido en su negocio, está a punto de cerrar un lucrativo trapicheo con la mafia estadounidense, pero todo se complica cuando, en un Viernes Santo, una serie de bombas empiezan a estallar en distintos puntos de Londres.</desc>
+  </programme>
+  <programme start="20260505233500 -0300" stop="20260506011500 -0300" channel="M+.Clásicos.es">
+    <title lang="es">El invisible Harvey</title>
+    <desc lang="es">Elwood Dowd, un hombre muy inteligente y con una forma de vida muy particular, es a la vez un encantador borrachín que afirma ver un conejo blanco de casi dos metros de altura. Fantasía y realidad se mezclan en su imaginación ya que sólo él puede verlo y juntos entablarán una bonita relación. Aunque nadie en su comunidad le cree, la &quot;presencia&quot; del mágico animalillo influye muy positivamente en la conviviencia de la ciudad. Asustada por ello, Veta Lousise, lleva a Elwood a un sanatorio porque cree que su hermano se ha vuelto loco, pero por equivocación la encierran a ella. Subsanado el error, el doctor Chumley no para hasta encontrar a Elwood, que ya se había ido con su imaginario amigo.</desc>
+  </programme>
+  <programme start="20260506011500 -0300" stop="20260506025500 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Un hombre y una mujer</title>
+    <desc lang="es">Como cada domingo, Anne Gauthier, una mujer de unos 30 años, y Jean-Louis Duroc, un hombre de su edad, visitan a sus respectivos hijos. Anne ha perdido el tren, y Jean-Louis se ofrece a llevarla a París, en su coche. Ambos hablan de sus hijos y del día que han pasado en Deauville; pero Anne habla sobre todo de su marido. Y habla con tal pasión de él, que su imagen parece estar entre ellos. Sin embargo, Jean-Louis se sorprende cuando Anne le revela que su marido murió en un estúpido accidente durante el rodaje de una película. Durante las semanas siguientes, Jean-Louis, que es piloto de coches de carreras, está obsesionado por la mujer que ha conocido. Por fin se decide a llamar a Anne para llevarla a Deauville el fin de semana siguiente. Ese domingo transcurre  en una especial atmósfera para ese hombre y esa mujer, a quienes sus propios hijos parecen aproximar todavía más. De vuelta a la ciudad, sus manos se encuentran, a la vez que Anne pide a Jean-Louis que le hable de su mujer.</desc>
+  </programme>
+  <programme start="20260506025500 -0300" stop="20260506044000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20260506044000 -0300" stop="20260506063500 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Cine</title>
+  </programme>
+  <programme start="20260506063500 -0300" stop="20260506081000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Sed de mal</title>
+    <desc lang="es">La luna de miel entre la norteamericana Susan y el mexicano Miguel Vargas es interrumpida por la voladura de un automóvil, que como ellos, acababa de entrar en Estados Unidos procedente de México. Aunque no es detective sino un policía especial del Gobierno de México, Vargas se cree en el deber de investigar lo sucedido. Las víctimas son un acaudalado comerciante y su acompañante, una bailarina de estriptis. Vargas choca inmediatamente con el detective norteamericano Hank Quinlan, a quien disgusta que Vargas invada lo que él considera sus dominios, pero órdenes superiores le obligan a cooperar con él. Intrigado por el comportamiento de Quinlan, Vargas investiga su pasado y averigua que en los casos en que ha intervenido, todos los acusados se declararon inocentes, siendo incriminados tras la aparición de pruebas circunstanciales que Vargas deduce que fueron puestas por Quinlan.</desc>
+  </programme>
+  <programme start="20260506081000 -0300" stop="20260506101000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Ciudadano Kane</title>
+    <desc lang="es">Un potente financiero estadounidense, Charles Foster Kane, dueño de una importante cadena de periódicos, de una red de emisoras de radio, de dos sindicatos y de un inimaginable emporio de riquezas, muere en su fabuloso castillo de estilo oriental, llamado Xanadú. La última palabra que pronuncia al expirar es Rosebud. El país entero y la prensa en general quedan intrigadísimos por saber el significado de esta palabra.</desc>
+  </programme>
+  <programme start="20260506101000 -0300" stop="20260506114000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">La dama de Shanghai</title>
+    <desc lang="es">Michael O&#x27;Hara conoce a Elsa, una hermosa rubia que pasea en un carruaje tirado por caballos en Central Park. Cuando tres forajidos atacan el carruaje, Michael la rescata y la acompaña hasta su casa. Michael le cuenta que es de profesión marino y se entera que Elsa y su esposo, el famoso abogado defensor criminalista Arthur Bannister, acaban de llegar a la ciudad de Nueva York provenientes de Shanghái. Se encuentran de paso hacia San Francisco por el Canal de Panamá. Michael, atraído por la belleza de Elsa acepta enrolarse como marinero en el yate de Bannister.</desc>
+  </programme>
+  <programme start="20260506114000 -0300" stop="20260506134000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Un hombre para la eternidad</title>
+    <desc lang="es">En el año 1528,  Enrique VIII (Robert Shaw), uno de los monarcas más poderosos de su época, desea divorciarse de su mujer Catalina de Aragón para casarse con la bella Ana Bolena (Vanessa Redgrave). Sólo Sir Thomas Moro (Paul Scofield), su canciller ferviente católico e integrante del Alto Concilio, tiene el valor y el convencimiento de oponerse a los deseos del rey. El monarca, furioso, promueve una campaña para desacreditar a Moro, pero su firme negativa a abandonar sus principios le conducirán, con el tiempo, a la muerte y a ocupar un puesto en la historia como un Hombre para la eternidad.</desc>
+  </programme>
+  <programme start="20260506134000 -0300" stop="20260506151000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">El cuarto mandamiento</title>
+    <desc lang="es">Los Amberson constituyen una poderosa familia estadounidense. El matrimonio sólo tiene una hija, Isabel (Dolores Costello), en la que ha puesto los ojos Eugenio Morgan (Joseph Cotten), pretendiente que fue rechazado por el ridículo que hizo al tratar de organizar una serenata en honor de la joven heredera. Morgan, avergonzado, abandona la ciudad y no regresa hasta pasados 20 años, en el transcurso de los cuales ha llegado a amasar una inmensa fortuna, gracias a sus intervenciones en la industria del automóvil. Cuando vuelve, lo hace acompañado de una chica muy bella, llamada Lucy (Anne Baxter), hija suya. Por su parte, Isabel tiene también un hijo, Jorge (Tim Holt), y su esposo, Wilburn Minafer (Don Dillaway), hombre honesto y trabajador, ha mimado demasiado al niño y éste es odiado por todo el mundo. A Jorge le interesa Lucy, pero acoge con reservas a Morgan y prefiere no seguir con la muchacha.</desc>
+  </programme>
+  <programme start="20260506151000 -0300" stop="20260506170000 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Macbeth</title>
+    <desc lang="es">En la Escocia del siglo XI, el noble Macbeth, movido por la fatalidad y la ambición entra en un proceso de autodestrucción. Tres brujas le anuncian un destino que le llevará en poco tiempo a ser rey de Escocia. El cumplimiento inmediato de la primera profecía y la ambición de su esposa, le llevarán a cometer un crimen para alcanzar lo que antes le habían augurado. La mejor interpretación de Shakespeare hasta la fecha.</desc>
+  </programme>
+  <programme start="20260506170000 -0300" stop="20260506185500 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Campanadas a medianoche</title>
+    <desc lang="es">En Inglaterra, en la época histórica que supone el paso del medievo a la modernidad, el joven príncipe Hal, futuro Enrique V, se debate entre la influencia de su padre, el rey Enrique IV, de cuyo poder y autoridad reniega para demostrar que puede valerse por sí mismo, y la del caballero Falstaff, borracho, descreído, vagabundo y pícaro.</desc>
+  </programme>
+  <programme start="20260506185500 -0300" stop="20260506190500 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Pieza</title>
+  </programme>
+  <programme start="20260506190500 -0300" stop="20260506204500 -0300" channel="M+.Clásicos.es">
+    <title lang="es">Tepepa</title>
+    <desc lang="es">En el marco legendario de la Revolución mexicana, los destinos de tres hombres se unen en una carrera hacia la muerte. Tres hombres, tres mundos, tres pasiones, unidos por la inescrutable mano del destino. Entre ellos, Tepepa, un hombre, una leyenda que era la fe y la esperanza de aquellos campesinos. Sus deseos de venganza fueron más fuertes que su moral profesional, y sus pasos quedaban señalados por una huella cruel de sangre y fuego. Cuando el joven revolucionario  está a punto de ser ajusticiado, en el último momento un desconocido salva su vida. Pero el objetivo del extranjero no es colaborar con la causa revolucionaria, sino saldar una cuenta pendiente con éste.</desc>
+  </programme>
+  <programme start="20260506204500 -0300" stop="20260506231100 -0300" channel="M+.Clásicos.es">
+    <title lang="es">La decisión de Sophie</title>
+    <desc lang="es">Verano de 1947. Tras haber pasado su servicio militar en los marines, un joven aspirante a escritor, llamado Stingo, llega a Nueva York. Se refugia en Brooklyn, en una simpática casita, convertida en pensión de familia, que responde al extraño nombre de El Palacio Rosa. Stingo empieza a escribir su novela, pero su plácida y penosa soledad se ve turbada a los pocos minutos por los ruidos de una pareja haciendo el amor en la habitación de arriba. Stingo conocerá a estos amantes y quedará prendado por la amabilidad y simpatía de ambos. Ella, Sophie Zawistowska es una hermosa emigrante polaca católica. Él, Nathan Landau, un brillante intelectual judío. Poco a poco, Stingo se hace el mejor amigo de los dos amantes, iniciando así una curiosa relación triangular. El escritor va conociendo poco a poco a sus nuevos amigos. Sophie, hija de un ilustre profesor polaco antijudío fue enviada, pese a todo, por su condición de católica, al campo de concentración de Auschwitz.</desc>
   </programme>
   <programme start="20260503200001 -0300" stop="20260503220000 -0300" channel="that-s-80s">
     <title lang="es">Carol Decker&#x27;s Power No.1s!</title>

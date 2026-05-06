@@ -14,7 +14,7 @@ OFFSET_CONFIG = {
     "464956": -8,  # Screenpix (epg.pw)
     "464775": -8,  # Screenpix Action (epg.pw)
     "aztv.ar": -2, # AZTV (sheet) 
-    "Canal.Cinema.Platino.mx": -1, # Cinema Platino (MX1) 
+   # "Canal.Cinema.Platino.mx": -1, # Cinema Platino (MX1) 
 }
 
 # 1. CANALES DESDE GOOGLE SHEETS
@@ -46,7 +46,7 @@ EXTERNAL_SOURCES = [
     },
     {
         "url": "https://epg.programadorx.cl/mdiaz/gratis.xml",
-        "ids": ["504", "531", "532", "536", "537", "538", "539", "567", "568", "569", "581", "608", "663", "664"]
+        "ids": ["504", "531", "532", "536", "537", "538", "539", "567", "568", "569", "581", "663", "664"]
     },
     {
         "url": "https://i.mjh.nz/PlutoTV/mx.xml",
@@ -57,12 +57,11 @@ EXTERNAL_SOURCES = [
     },
     {
         "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml",
-        "ids": ["ESBC4100004J1", "ESBC400003YM", "ES3400004SS", "ESBA3300024AJ", "ES300029LP", "ES3000288I", "ESBC1700004PX", "ESBC2700003T8", "ES2600013H4", "ESBC40000248"]
+        "ids": ["ES3400004SS", "ES300029LP", "ES3000288I", "ESBC1700004PX", "ESBC2700003T8", "ES2600013H4", "ESBC40000248"]
     },
     {
         "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml",
-        "ids": ["US3000005RS", "USBA370000104", "USBD350002623", "USBD3500008IJ","USBD35000149S", "USBD35000180U", "US2600019IC","USBD1200009JI", 
-                "US2200001IY", "USAJ3504704A","USBB4400017N3", "US5000053YV", "USAJ3504502A", "US1900002QK", "US1800014CG", "USBD12000255B", "US4000033L"]
+        "ids": ["USBD3500008IJ","USBD35000149S", "USBD35000180U", "US2600019IC","USBD1200009JI", "US2200001IY", "US5000053YV", "USAJ3504502A", "US1900002QK", "US1800014CG", "USBD12000255B"]
     },
     {
         "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/gb.xml",
@@ -71,9 +70,14 @@ EXTERNAL_SOURCES = [
     {
         "url": "https://i.mjh.nz/Plex/us.xml",
         "ids": ["5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a", "5e20b730f2f8d5003d739db7-6876f76054325376973fd314", "5e20b730f2f8d5003d739db7-69727a4631b12b32a91db6b3", 
-                "5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c", "5e20b730f2f8d5003d739db7-60d324f59adce5002c41dbc5", "5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a",
+                "5e20b730f2f8d5003d739db7-689fb7110a486aeba3c7917c", "5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c442a", "5e20b730f2f8d5003d739db7-66a2d1390b91165254efdb3e",
                "5e20b730f2f8d5003d739db7-688006e7015fe7e375a1a0ac", "5e20b730f2f8d5003d739db7-6889430a3b7708975e7c07e3", "5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf",
-               "5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf", "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc791", "5e20b730f2f8d5003d739db7-671a924b79fce6628115432c"]
+               "5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf", "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc791", "5e20b730f2f8d5003d739db7-671a924b79fce6628115432c",
+               "5e20b730f2f8d5003d739db7-5fc70600dd53a6002d8f93ca"]
+    },
+    {
+        "url": "https://i.mjh.nz/Plex/gb.xml",
+        "ids": ["64305451fc3be5947773c339-66855a2a714fe577eb7db920"]
     },
     {
         "url": "https://i.mjh.nz/Plex/mx.xml",
@@ -89,24 +93,24 @@ EXTERNAL_SOURCES = [
     },
     {
         "url": "https://raw.githubusercontent.com/luisms123/tdt/refs/heads/master/guiacanales.xml",
-        "ids": ["Magic Kids Tv", "Ani Retro", "El Chavo", "Cine Sony", "Tv Retro Palmares"]
+        "ids": ["Magic Kids Tv", "Ani Retro", "El Chavo", "Cine Sony"]
     },
     {
         "url": "https://epg.pw/xmltv/epg_US.xml.gz",
         "ids": ["464956", "464775"]
     },
-    {
-        "url": "https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz",
-        "ids": ["Canal.Cinema.Platino.mx"]
-    },
+    #{
+    #    "url": "https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz",
+     #   "ids": ["Canal.Cinema.Platino.mx"]
+   # },
     {
         "url": "https://epgshare01.online/epgshare01/epg_ripper_ES1.xml.gz",
-        "ids": ["M+.Estrenos.es", "M+.Acción.es", "Be.Mad.es", "C.Hollywood.es", "XTRM.es", "Dark.es", "TCM.es", "M+.Clásicos.es"]
+        "ids": ["Be.Mad.es", "C.Hollywood.es", "XTRM.es", "Dark.es", "TCM.es", "M+.Clásicos.es", "Canal.24.h.es"]
     },
     {
         "url": "https://github.com/HelmerLuzo/RakutenTV_HL/raw/refs/heads/main/epg/RakutenTV.xml.gz",
         "ids": ["that-s-80s", "that-s-90s00s", "that-s-rock", "filmrise-sci-fi-es", "sci-fi-rakuten-tv", "action-rakuten-tv", "thriller-rakuten-tv", "fifa-plus-es-new", "cine-western-es",
-               "grjngo-es","stingray-remember-the-80-s"]
+               "grjngo-es","stingray-remember-the-80-s", "stingray-naturescape"]
     },
         {
         "url": "https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz",

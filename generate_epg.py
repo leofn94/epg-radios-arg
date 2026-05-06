@@ -41,8 +41,10 @@ CHANNELS = [
 EXTERNAL_SOURCES = [
     {
         "url": "https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/vilma/guia-de-programacion.xml",
-        "ids": ["0855", "0533", "0839", "XXX8", "0861", "0827", "0528", "0135","0860","1810","0318","0842","2813","0621","1806","1814","0838","0431","0209",
-                "0821","0822","0823","0643", "0824","0859","0629","0222","0808","0903","0935","0210","0215","0206","0604","2701","0851","0432","0433","0927"]
+        "ids": ["0135", "0204", "0205", "0206", "0209", "0210", "0215", "0222", "0318", "0431", "0432", "0433", "0528", "0533", "0604", "0621", "0629", 
+                "0636", "0643", "0707", "0808", "0821", "0822", "0823", "0824", "0827", "0838", "0839", "0842", "0851", "0855", "0856", "0859", "0860", 
+                "0861", "0903", "0904", "0905", "0909", "0915", "0916", "0917", "0920", "0927", "0932", "0934", "0935", "1806", "1810", "1814", "2701", 
+                "2813", "XXX8"]
     },
     {
         "url": "https://epg.programadorx.cl/mdiaz/gratis.xml",
@@ -57,7 +59,7 @@ EXTERNAL_SOURCES = [
     },
     {
         "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/es.xml",
-        "ids": ["ES3400004SS", "ES300029LP", "ES3000288I", "ESBC1700004PX", "ESBC2700003T8", "ES2600013H4", "ESBC40000248"]
+        "ids": ["ES3400004SS", "ES300029LP", "ES3000288I", "ESBC1700004PX", "ESBC2700003T8", "ESBC40000248"]
     },
     {
         "url": "https://raw.github.com/matthuisman/i.mjh.nz/master/SamsungTVPlus/us.xml",
@@ -110,7 +112,7 @@ EXTERNAL_SOURCES = [
     {
         "url": "https://github.com/HelmerLuzo/RakutenTV_HL/raw/refs/heads/main/epg/RakutenTV.xml.gz",
         "ids": ["that-s-80s", "that-s-90s00s", "that-s-rock", "filmrise-sci-fi-es", "sci-fi-rakuten-tv", "action-rakuten-tv", "thriller-rakuten-tv", "fifa-plus-es-new", "cine-western-es",
-               "grjngo-es","stingray-remember-the-80-s", "stingray-naturescape"]
+               "grjngo-es","stingray-remember-the-80-s", "stingray-naturescape", "top-movies-rakuten-tv"]
     },
         {
         "url": "https://helmerluzo.github.io/RuntimeTV_HL/epg/RuntimeTV.xml.gz",

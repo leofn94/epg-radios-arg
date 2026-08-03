@@ -131,7 +131,7 @@ CHANNELS = [
 # 2. FUENTES XML EXTERNAS
 EXTERNAL_SOURCES = [
     {
-        "url": "https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/vilma/guia-de-programacion.xml",
+        "url": "https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/vilma/public/guia-de-programacion.xml",
         "ids": ["0204", "0205", "0206", "0209", "0210", "0215", "0222", "0318", "0431", "0432", "0433", "0528", "0533", "0621", "0629", "0302", "0308", "0705", "0829",
                 "0636", "0643", "0707", "0808", "0821", "0822", "0823", "0824", "0838", "0839", "0842", "0851", "0855", "0859", "0812", "1604", "0621", "1412", "0802",
                 "0903", "0904", "0905", "0909", "0915", "0916", "0917", "0920", "0927", "0934", "0935", "1806", "1810", "1814", "3701", "1832", "1411", "2413", "1836",

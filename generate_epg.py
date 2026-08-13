@@ -176,7 +176,7 @@ EXTERNAL_SOURCES = [
     },
      {
          "url": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
-         "ids": ["plex.tv.Deal.Or.No.Deal.plex", "plex.tv.Family.Feud.plex"]
+         "ids": ["plex.tv.Deal.Or.No.Deal.plex", "plex.tv.Family.Feud.plex", "plex.tv.FIFA+.plex"]
      },
     {
         "url": "https://i.mjh.nz/Plex/mx.xml",

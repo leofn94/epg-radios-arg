@@ -10,7 +10,7 @@
   <channel id="retromagico.ar"><display-name>Retro Magico</display-name></channel>
   <channel id="locomotion1.ar"><display-name>Locomotion 1</display-name></channel>
   <channel id="mitv.ar"><display-name>MiTV 1</display-name></channel>
-  <channel id="retroblast"><display-name>retroblast</display-name></channel>
+  <channel id="cncity"><display-name>cncity</display-name></channel>
   <channel id="telered.ar"><display-name>Telered</display-name></channel>
   <channel id="telesistema.ar"><display-name>telesistema</display-name></channel>
   <channel id="doble.c.tv"><display-name>doble c</display-name></channel>
@@ -503,10 +503,6 @@
     <title lang="es">Alguien tiene que decirlo (Eduardo Feinmann)</title>
     <desc lang="es">Programa periodístico con fuerte opinión, actualidad política y entrevistas.</desc>
   </programme>
-  <programme start="20260902000000 -0300" stop="20260902003000 -0300" channel="nacionalclasica.ar">
-    <title lang="es">Trasnoche Jazz</title>
-    <desc lang="es">Una noche entera dedicada al jazz en sus distintas vertientes y épocas.</desc>
-  </programme>
   <programme start="20260902003000 -0300" stop="20260902060000 -0300" channel="nacionalclasica.ar">
     <title lang="es">La trasnoche clásica</title>
     <desc lang="es">Música clásica sin interrupciones para acompañar la madrugada.</desc>
@@ -778,10 +774,6 @@
   <programme start="20260904000000 -0300" stop="20260904090000 -0300" channel="ciudadmagica.ar">
     <title lang="es">Cine en Casa</title>
     <desc lang="es">Ciclo de películas para acompañar la madrugada.</desc>
-  </programme>
-  <programme start="20260902000000 -0300" stop="20260902003000 -0300" channel="retromagico.ar">
-    <title lang="es">Reboot</title>
-    <desc lang="es">La serie animada de ciencia ficción sobre guardianes digitales dentro de una computadora.</desc>
   </programme>
   <programme start="20260902003000 -0300" stop="20260902010000 -0300" channel="retromagico.ar">
     <title lang="es">Sailor Moon</title>
@@ -1223,9 +1215,9 @@
     <title lang="es">Pokemon</title>
     <desc lang="es">Ash y Pikachu recorren el mundo capturando y entrenando Pokémon.</desc>
   </programme>
-  <programme start="20260902000000 -0300" stop="20260902003000 -0300" channel="locomotion1.ar">
-    <title lang="es">Blue Seed</title>
-    <desc lang="es">Momiji Fujimiya descubre que es la última descendiente de la princesa Kushinada, cuya sangre es la única capaz de sellar a los Aragami, criaturas mitológicas japonesas que amenazan con devorar la humanidad. Protegida por Mamoru Kusanagi, un joven mitad Aragami, Momiji deberá aceptar su destino y enfrentar a los monstruos junto al equipo especial TAC, entre el amor y el sacrificio.</desc>
+  <programme start="20260904073000 -0300" stop="20260904080000 -0300" channel="retromagico.ar">
+    <title lang="es">Digimon</title>
+    <desc lang="es">Aventuras digitales de niños y sus compañeros monstruos en el mundo digital.</desc>
   </programme>
   <programme start="20260902003000 -0300" stop="20260902010000 -0300" channel="locomotion1.ar">
     <title lang="es">Cowboy Bebop</title>
@@ -1667,6 +1659,10 @@
     <title lang="es">Chica Marioneta J</title>
     <desc lang="es">En el planeta Terra II, poblado únicamente por clones masculinos de los seis hombres que naufragaron allí hace 300 años, las únicas hembras son robots llamados marionetas. Otaru Mamiya descubre tres marionetas únicas, Lima, Cereza y Zarzamora, que poseen un circuito especial que les permite experimentar emociones humanas, desafiando todo lo que se sabe sobre la vida en ese mundo.</desc>
   </programme>
+  <programme start="20260904073000 -0300" stop="20260904080000 -0300" channel="locomotion1.ar">
+    <title lang="es">The Vision of Escaflowne</title>
+    <desc lang="es">Hitomi Kanzaki es una estudiante de secundaria con el don de predecir el futuro mediante las cartas del tarot. Un día es transportada al mundo de Gaea, donde conoce al joven príncipe Van y al mítico robot de combate Escaflowne. Juntos deberán enfrentar al Imperio Zaibach, que amenaza con destruir todos los reinos de Gaea usando una antigua arma legendaria.</desc>
+  </programme>
   <programme start="20260902002000 -0300" stop="20260902012000 -0300" channel="mitv.ar">
     <title lang="es">Lobo de Aire</title>
     <desc lang="es">Un piloto de élite realiza misiones secretas para el gobierno a bordo de un helicóptero supersónico de alta tecnología equipado con armamento avanzado.</desc>
@@ -2019,428 +2015,143 @@
     <title lang="es">Los años maravillosos</title>
     <desc lang="es">Kevin Arnold narra su crecimiento durante las décadas de los 60 y 70, enfrentando los cambios sociales, el primer amor y los retos de la adolescencia.</desc>
   </programme>
-  <programme start="20260902002500 -0300" stop="20260902004700 -0300" channel="retroblast">
-    <title lang="es">Family Guy</title>
-  </programme>
-  <programme start="20260902004700 -0300" stop="20260902010000 -0300" channel="retroblast">
-    <title lang="es">Robot Chicken</title>
-  </programme>
-  <programme start="20260902010000 -0300" stop="20260902011300 -0300" channel="retroblast">
-    <title lang="es">ATHF</title>
-  </programme>
-  <programme start="20260902011300 -0300" stop="20260902012500 -0300" channel="retroblast">
-    <title lang="es">Tim and Eric</title>
-  </programme>
-  <programme start="20260902012500 -0300" stop="20260902015000 -0300" channel="retroblast">
-    <title lang="es">King of the Hill</title>
-  </programme>
-  <programme start="20260902015000 -0300" stop="20260902021500 -0300" channel="retroblast">
-    <title lang="es">Bleach</title>
-  </programme>
-  <programme start="20260902021500 -0300" stop="20260902024000 -0300" channel="retroblast">
-    <title lang="es">FMA Brotherhood</title>
-  </programme>
-  <programme start="20260902024000 -0300" stop="20260902030500 -0300" channel="retroblast">
-    <title lang="es">Death Note</title>
-  </programme>
-  <programme start="20260902030500 -0300" stop="20260902032700 -0300" channel="retroblast">
-    <title lang="es">Futurama</title>
-  </programme>
-  <programme start="20260902032700 -0300" stop="20260902034900 -0300" channel="retroblast">
-    <title lang="es">Family Guy</title>
-  </programme>
-  <programme start="20260902034900 -0300" stop="20260902040000 -0300" channel="retroblast">
-    <title lang="es">Robot Chicken</title>
-  </programme>
-  <programme start="20260902040000 -0300" stop="20260902041300 -0300" channel="retroblast">
-    <title lang="es">ATHF</title>
-  </programme>
-  <programme start="20260902041300 -0300" stop="20260902042500 -0300" channel="retroblast">
-    <title lang="es">Tim and Eric</title>
-  </programme>
-  <programme start="20260902042500 -0300" stop="20260902045000 -0300" channel="retroblast">
-    <title lang="es">King of the Hill</title>
-  </programme>
-  <programme start="20260902045000 -0300" stop="20260902051500 -0300" channel="retroblast">
-    <title lang="es">Bleach</title>
-  </programme>
-  <programme start="20260902051500 -0300" stop="20260902054000 -0300" channel="retroblast">
-    <title lang="es">JoJo&#x27;s Bizarre Adventure</title>
-  </programme>
-  <programme start="20260902054000 -0300" stop="20260902060500 -0300" channel="retroblast">
-    <title lang="es">Inuyasha</title>
-  </programme>
-  <programme start="20260902060500 -0300" stop="20260902063000 -0300" channel="retroblast">
-    <title lang="es">Lupin the Third Part II</title>
-  </programme>
-  <programme start="20260902063000 -0300" stop="20260902065500 -0300" channel="retroblast">
-    <title lang="es">Case Closed</title>
-  </programme>
-  <programme start="20260902065500 -0300" stop="20260902072000 -0300" channel="retroblast">
-    <title lang="es">Animaniacs</title>
-  </programme>
-  <programme start="20260902072000 -0300" stop="20260902074500 -0300" channel="retroblast">
-    <title lang="es">Power Rangers</title>
-  </programme>
-  <programme start="20260902074500 -0300" stop="20260902083500 -0300" channel="retroblast">
-    <title lang="es">Batman TAS</title>
-  </programme>
-  <programme start="20260902083500 -0300" stop="20260902090000 -0300" channel="retroblast">
-    <title lang="es">Totally Spies</title>
-  </programme>
-  <programme start="20260902090000 -0300" stop="20260902092500 -0300" channel="retroblast">
-    <title lang="es">Code Lyoko</title>
-  </programme>
-  <programme start="20260902092500 -0300" stop="20260902095000 -0300" channel="retroblast">
-    <title lang="es">TMNT (2003)</title>
-  </programme>
-  <programme start="20260902095000 -0300" stop="20260902101500 -0300" channel="retroblast">
-    <title lang="es">Teen Titans</title>
-  </programme>
-  <programme start="20260902101500 -0300" stop="20260902104000 -0300" channel="retroblast">
-    <title lang="es">Pokemon Advanced</title>
-  </programme>
-  <programme start="20260902104000 -0300" stop="20260902110500 -0300" channel="retroblast">
-    <title lang="es">Yu-Gi-Oh! GX</title>
-  </programme>
-  <programme start="20260902110500 -0300" stop="20260902113000 -0300" channel="retroblast">
-    <title lang="es">The Cartoon Cartoon Show</title>
-  </programme>
-  <programme start="20260902113000 -0300" stop="20260902115500 -0300" channel="retroblast">
-    <title lang="es">Ben 10</title>
-  </programme>
-  <programme start="20260902115500 -0300" stop="20260902122000 -0300" channel="retroblast">
-    <title lang="es">Xiaolin Showdown</title>
-  </programme>
-  <programme start="20260902122000 -0300" stop="20260902124500 -0300" channel="retroblast">
-    <title lang="es">KND</title>
-  </programme>
-  <programme start="20260902124500 -0300" stop="20260902131000 -0300" channel="retroblast">
-    <title lang="es">Billy and Mandy</title>
-  </programme>
-  <programme start="20260902131000 -0300" stop="20260902133500 -0300" channel="retroblast">
-    <title lang="es">Ed Edd n Eddy</title>
-  </programme>
-  <programme start="20260902133500 -0300" stop="20260902140000 -0300" channel="retroblast">
-    <title lang="es">Juniper Lee</title>
-  </programme>
-  <programme start="20260902140000 -0300" stop="20260902142500 -0300" channel="retroblast">
-    <title lang="es">Fosters</title>
-  </programme>
-  <programme start="20260902142500 -0300" stop="20260902145000 -0300" channel="retroblast">
-    <title lang="es">Samurai Jack</title>
-  </programme>
-  <programme start="20260902145000 -0300" stop="20260902151500 -0300" channel="retroblast">
-    <title lang="es">Camp Lazlo</title>
-  </programme>
-  <programme start="20260902151500 -0300" stop="20260902154000 -0300" channel="retroblast">
-    <title lang="es">PPG</title>
-  </programme>
-  <programme start="20260902154000 -0300" stop="20260902160500 -0300" channel="retroblast">
-    <title lang="es">Star Wars The Clone Wars</title>
-  </programme>
-  <programme start="20260902160500 -0300" stop="20260902163000 -0300" channel="retroblast">
-    <title lang="es">Hi Hi Puffy Ami Yumi</title>
-  </programme>
-  <programme start="20260902163000 -0300" stop="20260902165500 -0300" channel="retroblast">
-    <title lang="es">Yu-Gi-Oh! DM</title>
-  </programme>
-  <programme start="20260902165500 -0300" stop="20260902172000 -0300" channel="retroblast">
-    <title lang="es">Sailor Moon</title>
-  </programme>
-  <programme start="20260902172000 -0300" stop="20260902174500 -0300" channel="retroblast">
-    <title lang="es">YuYu</title>
-  </programme>
-  <programme start="20260902174500 -0300" stop="20260902181000 -0300" channel="retroblast">
-    <title lang="es">Dragon Ball</title>
-  </programme>
-  <programme start="20260902181000 -0300" stop="20260902183500 -0300" channel="retroblast">
-    <title lang="es">BoboBoBoBoBoBo</title>
-  </programme>
-  <programme start="20260902183500 -0300" stop="20260902190000 -0300" channel="retroblast">
-    <title lang="es">Outlaw Star</title>
-  </programme>
-  <programme start="20260902190000 -0300" stop="20260902192500 -0300" channel="retroblast">
-    <title lang="es">DBZ (Run A)</title>
-  </programme>
-  <programme start="20260902192500 -0300" stop="20260902195000 -0300" channel="retroblast">
-    <title lang="es">One Piece</title>
-  </programme>
-  <programme start="20260902195000 -0300" stop="20260902201500 -0300" channel="retroblast">
-    <title lang="es">Naruto/Shippuden</title>
-  </programme>
-  <programme start="20260902201500 -0300" stop="20260902204000 -0300" channel="retroblast">
-    <title lang="es">Fosters</title>
-  </programme>
-  <programme start="20260902204000 -0300" stop="20260902210500 -0300" channel="retroblast">
-    <title lang="es">KND</title>
-  </programme>
-  <programme start="20260902210500 -0300" stop="20260902213000 -0300" channel="retroblast">
-    <title lang="es">Billy and Mandy</title>
-  </programme>
-  <programme start="20260902213000 -0300" stop="20260902215500 -0300" channel="retroblast">
-    <title lang="es">Pokemon Advanced</title>
-  </programme>
-  <programme start="20260902215500 -0300" stop="20260902222000 -0300" channel="retroblast">
-    <title lang="es">Juniper Lee</title>
-  </programme>
-  <programme start="20260902222000 -0300" stop="20260902224500 -0300" channel="retroblast">
-    <title lang="es">Yu-Gi-Oh! DM</title>
-  </programme>
-  <programme start="20260902224500 -0300" stop="20260902231000 -0300" channel="retroblast">
-    <title lang="es">Teen Titans</title>
-  </programme>
-  <programme start="20260902231000 -0300" stop="20260902233500 -0300" channel="retroblast">
-    <title lang="es">DBZ (Run B)</title>
-  </programme>
-  <programme start="20260902233500 -0300" stop="20260903000000 -0300" channel="retroblast">
-    <title lang="es">Naruto</title>
-  </programme>
-  <programme start="20260903000000 -0300" stop="20260903002500 -0300" channel="retroblast">
-    <title lang="es">Futurama</title>
-  </programme>
-  <programme start="20260903002500 -0300" stop="20260903004700 -0300" channel="retroblast">
-    <title lang="es">Family Guy</title>
-  </programme>
-  <programme start="20260903004700 -0300" stop="20260903010000 -0300" channel="retroblast">
-    <title lang="es">Robot Chicken</title>
-  </programme>
-  <programme start="20260903010000 -0300" stop="20260903011300 -0300" channel="retroblast">
-    <title lang="es">ATHF</title>
-  </programme>
-  <programme start="20260903011300 -0300" stop="20260903012500 -0300" channel="retroblast">
-    <title lang="es">Eric Andre</title>
-  </programme>
-  <programme start="20260903012500 -0300" stop="20260903015000 -0300" channel="retroblast">
-    <title lang="es">King of the Hill</title>
-  </programme>
-  <programme start="20260903015000 -0300" stop="20260903021500 -0300" channel="retroblast">
-    <title lang="es">Bleach</title>
-  </programme>
-  <programme start="20260903021500 -0300" stop="20260903024000 -0300" channel="retroblast">
-    <title lang="es">FMA Brotherhood</title>
-  </programme>
-  <programme start="20260903024000 -0300" stop="20260903030500 -0300" channel="retroblast">
-    <title lang="es">Death Note</title>
-  </programme>
-  <programme start="20260903030500 -0300" stop="20260903032700 -0300" channel="retroblast">
-    <title lang="es">Futurama</title>
-  </programme>
-  <programme start="20260903032700 -0300" stop="20260903034900 -0300" channel="retroblast">
-    <title lang="es">Family Guy</title>
-  </programme>
-  <programme start="20260903034900 -0300" stop="20260903040000 -0300" channel="retroblast">
-    <title lang="es">Robot Chicken</title>
-  </programme>
-  <programme start="20260903040000 -0300" stop="20260903041300 -0300" channel="retroblast">
-    <title lang="es">ATHF</title>
-  </programme>
-  <programme start="20260903041300 -0300" stop="20260903042500 -0300" channel="retroblast">
-    <title lang="es">Eric Andre</title>
-  </programme>
-  <programme start="20260903042500 -0300" stop="20260903045000 -0300" channel="retroblast">
-    <title lang="es">King of the Hill</title>
-  </programme>
-  <programme start="20260903045000 -0300" stop="20260903051500 -0300" channel="retroblast">
-    <title lang="es">Bleach</title>
-  </programme>
-  <programme start="20260903051500 -0300" stop="20260903054000 -0300" channel="retroblast">
-    <title lang="es">JoJo&#x27;s Bizarre Adventure</title>
-  </programme>
-  <programme start="20260903054000 -0300" stop="20260903060500 -0300" channel="retroblast">
-    <title lang="es">Inuyasha</title>
-  </programme>
-  <programme start="20260903060500 -0300" stop="20260903063000 -0300" channel="retroblast">
-    <title lang="es">Lupin the Third Part II</title>
-  </programme>
-  <programme start="20260903063000 -0300" stop="20260903065500 -0300" channel="retroblast">
-    <title lang="es">Case Closed</title>
-  </programme>
-  <programme start="20260903065500 -0300" stop="20260903072000 -0300" channel="retroblast">
-    <title lang="es">Animaniacs</title>
-  </programme>
-  <programme start="20260903072000 -0300" stop="20260903074500 -0300" channel="retroblast">
-    <title lang="es">Power Rangers</title>
-  </programme>
-  <programme start="20260903074500 -0300" stop="20260903083500 -0300" channel="retroblast">
-    <title lang="es">Batman TAS</title>
-  </programme>
-  <programme start="20260903083500 -0300" stop="20260903090000 -0300" channel="retroblast">
-    <title lang="es">Totally Spies</title>
-  </programme>
-  <programme start="20260903090000 -0300" stop="20260903092500 -0300" channel="retroblast">
-    <title lang="es">Code Lyoko</title>
-  </programme>
-  <programme start="20260903092500 -0300" stop="20260903095000 -0300" channel="retroblast">
-    <title lang="es">TMNT (2003)</title>
-  </programme>
-  <programme start="20260903095000 -0300" stop="20260903101500 -0300" channel="retroblast">
-    <title lang="es">Teen Titans</title>
-  </programme>
-  <programme start="20260903101500 -0300" stop="20260903104000 -0300" channel="retroblast">
-    <title lang="es">Pokemon Advanced</title>
-  </programme>
-  <programme start="20260903104000 -0300" stop="20260903110500 -0300" channel="retroblast">
-    <title lang="es">Yu-Gi-Oh! GX</title>
-  </programme>
-  <programme start="20260903110500 -0300" stop="20260903113000 -0300" channel="retroblast">
-    <title lang="es">Tom and Jerry</title>
-  </programme>
-  <programme start="20260903113000 -0300" stop="20260903115500 -0300" channel="retroblast">
-    <title lang="es">Robotboy</title>
-  </programme>
-  <programme start="20260903115500 -0300" stop="20260903122000 -0300" channel="retroblast">
+  <programme start="20260902065900 -0300" stop="20260902072900 -0300" channel="cncity">
     <title lang="es">Duck Dodgers</title>
   </programme>
-  <programme start="20260903122000 -0300" stop="20260903124500 -0300" channel="retroblast">
+  <programme start="20260902072900 -0300" stop="20260902080000 -0300" channel="cncity">
+    <title lang="es">Megas XLR</title>
+  </programme>
+  <programme start="20260902080000 -0300" stop="20260902083100 -0300" channel="cncity">
+    <title lang="es">Hi Hi Puffy AmiYumi</title>
+  </programme>
+  <programme start="20260902083100 -0300" stop="20260902090100 -0300" channel="cncity">
+    <title lang="es">The Grim Adventures of Billy &amp; Mandy</title>
+  </programme>
+  <programme start="20260902090100 -0300" stop="20260902093100 -0300" channel="cncity">
+    <title lang="es">Dexter&#x27;s Laboratory</title>
+  </programme>
+  <programme start="20260902093100 -0300" stop="20260902100100 -0300" channel="cncity">
+    <title lang="es">Cow and Chicken</title>
+  </programme>
+  <programme start="20260902100100 -0300" stop="20260902103100 -0300" channel="cncity">
+    <title lang="es">The Marvelous Misadventures of Flapjack</title>
+  </programme>
+  <programme start="20260902103100 -0300" stop="20260902110100 -0300" channel="cncity">
     <title lang="es">Johnny Bravo</title>
   </programme>
-  <programme start="20260903124500 -0300" stop="20260903131000 -0300" channel="retroblast">
-    <title lang="es">Billy and Mandy</title>
+  <programme start="20260902110100 -0300" stop="20260902113200 -0300" channel="cncity">
+    <title lang="es">Foster&#x27;s Home for Imaginary Friends</title>
   </programme>
-  <programme start="20260903131000 -0300" stop="20260903133500 -0300" channel="retroblast">
-    <title lang="es">Ed Edd n Eddy</title>
+  <programme start="20260902113200 -0300" stop="20260902120300 -0300" channel="cncity">
+    <title lang="es">Courage the Cowardly Dog</title>
   </programme>
-  <programme start="20260903133500 -0300" stop="20260903140000 -0300" channel="retroblast">
-    <title lang="es">Camp Lazlo</title>
+  <programme start="20260902120300 -0300" stop="20260902123300 -0300" channel="cncity">
+    <title lang="es">Robotboy</title>
   </programme>
-  <programme start="20260903140000 -0300" stop="20260903142500 -0300" channel="retroblast">
-    <title lang="es">PPG</title>
+  <programme start="20260902123300 -0300" stop="20260902130300 -0300" channel="cncity">
+    <title lang="es">Dragon Ball Z</title>
   </programme>
-  <programme start="20260903142500 -0300" stop="20260903145000 -0300" channel="retroblast">
-    <title lang="es">Fosters</title>
+  <programme start="20260902130300 -0300" stop="20260902133300 -0300" channel="cncity">
+    <title lang="es">Codename: Kids Next Door</title>
   </programme>
-  <programme start="20260903145000 -0300" stop="20260903151500 -0300" channel="retroblast">
-    <title lang="es">Dexters Lab</title>
+  <programme start="20260902133300 -0300" stop="20260902140400 -0300" channel="cncity">
+    <title lang="es">What&#x27;s New Scooby-Doo?</title>
   </programme>
-  <programme start="20260903151500 -0300" stop="20260903154000 -0300" channel="retroblast">
-    <title lang="es">Scooby-Doo</title>
+  <programme start="20260902140400 -0300" stop="20260902143600 -0300" channel="cncity">
+    <title lang="es">Ed, Edd n&#x27; Eddy</title>
   </programme>
-  <programme start="20260903154000 -0300" stop="20260903160500 -0300" channel="retroblast">
-    <title lang="es">Courage</title>
+  <programme start="20260902143600 -0300" stop="20260902150600 -0300" channel="cncity">
+    <title lang="es">Totally Spies!</title>
   </programme>
-  <programme start="20260903160500 -0300" stop="20260903163000 -0300" channel="retroblast">
-    <title lang="es">Pokémon Advanced</title>
+  <programme start="20260902150600 -0300" stop="20260902153700 -0300" channel="cncity">
+    <title lang="es">¡Mucha Lucha!</title>
   </programme>
-  <programme start="20260903163000 -0300" stop="20260903165500 -0300" channel="retroblast">
-    <title lang="es">Yu-Gi-Oh! DM</title>
+  <programme start="20260902153700 -0300" stop="20260902160700 -0300" channel="cncity">
+    <title lang="es">The Life and Times of Juniper Lee</title>
   </programme>
-  <programme start="20260903165500 -0300" stop="20260903172000 -0300" channel="retroblast">
-    <title lang="es">Sailor Moon</title>
+  <programme start="20260902160700 -0300" stop="20260902163700 -0300" channel="cncity">
+    <title lang="es">Ben 10</title>
   </programme>
-  <programme start="20260903172000 -0300" stop="20260903174500 -0300" channel="retroblast">
-    <title lang="es">YuYu</title>
-  </programme>
-  <programme start="20260903174500 -0300" stop="20260903181000 -0300" channel="retroblast">
-    <title lang="es">Gundam Wing</title>
-  </programme>
-  <programme start="20260903181000 -0300" stop="20260903183500 -0300" channel="retroblast">
-    <title lang="es">Justice League</title>
-  </programme>
-  <programme start="20260903183500 -0300" stop="20260903190000 -0300" channel="retroblast">
-    <title lang="es">Zatch Bell</title>
-  </programme>
-  <programme start="20260903190000 -0300" stop="20260903192500 -0300" channel="retroblast">
-    <title lang="es">DBZ (Run A)</title>
-  </programme>
-  <programme start="20260903192500 -0300" stop="20260903195000 -0300" channel="retroblast">
-    <title lang="es">One Piece</title>
-  </programme>
-  <programme start="20260903195000 -0300" stop="20260903201500 -0300" channel="retroblast">
-    <title lang="es">Naruto/Shippuden</title>
-  </programme>
-  <programme start="20260903201500 -0300" stop="20260903204000 -0300" channel="retroblast">
-    <title lang="es">Class of 3000</title>
-  </programme>
-  <programme start="20260903204000 -0300" stop="20260903210500 -0300" channel="retroblast">
-    <title lang="es">KND</title>
-  </programme>
-  <programme start="20260903210500 -0300" stop="20260903213000 -0300" channel="retroblast">
-    <title lang="es">Billy and Mandy</title>
-  </programme>
-  <programme start="20260903213000 -0300" stop="20260903215500 -0300" channel="retroblast">
-    <title lang="es">Hi Hi Puffy Ami Yumi</title>
-  </programme>
-  <programme start="20260903215500 -0300" stop="20260903222000 -0300" channel="retroblast">
-    <title lang="es">Ed Edd n Eddy</title>
-  </programme>
-  <programme start="20260903222000 -0300" stop="20260903224500 -0300" channel="retroblast">
-    <title lang="es">Yu-Gi-Oh! DM</title>
-  </programme>
-  <programme start="20260903224500 -0300" stop="20260903231000 -0300" channel="retroblast">
-    <title lang="es">Teen Titans</title>
-  </programme>
-  <programme start="20260903231000 -0300" stop="20260903233500 -0300" channel="retroblast">
-    <title lang="es">DBZ (Run B)</title>
-  </programme>
-  <programme start="20260903233500 -0300" stop="20260904000000 -0300" channel="retroblast">
+  <programme start="20260902163700 -0300" stop="20260902170800 -0300" channel="cncity">
     <title lang="es">Naruto</title>
   </programme>
-  <programme start="20260904000000 -0300" stop="20260904002500 -0300" channel="retroblast">
-    <title lang="es">Futurama</title>
+  <programme start="20260902170800 -0300" stop="20260902173900 -0300" channel="cncity">
+    <title lang="es">Teen Titans</title>
   </programme>
-  <programme start="20260904002500 -0300" stop="20260904004700 -0300" channel="retroblast">
-    <title lang="es">Family Guy</title>
+  <programme start="20260902173900 -0300" stop="20260902181000 -0300" channel="cncity">
+    <title lang="es">Ben 10: Alien Force</title>
   </programme>
-  <programme start="20260904004700 -0300" stop="20260904010000 -0300" channel="retroblast">
+  <programme start="20260902181000 -0300" stop="20260902184300 -0300" channel="cncity">
+    <title lang="es">Generator Rex</title>
+  </programme>
+  <programme start="20260902184300 -0300" stop="20260902191500 -0300" channel="cncity">
+    <title lang="es">Justice League Unlimited</title>
+  </programme>
+  <programme start="20260902191500 -0300" stop="20260902194500 -0300" channel="cncity">
+    <title lang="es">Tom and Jerry</title>
+  </programme>
+  <programme start="20260902194500 -0300" stop="20260902201600 -0300" channel="cncity">
+    <title lang="es">Looney Tunes</title>
+  </programme>
+  <programme start="20260902201600 -0300" stop="20260902204600 -0300" channel="cncity">
+    <title lang="es">Pokémon</title>
+  </programme>
+  <programme start="20260902204600 -0300" stop="20260902211700 -0300" channel="cncity">
+    <title lang="es">The Powerpuff Girls</title>
+  </programme>
+  <programme start="20260902211700 -0300" stop="20260902214700 -0300" channel="cncity">
+    <title lang="es">Ed, Edd n&#x27; Eddy</title>
+  </programme>
+  <programme start="20260902214700 -0300" stop="20260902221700 -0300" channel="cncity">
+    <title lang="es">Code Lyoko</title>
+  </programme>
+  <programme start="20260902221700 -0300" stop="20260902224800 -0300" channel="cncity">
+    <title lang="es">Samurai Jack</title>
+  </programme>
+  <programme start="20260902224800 -0300" stop="20260902232100 -0300" channel="cncity">
+    <title lang="es">The Grim Adventures of Billy &amp; Mandy</title>
+  </programme>
+  <programme start="20260902232100 -0300" stop="20260902235400 -0300" channel="cncity">
+    <title lang="es">Xiaolin Showdown</title>
+  </programme>
+  <programme start="20260902235400 -0300" stop="20260903002600 -0300" channel="cncity">
+    <title lang="es">Atomic Betty</title>
+  </programme>
+  <programme start="20260903002600 -0300" stop="20260903005600 -0300" channel="cncity">
+    <title lang="es">Dragon Ball Z</title>
+  </programme>
+  <programme start="20260903005600 -0300" stop="20260903012600 -0300" channel="cncity">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20260903012600 -0300" stop="20260903015600 -0300" channel="cncity">
+    <title lang="es">Saint Seiya EN VIVO</title>
+  </programme>
+  <programme start="20260903015600 -0300" stop="20260903022900 -0300" channel="cncity">
+    <title lang="es">Yu Yu Hakusho: Ghost Files</title>
+  </programme>
+  <programme start="20260903022900 -0300" stop="20260903030000 -0300" channel="cncity">
+    <title lang="es">Rurouni Kenshin</title>
+  </programme>
+  <programme start="20260903030000 -0300" stop="20260903033000 -0300" channel="cncity">
+    <title lang="es">Aqua Teen Hunger Force</title>
+  </programme>
+  <programme start="20260903033000 -0300" stop="20260903040200 -0300" channel="cncity">
+    <title lang="es">The Boondocks</title>
+  </programme>
+  <programme start="20260903040200 -0300" stop="20260903043300 -0300" channel="cncity">
     <title lang="es">Robot Chicken</title>
   </programme>
-  <programme start="20260904010000 -0300" stop="20260904011300 -0300" channel="retroblast">
-    <title lang="es">ATHF</title>
+  <programme start="20260903043300 -0300" stop="20260903050400 -0300" channel="cncity">
+    <title lang="es">Harvey Birdman, Attorney at Law</title>
   </programme>
-  <programme start="20260904011300 -0300" stop="20260904012500 -0300" channel="retroblast">
-    <title lang="es">Tim and Eric</title>
+  <programme start="20260903050400 -0300" stop="20260903053500 -0300" channel="cncity">
+    <title lang="es">Sealab 2021</title>
   </programme>
-  <programme start="20260904012500 -0300" stop="20260904015000 -0300" channel="retroblast">
-    <title lang="es">King of the Hill</title>
+  <programme start="20260903053500 -0300" stop="20260903060500 -0300" channel="cncity">
+    <title lang="es">Space Ghost Coast to Coast</title>
   </programme>
-  <programme start="20260904015000 -0300" stop="20260904021500 -0300" channel="retroblast">
-    <title lang="es">Bleach</title>
-  </programme>
-  <programme start="20260904021500 -0300" stop="20260904024000 -0300" channel="retroblast">
-    <title lang="es">FMA Brotherhood</title>
-  </programme>
-  <programme start="20260904024000 -0300" stop="20260904030500 -0300" channel="retroblast">
-    <title lang="es">Death Note</title>
-  </programme>
-  <programme start="20260904030500 -0300" stop="20260904032700 -0300" channel="retroblast">
-    <title lang="es">Futurama</title>
-  </programme>
-  <programme start="20260904032700 -0300" stop="20260904034900 -0300" channel="retroblast">
-    <title lang="es">Family Guy</title>
-  </programme>
-  <programme start="20260904034900 -0300" stop="20260904040000 -0300" channel="retroblast">
-    <title lang="es">Robot Chicken</title>
-  </programme>
-  <programme start="20260904040000 -0300" stop="20260904041300 -0300" channel="retroblast">
-    <title lang="es">ATHF</title>
-  </programme>
-  <programme start="20260904041300 -0300" stop="20260904042500 -0300" channel="retroblast">
-    <title lang="es">Tim and Eric</title>
-  </programme>
-  <programme start="20260904042500 -0300" stop="20260904045000 -0300" channel="retroblast">
-    <title lang="es">King of the Hill</title>
-  </programme>
-  <programme start="20260904045000 -0300" stop="20260904051500 -0300" channel="retroblast">
-    <title lang="es">Bleach</title>
-  </programme>
-  <programme start="20260904051500 -0300" stop="20260904054000 -0300" channel="retroblast">
-    <title lang="es">JoJo&#x27;s Bizarre Adventure</title>
-  </programme>
-  <programme start="20260904054000 -0300" stop="20260904060500 -0300" channel="retroblast">
-    <title lang="es">Inuyasha</title>
-  </programme>
-  <programme start="20260904060500 -0300" stop="20260904063000 -0300" channel="retroblast">
-    <title lang="es">Lupin the Third Part II</title>
-  </programme>
-  <programme start="20260904063000 -0300" stop="20260904065500 -0300" channel="retroblast">
-    <title lang="es">Case Closed</title>
-  </programme>
-  <programme start="20260904065500 -0300" stop="20260904072000 -0300" channel="retroblast">
-    <title lang="es">Animaniacs</title>
-  </programme>
-  <programme start="20260904072000 -0300" stop="20260904074500 -0300" channel="retroblast">
-    <title lang="es">Power Rangers</title>
+  <programme start="20260903060500 -0300" stop="20260903065900 -0300" channel="cncity">
+    <title lang="es">Clone High</title>
   </programme>
   <programme start="20260901230000 -0300" stop="20260902010000 -0300" channel="telered.ar">
     <title lang="es">X-Files</title>
@@ -3065,10 +2776,6 @@
   <programme start="20260904070000 -0300" stop="20260904090000 -0300" channel="doble.c.tv">
     <title lang="es">Zona Docu (Documentales)</title>
     <desc lang="es">Una cuidada selección de documentales sobre ciencia naturaleza e historia que expanden nuestro conocimiento del mundo.</desc>
-  </programme>
-  <programme start="20260901000500 -0300" stop="20260901003000 -0300" channel="0204">
-    <title lang="es">El mapa</title>
-    <desc lang="es">Repetición ║ Un espacio para el análisis con el objetivo de ampliar la geopolítica global.</desc>
   </programme>
   <programme start="20260901003000 -0300" stop="20260901010000 -0300" channel="0204">
     <title lang="es">Entre fronteras</title>
@@ -3842,9 +3549,9 @@
     <title lang="es">Somos</title>
     <desc lang="es">Repetición ║ Espacio noticioso dedicado a los cultores de nuestros pueblos.</desc>
   </programme>
-  <programme start="20260901000000 -0300" stop="20260901003000 -0300" channel="0205">
-    <title lang="es">Euromaxx - vida y cultura en Europa</title>
-    <desc lang="es">La fascinante y polifacética Europa para un público internacional. El Viejo Continente y su gente: países y estilos de vida, sus costumbres, su ambiente, su sociedad y su glamour.</desc>
+  <programme start="20260904073000 -0300" stop="20260904080000 -0300" channel="0204">
+    <title lang="es">[En vivo] Telesur Noticias</title>
+    <desc lang="es">En vivo ║ Noticias al momento desde los diversos escenarios de interés de la vida política, económica y social de toda América Latina, integrando así al mundo en una sola voz informativa. Con 12 corresponsalías y colaboradores especializados, extendidos a lo largo y ancho del continente, teleSUR Noticias emite minuto a minuto una perspectiva global de los procesos que deciden la historia de los pueblos de América Latina.</desc>
   </programme>
   <programme start="20260901003000 -0300" stop="20260901010000 -0300" channel="0205">
     <title lang="es">Fuerza latina, mujeres inspiradoras de América Latina</title>
@@ -4498,10 +4205,6 @@
     <title lang="es">A fondo</title>
     <desc lang="es">Investigaciones que siguen los más diversos fenómenos sociales y abordan cuestiones de actualidad. Una muestra de los problemas y soluciones para la vida de hoy y del mañana.</desc>
   </programme>
-  <programme start="20260901002300 -0300" stop="20260901003000 -0300" channel="0206">
-    <title lang="es">Cultura</title>
-    <desc lang="es">¿Cómo explican el mundo los cineastas, los novelistas o los artistas? France 24 sale al encuentro de una cultura comprometida con su época.</desc>
-  </programme>
   <programme start="20260901003000 -0300" stop="20260901004000 -0300" channel="0206">
     <title lang="es">Noticias</title>
     <desc lang="es">La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.</desc>
@@ -5017,10 +4720,6 @@
   <programme start="20260904040000 -0300" stop="20260904080000 -0300" channel="0206">
     <title lang="es">France 24 Español</title>
     <desc lang="es">La informacion de este programa no se encuentra disponible.</desc>
-  </programme>
-  <programme start="20260901000000 -0300" stop="20260901003000 -0300" channel="0209">
-    <title lang="es">Noticias</title>
-    <desc lang="es">Toda la información sobre política, economía, sociedad, tecnología, espectáculos y mucho más.</desc>
   </programme>
   <programme start="20260901003000 -0300" stop="20260901010000 -0300" channel="0209">
     <title lang="es">Zoom+</title>
@@ -5722,6 +5421,10 @@
     <title lang="es">Entrevista • Diego Coronel, académico del dep. de psiquiatría y salud mental de la facultad de la medicina UNAM</title>
     <desc lang="es">Diego Coronel, académico del dep. de psiquiatría y salud mental de la facultad de la medicina UNAM | Políticos, deportistas, artistas y gente de las más variadas esferas se dan cita en este segmento para contar a los espectadores la historia de su vida, con detalles reveladores, interesantes e impactantes.</desc>
   </programme>
+  <programme start="20260904073000 -0300" stop="20260904080000 -0300" channel="0209">
+    <title lang="es">Código abierto • Impunidad selectiva</title>
+    <desc lang="es">Impunidad selectiva | Cristina Martín Jiménez pone a prueba los titulares de prensa y la IA para entender hasta qué punto puede acercarnos a la verdad o, por el contrario, confundirnos.</desc>
+  </programme>
   <programme start="20260901000000 -0300" stop="20260901090000 -0300" channel="0210">
     <title lang="es">Perspectivas con Mario González</title>
     <desc lang="es">Analizando los temas que más conciernen e impactan al país.</desc>
@@ -5877,10 +5580,6 @@
   <programme start="20260904070000 -0300" stop="20260904110000 -0300" channel="0210">
     <title lang="es">CNN en Español</title>
     <desc lang="es">La informacion de este programa no se encuentra disponible.</desc>
-  </programme>
-  <programme start="20260901000000 -0300" stop="20260901003000 -0300" channel="0215">
-    <title lang="es">Amanpour</title>
-    <desc lang="es">Peabody Award-winning journalist Christiane Amanpour, CNN&#x27;s chief international correspondent, hosts this half-hour weeknight interview program, with each episode focusing on a newsworthy topic and featuring guests, from global leaders to heads of state and cultural icons, who are comfortable challenging conventional wisdom.</desc>
   </programme>
   <programme start="20260901003000 -0300" stop="20260901090000 -0300" channel="0215">
     <title lang="es">African Voices</title>
@@ -8138,6 +7837,10 @@
     <title lang="es">La puerta abierta</title>
     <desc lang="es">Un segmento de atractivo general, conducido por Juan Pablo Bongarrá. En esta edición, se abordan temas de la vida diaria y sobre todo espiritual, incluyendo datos de interés, notas, entrevistas a diferentes personalidades, debates, informes especiales y mucho más. Todo, en vivo desde Buenos Aires.</desc>
   </programme>
+  <programme start="20260904073000 -0300" stop="20260904074500 -0300" channel="0629">
+    <title lang="es">Un mensaje a la conciencia</title>
+    <desc lang="es">Breves anécdotas para despertar la conciencia del pueblo hispano.</desc>
+  </programme>
   <programme start="20260901010000 -0300" stop="20260901012200 -0300" channel="0302">
     <title lang="es">ETC TV</title>
     <desc lang="es">A confirmar</desc>
@@ -8553,10 +8256,6 @@
   <programme start="20260904040000 -0300" stop="20260904080000 -0300" channel="0302">
     <title lang="es">ETC TV</title>
     <desc lang="es">La informacion de este programa no se encuentra disponible.</desc>
-  </programme>
-  <programme start="20260901002100 -0300" stop="20260901003200 -0300" channel="0308">
-    <title lang="es">Los pequeños Looney Tunes • School Daze</title>
-    <desc lang="es">School Daze | Los bebés juegan en un simulacro de escuela, preparándose para la realidad.</desc>
   </programme>
   <programme start="20260901003200 -0300" stop="20260901005500 -0300" channel="0308">
     <title lang="es">Scooby Doo, ¿dónde estás? • El fantasma del aeropuerto abandonado</title>
@@ -10466,6 +10165,10 @@
     <title lang="es">El conjuro 2</title>
     <desc lang="es">Los investigadores paranormales Lorraine y Ed Warren viajan a Londres para evaluar el caso de una madre soltera y sus cuatro hijos que son acosados por un ente paranormal. Mientras intentan ayudar a una de las niñas, que está poseída por esta entidad, los Warren se ven amenazados por una espíritu aún más maligno.</desc>
   </programme>
+  <programme start="20260904073400 -0300" stop="20260904095400 -0300" channel="0829">
+    <title lang="es">Ahora son 13</title>
+    <desc lang="es">Danny Ocean y su banda sólo tendrían una razón para realizar su golpe más ambicioso y arriesgado: defender a uno de los suyos. Willy Bank, el despiadado propietario de un casino, nunca hubiera imaginado que todo se iba a poner en su contra cuando traicionó a Reuben Tishkoff, amigo y mentor de Danny Ocean. Pero Bank se equivocó... para su desgracia. Quizás pudo derrotar a uno de los miembros originales de la banda, pero dejó a los demás en pie y les dio un propósito compartido: derrotar a Bank en la noche de la gran inauguración de su nuevo casino.</desc>
+  </programme>
   <programme start="20260831213000 -0300" stop="20260901095500 -0300" channel="0636">
     <title lang="es">️ [️ F1] Grand Prix del verano</title>
     <desc lang="es">¡Arranca El 🏎️ [🏎️ [F1] F1] Grand Prix del verano 2026! Polinyà, de Cataluña y Cantalejo, de Castilla y León, abren la temporada en un cara a cara vibrante.</desc>
@@ -10653,10 +10356,6 @@
   <programme start="20260904040000 -0300" stop="20260904080000 -0300" channel="0636">
     <title lang="es">TVE Internacional</title>
     <desc lang="es">La informacion de este programa no se encuentra disponible.</desc>
-  </programme>
-  <programme start="20260901000000 -0300" stop="20260901003000 -0300" channel="0643">
-    <title lang="es">Brecha económica</title>
-    <desc lang="es">Se analizan asuntos sobre la influencia de las compañías en la economía de distintos países del mundo.</desc>
   </programme>
   <programme start="20260901003000 -0300" stop="20260901010000 -0300" channel="0643">
     <title lang="es">Dice Israel</title>
@@ -11430,6 +11129,10 @@
     <title lang="es">El porqué de las noticias</title>
     <desc lang="es">Un resumen de las noticias y los acontecimientos más destacados del día junto a la opinión de los analistas internacionales. Desarrollamos el análisis internacional sobre el tema y otros hechos y acontecimientos destacados.</desc>
   </programme>
+  <programme start="20260904073000 -0300" stop="20260904080000 -0300" channel="0643">
+    <title lang="es">A confirmar</title>
+    <desc lang="es">Programación a confirmar.</desc>
+  </programme>
   <programme start="20260831235000 -0300" stop="20260901004000 -0300" channel="0707">
     <title lang="es">Construyendo un imperio</title>
     <desc lang="es">Roma, Egipto y Grecia son algunos de los tópicos cubiertos en esta serie que explora las proezas arquitectónicas y de la ingeniería, que fueron características de algunas de las sociedades más grandiosas de la historia, interpretaciones computarizadas ayudan a ilustrar los métodos utilizados para construir esta clase de estructuras como el Partenón. El actor Peter Weller (&quot;RoboCop&quot;) es el presentador del programa.</desc>
@@ -11817,6 +11520,10 @@
   <programme start="20260904064000 -0300" stop="20260904073000 -0300" channel="0707">
     <title lang="es">La Biblia prohibida • El lado oculto de la Virgen María</title>
     <desc lang="es">El lado oculto de la Virgen María | Según cuenta la Biblia, hace más de dos siglos tuvo lugar uno de los acontecimientos más misteriosos de la historia: una campesina judía de 14 años llamada María, dio a luz a un niño. La muchacha era virgen y su hijo, Jesús habría de convertirse en el salvador de su pueblo. Hay pocas pruebas de la extraordinaria vida de esta mujer, muchas preguntas y asombrosos misterios. La misteriosa vida de la Virgen María.</desc>
+  </programme>
+  <programme start="20260904073000 -0300" stop="20260904080000 -0300" channel="0707">
+    <title lang="es">Una breve historia de... • La revolución de la dona</title>
+    <desc lang="es">La revolución de la dona | Bill Rosenberg fundó Dunkin Donuts en 1950. Un repaso a través de su batalla con Krispy Kreme y Starbucks y un vistazo a la historia de los Munchkins.</desc>
   </programme>
   <programme start="20260901002300 -0300" stop="20260901005100 -0300" channel="0808">
     <title lang="es">Clientes en furia • Mantener la calma</title>
@@ -12477,6 +12184,10 @@
   <programme start="20260904052700 -0300" stop="20260904073400 -0300" channel="0821">
     <title lang="es">Charlie: un perro especial</title>
     <desc lang="es">Dharma está estancado en una rutina con su estilo de vida negativo y solitario y pasa cada día en la comodidad de su soledad. Un cachorro llamado Charlie, que es travieso y enérgico, entra en su vida y le da una nueva perspectiva.</desc>
+  </programme>
+  <programme start="20260904073400 -0300" stop="20260904091700 -0300" channel="0821">
+    <title lang="es">El candidato honesto</title>
+    <desc lang="es">Tona alguna vez fue un líder con ideales, pero con el tiempo se convirtió en un político corrupto. Ahora que es candidato a la presidencia y está a un paso de ganar las elecciones, sufre el hechizo de su abuela que le impide hacer nada deshonesto. ¿Cómo podrá ganar las elecciones si no puede decir mentiras? ¿Cuál será su futuro como político si está obligado a decir siempre la verdad?</desc>
   </programme>
   <programme start="20260831210000 -0300" stop="20260901010000 -0300" channel="0822">
     <title lang="es">Golden Plus</title>
@@ -13645,10 +13356,6 @@
   <programme start="20260904050000 -0300" stop="20260904090000 -0300" channel="0851">
     <title lang="es">Film and Arts</title>
     <desc lang="es">La informacion de este programa no se encuentra disponible.</desc>
-  </programme>
-  <programme start="20260831230600 -0300" stop="20260901003300 -0300" channel="0855">
-    <title lang="es">Ouija Craft</title>
-    <desc lang="es">Dos brujas usan una tabla de güija para resucitar a su amiga después de que ella muere en un trágico accidente. Sin embargo, el tablero abre la puerta a una entidad maligna que disfruta atormentándolas.</desc>
   </programme>
   <programme start="20260901003300 -0300" stop="20260901082600 -0300" channel="0855">
     <title lang="es">Vampiro</title>
@@ -18550,6 +18257,10 @@
     <title lang="es">ATP Tour: This Week</title>
     <desc lang="es">Grabado ║ La actualidad del circuito profesional masculino de tenis.</desc>
   </programme>
+  <programme start="20260904073000 -0300" stop="20260904083000 -0300" channel="2413">
+    <title lang="es">Highlights - PGA Tour Championship</title>
+    <desc lang="es">Grabado ║ Mira los momentos más destacados del Campeonato de PGA Tour en su edición del 2026.</desc>
+  </programme>
   <programme start="20260831224000 -0300" stop="20260901093000 -0300" channel="1836">
     <title lang="es">Creed II</title>
     <desc lang="es">Supervisado por el legendario Rocky Balboa, el espectacular púgil Adonis Johnson se prepara para un combate contra el hijo de Iván Drago, el boxeador soviético que mató a Apollo Creed en el ring.</desc>
@@ -22866,6 +22577,10 @@
     <title lang="es">[En vivo] Telemétrico • Previo - Relato - GP Italia, Práctica 1</title>
     <desc lang="es">En vivo ║ Previo - Relato - GP Italia, Práctica 1 | Todo lo que tenés que saber sobre el Campeonato de F1 y el análisis de lo que sucede en las carreras y más allá de la competencia. Escuderías, pilotos, autos, historia y reglamento con los detalles imperceptibles y toda la pasión.</desc>
   </programme>
+  <programme start="20260904073000 -0300" stop="20260904083000 -0300" channel="1436">
+    <title lang="es">[En vivo] Telemétrico • Relato - GP Italia, Práctica 1</title>
+    <desc lang="es">En vivo ║ Relato - GP Italia, Práctica 1 | Todo lo que tenés que saber sobre el Campeonato de F1 y el análisis de lo que sucede en las carreras y más allá de la competencia. Escuderías, pilotos, autos, historia y reglamento con los detalles imperceptibles y toda la pasión.</desc>
+  </programme>
   <programme start="20260901000000 -0300" stop="20260901020000 -0300" channel="0401">
     <title lang="es">Todos somos técnicos • 31-08-2026</title>
     <desc lang="es">31-08-2026 | Un espacio para analizar todos los detalles del fútbol nacional e internacional.</desc>
@@ -23922,6 +23637,10 @@
     <title lang="es">Monk • El Sr. Monk y la pista falsa</title>
     <desc lang="es">El Sr. Monk y la pista falsa | Una mujer sorprende y es atacada por un asaltante en su casa y esta lo mata en defensa propia. La mujer no imagina el porqué del asalto y por recomendación de Stottlemeyer, ella acude a Monk, que lleva inactivo tres meses debido a que Sharona ha vuelto a casarse con su ex-marido y se fue sin decírselo.</desc>
   </programme>
+  <programme start="20260904073000 -0300" stop="20260904081500 -0300" channel="0845">
+    <title lang="es">Monk • El Sr. Monk contra &#x27;La Cobra&#x27;</title>
+    <desc lang="es">El Sr. Monk contra &#x27;La Cobra&#x27; | Cuando todas las pruebas de una investigación de asesinato señalan a un actor de películas de kung fu ya fallecido, Sonny Chow, Monk tiene que descubrir al verdadero culpable.</desc>
+  </programme>
   <programme start="20260901001500 -0300" stop="20260901011000 -0300" channel="0844">
     <title lang="es">From • El vientre de la bestia</title>
     <desc lang="es">El vientre de la bestia | Boyd y Kristi intentan sacar provecho de la aparente muerte de Criatura de Pesadilla, pero Kenny no aprueba los riesgos que corren. Tabitha pide consejo a Jade. Elgin le cuenta a Julie su misterioso sueño.</desc>
@@ -24318,6 +24037,10 @@
     <title lang="es">House M.D. • Cosas de la edad</title>
     <desc lang="es">Cosas de la edad | Una niña de seis años se desmaya sorpresivamente en la guardería mientras su padre atiende a su revoltoso hermano, House y su equipo deberán descartar varias teorías hasta dar con el verdadero problema. El hermano de la niña que tambien es un niño se enamora de Cameron y ella lo toma como un juego hasta que Chase se le acerca a Cameron y el niño reacciona mordiendo a Chase.</desc>
   </programme>
+  <programme start="20260904073000 -0300" stop="20260904081000 -0300" channel="0844">
+    <title lang="es">FBI • Lazos que unen</title>
+    <desc lang="es">Lazos que unen | Una ex víctima de secuestro está vinculada a una serie de asesinatos que incluyen a la hija de un detective de la policía de Nueva York. Además, Kristen comienza a dudar de su capacidad como agente luego de una prueba que la conmociona.</desc>
+  </programme>
   <programme start="20260831230000 -0300" stop="20260901005600 -0300" channel="0805">
     <title lang="es">Destino final 5</title>
     <desc lang="es">Sam Lawton tiene una premonición sobre la destrucción de un puente colgante que causaría su muerte y la de otras personas. La visión se hace realidad, pero Sam se las arregla para salvarse a sí mismo y a algunos otros de la catastrófica tragedia. Sin embargo, él y su novia Molly descubren que no están realmente a salvo: la muerte los persigue a ellos y a los que sobrevivieron al horrible accidente.</desc>
@@ -24521,10 +24244,6 @@
   <programme start="20260904071300 -0300" stop="20260904092100 -0300" channel="0805">
     <title lang="es">Batman eternamente</title>
     <desc lang="es">La ciudad de Gotham se ve amenazada por un nuevo villano llamado Dos Caras, un abogado cuyo cerebro se vio afectado luego de que un poderoso ácido le cayera encima. Por otra parte, un psicópata con intención de dominar el mundo ha inventado un aparato que permite absorber las ondas cerebrales de los seres humanos. Ambos se unirán para lograr sus propósitos y Bruce Wayne deberá ponerse nuevamente la capa de Batman para detenerlos.</desc>
-  </programme>
-  <programme start="20260901000000 -0300" stop="20260901003000 -0300" channel="0625">
-    <title lang="es">Tips para ser feliz • No renuncies a ti mismo</title>
-    <desc lang="es">No renuncies a ti mismo | Exploración de la felicidad desde una perspectiva basada en valores y bienestar emocional. Cada episodio aborda diferentes aspectos de la felicidad, como la importancia de la gratitud, la conciencia bien formada y el desarrollo personal.</desc>
   </programme>
   <programme start="20260901003000 -0300" stop="20260901090000 -0300" channel="0625">
     <title lang="es">Vidas por la vida • La batalla cultural y cómo enfrentarla</title>
@@ -25829,10 +25548,6 @@
   <programme start="20260904050000 -0300" stop="20260904090000 -0300" channel="0840">
     <title lang="es">Cinemax</title>
     <desc lang="es">La informacion de este programa no se encuentra disponible.</desc>
-  </programme>
-  <programme start="20260901000000 -0300" stop="20260901003000 -0300" channel="0623">
-    <title lang="es">Todo es posible</title>
-    <desc lang="es">Los pastores guían e inspiran a través de edificantes mensajes y entrevistas, que encaminan y muestran la presencia de Dios en la gente.</desc>
   </programme>
   <programme start="20260901003000 -0300" stop="20260901093000 -0300" channel="0623">
     <title lang="es">Especial</title>
@@ -27614,7 +27329,7 @@
     <title lang="es">Discovery World</title>
     <desc lang="es">La informacion de este programa no se encuentra disponible.</desc>
   </programme>
-  <programme start="20260901192852 -0300" stop="20260901200000 -0300" channel="531">
+  <programme start="20260901193618 -0300" stop="20260901200000 -0300" channel="531">
     <title lang="es">Ranma 1/2</title>
   </programme>
   <programme start="20260901200000 -0300" stop="20260901203000 -0300" channel="531">
@@ -27854,10 +27569,10 @@
   <programme start="20260903180000 -0300" stop="20260903190000 -0300" channel="531">
     <title lang="es">Dragon Ball</title>
   </programme>
-  <programme start="20260903190000 -0300" stop="20260903192852 -0300" channel="531">
+  <programme start="20260903190000 -0300" stop="20260903193618 -0300" channel="531">
     <title lang="es">Ranma 1/2</title>
   </programme>
-  <programme start="20260901192852 -0300" stop="20260901200000 -0300" channel="532">
+  <programme start="20260901193618 -0300" stop="20260901200000 -0300" channel="532">
     <title lang="es">Batman</title>
   </programme>
   <programme start="20260901200000 -0300" stop="20260901203000 -0300" channel="532">
@@ -28097,10 +27812,10 @@
   <programme start="20260903180000 -0300" stop="20260903190000 -0300" channel="532">
     <title lang="es">Las Aventuras de Teddy Ruxpin</title>
   </programme>
-  <programme start="20260903190000 -0300" stop="20260903192852 -0300" channel="532">
+  <programme start="20260903190000 -0300" stop="20260903193618 -0300" channel="532">
     <title lang="es">Batman</title>
   </programme>
-  <programme start="20260901192852 -0300" stop="20260901194813 -0300" channel="536">
+  <programme start="20260901193618 -0300" stop="20260901194813 -0300" channel="536">
     <title lang="es">En Busca de Aliens - El Misterio del Puma Punku Revelado</title>
   </programme>
   <programme start="20260901194821 -0300" stop="20260901212835 -0300" channel="536">
@@ -28247,11 +27962,8 @@
   <programme start="20260903180704 -0300" stop="20260903190704 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260903190704 -0300" stop="20260903192852 -0300" channel="536">
+  <programme start="20260903190704 -0300" stop="20260903193618 -0300" channel="536">
     <title lang="es">Sin información</title>
-  </programme>
-  <programme start="20260901192852 -0300" stop="20260901193453 -0300" channel="537">
-    <title lang="es">Chicho Terremoto</title>
   </programme>
   <programme start="20260901193814 -0300" stop="20260901200015 -0300" channel="537">
     <title lang="es">El Laboratorio de Dexter</title>
@@ -28478,7 +28190,7 @@
   <programme start="20260903182820 -0300" stop="20260903192820 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260903192820 -0300" stop="20260903192852 -0300" channel="537">
+  <programme start="20260903192820 -0300" stop="20260903193618 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
   <programme start="20260901190000 -0300" stop="20260901200000 -0300" channel="538">
@@ -28625,7 +28337,7 @@
   <programme start="20260903180000 -0300" stop="20260903190000 -0300" channel="538">
     <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260901192852 -0300" stop="20260901194816 -0300" channel="539">
+  <programme start="20260901193618 -0300" stop="20260901194816 -0300" channel="539">
     <title lang="es">(2011) - Atraco en Belfast</title>
   </programme>
   <programme start="20260901194816 -0300" stop="20260901211822 -0300" channel="539">
@@ -28706,7 +28418,7 @@
   <programme start="20260903171238 -0300" stop="20260903185710 -0300" channel="539">
     <title lang="es">(1995) - La Balada Del Pistolero</title>
   </programme>
-  <programme start="20260903185710 -0300" stop="20260903192852 -0300" channel="539">
+  <programme start="20260903185710 -0300" stop="20260903193618 -0300" channel="539">
     <title lang="es">(1991) - Espías sin Fronteras</title>
   </programme>
   <programme start="20260901190000 -0300" stop="20260901200000 -0300" channel="567">
@@ -29285,7 +28997,7 @@
   <programme start="20260903180000 -0300" stop="20260903190000 -0300" channel="581">
     <title lang="es">Zoom back</title>
   </programme>
-  <programme start="20260901192852 -0300" stop="20260901200000 -0300" channel="663">
+  <programme start="20260901193618 -0300" stop="20260901200000 -0300" channel="663">
     <title lang="es">Clásicos del Western</title>
   </programme>
   <programme start="20260901200000 -0300" stop="20260902000000 -0300" channel="663">
@@ -29321,10 +29033,10 @@
   <programme start="20260903120000 -0300" stop="20260903170000 -0300" channel="663">
     <title lang="es">Cabalgata del Oeste</title>
   </programme>
-  <programme start="20260903170000 -0300" stop="20260903192852 -0300" channel="663">
+  <programme start="20260903170000 -0300" stop="20260903193618 -0300" channel="663">
     <title lang="es">Clásicos del Western</title>
   </programme>
-  <programme start="20260901192852 -0300" stop="20260901200000 -0300" channel="664">
+  <programme start="20260901193618 -0300" stop="20260901200000 -0300" channel="664">
     <title lang="es">Retro Prime</title>
   </programme>
   <programme start="20260901200000 -0300" stop="20260902080000 -0300" channel="664">
@@ -29348,7 +29060,7 @@
   <programme start="20260903120000 -0300" stop="20260903170000 -0300" channel="664">
     <title lang="es">Series Inolvidables</title>
   </programme>
-  <programme start="20260903170000 -0300" stop="20260903192852 -0300" channel="664">
+  <programme start="20260903170000 -0300" stop="20260903193618 -0300" channel="664">
     <title lang="es">Retro Prime</title>
   </programme>
   <programme start="20260901190000 -0300" stop="20260901200000 -0300" channel="633">
@@ -33397,6 +33109,10 @@
     <title lang="es">CBS News Mornings</title>
     <desc lang="es">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
   </programme>
+  <programme start="20260904073000 -0300" stop="20260904080000 -0300" channel="6a1610bebdf296985fd95603-6571f43a1d2aae780d597196">
+    <title lang="es">CBS News Mornings</title>
+    <desc lang="es">CBS News Mornings broadcasts on weekdays and offers viewers up-to-date news, comprehensive weather forecasts, and highlights from the world of sports.</desc>
+  </programme>
   <programme start="20260901210000 -0300" stop="20260901220000 -0300" channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca">
     <title lang="es">Stay Tuned NOW With Gadi Schwartz</title>
     <desc lang="es">A fresh look at the day&#x27;s news, from the latest breaking news to what&#x27;s on the horizon.</desc>
@@ -33646,6 +33362,10 @@
     <desc lang="es">Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.</desc>
   </programme>
   <programme start="20260904070000 -0300" stop="20260904073000 -0300" channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca">
+    <title lang="es">Early Today</title>
+    <desc lang="es">Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.</desc>
+  </programme>
+  <programme start="20260904073000 -0300" stop="20260904080000 -0300" channel="6a1610bebdf296985fd95603-5fc70600dd53a6002d8f93ca">
     <title lang="es">Early Today</title>
     <desc lang="es">Featuring general national and international news stories, financial and entertainment news, off-beat stories, national weather forecasts and sports highlights.</desc>
   </programme>
@@ -34244,6 +33964,10 @@
   <programme start="20260904070000 -0300" stop="20260904073000 -0300" channel="6a1610bebdf296985fd95603-646fab0e43d6d6838db81a6a">
     <title lang="es">BBC News</title>
     <desc lang="es">Twenty-four hours a day, the latest national and international stories as they break.</desc>
+  </programme>
+  <programme start="20260904073000 -0300" stop="20260904074500 -0300" channel="6a1610bebdf296985fd95603-646fab0e43d6d6838db81a6a">
+    <title lang="es">Business Today</title>
+    <desc lang="es">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
   </programme>
   <programme start="20260901210000 -0300" stop="20260901215959 -0300" channel="6a1610bebdf296985fd95603-68fafc6e558214386ab7ca3a">
     <title lang="es">Bloomberg TV+</title>
@@ -36971,6 +36695,10 @@
     <desc lang="es">Contestants get a chance to win money, from one penny to $1 million.</desc>
   </programme>
   <programme start="20260904060400 -0300" stop="20260904073400 -0300" channel="plex.tv.Deal.Or.No.Deal.plex">
+    <title lang="es">Deal or No Deal USA</title>
+    <desc lang="es">Contestants get a chance to win money, from one penny to $1 million.</desc>
+  </programme>
+  <programme start="20260904073400 -0300" stop="20260904082600 -0300" channel="plex.tv.Deal.Or.No.Deal.plex">
     <title lang="es">Deal or No Deal USA</title>
     <desc lang="es">Contestants get a chance to win money, from one penny to $1 million.</desc>
   </programme>
@@ -40862,6 +40590,10 @@
     <title lang="es">Euronews Now</title>
     <desc lang="es">Disfruta de las noticias de última hora y de análisis en profundidad de grandes temas que afectan a Europa y a todo el mundo. Escuchamos todas las voces y visiones de los grandes personajes que marcan la actualidad europea.</desc>
   </programme>
+  <programme start="20260904073000 -0300" stop="20260904080000 -0300" channel="643054b1fc3be59477853717-60089d97f682a3002c34829d">
+    <title lang="es">Euronews Now</title>
+    <desc lang="es">Disfruta de las noticias de última hora y de análisis en profundidad de grandes temas que afectan a Europa y a todo el mundo. Escuchamos todas las voces y visiones de los grandes personajes que marcan la actualidad europea.</desc>
+  </programme>
   <programme start="20260901202113 -0300" stop="20260901212136 -0300" channel="643054b1fc3be59477853717-64d79408e5f67b0fab47ff24">
     <title lang="es">Misterios sin resolver</title>
     <desc lang="es">El Triángulo de las Bermudas, Madre de Prisión &amp; Actualización, Demonios Ya No Está &amp; Actualización.</desc>
@@ -42057,10 +41789,6 @@
   <programme start="20260904071421 -0300" stop="20260904080641 -0300" channel="643054b1fc3be59477853717-69a1fe1b0f8d297b3f6ac0f0">
     <title lang="es">Wives with knives</title>
     <desc lang="es">Wives with knives presenta historias fascinantes de mujeres que lucharon de cerca. Ya sea motivadas por la codicia y los celos o provocadas por años de abuso físico, cada episodio revela los eventos traumáticos que llevaron a estos enfrentamientos mortales.</desc>
-  </programme>
-  <programme start="20260901000000 -0300" stop="20260901003000 -0300" channel="Magic Kids Tv">
-    <title lang="es">Dragon Ball Z</title>
-    <desc lang="es">Solo Por Magic Kids TV</desc>
   </programme>
   <programme start="20260901003000 -0300" stop="20260901010000 -0300" channel="Magic Kids Tv">
     <title lang="es">Robotech</title>
@@ -43762,10 +43490,6 @@
   <programme start="20260904011433 -0300" stop="20260904031313 -0300" channel="ES:.Sci-Fi.-.Rakuten.TV.be">
     <title lang="es">El Caballero de las Sombras</title>
     <desc lang="es">Cuenta la historia de un legendario cazador de demonios (Jackie Chan) que persigue a los monstruos que se adentran en la dimensión de los seres humanos y que cuenta con la ayuda de un abogado y de un grupo de bestias dispuestas a luchar contra el Mal.</desc>
-  </programme>
-  <programme start="20260831225614 -0300" stop="20260901003328 -0300" channel="ES:.Películas.de.Acción.-.Rakuten.TV.be">
-    <title lang="es">En nombre de la justicia</title>
-    <desc lang="es">Un sheriff retirado de los Rangers de Texas debe volver a las armas cuando una peligrosa banda de moteros toma su pequeño pueblo y amenaza con sembrar el caos y la violencia.</desc>
   </programme>
   <programme start="20260901003329 -0300" stop="20260901020702 -0300" channel="ES:.Películas.de.Acción.-.Rakuten.TV.be">
     <title lang="es">Perfect weapon (Arma Perfecta)</title>

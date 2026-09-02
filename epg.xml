@@ -10,7 +10,9 @@
   <channel id="retromagico.ar"><display-name>Retro Magico</display-name></channel>
   <channel id="locomotion1.ar"><display-name>Locomotion 1</display-name></channel>
   <channel id="mitv.ar"><display-name>MiTV 1</display-name></channel>
+  <channel id="retroblast"><display-name>retroblast</display-name></channel>
   <channel id="cncity"><display-name>cncity</display-name></channel>
+  <channel id="japanmotion"><display-name>japanmotion</display-name></channel>
   <channel id="telered.ar"><display-name>Telered</display-name></channel>
   <channel id="telesistema.ar"><display-name>telesistema</display-name></channel>
   <channel id="doble.c.tv"><display-name>doble c</display-name></channel>
@@ -2015,6 +2017,432 @@
     <title lang="es">Los años maravillosos</title>
     <desc lang="es">Kevin Arnold narra su crecimiento durante las décadas de los 60 y 70, enfrentando los cambios sociales, el primer amor y los retos de la adolescencia.</desc>
   </programme>
+  <programme start="20260902002500 -0300" stop="20260902004700 -0300" channel="retroblast">
+    <title lang="es">Family Guy</title>
+  </programme>
+  <programme start="20260902004700 -0300" stop="20260902010000 -0300" channel="retroblast">
+    <title lang="es">Robot Chicken</title>
+  </programme>
+  <programme start="20260902010000 -0300" stop="20260902011300 -0300" channel="retroblast">
+    <title lang="es">ATHF</title>
+  </programme>
+  <programme start="20260902011300 -0300" stop="20260902012500 -0300" channel="retroblast">
+    <title lang="es">Tim and Eric</title>
+  </programme>
+  <programme start="20260902012500 -0300" stop="20260902015000 -0300" channel="retroblast">
+    <title lang="es">King of the Hill</title>
+  </programme>
+  <programme start="20260902015000 -0300" stop="20260902021500 -0300" channel="retroblast">
+    <title lang="es">Bleach</title>
+  </programme>
+  <programme start="20260902021500 -0300" stop="20260902024000 -0300" channel="retroblast">
+    <title lang="es">FMA Brotherhood</title>
+  </programme>
+  <programme start="20260902024000 -0300" stop="20260902030500 -0300" channel="retroblast">
+    <title lang="es">Death Note</title>
+  </programme>
+  <programme start="20260902030500 -0300" stop="20260902032700 -0300" channel="retroblast">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20260902032700 -0300" stop="20260902034900 -0300" channel="retroblast">
+    <title lang="es">Family Guy</title>
+  </programme>
+  <programme start="20260902034900 -0300" stop="20260902040000 -0300" channel="retroblast">
+    <title lang="es">Robot Chicken</title>
+  </programme>
+  <programme start="20260902040000 -0300" stop="20260902041300 -0300" channel="retroblast">
+    <title lang="es">ATHF</title>
+  </programme>
+  <programme start="20260902041300 -0300" stop="20260902042500 -0300" channel="retroblast">
+    <title lang="es">Tim and Eric</title>
+  </programme>
+  <programme start="20260902042500 -0300" stop="20260902045000 -0300" channel="retroblast">
+    <title lang="es">King of the Hill</title>
+  </programme>
+  <programme start="20260902045000 -0300" stop="20260902051500 -0300" channel="retroblast">
+    <title lang="es">Bleach</title>
+  </programme>
+  <programme start="20260902051500 -0300" stop="20260902054000 -0300" channel="retroblast">
+    <title lang="es">JoJo&#x27;s Bizarre Adventure</title>
+  </programme>
+  <programme start="20260902054000 -0300" stop="20260902060500 -0300" channel="retroblast">
+    <title lang="es">Inuyasha</title>
+  </programme>
+  <programme start="20260902060500 -0300" stop="20260902063000 -0300" channel="retroblast">
+    <title lang="es">Lupin the Third Part II</title>
+  </programme>
+  <programme start="20260902063000 -0300" stop="20260902065500 -0300" channel="retroblast">
+    <title lang="es">Case Closed</title>
+  </programme>
+  <programme start="20260902065500 -0300" stop="20260902072000 -0300" channel="retroblast">
+    <title lang="es">Animaniacs</title>
+  </programme>
+  <programme start="20260902072000 -0300" stop="20260902074500 -0300" channel="retroblast">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20260902074500 -0300" stop="20260902083500 -0300" channel="retroblast">
+    <title lang="es">Batman TAS</title>
+  </programme>
+  <programme start="20260902083500 -0300" stop="20260902090000 -0300" channel="retroblast">
+    <title lang="es">Totally Spies</title>
+  </programme>
+  <programme start="20260902090000 -0300" stop="20260902092500 -0300" channel="retroblast">
+    <title lang="es">Code Lyoko</title>
+  </programme>
+  <programme start="20260902092500 -0300" stop="20260902095000 -0300" channel="retroblast">
+    <title lang="es">TMNT (2003)</title>
+  </programme>
+  <programme start="20260902095000 -0300" stop="20260902101500 -0300" channel="retroblast">
+    <title lang="es">Teen Titans</title>
+  </programme>
+  <programme start="20260902101500 -0300" stop="20260902104000 -0300" channel="retroblast">
+    <title lang="es">Pokemon Advanced</title>
+  </programme>
+  <programme start="20260902104000 -0300" stop="20260902110500 -0300" channel="retroblast">
+    <title lang="es">Yu-Gi-Oh! GX</title>
+  </programme>
+  <programme start="20260902110500 -0300" stop="20260902113000 -0300" channel="retroblast">
+    <title lang="es">The Cartoon Cartoon Show</title>
+  </programme>
+  <programme start="20260902113000 -0300" stop="20260902115500 -0300" channel="retroblast">
+    <title lang="es">Ben 10</title>
+  </programme>
+  <programme start="20260902115500 -0300" stop="20260902122000 -0300" channel="retroblast">
+    <title lang="es">Xiaolin Showdown</title>
+  </programme>
+  <programme start="20260902122000 -0300" stop="20260902124500 -0300" channel="retroblast">
+    <title lang="es">KND</title>
+  </programme>
+  <programme start="20260902124500 -0300" stop="20260902131000 -0300" channel="retroblast">
+    <title lang="es">Billy and Mandy</title>
+  </programme>
+  <programme start="20260902131000 -0300" stop="20260902133500 -0300" channel="retroblast">
+    <title lang="es">Ed Edd n Eddy</title>
+  </programme>
+  <programme start="20260902133500 -0300" stop="20260902140000 -0300" channel="retroblast">
+    <title lang="es">Juniper Lee</title>
+  </programme>
+  <programme start="20260902140000 -0300" stop="20260902142500 -0300" channel="retroblast">
+    <title lang="es">Fosters</title>
+  </programme>
+  <programme start="20260902142500 -0300" stop="20260902145000 -0300" channel="retroblast">
+    <title lang="es">Samurai Jack</title>
+  </programme>
+  <programme start="20260902145000 -0300" stop="20260902151500 -0300" channel="retroblast">
+    <title lang="es">Camp Lazlo</title>
+  </programme>
+  <programme start="20260902151500 -0300" stop="20260902154000 -0300" channel="retroblast">
+    <title lang="es">PPG</title>
+  </programme>
+  <programme start="20260902154000 -0300" stop="20260902160500 -0300" channel="retroblast">
+    <title lang="es">Star Wars The Clone Wars</title>
+  </programme>
+  <programme start="20260902160500 -0300" stop="20260902163000 -0300" channel="retroblast">
+    <title lang="es">Hi Hi Puffy Ami Yumi</title>
+  </programme>
+  <programme start="20260902163000 -0300" stop="20260902165500 -0300" channel="retroblast">
+    <title lang="es">Yu-Gi-Oh! DM</title>
+  </programme>
+  <programme start="20260902165500 -0300" stop="20260902172000 -0300" channel="retroblast">
+    <title lang="es">Sailor Moon</title>
+  </programme>
+  <programme start="20260902172000 -0300" stop="20260902174500 -0300" channel="retroblast">
+    <title lang="es">YuYu</title>
+  </programme>
+  <programme start="20260902174500 -0300" stop="20260902181000 -0300" channel="retroblast">
+    <title lang="es">Dragon Ball</title>
+  </programme>
+  <programme start="20260902181000 -0300" stop="20260902183500 -0300" channel="retroblast">
+    <title lang="es">BoboBoBoBoBoBo</title>
+  </programme>
+  <programme start="20260902183500 -0300" stop="20260902190000 -0300" channel="retroblast">
+    <title lang="es">Outlaw Star</title>
+  </programme>
+  <programme start="20260902190000 -0300" stop="20260902192500 -0300" channel="retroblast">
+    <title lang="es">DBZ (Run A)</title>
+  </programme>
+  <programme start="20260902192500 -0300" stop="20260902195000 -0300" channel="retroblast">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20260902195000 -0300" stop="20260902201500 -0300" channel="retroblast">
+    <title lang="es">Naruto/Shippuden</title>
+  </programme>
+  <programme start="20260902201500 -0300" stop="20260902204000 -0300" channel="retroblast">
+    <title lang="es">Fosters</title>
+  </programme>
+  <programme start="20260902204000 -0300" stop="20260902210500 -0300" channel="retroblast">
+    <title lang="es">KND</title>
+  </programme>
+  <programme start="20260902210500 -0300" stop="20260902213000 -0300" channel="retroblast">
+    <title lang="es">Billy and Mandy</title>
+  </programme>
+  <programme start="20260902213000 -0300" stop="20260902215500 -0300" channel="retroblast">
+    <title lang="es">Pokemon Advanced</title>
+  </programme>
+  <programme start="20260902215500 -0300" stop="20260902222000 -0300" channel="retroblast">
+    <title lang="es">Juniper Lee</title>
+  </programme>
+  <programme start="20260902222000 -0300" stop="20260902224500 -0300" channel="retroblast">
+    <title lang="es">Yu-Gi-Oh! DM</title>
+  </programme>
+  <programme start="20260902224500 -0300" stop="20260902231000 -0300" channel="retroblast">
+    <title lang="es">Teen Titans</title>
+  </programme>
+  <programme start="20260902231000 -0300" stop="20260902233500 -0300" channel="retroblast">
+    <title lang="es">DBZ (Run B)</title>
+  </programme>
+  <programme start="20260902233500 -0300" stop="20260903000000 -0300" channel="retroblast">
+    <title lang="es">Naruto</title>
+  </programme>
+  <programme start="20260903000000 -0300" stop="20260903002500 -0300" channel="retroblast">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20260903002500 -0300" stop="20260903004700 -0300" channel="retroblast">
+    <title lang="es">Family Guy</title>
+  </programme>
+  <programme start="20260903004700 -0300" stop="20260903010000 -0300" channel="retroblast">
+    <title lang="es">Robot Chicken</title>
+  </programme>
+  <programme start="20260903010000 -0300" stop="20260903011300 -0300" channel="retroblast">
+    <title lang="es">ATHF</title>
+  </programme>
+  <programme start="20260903011300 -0300" stop="20260903012500 -0300" channel="retroblast">
+    <title lang="es">Eric Andre</title>
+  </programme>
+  <programme start="20260903012500 -0300" stop="20260903015000 -0300" channel="retroblast">
+    <title lang="es">King of the Hill</title>
+  </programme>
+  <programme start="20260903015000 -0300" stop="20260903021500 -0300" channel="retroblast">
+    <title lang="es">Bleach</title>
+  </programme>
+  <programme start="20260903021500 -0300" stop="20260903024000 -0300" channel="retroblast">
+    <title lang="es">FMA Brotherhood</title>
+  </programme>
+  <programme start="20260903024000 -0300" stop="20260903030500 -0300" channel="retroblast">
+    <title lang="es">Death Note</title>
+  </programme>
+  <programme start="20260903030500 -0300" stop="20260903032700 -0300" channel="retroblast">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20260903032700 -0300" stop="20260903034900 -0300" channel="retroblast">
+    <title lang="es">Family Guy</title>
+  </programme>
+  <programme start="20260903034900 -0300" stop="20260903040000 -0300" channel="retroblast">
+    <title lang="es">Robot Chicken</title>
+  </programme>
+  <programme start="20260903040000 -0300" stop="20260903041300 -0300" channel="retroblast">
+    <title lang="es">ATHF</title>
+  </programme>
+  <programme start="20260903041300 -0300" stop="20260903042500 -0300" channel="retroblast">
+    <title lang="es">Eric Andre</title>
+  </programme>
+  <programme start="20260903042500 -0300" stop="20260903045000 -0300" channel="retroblast">
+    <title lang="es">King of the Hill</title>
+  </programme>
+  <programme start="20260903045000 -0300" stop="20260903051500 -0300" channel="retroblast">
+    <title lang="es">Bleach</title>
+  </programme>
+  <programme start="20260903051500 -0300" stop="20260903054000 -0300" channel="retroblast">
+    <title lang="es">JoJo&#x27;s Bizarre Adventure</title>
+  </programme>
+  <programme start="20260903054000 -0300" stop="20260903060500 -0300" channel="retroblast">
+    <title lang="es">Inuyasha</title>
+  </programme>
+  <programme start="20260903060500 -0300" stop="20260903063000 -0300" channel="retroblast">
+    <title lang="es">Lupin the Third Part II</title>
+  </programme>
+  <programme start="20260903063000 -0300" stop="20260903065500 -0300" channel="retroblast">
+    <title lang="es">Case Closed</title>
+  </programme>
+  <programme start="20260903065500 -0300" stop="20260903072000 -0300" channel="retroblast">
+    <title lang="es">Animaniacs</title>
+  </programme>
+  <programme start="20260903072000 -0300" stop="20260903074500 -0300" channel="retroblast">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20260903074500 -0300" stop="20260903083500 -0300" channel="retroblast">
+    <title lang="es">Batman TAS</title>
+  </programme>
+  <programme start="20260903083500 -0300" stop="20260903090000 -0300" channel="retroblast">
+    <title lang="es">Totally Spies</title>
+  </programme>
+  <programme start="20260903090000 -0300" stop="20260903092500 -0300" channel="retroblast">
+    <title lang="es">Code Lyoko</title>
+  </programme>
+  <programme start="20260903092500 -0300" stop="20260903095000 -0300" channel="retroblast">
+    <title lang="es">TMNT (2003)</title>
+  </programme>
+  <programme start="20260903095000 -0300" stop="20260903101500 -0300" channel="retroblast">
+    <title lang="es">Teen Titans</title>
+  </programme>
+  <programme start="20260903101500 -0300" stop="20260903104000 -0300" channel="retroblast">
+    <title lang="es">Pokemon Advanced</title>
+  </programme>
+  <programme start="20260903104000 -0300" stop="20260903110500 -0300" channel="retroblast">
+    <title lang="es">Yu-Gi-Oh! GX</title>
+  </programme>
+  <programme start="20260903110500 -0300" stop="20260903113000 -0300" channel="retroblast">
+    <title lang="es">Tom and Jerry</title>
+  </programme>
+  <programme start="20260903113000 -0300" stop="20260903115500 -0300" channel="retroblast">
+    <title lang="es">Robotboy</title>
+  </programme>
+  <programme start="20260903115500 -0300" stop="20260903122000 -0300" channel="retroblast">
+    <title lang="es">Duck Dodgers</title>
+  </programme>
+  <programme start="20260903122000 -0300" stop="20260903124500 -0300" channel="retroblast">
+    <title lang="es">Johnny Bravo</title>
+  </programme>
+  <programme start="20260903124500 -0300" stop="20260903131000 -0300" channel="retroblast">
+    <title lang="es">Billy and Mandy</title>
+  </programme>
+  <programme start="20260903131000 -0300" stop="20260903133500 -0300" channel="retroblast">
+    <title lang="es">Ed Edd n Eddy</title>
+  </programme>
+  <programme start="20260903133500 -0300" stop="20260903140000 -0300" channel="retroblast">
+    <title lang="es">Camp Lazlo</title>
+  </programme>
+  <programme start="20260903140000 -0300" stop="20260903142500 -0300" channel="retroblast">
+    <title lang="es">PPG</title>
+  </programme>
+  <programme start="20260903142500 -0300" stop="20260903145000 -0300" channel="retroblast">
+    <title lang="es">Fosters</title>
+  </programme>
+  <programme start="20260903145000 -0300" stop="20260903151500 -0300" channel="retroblast">
+    <title lang="es">Dexters Lab</title>
+  </programme>
+  <programme start="20260903151500 -0300" stop="20260903154000 -0300" channel="retroblast">
+    <title lang="es">Scooby-Doo</title>
+  </programme>
+  <programme start="20260903154000 -0300" stop="20260903160500 -0300" channel="retroblast">
+    <title lang="es">Courage</title>
+  </programme>
+  <programme start="20260903160500 -0300" stop="20260903163000 -0300" channel="retroblast">
+    <title lang="es">Pokémon Advanced</title>
+  </programme>
+  <programme start="20260903163000 -0300" stop="20260903165500 -0300" channel="retroblast">
+    <title lang="es">Yu-Gi-Oh! DM</title>
+  </programme>
+  <programme start="20260903165500 -0300" stop="20260903172000 -0300" channel="retroblast">
+    <title lang="es">Sailor Moon</title>
+  </programme>
+  <programme start="20260903172000 -0300" stop="20260903174500 -0300" channel="retroblast">
+    <title lang="es">YuYu</title>
+  </programme>
+  <programme start="20260903174500 -0300" stop="20260903181000 -0300" channel="retroblast">
+    <title lang="es">Gundam Wing</title>
+  </programme>
+  <programme start="20260903181000 -0300" stop="20260903183500 -0300" channel="retroblast">
+    <title lang="es">Justice League</title>
+  </programme>
+  <programme start="20260903183500 -0300" stop="20260903190000 -0300" channel="retroblast">
+    <title lang="es">Zatch Bell</title>
+  </programme>
+  <programme start="20260903190000 -0300" stop="20260903192500 -0300" channel="retroblast">
+    <title lang="es">DBZ (Run A)</title>
+  </programme>
+  <programme start="20260903192500 -0300" stop="20260903195000 -0300" channel="retroblast">
+    <title lang="es">One Piece</title>
+  </programme>
+  <programme start="20260903195000 -0300" stop="20260903201500 -0300" channel="retroblast">
+    <title lang="es">Naruto/Shippuden</title>
+  </programme>
+  <programme start="20260903201500 -0300" stop="20260903204000 -0300" channel="retroblast">
+    <title lang="es">Class of 3000</title>
+  </programme>
+  <programme start="20260903204000 -0300" stop="20260903210500 -0300" channel="retroblast">
+    <title lang="es">KND</title>
+  </programme>
+  <programme start="20260903210500 -0300" stop="20260903213000 -0300" channel="retroblast">
+    <title lang="es">Billy and Mandy</title>
+  </programme>
+  <programme start="20260903213000 -0300" stop="20260903215500 -0300" channel="retroblast">
+    <title lang="es">Hi Hi Puffy Ami Yumi</title>
+  </programme>
+  <programme start="20260903215500 -0300" stop="20260903222000 -0300" channel="retroblast">
+    <title lang="es">Ed Edd n Eddy</title>
+  </programme>
+  <programme start="20260903222000 -0300" stop="20260903224500 -0300" channel="retroblast">
+    <title lang="es">Yu-Gi-Oh! DM</title>
+  </programme>
+  <programme start="20260903224500 -0300" stop="20260903231000 -0300" channel="retroblast">
+    <title lang="es">Teen Titans</title>
+  </programme>
+  <programme start="20260903231000 -0300" stop="20260903233500 -0300" channel="retroblast">
+    <title lang="es">DBZ (Run B)</title>
+  </programme>
+  <programme start="20260903233500 -0300" stop="20260904000000 -0300" channel="retroblast">
+    <title lang="es">Naruto</title>
+  </programme>
+  <programme start="20260904000000 -0300" stop="20260904002500 -0300" channel="retroblast">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20260904002500 -0300" stop="20260904004700 -0300" channel="retroblast">
+    <title lang="es">Family Guy</title>
+  </programme>
+  <programme start="20260904004700 -0300" stop="20260904010000 -0300" channel="retroblast">
+    <title lang="es">Robot Chicken</title>
+  </programme>
+  <programme start="20260904010000 -0300" stop="20260904011300 -0300" channel="retroblast">
+    <title lang="es">ATHF</title>
+  </programme>
+  <programme start="20260904011300 -0300" stop="20260904012500 -0300" channel="retroblast">
+    <title lang="es">Tim and Eric</title>
+  </programme>
+  <programme start="20260904012500 -0300" stop="20260904015000 -0300" channel="retroblast">
+    <title lang="es">King of the Hill</title>
+  </programme>
+  <programme start="20260904015000 -0300" stop="20260904021500 -0300" channel="retroblast">
+    <title lang="es">Bleach</title>
+  </programme>
+  <programme start="20260904021500 -0300" stop="20260904024000 -0300" channel="retroblast">
+    <title lang="es">FMA Brotherhood</title>
+  </programme>
+  <programme start="20260904024000 -0300" stop="20260904030500 -0300" channel="retroblast">
+    <title lang="es">Death Note</title>
+  </programme>
+  <programme start="20260904030500 -0300" stop="20260904032700 -0300" channel="retroblast">
+    <title lang="es">Futurama</title>
+  </programme>
+  <programme start="20260904032700 -0300" stop="20260904034900 -0300" channel="retroblast">
+    <title lang="es">Family Guy</title>
+  </programme>
+  <programme start="20260904034900 -0300" stop="20260904040000 -0300" channel="retroblast">
+    <title lang="es">Robot Chicken</title>
+  </programme>
+  <programme start="20260904040000 -0300" stop="20260904041300 -0300" channel="retroblast">
+    <title lang="es">ATHF</title>
+  </programme>
+  <programme start="20260904041300 -0300" stop="20260904042500 -0300" channel="retroblast">
+    <title lang="es">Tim and Eric</title>
+  </programme>
+  <programme start="20260904042500 -0300" stop="20260904045000 -0300" channel="retroblast">
+    <title lang="es">King of the Hill</title>
+  </programme>
+  <programme start="20260904045000 -0300" stop="20260904051500 -0300" channel="retroblast">
+    <title lang="es">Bleach</title>
+  </programme>
+  <programme start="20260904051500 -0300" stop="20260904054000 -0300" channel="retroblast">
+    <title lang="es">JoJo&#x27;s Bizarre Adventure</title>
+  </programme>
+  <programme start="20260904054000 -0300" stop="20260904060500 -0300" channel="retroblast">
+    <title lang="es">Inuyasha</title>
+  </programme>
+  <programme start="20260904060500 -0300" stop="20260904063000 -0300" channel="retroblast">
+    <title lang="es">Lupin the Third Part II</title>
+  </programme>
+  <programme start="20260904063000 -0300" stop="20260904065500 -0300" channel="retroblast">
+    <title lang="es">Case Closed</title>
+  </programme>
+  <programme start="20260904065500 -0300" stop="20260904072000 -0300" channel="retroblast">
+    <title lang="es">Animaniacs</title>
+  </programme>
+  <programme start="20260904072000 -0300" stop="20260904074500 -0300" channel="retroblast">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20260904074500 -0300" stop="20260904083500 -0300" channel="retroblast">
+    <title lang="es">Batman TAS</title>
+  </programme>
   <programme start="20260902065900 -0300" stop="20260902072900 -0300" channel="cncity">
     <title lang="es">Duck Dodgers</title>
   </programme>
@@ -2152,6 +2580,222 @@
   </programme>
   <programme start="20260903060500 -0300" stop="20260903065900 -0300" channel="cncity">
     <title lang="es">Clone High</title>
+  </programme>
+  <programme start="20260902003000 -0300" stop="20260902005400 -0300" channel="japanmotion">
+    <title lang="es">Ikkitousen! Ep. 03</title>
+    <desc lang="es">Siempre hay alguien mejor Tras el episodio anterior, Hakufu Sonsaku ha derrotado a Ryomou, miembro de Big Four, cuando su derrota parecía inminente. Sin embargo, su victoria vio que una fuerza se apoderaba de su cuerpo, volviéndola impotente contra ella, casi costándole la vida a Ryomou, que se está recuperando en el Hospital. Koukin jura proteger a Hakufu para que nunca vuelva a suceder, pero Hakufu huye de su casa, solo para encontrarse con problemas.</desc>
+  </programme>
+  <programme start="20260902005400 -0300" stop="20260902023600 -0300" channel="japanmotion">
+    <title lang="es">El samurái sin nombre (Sword of the</title>
+    <desc lang="es">Stranger) Durante el periodo de guerra entre estados o Sengoku, un ronin llamado Nanashi, que significa &quot;sin nombre&quot;, salva a un niño llamado Kotarou y a su perro Tobimaru en un templo abandonado. Kotarou no tiene familia y es perseguido por una misteriosa organización militar de China, por lo que contrata a Nanashi como guardaespaldas. Nanashi, que ha abandonado su nombre junto a su pasado, ha &quot;sellado&quot; su espada debido a un suceso pasado por el que es atormentado en forma de pesadillas. El encargado de perseguir a Kotarou es un hombre llamado Rarou, que pertenece a la organización de origen chino y que esta bajo las ordenes de un anciano llamado Byakuran, aunque, a diferencia de sus compañeros, Rarou no posee un concepto de &quot;Rey&quot; y solo busca luchar contra el más fuerte. 16+</desc>
+  </programme>
+  <programme start="20260902023600 -0300" stop="20260902043200 -0300" channel="japanmotion">
+    <title lang="es">Cowboy</title>
+    <desc lang="es">Bebop, la película: Llamando a las puertas del cielo Marte, año 2071, poco antes del día de Halloween. Un camión cisterna lleno de productos químicos hace explosión en una de las calles más importantes de la ciudad, liberando un nuevo virus letal que acaba con la vida de cientos de personas. Las autoridades, temiendo un nuevo ataque aún más destructivo, fijan una recompensa millonaria para quien capture a los responsables. Mientras tanto, en la nave &quot;Bebop&quot;, Spike y su banda de cazadores de recompensas están aburridos y sin dinero, hasta que conocen la noticia de la recompensa... 16+</desc>
+  </programme>
+  <programme start="20260902043200 -0300" stop="20260902061200 -0300" channel="japanmotion">
+    <title lang="es">La</title>
+    <desc lang="es">Princesa Y El Piloto La historia va de dos reinos que están en guerra, Levamme y Amatsukami. Un día, en una fiesta, el príncipe de Levamme, pide la mano de Fana del Moral en matrimonio y le promete que en un año acabará la guerra y que se casará con ella. Pasado el año, la guerra continúa y la gente de Amatsukami intenta asesinar a Fana, pero no lo consiguen, es por ello que el príncipe, preocupado por lo que sucedió, propone enviarla al Reino Levamme para tenerla protegida.</desc>
+  </programme>
+  <programme start="20260902061200 -0300" stop="20260902074200 -0300" channel="japanmotion">
+    <title lang="es">Lupin</title>
+    <desc lang="es">III: El Dragon de la Muerte Lupin iría a cualquier sitio para buscar riquezas. Esta vez es un adorno de oro enterrado en el interior del Titanic y que contiene un mensaje que podría servir a su posesor para controlar el mundo. Sin que Lupin lo sepa, su amigo Goemon también anda en su busca. El viaje de Lupin al fondo del océano es cortado de raíz, sin embargo, por un magnate y su ejército de secuaces que roban el adorno y a Fujiko, la debilidad de Lupin. Pero siempre con un as en la manga, Lupin, con la ayuda de su amigo Jigen, está decidido a recuperar ambos tesoros...</desc>
+  </programme>
+  <programme start="20260902074200 -0300" stop="20260902092500 -0300" channel="japanmotion">
+    <title lang="es">El samurái sin nombre (Sword of the</title>
+    <desc lang="es">Stranger) Durante el periodo de guerra entre estados o Sengoku, un ronin llamado Nanashi, que significa &quot;sin nombre&quot;, salva a un niño llamado Kotarou y a su perro Tobimaru en un templo abandonado. Kotarou no tiene familia y es perseguido por una misteriosa organización militar de China, por lo que contrata a Nanashi como guardaespaldas. Nanashi, que ha abandonado su nombre junto a su pasado, ha &quot;sellado&quot; su espada debido a un suceso pasado por el que es atormentado en forma de pesadillas. El encargado de perseguir a Kotarou es un hombre llamado Rarou, que pertenece a la organización de origen chino y que esta bajo las ordenes de un anciano llamado Byakuran, aunque, a diferencia de sus compañeros, Rarou no posee un concepto de &quot;Rey&quot; y solo busca luchar contra el más fuerte. 16+</desc>
+  </programme>
+  <programme start="20260902092500 -0300" stop="20260902110400 -0300" channel="japanmotion">
+    <title lang="es">Super</title>
+    <desc lang="es">Agente Cobra Cobra es un fugitivo de la justicia, el pirata del espacio mas buscado de  los tiempos. Gracias a su Psicoarma, su nave espacial &quot;La Tortuga&quot; y su fiel compañera-robot Lady, lucharán contra la organización de la mafia estelar para mantener el orden en la galaxia.</desc>
+  </programme>
+  <programme start="20260902110400 -0300" stop="20260902115300 -0300" channel="japanmotion">
+    <title lang="es">Ninja</title>
+    <desc lang="es">Gaiden Hace mucho tiempo, hubo una guerra entre el Dios Maligno y el Dios Dragón. Varios miles de años después, en Nueva York, un joven ninja llamado Ryu es atacado por un par de hombres con trajes negros y máscaras blancas. Se da cuenta de que están relacionados con alguien que adora al mismo Dios Maligno del pasado y decide luchar contra ellos antes de que el Dios Maligno vuelva a ser desvelado. Adaptación de la icónica saga de videojuegos de Tecmo.</desc>
+  </programme>
+  <programme start="20260902115300 -0300" stop="20260902124100 -0300" channel="japanmotion">
+    <title lang="es">Plastic</title>
+    <desc lang="es">Little: The Adventures of Captain Tita Tita, una joven de 17 años de edad a cargo de la nave espacial Cha Cha Maru rescata a una enigmática jovencita de un ejército de soldados renegados. Pronto descubrirán una diabólica conspiración para destruir todo un planeta. (FILMAFFINITY)</desc>
+  </programme>
+  <programme start="20260902124100 -0300" stop="20260902143700 -0300" channel="japanmotion">
+    <title lang="es">Macross: ¿Recuerdas el amor? Una raza alienígena, los</title>
+    <desc lang="es">Zentraedi, atraviesan la galaxia con destino a la Tierra. Con un ejército de naves que se cuenta por millones y una tecnología mucho más avanzada que la de los humanos, los Zentraedi no necesitarán demasiado tiempo para acabar con la raza humana y recuperar una de sus naves, que se estrelló en el planeta tiempo atrás. Los humanos no tienen mucho donde escoger para escaparse de su aniquilación, así que deciden salvar a los habitantes de la isla donde cayó &quot;Macross&quot;, la nave alienígena, usándola para abandonar el planeta, dirigiéndose más allá de los límites del Sistema Solar. Siendo los Zentraedi los nuevos amos del planeta, sólo el tiempo dirá si alguna vez podrán volver a la Tierra y vencerles. 16+</desc>
+  </programme>
+  <programme start="20260902143700 -0300" stop="20260902154700 -0300" channel="japanmotion">
+    <title lang="es">Birth</title>
+    <desc lang="es">Rasa y Talin, heredero de un reino planetario, se embarcan en un viaje hacia un mítico planeta cuya leyenda describe como habitáculo de los dioses. Pero este viaje se convierte en una horrorosa pesadilla para ambos cuando descubren que son el objetivo de una gigantesca cacería humana. La recompensa: ¡su reino!</desc>
+  </programme>
+  <programme start="20260902154700 -0300" stop="20260902175300 -0300" channel="japanmotion">
+    <title lang="es">Steamboy</title>
+    <desc lang="es">Ambientada en la Inglaterra victoriana, esta aventura de acción épica trata de un joven inventor llamado Ray. Un día Ray recibe una misteriosa bola metálica de su abuelo científico, Lloyd. Desde ese momento, Ray se ve empujado a un mundo de aventuras e intrigas increíbles. La bola metálica es, de hecho, una “bola de vapor”, el corazón de un misterioso y siniestro “castillo de vapor”, y la clave secreta de una fuerza de poder incomparable…</desc>
+  </programme>
+  <programme start="20260902175300 -0300" stop="20260902190000 -0300" channel="japanmotion">
+    <title lang="es">Makyou</title>
+    <desc lang="es">Gaiden Le Deus In a post-apocalyptic world, the treasure hunter Riot and his pretty sidekicks are searching for Eyes of Zalem, which they hope will guide them to Rido, the treasure of a long-lost Quall civilization. A limitless energy source, the Rido has the power to even restore life; but unfortunately for Riot, the evil Demsters are after it too. If he is to bring his sister back to life, Riot must pit his skill and cunning against the ruthless enemy army in a race for the lost treasure.</desc>
+  </programme>
+  <programme start="20260902190000 -0300" stop="20260902193000 -0300" channel="japanmotion">
+    <title lang="es">Neon Genesis Evangelion Ep. 13</title>
+    <desc lang="es">Un pequeño intruso Un Ángel se infiltra en NERV y rápidamente se apodera de la supercomputadora MAGI. Ritsuko propone hacer un programa que fuerce la evolución de Ireul hasta su extinción. 16+</desc>
+  </programme>
+  <programme start="20260902193000 -0300" stop="20260902200000 -0300" channel="japanmotion">
+    <title lang="es">Saber Marionette J Ep. 13</title>
+    <desc lang="es">¡El debut de Otaru! Es tiempo para la fama Otaru se hace famoso por salvar el país de Japanes.</desc>
+  </programme>
+  <programme start="20260902200000 -0300" stop="20260902203000 -0300" channel="japanmotion">
+    <title lang="es">Cazadores de Elfos: Those Who Hunt Elves Ep. 01</title>
+    <desc lang="es">Aquellos que pescan a los elfos Cuando el hechizo para devolverlos a su hogar se vuelve terriblemente mal, el judo-idiota Junpei, la actriz Airi y Ritsuko, listos para el rifle, deben confiar en el elfo egomaníaco Celcia para ayudarlos a regresar a casa. Una vez más, se ven obligados a desnudarse a los elfos para encontrar los tatuajes mágicos que los teletransportarán de regreso a la tierra. ¡Únete a los cazadores de elfos mientras nadan con tiburones mientras buscan elfos!</desc>
+  </programme>
+  <programme start="20260902203000 -0300" stop="20260902210000 -0300" channel="japanmotion">
+    <title lang="es">Bubblegum Crisis Tokyo 2040 Ep. 25</title>
+    <desc lang="es">Caminando sobre la luna Alcanzar la sombrilla del espacio, las Knight Sabers se horroriza al descubrir que Galatea ya está ahí esperando por ellas! La batalla se convierte en una desesperada carrera contra el tiempo, porque en quince minutos, el sol llegará a los colectores solares de la sombrilla, el suministro de Galatea con la energía que necesita para difundir el fenómeno de Boomer a todo el mundo! Pero, ¿puede Linna, Priss y Nene realmente ir en contra de un adversario tan poderoso que puede tomar el control de todo lo que les rodea, incluyendo sus hardsuits?</desc>
+  </programme>
+  <programme start="20260902210000 -0300" stop="20260902213000 -0300" channel="japanmotion">
+    <title lang="es">Scryed Ep. 13</title>
+    <desc lang="es">Tierra perdida Queriendo venganza por la muerte de su amigo, Kazuma ataca un campo de detención. Al oír las noticias, Ryuhou se dispone a encontrarlo. Los dos finalmente se encuentran y pelean. Mimori y Tachibana logran alcanzarlos, al igual que Urizane y Sherrice. ¿Cuál será el resultado de su batalla mortal? Y, ¿qué efecto tendrán sus combates en Lost Ground?</desc>
+  </programme>
+  <programme start="20260902213000 -0300" stop="20260902220000 -0300" channel="japanmotion">
+    <title lang="es">R.O.D The TV Ep. 13</title>
+    <desc lang="es">El crepúsculo de los Documentos, Parte II Michelle y Anita dejan Maggie atrás para mantener la atención de Wong mientras continúan la búsqueda de Nenene. Cuando la única manera de llegar a Nenene puede ser atravesada por la más pequeña Anita, Anita tiene que continuar solo.</desc>
+  </programme>
+  <programme start="20260902220000 -0300" stop="20260902223000 -0300" channel="japanmotion">
+    <title lang="es">Blue Seed Ep. 25</title>
+    <desc lang="es">Todo o nada. Decisión y destino Está amaneciendo y el TAC se está preparando para la batalla final. El equipo prepara la máquina amplificadora de pulso Kushinada mientras Momiji se prepara para el Rito de Matsuri.Con menos de una hora hasta el eclipse solar, Kaede comienza la ceremonia tocando una espada en el campo alrededor de Susano-oh. Susano-oh comienza a mutar en una gran bestia desagradable y fea.Mientras tanto, el primer ministro está siendo persuadido por su ayudante de mentirle a la gente de Japón para mantenerlos tranquilos y bajo control. El ministro sale en televisión, pero en lugar de mentirle a la gente, dice la verdad. Les informa que los problemas han sido causados por una antigua raza de monstruos llamada Arigami, y que la Kushinada es la única con el poder para detenerlos. Momiji llega a la televisión, solicitando que la gente de Japón le dé la oportunidad de vivir. Quiere probar un método alternativo para matar a Susano-oh, pero si su plan no funciona, aceptará su destino y se sacrificará.Momiji comienza el rito de matsur</desc>
+  </programme>
+  <programme start="20260902223000 -0300" stop="20260902230000 -0300" channel="japanmotion">
+    <title lang="es">Nadesico Ep. 13</title>
+    <desc lang="es">No hay una Sola Verdad Es Navidad a bordo del Nadesico, pero detrás de la apariencia de las festividades, los eventos más serios avanzan. Con el Nadesico listo para unirse al ejército, la tripulación enfrentará ser reclutada en la UEAF, todo excepto Akito, es decir, quien será reemplazado por un piloto entrenado. Aprovechando esta oportunidad, Erina le pide a Akito que la ayude a continuar su investigación sobre el salto de bosón orgánico (teletransportación). Pero, ¿vale la pena correr el riesgo de ser un peón en uno de los juegos de Erina, o debería Akito simplemente olvidarlo y pasar unas vacaciones tranquilas con Megumi?</desc>
+  </programme>
+  <programme start="20260902230000 -0300" stop="20260902233000 -0300" channel="japanmotion">
+    <title lang="es">La Visión de Escaflowne Ep. 13</title>
+    <desc lang="es">El hilo rojo del destino Zaibach devasta la capital de Freid, y el duque y el príncipe Chid huyen con la fiesta de Hitomi al templo de Fortona en las afueras del país. Los monjes aquí presentan al duque con la espada que abre la leyenda del poder de la Atlántida. Folken dirige a las tropas de Zaibach hacia el templo, con la intención de reclamar la espada y cumplir con la visión de Hitomi de un resultado sangriento en la batalla.</desc>
+  </programme>
+  <programme start="20260902233000 -0300" stop="20260903000000 -0300" channel="japanmotion">
+    <title lang="es">Trigun Ep. 25</title>
+    <desc lang="es">Sobrevivir Meryl y Milly intentan arreglárselas mientras Vash se recupera, pero los lugareños están decidios a eliminarlo y así hacerle pagar por los daños que les ha infringido. 16+</desc>
+  </programme>
+  <programme start="20260903000000 -0300" stop="20260903003000 -0300" channel="japanmotion">
+    <title lang="es">Earth Girl Arjuna Ep. 03</title>
+    <desc lang="es">Lágrima del bosque El helicóptero SEED deja a Juna en medio de las montañas para que se comunique con la naturaleza y aprenda a sobrevivir en la naturaleza. Chris le explica a un Tokio enojado que la Tierra está llegando a un punto en el que no puede poner la vida de las personas antes que sus propias necesidades. Tokio visita a la madre de Juna, quien piensa que se ha convertido en un mentiroso como  los demás. Mientras Arjuna aprende lentamente a resonar con el mundo que la rodea, Tokio descubre a un Raaja al acecho dentro de un vertedero en la montaña.</desc>
+  </programme>
+  <programme start="20260903003000 -0300" stop="20260903005100 -0300" channel="japanmotion">
+    <title lang="es">Sakura Mail Ep. 03</title>
+    <desc lang="es">¿Falso estudiante y esclavo del amor? Toma, después de inscribirse en la escuela preparatoria, va a Keio para encontrarse con Mieko y explicarle que no ha sido admitido. Tan pronto como ve venir a Mieko, estaba rodeada por un grupo de niños de los que no podía separarse, lo abraza y juntos huyen del grupo. Debajo de los cerezos en flor, Toma intenta decirle a Mieko que le mintió; sus palabras son mal entendidas, la niña cree que ha sido admitido en una facultad más prestigiosa que la suya.</desc>
+  </programme>
+  <programme start="20260903005100 -0300" stop="20260903033000 -0300" channel="japanmotion">
+    <title lang="es">A Silent</title>
+    <desc lang="es">Voice Shōko, una niña con discapacidad auditiva, es víctima de acoso en su escuela, siendo Shōya su principal agresor. Cuando ella se cambia de colegio, él sufre el rechazo de sus compañeros y queda aislado. Años después, intenta enmendar su error y hacer las paces con Shōko. 16+</desc>
+  </programme>
+  <programme start="20260903033000 -0300" stop="20260903034500 -0300" channel="japanmotion">
+    <title lang="es">Overflow Ep. 03</title>
+    <desc lang="es">Dos corazones se acercan</desc>
+  </programme>
+  <programme start="20260903034500 -0300" stop="20260903035200 -0300" channel="japanmotion">
+    <title lang="es">Adam&#x27;s Sweet Agony Ep. 03</title>
+    <desc lang="es">I stopped hiding it. 九重杏季は男が嫌いだった。女性だらけの学園で「王子様」としてチヤホヤされていた杏季は、ED化して牙を失った男たちを軽蔑していた。そんなある日、杏季は学園内の男女共用更衣室で股間を隠すように縮こまる一樹を見つける。EDをからかおうと近づいた杏季が目にしたのは勃つはずのないアレで――「私の体を見てそうなったのか…？」熱に浮かされたように指先で股間を奉仕し出す杏季。密室を良いことに、二人はそのまま…</desc>
+  </programme>
+  <programme start="20260903035200 -0300" stop="20260903052200 -0300" channel="japanmotion">
+    <title lang="es">Lupin</title>
+    <desc lang="es">III: El Dragon de la Muerte Lupin iría a cualquier sitio para buscar riquezas. Esta vez es un adorno de oro enterrado en el interior del Titanic y que contiene un mensaje que podría servir a su posesor para controlar el mundo. Sin que Lupin lo sepa, su amigo Goemon también anda en su busca. El viaje de Lupin al fondo del océano es cortado de raíz, sin embargo, por un magnate y su ejército de secuaces que roban el adorno y a Fujiko, la debilidad de Lupin. Pero siempre con un as en la manga, Lupin, con la ayuda de su amigo Jigen, está decidido a recuperar ambos tesoros...</desc>
+  </programme>
+  <programme start="20260903052200 -0300" stop="20260903071800 -0300" channel="japanmotion">
+    <title lang="es">Cowboy</title>
+    <desc lang="es">Bebop, la película: Llamando a las puertas del cielo Marte, año 2071, poco antes del día de Halloween. Un camión cisterna lleno de productos químicos hace explosión en una de las calles más importantes de la ciudad, liberando un nuevo virus letal que acaba con la vida de cientos de personas. Las autoridades, temiendo un nuevo ataque aún más destructivo, fijan una recompensa millonaria para quien capture a los responsables. Mientras tanto, en la nave &quot;Bebop&quot;, Spike y su banda de cazadores de recompensas están aburridos y sin dinero, hasta que conocen la noticia de la recompensa... 16+</desc>
+  </programme>
+  <programme start="20260903071800 -0300" stop="20260903080400 -0300" channel="japanmotion">
+    <title lang="es">Baoh, el visitante</title>
+    <desc lang="es">Doress, una organización japonesa de &quot;proyectos negros&quot;, ha estado reuniendo psiónicos y fabricando armas biológicas para &quot;hacer que Japón sea superior&quot;. Cuando uno de los experimentos biológicos, BAOH, escapa con una niña, Doress hará lo que sea para recuperar al niño y a la niña. BAOH es un parásito que vive en el cerebro de su anfitrión y lo transforma en una máquina de muerte viviente para mantenerlo con vida. Cuando Doress envía asesinos tras el niño y la niña, BAOH &quot;despierta&quot; a sus &quot;Fenómenos de Defensa Armada&quot;, dándole al niño garras con puntas de ácido, bio-regeneración y súper fuerza. Pero Doress se lleva a la niña, y BAOH debe luchar contra un ejército de comandos y un psiónico para recuperarla.</desc>
+  </programme>
+  <programme start="20260903080400 -0300" stop="20260903095200 -0300" channel="japanmotion">
+    <title lang="es">Metrópolis</title>
+    <desc lang="es">Metrópolis es una historia acerca de lo importantes que son las emociones y la forma en que hacen diferentes a los seres humanos de cualquier otra cosa. La película sigue a un joven y su tío a través de un futuro lejano donde los humanos y los robots viven juntos aunque, lamentablemente, no en armonía. La trama comienza a desarrollarse cuando el chico conoce a una robot llamada Tima y se meten en todo tipo de problemas.</desc>
+  </programme>
+  <programme start="20260903095200 -0300" stop="20260903113500 -0300" channel="japanmotion">
+    <title lang="es">Redline</title>
+    <desc lang="es">Un campeonato automovilístico mortal sirve como premisa a un anime japonés inédito en España, con un ritmo endiablado y un impresionante estilo visual, diferente al habitual en este tipo de trabajos. 16+</desc>
+  </programme>
+  <programme start="20260903113500 -0300" stop="20260903130500 -0300" channel="japanmotion">
+    <title lang="es">Fireworks</title>
+    <desc lang="es">Moshimo, Japón. El festival anual de fuegos artificiales está a punto de celebrarse y un grupo de escolares, que discuten sobre si son redondos o planos cuando se ven desde diferentes ángulos, se propone averiguarlo.</desc>
+  </programme>
+  <programme start="20260903130500 -0300" stop="20260903144500 -0300" channel="japanmotion">
+    <title lang="es">La</title>
+    <desc lang="es">Princesa Y El Piloto La historia va de dos reinos que están en guerra, Levamme y Amatsukami. Un día, en una fiesta, el príncipe de Levamme, pide la mano de Fana del Moral en matrimonio y le promete que en un año acabará la guerra y que se casará con ella. Pasado el año, la guerra continúa y la gente de Amatsukami intenta asesinar a Fana, pero no lo consiguen, es por ello que el príncipe, preocupado por lo que sucedió, propone enviarla al Reino Levamme para tenerla protegida.</desc>
+  </programme>
+  <programme start="20260903144500 -0300" stop="20260903162400 -0300" channel="japanmotion">
+    <title lang="es">Patlabor: La película</title>
+    <desc lang="es">Los patlabor son gigantescos robots-policías pilotados por seres humanos que se encargan de velar por la paz y la seguridad. En un principio fueron fabricados por la poderosa empresa Shinohara para su uso en la construcción pesada, pero cuando empezaron a ser utilizados para actos de sabotaje y terrorismo se creó un cuerpo especial dedicado a la prevención de estos crímenes. Tras unos años de perfecto funcionamiento en todas las unidades, las noticias de labors descontrolados y con problemas de manejo empiezan a alertar a las autoridades de Tokyo. La segunda sección de los patlabor es la encargada de investigar estos sucesos, pero sus pesquisas les llevarán a descubrir un complot de proporciones que nunca imaginaron.</desc>
+  </programme>
+  <programme start="20260903162400 -0300" stop="20260903190000 -0300" channel="japanmotion">
+    <title lang="es">Cowboy</title>
+    <desc lang="es">Bebop, la película: Llamando a las puertas del cielo Marte, año 2071, poco antes del día de Halloween. Un camión cisterna lleno de productos químicos hace explosión en una de las calles más importantes de la ciudad, liberando un nuevo virus letal que acaba con la vida de cientos de personas. Las autoridades, temiendo un nuevo ataque aún más destructivo, fijan una recompensa millonaria para quien capture a los responsables. Mientras tanto, en la nave &quot;Bebop&quot;, Spike y su banda de cazadores de recompensas están aburridos y sin dinero, hasta que conocen la noticia de la recompensa... 16+</desc>
+  </programme>
+  <programme start="20260903190000 -0300" stop="20260903193000 -0300" channel="japanmotion">
+    <title lang="es">Neon Genesis Evangelion Ep. 14</title>
+    <desc lang="es">Tejiendo una historia Seele revisa las acciones de NERV y Gendo con los Ángeles tercero hasta undécimo. Ritsuko hace una prueba en la que los pilotos de los Evas intercambian unidades. 16+</desc>
+  </programme>
+  <programme start="20260903193000 -0300" stop="20260903200000 -0300" channel="japanmotion">
+    <title lang="es">Saber Marionette J Ep. 14</title>
+    <desc lang="es">¡Feliz año nuevo! El concurso de marionetas Copa Otaru Las marionetas de Otaru y las muñecas Sable entran a un concurso de talentos.</desc>
+  </programme>
+  <programme start="20260903200000 -0300" stop="20260903203000 -0300" channel="japanmotion">
+    <title lang="es">Cazadores de Elfos: Those Who Hunt Elves Ep. 02</title>
+    <desc lang="es">Aquellos que limpian Nuestra alegre pandilla de cazadores de elfos se ha encontrado con un pequeño problema: ¡ya no tienen más papel higiénico! Para empeorar las cosas, el papel higiénico no es algo conocido en este mundo. Oh, ¿qué debe hacer una persona?</desc>
+  </programme>
+  <programme start="20260903203000 -0300" stop="20260903210000 -0300" channel="japanmotion">
+    <title lang="es">Bubblegum Crisis Tokyo 2040 Ep. 26</title>
+    <desc lang="es">Sanas y salvas Con Linna y Nene a la deriva en el espacio y en curso de colisión hacia la Tierra, le toca a Priss hacer frente a Galatea por sí misma. Pero cuando Galatea pone su mirada en absorber no sólo el traje resistente, sino también a la misma Priss, parece como si la batalla ya está perdida. ¿Podran las Knight Sabers salir adelante y salir victoriosas de esta batalla final, o ha ganado ya Galatea?</desc>
+  </programme>
+  <programme start="20260903210000 -0300" stop="20260903213000 -0300" channel="japanmotion">
+    <title lang="es">Scryed Ep. 14</title>
+    <desc lang="es">Kyouji Mujyo Ocho meses después de la pelea y desaparición de Kazima y Ryuhou, Mimori, Tachibana y Cougar buscan en el Lost Ground, buscando respuestas y el paradero de sus amigos. En otros lugares, Kanami es capturado y obligado a trabajar en un campo de trabajo. ¿Será salvada de la labor agotadora? ¿Y quién es exactamente Kyouji Mujyo y qué conexión tiene él para cambiar a  los usuarios?</desc>
+  </programme>
+  <programme start="20260903213000 -0300" stop="20260903220000 -0300" channel="japanmotion">
+    <title lang="es">R.O.D The TV Ep. 14</title>
+    <desc lang="es">Bosque de hojas de papel (o &quot;papel de la hoja de madera&quot;) De vuelta en Tokio, unos familiares hojas voz femenina un breve mensaje en el contestador de Nenene. Wendy escribe un informe sobre la cronología del Sr. Caballero y la Biblioteca Británica, explicando su intención de resucitar el Sr. Caballero utilizando los libros especiales que han recogido.</desc>
+  </programme>
+  <programme start="20260903220000 -0300" stop="20260903223000 -0300" channel="japanmotion">
+    <title lang="es">Blue Seed Ep. 26</title>
+    <desc lang="es">Nuevo espíritu Los brotes gigantes de Arigami están floreciendo, causando que las mitamas caigan a la tierra. Las mitamas hacen que  los que tocan se vuelvan plantas ...Momiji grita de dolor cuando el pulso de Kushinada se gira hacia ella. Kaede escucha sus gritos, pero dice que es &quot;&quot; demasiado tarde &quot;&quot;. Ella se funde con el mitama de Susano-oh para protegerlo de Murakumo, que todavía está atacando.Murakumo sufre algunos golpes de Kusanagi antes de enterrar una de sus cabezas en Susano-oh. Murakumo se ríe, anunciando que ha ganado, mientras comienza a drenar la energía de Susano-oh. Kaede solo sacude la cabeza y lo llama tonto. Murakumo continúa alimentándose del poder de Susano-oh hasta que su mitama se vuelve enorme. Entonces, de repente, su mitama se hizo añicos. Mientras Murakumo se retuerce de dolor, Susano-oh lo termina con un rayo de energía.Los niños de Japón pueden escuchar el pulso de Kushinada, la canción de Momiji, y comienzan a cantar con ella.Momiji casi ha completado el matsuri. Los miembros del TAC notan que  se sienten cálidos y felices.</desc>
+  </programme>
+  <programme start="20260903223000 -0300" stop="20260903230000 -0300" channel="japanmotion">
+    <title lang="es">Nadesico Ep. 14</title>
+    <desc lang="es">Adelante con el Anime Apasionado En una inversión de perspectiva, la tripulación de Gekigangar se estableció para ver las últimas aventuras del Nadesico. Desafortunadamente, sin tiempo para reunir nuevas imágenes, la tripulación de Nadesico presenta un clip, que incluye información sobre el barco, la tripulación y todas sus aventuras hasta la fecha.</desc>
+  </programme>
+  <programme start="20260903230000 -0300" stop="20260903233000 -0300" channel="japanmotion">
+    <title lang="es">La Visión de Escaflowne Ep. 14</title>
+    <desc lang="es">La cicatriz del peligro En la última batalla, Van incurre en lesiones potencialmente mortales que Hitomi descubre que coinciden exactamente con el daño de batalla de Escaflowne. Afortunadamente, Dryden (el prometido de Millerna) aparece y usa su conocimiento de tecnologías antiguas para convocar a los constructores originales de Escaflowne. El Ispano repara Escaflowne y, en el proceso, cura al piloto cuyo pacto de sangre entrelaza su destino con el de Escaflowne. Así restaurado, Van se apresura a vengarse de los Dragon Slayers, a pesar de las consecuencias.</desc>
+  </programme>
+  <programme start="20260903233000 -0300" stop="20260904000000 -0300" channel="japanmotion">
+    <title lang="es">Trigun Ep. 26</title>
+    <desc lang="es">Bajo un cielo azul Vash La Estampida va a librar la batalla de su vida contra su hermano gemelo. 16+</desc>
+  </programme>
+  <programme start="20260904000000 -0300" stop="20260904003000 -0300" channel="japanmotion">
+    <title lang="es">Serial Experiments Lain Ep. 03</title>
+    <desc lang="es">Psique Lain se entera que está siendo espiada por unos agentes desde un coche cerca de su casa. En el colegio, Lain recibe de manera anónima un misterioso chip psique, acerca del cual pregunta inicialmente a su padre, y luego a Taro en el club Cyberia. Taro luego le dice que la ha visto en la red pero que su personalidad es completamente opuesta a la de la realidad. Finalmente Taro le explica cómo instalar el dispositivo en su computador.</desc>
+  </programme>
+  <programme start="20260904003000 -0300" stop="20260904005500 -0300" channel="japanmotion">
+    <title lang="es">Key, la ídolo metálica Ep. 03</title>
+    <desc lang="es">Cursor II Key comienza a obsesionarse con la idea de convertirse ella misma en una ídolo del pop como la forma más segura de hacer 30.000 amigos. Mientras tanto, el equipo de Ajo está tratando de determinar si ella podría estar donde el Dr. Mima guardó sus últimos secretos tecnológicos antes de morir. Cuando la presencia de Key (cuidado de Shuichi) interrumpe el último concierto de Miho Utsuse, la compañía envía dos PPOR para cazar a Key, controlado remotamente por un operativo peligroso conocido solo como &#x27;D&#x27;.</desc>
+  </programme>
+  <programme start="20260904005500 -0300" stop="20260904022500 -0300" channel="japanmotion">
+    <title lang="es">Fireworks</title>
+    <desc lang="es">Moshimo, Japón. El festival anual de fuegos artificiales está a punto de celebrarse y un grupo de escolares, que discuten sobre si son redondos o planos cuando se ven desde diferentes ángulos, se propone averiguarlo.</desc>
+  </programme>
+  <programme start="20260904022500 -0300" stop="20260904043200 -0300" channel="japanmotion">
+    <title lang="es">Steamboy</title>
+    <desc lang="es">Ambientada en la Inglaterra victoriana, esta aventura de acción épica trata de un joven inventor llamado Ray. Un día Ray recibe una misteriosa bola metálica de su abuelo científico, Lloyd. Desde ese momento, Ray se ve empujado a un mundo de aventuras e intrigas increíbles. La bola metálica es, de hecho, una “bola de vapor”, el corazón de un misterioso y siniestro “castillo de vapor”, y la clave secreta de una fuerza de poder incomparable…</desc>
+  </programme>
+  <programme start="20260904043200 -0300" stop="20260904061500 -0300" channel="japanmotion">
+    <title lang="es">El samurái sin nombre (Sword of the</title>
+    <desc lang="es">Stranger) Durante el periodo de guerra entre estados o Sengoku, un ronin llamado Nanashi, que significa &quot;sin nombre&quot;, salva a un niño llamado Kotarou y a su perro Tobimaru en un templo abandonado. Kotarou no tiene familia y es perseguido por una misteriosa organización militar de China, por lo que contrata a Nanashi como guardaespaldas. Nanashi, que ha abandonado su nombre junto a su pasado, ha &quot;sellado&quot; su espada debido a un suceso pasado por el que es atormentado en forma de pesadillas. El encargado de perseguir a Kotarou es un hombre llamado Rarou, que pertenece a la organización de origen chino y que esta bajo las ordenes de un anciano llamado Byakuran, aunque, a diferencia de sus compañeros, Rarou no posee un concepto de &quot;Rey&quot; y solo busca luchar contra el más fuerte. 16+</desc>
+  </programme>
+  <programme start="20260904061500 -0300" stop="20260904070300 -0300" channel="japanmotion">
+    <title lang="es">Makyou</title>
+    <desc lang="es">Gaiden Le Deus In a post-apocalyptic world, the treasure hunter Riot and his pretty sidekicks are searching for Eyes of Zalem, which they hope will guide them to Rido, the treasure of a long-lost Quall civilization. A limitless energy source, the Rido has the power to even restore life; but unfortunately for Riot, the evil Demsters are after it too. If he is to bring his sister back to life, Riot must pit his skill and cunning against the ruthless enemy army in a race for the lost treasure.</desc>
+  </programme>
+  <programme start="20260904070300 -0300" stop="20260904091300 -0300" channel="japanmotion">
+    <title lang="es">A Silent</title>
+    <desc lang="es">Voice Shōko, una niña con discapacidad auditiva, es víctima de acoso en su escuela, siendo Shōya su principal agresor. Cuando ella se cambia de colegio, él sufre el rechazo de sus compañeros y queda aislado. Años después, intenta enmendar su error y hacer las paces con Shōko. 16+</desc>
   </programme>
   <programme start="20260901230000 -0300" stop="20260902010000 -0300" channel="telered.ar">
     <title lang="es">X-Files</title>
@@ -4205,10 +4849,6 @@
     <title lang="es">A fondo</title>
     <desc lang="es">Investigaciones que siguen los más diversos fenómenos sociales y abordan cuestiones de actualidad. Una muestra de los problemas y soluciones para la vida de hoy y del mañana.</desc>
   </programme>
-  <programme start="20260901003000 -0300" stop="20260901004000 -0300" channel="0206">
-    <title lang="es">Noticias</title>
-    <desc lang="es">La redacción de France 24 ofrece un noticiero breve con las últimas noticias producidas.</desc>
-  </programme>
   <programme start="20260901004000 -0300" stop="20260901094500 -0300" channel="0206">
     <title lang="es">Boleto de vuelta</title>
     <desc lang="es">Los reporteros y corresponsales de France 24 vuelven a lugares que en el pasado estuvieron en primera plana de la actualidad por haber sufrido guerras y desastres naturales o industriales, con el propósito de mostrar cómo viven hoy sus habitantes.</desc>
@@ -5981,10 +6621,6 @@
     <title lang="es">Otra mañana</title>
     <desc lang="es">Un espacio que ofrece al público todos los detalles y noticias exclusivas sobre la realidad social y política argentina. A través de los informes y las entrevistas, el público podrá formar su opinión sobre los acontecimientos de relevancia.</desc>
   </programme>
-  <programme start="20260901000000 -0300" stop="20260901004500 -0300" channel="0318">
-    <title lang="es">Dragon Ball GT</title>
-    <desc lang="es">La historia nos muestra cómo Goku volvía por una maldición a su más tierna infancia -aunque conservando todo su poder- y, acompañado por Trunks -hijo de Vegeta y Bulma- y Pan, nieta del propio protagonista, debía volver a su tamaño normal recuperando las siete Bolas de Dragón. Consta de varias etapas: Dragones, Baby Vegeta y Super-17.</desc>
-  </programme>
   <programme start="20260901004500 -0300" stop="20260901095000 -0300" channel="0318">
     <title lang="es">World Trigger</title>
     <desc lang="es">Yuma Kuga y Osamu Mikumo deben trabajar juntos para defender su nueva realidad contra seres desconocidos.</desc>
@@ -7345,10 +7981,6 @@
     <title lang="es">Eurochannel</title>
     <desc lang="es">La informacion de este programa no se encuentra disponible.</desc>
   </programme>
-  <programme start="20260901001500 -0300" stop="20260901004500 -0300" channel="0629">
-    <title lang="es">Cartas abiertas</title>
-    <desc lang="es">Las cartas abiertas nos permiten ponernos en los zapatos de otro y ser testigos de primera línea mientras se aprende.</desc>
-  </programme>
   <programme start="20260901004500 -0300" stop="20260901010000 -0300" channel="0629">
     <title lang="es">Grandes verdades</title>
     <desc lang="es">Con la Apóstol Stella Agüero, con una palabra actual de parte de Dios, llevándote a reflexionar para poder experimentar un crecimiento espiritual. Cada mensaje es pensando en la familia, para que puedan haber cambios en los matrimonios y experimentar la paz y alegría de Dios en los hogares.</desc>
@@ -7840,6 +8472,10 @@
   <programme start="20260904073000 -0300" stop="20260904074500 -0300" channel="0629">
     <title lang="es">Un mensaje a la conciencia</title>
     <desc lang="es">Breves anécdotas para despertar la conciencia del pueblo hispano.</desc>
+  </programme>
+  <programme start="20260904074500 -0300" stop="20260904080000 -0300" channel="0629">
+    <title lang="es">Centro de avivamiento familiar</title>
+    <desc lang="es">El fuego de Dios produce un despertar en la vida del creyente.</desc>
   </programme>
   <programme start="20260901010000 -0300" stop="20260901012200 -0300" channel="0302">
     <title lang="es">ETC TV</title>
@@ -9741,6 +10377,10 @@
     <title lang="es">El campamento de Lazlo • Lazlo y el desfile</title>
     <desc lang="es">Lazlo y el desfile | Lazlo está decidido a crear la mejor carroza para el desfile de Prickly Pines y termina en una competencia con las Exploradoras Ardillas.</desc>
   </programme>
+  <programme start="20260904073700 -0300" stop="20260904074700 -0300" channel="0308">
+    <title lang="es">El campamento de Lazlo • Malvavisco Jones</title>
+    <desc lang="es">Malvavisco Jones | Raj se vuelve loco por los malvaviscos y la tarea de Lazlo y Rino consiste en ayudarlo a superar su vicio por esos deliciosos y empalagosos placeres.</desc>
+  </programme>
   <programme start="20260901010000 -0300" stop="20260901022200 -0300" channel="0705">
     <title lang="es">Animal Planet</title>
     <desc lang="es">A confirmar</desc>
@@ -11132,10 +11772,6 @@
   <programme start="20260904073000 -0300" stop="20260904080000 -0300" channel="0643">
     <title lang="es">A confirmar</title>
     <desc lang="es">Programación a confirmar.</desc>
-  </programme>
-  <programme start="20260831235000 -0300" stop="20260901004000 -0300" channel="0707">
-    <title lang="es">Construyendo un imperio</title>
-    <desc lang="es">Roma, Egipto y Grecia son algunos de los tópicos cubiertos en esta serie que explora las proezas arquitectónicas y de la ingeniería, que fueron características de algunas de las sociedades más grandiosas de la historia, interpretaciones computarizadas ayudan a ilustrar los métodos utilizados para construir esta clase de estructuras como el Partenón. El actor Peter Weller (&quot;RoboCop&quot;) es el presentador del programa.</desc>
   </programme>
   <programme start="20260901004000 -0300" stop="20260901014000 -0300" channel="0707">
     <title lang="es">Genios Ancestrales • Einsteins de la Antiguedad</title>
@@ -12788,10 +13424,6 @@
   <programme start="20260904050000 -0300" stop="20260904090000 -0300" channel="0839">
     <title lang="es">Multicinema</title>
     <desc lang="es">La informacion de este programa no se encuentra disponible.</desc>
-  </programme>
-  <programme start="20260831235500 -0300" stop="20260901004000 -0300" channel="0842">
-    <title lang="es">Parejas asesinas • Jennifer Smith y Dale Moneypenny</title>
-    <desc lang="es">Jennifer Smith y Dale Moneypenny | El incendio de una casa en Louisville, Kentucky, desencadena una investigación por asesinato cuando los detectives encuentran a dos hombres del vecindario brutalmente apuñalados. La búsqueda del asesino revela un romance tóxico entre dos amantes dispuestos a arriesgarlo todo para obtener lo que desean.</desc>
   </programme>
   <programme start="20260901004000 -0300" stop="20260901010500 -0300" channel="0842">
     <title lang="es">It Takes a Killer • Rompecabezas humano</title>
@@ -18945,6 +19577,10 @@
     <title lang="es">El asesino del juego de citas</title>
     <desc lang="es">En los 1970, varios asesinatos aparecen en los titulares. Una joven que quiere ser actriz y un asesino en serie se cruzan en un programa de citas.</desc>
   </programme>
+  <programme start="20260904074100 -0300" stop="20260904095800 -0300" channel="0820">
+    <title lang="es">El caso de Richard Jewell</title>
+    <desc lang="es">Durante los Juegos Olímpicos de 1996, el vigilante de seguridad Richard Jewell encuentra una mochila con explosivos. A pesar de haber salvado a muchas posibles víctimas, el FBI lo designa el sospechoso principal de una serie de atentados terroristas.</desc>
+  </programme>
   <programme start="20260901010000 -0300" stop="20260901021900 -0300" channel="0815">
     <title lang="es">HBO Plus</title>
     <desc lang="es">A confirmar</desc>
@@ -22029,10 +22665,6 @@
     <title lang="es">Besiktas vs. Corum, Fecha 3, Besiktas Park • Turkish Super Lig</title>
     <desc lang="es">Grabado ║ Turkish Super Lig | Besiktas se enfrenta a Corum en un emocionante partido por la fecha 3 de la SüperLig. Ambos equipos buscarán sumar puntos vitales en este duelo clave. ¡Gran expectativa en el encuentro!</desc>
   </programme>
-  <programme start="20260831235000 -0300" stop="20260901004500 -0300" channel="0605">
-    <title lang="es">Animales como nosotros • Guardería de leones</title>
-    <desc lang="es">Guardería de leones | Descubre por qué se necesita una aldea para criar cachorros de león en Kenia y descubre la estrategia de apareamiento de los lémures fragantes en Madagascar. Baila en una fiesta de baile de abejas melíferas, luego presta atención mientras un drongo de cola bifurcada engaña a otras aves para que le entreguen su cena.</desc>
-  </programme>
   <programme start="20260901004500 -0300" stop="20260901014000 -0300" channel="0605">
     <title lang="es">Animales como nosotros • Dentista de tiburones</title>
     <desc lang="es">Dentista de tiburones | Maravíllate con los peces con dientes afilados que ayudan a los tiburones a mantener sus dientes blancos y descubre los llamados característicos de las familias de delfines. Examina las herramientas de piedra de los monos capuchinos para romper nueces, siéntete reconfortado cuando las jirafas se acurrucan, y conoce a un &#x27;gángster&#x27; suricata.</desc>
@@ -23004,10 +23636,6 @@
   <programme start="20260904070000 -0300" stop="20260904110000 -0300" channel="1824">
     <title lang="es">Golden Premier 2</title>
     <desc lang="es">La informacion de este programa no se encuentra disponible.</desc>
-  </programme>
-  <programme start="20260901002000 -0300" stop="20260901004500 -0300" channel="0845">
-    <title lang="es">The Good Place • El alarido eterno</title>
-    <desc lang="es">El alarido eterno | Janet guía a Eleanor y Chidi en una misión. Tahani trata de mostarle a Michael cuánto lo aprecian todos.</desc>
   </programme>
   <programme start="20260901004500 -0300" stop="20260901011500 -0300" channel="0845">
     <title lang="es">The Good Place • El jugador más mejorado</title>
@@ -25789,10 +26417,6 @@
     <title lang="es">Enlace</title>
     <desc lang="es">La informacion de este programa no se encuentra disponible.</desc>
   </programme>
-  <programme start="20260831235000 -0300" stop="20260901004000 -0300" channel="0706">
-    <title lang="es">Soldados Nisei de la 2da Guerra Mundial</title>
-    <desc lang="es">Este show revela la historia anónima de los guerreros Nisei de Estados Unidos durante la 2da Guerra Mundial. Estos hijos de inmigrantes japoneses sirvieron en algunas de las batallas más sangrientas tras el ataque a Pearl Harbor. Mediante imágenes de archivo y entrevistas reconstruimos su historia.</desc>
-  </programme>
   <programme start="20260901004000 -0300" stop="20260901023100 -0300" channel="0706">
     <title lang="es">La caída de El Chapo</title>
     <desc lang="es">Asesino, traficante de drogas, héroe popular, Houdini de escapes desde la cárcel - la leyenda de Joaquín &#x27;El Chapo&#x27; Guzmán es bien conocida. Pero ahora este especial documental de dos horas revela una mirada sin precedentes al hombre detrás del mito y cómo sus carteles internacionales de drogas nos afectan aquí en casa.</desc>
@@ -27329,7 +27953,7 @@
     <title lang="es">Discovery World</title>
     <desc lang="es">La informacion de este programa no se encuentra disponible.</desc>
   </programme>
-  <programme start="20260901193618 -0300" stop="20260901200000 -0300" channel="531">
+  <programme start="20260901194646 -0300" stop="20260901200000 -0300" channel="531">
     <title lang="es">Ranma 1/2</title>
   </programme>
   <programme start="20260901200000 -0300" stop="20260901203000 -0300" channel="531">
@@ -27569,10 +28193,10 @@
   <programme start="20260903180000 -0300" stop="20260903190000 -0300" channel="531">
     <title lang="es">Dragon Ball</title>
   </programme>
-  <programme start="20260903190000 -0300" stop="20260903193618 -0300" channel="531">
+  <programme start="20260903190000 -0300" stop="20260903194646 -0300" channel="531">
     <title lang="es">Ranma 1/2</title>
   </programme>
-  <programme start="20260901193618 -0300" stop="20260901200000 -0300" channel="532">
+  <programme start="20260901194646 -0300" stop="20260901200000 -0300" channel="532">
     <title lang="es">Batman</title>
   </programme>
   <programme start="20260901200000 -0300" stop="20260901203000 -0300" channel="532">
@@ -27812,10 +28436,10 @@
   <programme start="20260903180000 -0300" stop="20260903190000 -0300" channel="532">
     <title lang="es">Las Aventuras de Teddy Ruxpin</title>
   </programme>
-  <programme start="20260903190000 -0300" stop="20260903193618 -0300" channel="532">
+  <programme start="20260903190000 -0300" stop="20260903194646 -0300" channel="532">
     <title lang="es">Batman</title>
   </programme>
-  <programme start="20260901193618 -0300" stop="20260901194813 -0300" channel="536">
+  <programme start="20260901194646 -0300" stop="20260901194813 -0300" channel="536">
     <title lang="es">En Busca de Aliens - El Misterio del Puma Punku Revelado</title>
   </programme>
   <programme start="20260901194821 -0300" stop="20260901212835 -0300" channel="536">
@@ -27962,10 +28586,10 @@
   <programme start="20260903180704 -0300" stop="20260903190704 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260903190704 -0300" stop="20260903193618 -0300" channel="536">
+  <programme start="20260903190704 -0300" stop="20260903194646 -0300" channel="536">
     <title lang="es">Sin información</title>
   </programme>
-  <programme start="20260901193814 -0300" stop="20260901200015 -0300" channel="537">
+  <programme start="20260901194646 -0300" stop="20260901200015 -0300" channel="537">
     <title lang="es">El Laboratorio de Dexter</title>
   </programme>
   <programme start="20260901200336 -0300" stop="20260901202816 -0300" channel="537">
@@ -28190,7 +28814,7 @@
   <programme start="20260903182820 -0300" stop="20260903192820 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
-  <programme start="20260903192820 -0300" stop="20260903193618 -0300" channel="537">
+  <programme start="20260903192820 -0300" stop="20260903194646 -0300" channel="537">
     <title lang="es">Animotion</title>
   </programme>
   <programme start="20260901190000 -0300" stop="20260901200000 -0300" channel="538">
@@ -28337,7 +28961,7 @@
   <programme start="20260903180000 -0300" stop="20260903190000 -0300" channel="538">
     <title lang="es">Programación Musical</title>
   </programme>
-  <programme start="20260901193618 -0300" stop="20260901194816 -0300" channel="539">
+  <programme start="20260901194646 -0300" stop="20260901194816 -0300" channel="539">
     <title lang="es">(2011) - Atraco en Belfast</title>
   </programme>
   <programme start="20260901194816 -0300" stop="20260901211822 -0300" channel="539">
@@ -28418,7 +29042,7 @@
   <programme start="20260903171238 -0300" stop="20260903185710 -0300" channel="539">
     <title lang="es">(1995) - La Balada Del Pistolero</title>
   </programme>
-  <programme start="20260903185710 -0300" stop="20260903193618 -0300" channel="539">
+  <programme start="20260903185710 -0300" stop="20260903194646 -0300" channel="539">
     <title lang="es">(1991) - Espías sin Fronteras</title>
   </programme>
   <programme start="20260901190000 -0300" stop="20260901200000 -0300" channel="567">
@@ -28997,7 +29621,7 @@
   <programme start="20260903180000 -0300" stop="20260903190000 -0300" channel="581">
     <title lang="es">Zoom back</title>
   </programme>
-  <programme start="20260901193618 -0300" stop="20260901200000 -0300" channel="663">
+  <programme start="20260901194646 -0300" stop="20260901200000 -0300" channel="663">
     <title lang="es">Clásicos del Western</title>
   </programme>
   <programme start="20260901200000 -0300" stop="20260902000000 -0300" channel="663">
@@ -29033,10 +29657,10 @@
   <programme start="20260903120000 -0300" stop="20260903170000 -0300" channel="663">
     <title lang="es">Cabalgata del Oeste</title>
   </programme>
-  <programme start="20260903170000 -0300" stop="20260903193618 -0300" channel="663">
+  <programme start="20260903170000 -0300" stop="20260903194646 -0300" channel="663">
     <title lang="es">Clásicos del Western</title>
   </programme>
-  <programme start="20260901193618 -0300" stop="20260901200000 -0300" channel="664">
+  <programme start="20260901194646 -0300" stop="20260901200000 -0300" channel="664">
     <title lang="es">Retro Prime</title>
   </programme>
   <programme start="20260901200000 -0300" stop="20260902080000 -0300" channel="664">
@@ -29060,7 +29684,7 @@
   <programme start="20260903120000 -0300" stop="20260903170000 -0300" channel="664">
     <title lang="es">Series Inolvidables</title>
   </programme>
-  <programme start="20260903170000 -0300" stop="20260903193618 -0300" channel="664">
+  <programme start="20260903170000 -0300" stop="20260903194646 -0300" channel="664">
     <title lang="es">Retro Prime</title>
   </programme>
   <programme start="20260901190000 -0300" stop="20260901200000 -0300" channel="633">
@@ -33969,6 +34593,10 @@
     <title lang="es">Business Today</title>
     <desc lang="es">Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
   </programme>
+  <programme start="20260904074500 -0300" stop="20260904075500 -0300" channel="6a1610bebdf296985fd95603-646fab0e43d6d6838db81a6a">
+    <title lang="es">BBC News</title>
+    <desc lang="es">Twenty-four hours a day, the latest national and international stories as they break.</desc>
+  </programme>
   <programme start="20260901210000 -0300" stop="20260901215959 -0300" channel="6a1610bebdf296985fd95603-68fafc6e558214386ab7ca3a">
     <title lang="es">Bloomberg TV+</title>
     <desc lang="es">Bloomberg Television is the only global, 24-hour financial video network — delivering real-time market analysis from leading industry experts on both linear TV &amp; streaming.</desc>
@@ -36161,10 +36789,6 @@
   <programme start="20260902192400 -0300" stop="20260902211600 -0300" channel="6a1610bebdf296985fd95603-62d7f68fb19cbf65dc7bef7d">
     <title lang="es">Bach - Brandenburg Concertos, BWV 1046-1051</title>
     <desc lang="es">In celebration of the pieces&#x27; 300th anniversary, Czech harpsichordist and conductor Václav Luks and the renowned Baroque ensemble Collegium 1704 recorded all six Brandenburg Concertos on historical instruments in 2021.</desc>
-  </programme>
-  <programme start="20260901001800 -0300" stop="20260901004200 -0300" channel="plex.tv.Deal.Or.No.Deal.plex">
-    <title lang="es">Deal or No Deal Australia</title>
-    <desc lang="es">The hit game show where contestants must beat the Banker to win a huge cash prize of $100,000.</desc>
   </programme>
   <programme start="20260901004200 -0300" stop="20260901010700 -0300" channel="plex.tv.Deal.Or.No.Deal.plex">
     <title lang="es">Deal or No Deal Australia</title>
@@ -38722,6 +39346,10 @@
     <title lang="es">Bewitched</title>
     <desc lang="es">Endora ayuda a Darrin mientras él se debate entre Samantha y un trato comercial.</desc>
   </programme>
+  <programme start="20260904073800 -0300" stop="20260904080832 -0300" channel="643054b1fc3be59477853717-692234015028288613484a8a">
+    <title lang="es">Bewitched</title>
+    <desc lang="es">Samantha desarrolla un súper apetito y hace estragos en un supermercado.</desc>
+  </programme>
   <programme start="20260901193446 -0300" stop="20260901213450 -0300" channel="643054b1fc3be59477853717-6922322350fe592fd6d5b7e6">
     <title lang="es">Aún sé lo que hicisteis el último verano</title>
     <desc lang="es">Un año después de ser acosada por Ben Willis, la víctima mortal de un accidente en el que ella estuvo implicada junto a sus amigos, Julie ha dejado su ciudad natal para ir a la Universidad. Una extraña llamada le anuncia que es la ganadora de un fin de semana en una isla paradisiaca, lugar en el que la pesadilla vuelve a repetirse.</desc>
@@ -39669,6 +40297,10 @@
   <programme start="20260904071712 -0300" stop="20260904074320 -0300" channel="643054b1fc3be59477853717-6922338150fe592fd6d5b7e8">
     <title lang="es">The Goldbergs</title>
     <desc lang="es">Barry y Erica se apuntan para ayudar a organizar una fiesta temática de Risky Business en casa de Lainey. Murray se niega a ayudar a Adam a llevar a cabo un romance a larga distancia.</desc>
+  </programme>
+  <programme start="20260904074320 -0300" stop="20260904080924 -0300" channel="643054b1fc3be59477853717-6922338150fe592fd6d5b7e8">
+    <title lang="es">The Goldbergs</title>
+    <desc lang="es">Beverly promete ayudar a Adam a conquistar la pubertad y A Chorus Line. A Murray le preocupa estar dando un mal ejemplo a Erica.</desc>
   </programme>
   <programme start="20260901210000 -0300" stop="20260901224936 -0300" channel="643054b1fc3be59477853717-6683fcdf702b9db9f8177252">
     <title lang="es">Muertos Comunes</title>
@@ -41054,6 +41686,10 @@
     <title lang="es">Cómo Resolver Un Crimen</title>
     <desc lang="es">El domingo 22 de julio de 2001, una bicicleta averiada, propiedad de Karine Schaaff, de 16 años, aparece abandonada al borde de una carretera en Moselle.</desc>
   </programme>
+  <programme start="20260904074315 -0300" stop="20260904083537 -0300" channel="643054b1fc3be59477853717-666e23e4d91d13cb4c8cbb79">
+    <title lang="es">Wives With Knives (español)</title>
+    <desc lang="es">Una joven marcada por traumas de la infancia lucha por reconstruir su vida. Conoce al hombre de sus sueños, pero una vez comprometidos, la relación de la pareja se desmorona.</desc>
+  </programme>
   <programme start="20260901204828 -0300" stop="20260901214221 -0300" channel="643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872">
     <title lang="es">Andromeda</title>
     <desc lang="es">Dylan y su nueva flota de la Mancomunidad se amen a la flota Drago-Kazov.</desc>
@@ -41297,6 +41933,10 @@
   <programme start="20260904050913 -0300" stop="20260904074249 -0300" channel="643054b1fc3be59477853717-6662984e346b86608532dbdf">
     <title lang="es">Alemania vs Argentina | Final | Copa Mundial de la FIFA Brasil 2014™ | Partido completo</title>
     <desc lang="es">Vídeo del partido completo entre Alemania y Argentina jugado en el Maracanã, Rio de Janeiro el Sunday, 13 de July 2014.</desc>
+  </programme>
+  <programme start="20260904074249 -0300" stop="20260904082408 -0300" channel="643054b1fc3be59477853717-6662984e346b86608532dbdf">
+    <title lang="es">FACTS: EE. UU. vs Noruega | China 1991</title>
+    <desc lang="es">Estados Unidos supera a Noruega y gana el primer Mundial Femenino de la historia.</desc>
   </programme>
   <programme start="20260901210000 -0300" stop="20260901220000 -0300" channel="643054b1fc3be59477853717-66ea174c9502c5778b828d47">
     <title lang="es">Cine Western</title>
